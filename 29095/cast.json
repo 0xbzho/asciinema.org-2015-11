@@ -1,0 +1,562 @@
+{
+  "version": 1,
+  "width": 122,
+  "height": 25,
+  "duration": 25.270697,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.510550,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                         \r \r"
+    ],
+    [
+      0.000038,
+      "\u001b]2;wskruse@Titanium: ~\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.008882,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.home \u001b[37min \u001b[1m\u001b[33m~\u001b[00m \u001b[37m[10:27:30]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000027,
+      "\u001b[K"
+    ],
+    [
+      0.000082,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000059,
+      "\u001b[?2004h"
+    ],
+    [
+      2.930932,
+      "c"
+    ],
+    [
+      0.044510,
+      "\u0008cd"
+    ],
+    [
+      0.086259,
+      " "
+    ],
+    [
+      0.551130,
+      "p"
+    ],
+    [
+      0.084624,
+      "r"
+    ],
+    [
+      0.170736,
+      "ojects\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.516030,
+      "\u0008\u001b[0m/c"
+    ],
+    [
+      0.179190,
+      "s"
+    ],
+    [
+      0.146251,
+      "s"
+    ],
+    [
+      0.209941,
+      "-smell\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.886685,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000045,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000561,
+      "\u001b]2;cd projects/css-smell\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000088,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                         \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b]2;wskruse@Titanium: ~/projects/css-smell\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..cts/css-smell\u0007"
+    ],
+    [
+      0.015788,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.home \u001b[37min \u001b[1m\u001b[33m~/projects/css-smell\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[32mo\u001b[00m \u001b[37m[10:27:36]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000038,
+      "\u001b[?2004h"
+    ],
+    [
+      0.744425,
+      "g"
+    ],
+    [
+      0.205709,
+      "\u0008gr"
+    ],
+    [
+      0.100050,
+      "u"
+    ],
+    [
+      0.069848,
+      "n"
+    ],
+    [
+      0.065048,
+      "t"
+    ],
+    [
+      0.120019,
+      " "
+    ],
+    [
+      0.185992,
+      "t"
+    ],
+    [
+      0.140403,
+      "e"
+    ],
+    [
+      0.120653,
+      "s"
+    ],
+    [
+      0.090010,
+      "t"
+    ],
+    [
+      6.286447,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000005,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000002,
+      "\r\r\n"
+    ],
+    [
+      0.000489,
+      "\u001b]2;grunt test\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;grunt\u0007"
+    ],
+    [
+      0.543823,
+      "\u001b[4mRunning \"develop:server\" (develop) task\u001b[24m\r\n"
+    ],
+    [
+      0.006303,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39mstarted application \"bin/www\"."
+    ],
+    [
+      0.251204,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[4mRunning \"casperjs:files\" (casperjs) task\u001b[24m\r\n"
+    ],
+    [
+      0.004344,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000050,
+      "\r\nRunning tests from \"tests/00-loads.js\":\r\n"
+    ],
+    [
+      0.057264,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39mExpress server listening on port 3000\r\n"
+    ],
+    [
+      0.751842,
+      "\u001b[37;46;1mTest file: tests/00-loads.js                                                    \u001b[0m\r\n"
+    ],
+    [
+      0.000748,
+      "\u001b[33m# Basic usability - page loads, and displays the form\u001b[0m\r\n"
+    ],
+    [
+      0.076210,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET / \u001b[32m200 \u001b[0m38.567 ms - 1903\u001b[0m\r\n"
+    ],
+    [
+      0.008687,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET /css/style.css \u001b[32m200 \u001b[0m3.050 ms - 160\u001b[0m\r\n"
+    ],
+    [
+      0.083528,
+      "\u001b[32;1mPASS\u001b[0m Title is expected value of \"CSS Smell\"\r\n"
+    ],
+    [
+      0.000666,
+      "\u001b[32;1mPASS\u001b[0m The upload form exists\r\n"
+    ],
+    [
+      0.000307,
+      "\u001b[32;1mPASS\u001b[0m The file upload input exists\r\n"
+    ],
+    [
+      0.000289,
+      "\u001b[32;1mPASS\u001b[0m The text input field exists\r\n"
+    ],
+    [
+      0.000251,
+      "\u001b[32;1mPASS\u001b[0m The submit button exists\r\n"
+    ],
+    [
+      0.039918,
+      "\u001b[37;42;1mPASS 5 tests executed in 0.192s, 5 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.007672,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.011751,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000302,
+      "\r\nRunning tests from \"tests/01-submits_file.js\":\r\n"
+    ],
+    [
+      0.812114,
+      "\u001b[37;46;1mTest file: tests/01-submits_file.js                                             \u001b[0m\r\n"
+    ],
+    [
+      0.002145,
+      "\u001b[33m# The tool is able to submit a file to the server\u001b[0m\r\n"
+    ],
+    [
+      0.046364,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET / \u001b[32m200 \u001b[0m16.070 ms - 1903\u001b[0m\r\n"
+    ],
+    [
+      0.004909,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET /css/style.css \u001b[32m200 \u001b[0m1.163 ms - 160\u001b[0m\r\n"
+    ],
+    [
+      0.105264,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mPOST / \u001b[32m200 \u001b[0m24.304 ms - 2069\u001b[0m\r\n"
+    ],
+    [
+      0.010743,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET /css/style.css \u001b[32m200 \u001b[0m0.602 ms - 160\u001b[0m\r\n"
+    ],
+    [
+      0.020677,
+      "\u001b[32;1mPASS\u001b[0m The success message exists\r\n"
+    ],
+    [
+      0.000528,
+      "\u001b[32;1mPASS\u001b[0m The success message partially matches the expectation\r\n"
+    ],
+    [
+      0.038953,
+      "\u001b[37;42;1mPASS 2 tests executed in 0.212s, 2 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.005784,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.012275,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n\r\nRunning tests from \"tests/02-submits_text.js\":\r\n"
+    ],
+    [
+      0.814579,
+      "\u001b[37;46;1mTest file: tests/02-submits_text.js                                             \u001b[0m\r\n"
+    ],
+    [
+      0.002719,
+      "\u001b[33m# The tool is able to submit css text to the server\u001b[0m\r\n"
+    ],
+    [
+      0.042888,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET / \u001b[32m200 \u001b[0m14.580 ms - 1903\u001b[0m\r\n"
+    ],
+    [
+      0.005341,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET /css/style.css \u001b[32m200 \u001b[0m0.511 ms - 160\u001b[0m\r\n"
+    ],
+    [
+      0.084644,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mPOST / \u001b[32m200 \u001b[0m13.150 ms - 2069\u001b[0m\r\n"
+    ],
+    [
+      0.012118,
+      "\u001b[36m\r\r\n[grunt-develop] \u003e \u001b[39m\u001b[0mGET /css/style.css \u001b[32m200 \u001b[0m0.415 ms - 160\u001b[0m\r\n"
+    ],
+    [
+      0.016891,
+      "\u001b[32;1mPASS\u001b[0m The success message exists\r\n"
+    ],
+    [
+      0.000559,
+      "\u001b[32;1mPASS\u001b[0m The success message partially matches the expectation\r\n"
+    ],
+    [
+      0.039452,
+      "\u001b[37;42;1mPASS 2 tests executed in 0.186s, 2 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.007298,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.011620,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n\r\nRunning tests from \"tests/100-emptyrule.js\":\r\n"
+    ],
+    [
+      0.807494,
+      "\u001b[37;46;1mTest file: tests/100-emptyrule.js                                               \u001b[0m\r\n"
+    ],
+    [
+      0.002026,
+      "\u001b[33m# Empty Rule Linter works\u001b[0m\r\n"
+    ],
+    [
+      0.000733,
+      "\u001b[32;1mPASS\u001b[0m Empty Rule gives a result of \"passed\" when the rule contains declarations\r\n"
+    ],
+    [
+      0.000203,
+      "\u001b[32;1mPASS\u001b[0m Empty Rule gives a result of \"failed\" when the rule contains no declarations\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[32;1mPASS\u001b[0m Empty Rule responds with the correct message\r\n"
+    ],
+    [
+      0.017221,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.024s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006010,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.010622,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n\r\nRunning tests from \"tests/101-adjoining_classes.js\":\r\n"
+    ],
+    [
+      0.815757,
+      "\u001b[37;46;1mTest file: tests/101-adjoining_classes.js                                       \u001b[0m\r\n"
+    ],
+    [
+      0.002097,
+      "\u001b[33m# adjoining_classes Rule Linter works\u001b[0m\r\n"
+    ],
+    [
+      0.000813,
+      "\u001b[32;1mPASS\u001b[0m adjoining_classes gives a result of \"passed\" when the selector contains only non-adjoined classes/selectors\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[32;1mPASS\u001b[0m adjoining_classes gives a result of \"failed\" when the selector contains two classes adjoined\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[32;1mPASS\u001b[0m adjoining_classes responds with the correct message\r\n"
+    ],
+    [
+      0.017151,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.025s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006151,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.010288,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000011,
+      "\r\nRunning tests from \"tests/102-important.js\":\r\n"
+    ],
+    [
+      0.820817,
+      "\u001b[37;46;1mTest file: tests/102-important.js                                               \u001b[0m\r\n"
+    ],
+    [
+      0.001968,
+      "\u001b[33m# !important Rule Linter works\u001b[0m\r\n"
+    ],
+    [
+      0.000795,
+      "\u001b[32;1mPASS\u001b[0m excl_important gives a result of \"passed\" when the declaration contains no !important\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[32;1mPASS\u001b[0m excl_important gives a result of \"failed\" when the declaration contains !important\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[32;1mPASS\u001b[0m excl_important responds with the correct message\r\n"
+    ],
+    [
+      0.017085,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.025s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006055,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.010237,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n\r\nRunning tests from \"tests/103-import.js\":\r\n"
+    ],
+    [
+      0.807027,
+      "\u001b[37;46;1mTest file: tests/103-import.js                                                  \u001b[0m\r\n"
+    ],
+    [
+      0.002027,
+      "\u001b[33m# @import Rule Linter works\u001b[0m\r\n"
+    ],
+    [
+      0.000730,
+      "\u001b[32;1mPASS\u001b[0m excl_import gives a result of \"passed\" when the declaration contains no @import\r\n"
+    ],
+    [
+      0.000196,
+      "\u001b[32;1mPASS\u001b[0m excl_import gives a result of \"failed\" when the declaration contains @import\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[32;1mPASS\u001b[0m excl_import responds with the correct message\r\n"
+    ],
+    [
+      0.017137,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.025s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006265,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.010294,
+      "Command: /Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/.bin/casperjs\r\n\r\nRunning tests from \"tests/104-floats.js\":\r\n"
+    ],
+    [
+      0.814037,
+      "\u001b[37;46;1mTest file: tests/104-floats.js                                                  \u001b[0m\r\n"
+    ],
+    [
+      0.002146,
+      "\u001b[33m# Floats Rule Linter works\u001b[0m\r\n"
+    ],
+    [
+      0.000950,
+      "\u001b[32;1mPASS\u001b[0m floats gives a result of \"passed\" when the declaration contains less than 10 float property\r\n"
+    ],
+    [
+      0.000246,
+      "\u001b[32;1mPASS\u001b[0m floats gives a result of \"failed\" when the declaration contains 10 or more of float property\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[32;1mPASS\u001b[0m floats responds with the correct message\r\n"
+    ],
+    [
+      0.017620,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.025s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006134,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/projects/css-smell/node_modules/grunt-casperjs/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.011946,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[32mDone, without errors.\u001b[39m\r\n"
+    ],
+    [
+      0.001952,
+      "\r\n\r\n\u001b[4mExecution Time\u001b[24m\u001b[90m (2015-11-01 15:27:44 UTC)\u001b[39m\r\n"
+    ],
+    [
+      0.002262,
+      "loading tasks   \u001b[34m160ms\u001b[39m  \u001b[34m▇▇ 2%\u001b[39m\r\ndevelop:server  \u001b[34m259ms\u001b[39m  \u001b[34m▇▇▇ 3%\u001b[39m\r\ncasperjs:files   \u001b[34m7.4s\u001b[39m  \u001b[34m▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 95%\u001b[39m\r\n\u001b[35mTotal 7.8s\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.004973,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                         \r \r"
+    ],
+    [
+      0.000103,
+      "\u001b]2;wskruse@Titanium: ~/projects/css-smell\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;..cts/css-smell\u0007"
+    ],
+    [
+      0.015063,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.home \u001b[37min \u001b[1m\u001b[33m~/projects/css-smell\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[32mo\u001b[00m \u001b[37m[10:27:52]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000065,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000007,
+      "\u001b[?2004h"
+    ],
+    [
+      2.573976,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

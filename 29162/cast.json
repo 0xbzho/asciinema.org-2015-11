@@ -1,0 +1,4330 @@
+{
+  "version": 1,
+  "width": 115,
+  "height": 30,
+  "duration": 1119.888805,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.457202,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000075,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..oud-provision\u0007"
+    ],
+    [
+      0.033452,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000105,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.607108,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.447574,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=50 --prefix=m\u001b[4mw\u001b[24m --saltmaster_address=10.133.141.229\r\r\nbck-i-search: w_\u001b[K\u001b[A\u001b[A\u001b[98C"
+    ],
+    [
+      0.112052,
+      "\u001b[109D\u001b[4mw\u001b[4mo\u001b[24mrkon vm-cli\u001b[K\u001b[1B\rbck-i-search: wo_                   \u001b[1B\r\u001b[K\u001b[A\u001b[A\u001b[5C"
+    ],
+    [
+      0.199940,
+      "\u001b[4mw\u001b[4mo\u001b[4mr\u001b[24m\u001b[1B\u001b[8Cr_\u001b[A\u001b[13D"
+    ],
+    [
+      2.175654,
+      "\u001b[24mw\u001b[24mo\u001b[24mr\u001b[1B\r\u001b[K\u001b[A\u001b[5C"
+    ],
+    [
+      0.000049,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000078,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000830,
+      "\u001b]2;workon vm-cli\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;workon\u0007"
+    ],
+    [
+      0.435737,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000061,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..oud-provision\u0007"
+    ],
+    [
+      0.034703,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.609284,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      14.095977,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.270763,
+      "workon vm-\u001b[4mc\u001b[24mli\u001b[1B\u0008\u0008\u0008\u0008c_\u001b[A\u0008"
+    ],
+    [
+      0.191771,
+      "\u001b[10D./\u001b[4mc\u001b[4mr\u001b[24meate -\u001b[24m-token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=50 --prefix=mw --saltmaster_address=10.133.141.229\r\r\nbck-i-search: cr_\u001b[K\u001b[A\u001b[A\u001b[10D"
+    ],
+    [
+      0.048263,
+      "\u001b[1C\u001b[4mr\u001b[4me\u001b[24m\u001b[2B\u001b[6Ce_\u001b[A\u001b[A\u001b[11D"
+    ],
+    [
+      0.608029,
+      "\u001b[94C3\u001b[P\u001b[10Cfe -\u001b[P\u001b[34C \u001b[A\u001b[29D"
+    ],
+    [
+      0.616165,
+      "\u0008\u0008#.\u001b[24m/\u001b[4mc\u001b[4mr\u001b[4me\u001b[24mate --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.80.59 \u001b[A\u001b[27D"
+    ],
+    [
+      0.463922,
+      "\u0008\u0008\u0008\u001b[P\u001b[88C0\u001b[7C0\u001b[10Cdb -\u001b[P\u001b[27C141.229\u001b[A\u001b[28D"
+    ],
+    [
+      0.439644,
+      "\u001b[105Csaltmaster --saltmaster               \u001b[A\u001b[28D"
+    ],
+    [
+      4.184126,
+      "\u001b[24mc\u001b[24mr\u001b[24me\u001b[2B\r\u001b[K\u001b[A\u001b[A\u001b[7C"
+    ],
+    [
+      0.000056,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000073,
+      "\u001b[2B\r"
+    ],
+    [
+      0.000782,
+      "\u001b]2;./create  --min=0 --max=0 --prefix=saltmaster --saltmaster\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;./create\u0007"
+    ],
+    [
+      0.001091,
+      "zsh: no such file or directory: ./create\r\n"
+    ],
+    [
+      0.000354,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000200,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..oud-provision\u0007"
+    ],
+    [
+      0.047085,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[31m127\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.351523,
+      "c"
+    ],
+    [
+      0.055473,
+      "\u0008cd"
+    ],
+    [
+      0.095535,
+      " "
+    ],
+    [
+      0.135808,
+      "d"
+    ],
+    [
+      0.263651,
+      "i"
+    ],
+    [
+      0.089770,
+      "gitalocean\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.534265,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000043,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.000667,
+      "\u001b]2;cd digitalocean\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000185,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000096,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.048317,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.215003,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.575579,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.224438,
+      "cd digitalo\u001b[4mc\u001b[24mean\u001b[1B\u0008\u0008\u0008\u0008\u0008\u0008c_\u001b[A"
+    ],
+    [
+      0.183762,
+      "\u001b[11D./\u001b[4mc\u001b[4mr\u001b[24meate --\u001b[24mtoken=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=0 --max=0 --prefix=saltmaster --saltmaster\r\r\nbck-i-search: cr_\u001b[K\u001b[A\u001b[A\u001b[10D"
+    ],
+    [
+      0.072186,
+      "\u001b[1C\u001b[4mr\u001b[4me\u001b[24m\u001b[2B\u001b[6Ce_\u001b[A\u001b[A\u001b[11D"
+    ],
+    [
+      1.471547,
+      "\u001b[24mc\u001b[24mr\u001b[24me\u001b[2B\r\u001b[K\u001b[A\u001b[A\u001b[7C"
+    ],
+    [
+      0.000045,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000070,
+      "\u001b[2B\r"
+    ],
+    [
+      0.000822,
+      "\u001b]2;./create  --min=0 --max=0 --prefix=saltmaster --saltmaster\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;./create\u0007"
+    ],
+    [
+      0.212600,
+      "Creating node saltmaster0\r\n"
+    ],
+    [
+      51.932109,
+      "Bootstrapping saltmaster0 (128.199.55.34)\r\n"
+    ],
+    [
+      3.648801,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000168,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000045,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.036093,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 56s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000071,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.234907,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.359741,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6\u001b[4mc\u001b[24md0bdf378e --min=0 --max=0 --prefix=saltmaster --saltmaster\r\r\nbck-i-search: c_\u001b[K\u001b[A\u001b[A\u001b[60C"
+    ],
+    [
+      0.184572,
+      "\u001b[69D\u001b[4mc\u001b[4mr\u001b[24m\u001b[67C\u001b[24mc\u001b[2B\u001b[62Dr_\u001b[A\u001b[A\u001b[10D"
+    ],
+    [
+      0.047059,
+      "\u001b[1C\u001b[4mr\u001b[4me\u001b[24m\u001b[2B\u001b[6Ce_\u001b[A\u001b[A\u001b[11D"
+    ],
+    [
+      1.448220,
+      "\u001b[86C1\u001b[7C50 --prefix=mw \u001b[7P\u001b[12C_address=10.133.141.229\u001b[A\u001b[29D"
+    ],
+    [
+      0.792109,
+      "\u001b[94C3\u001b[P\u001b[10Cfe -\u001b[P\u001b[34C \u001b[A\u001b[29D"
+    ],
+    [
+      0.528053,
+      "\u0008\u0008#.\u001b[24m/\u001b[4mc\u001b[4mr\u001b[4me\u001b[24mate --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.80.59 \u001b[A\u001b[27D"
+    ],
+    [
+      0.464167,
+      "\u0008\u0008\u0008\u001b[P\u001b[88C0\u001b[7C0\u001b[10Cdb -\u001b[P\u001b[27C141.229\u001b[A\u001b[28D"
+    ],
+    [
+      0.880094,
+      "\u001b[24mc\u001b[24mr\u001b[24me\u001b[2B\r\u001b[K\u001b[A\u001b[35C"
+    ],
+    [
+      0.295438,
+      "\u0008 \u0008"
+    ],
+    [
+      0.501427,
+      "\u0008 \u0008"
+    ],
+    [
+      0.016588,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017775,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017398,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017533,
+      "\u0008 \u0008"
+    ],
+    [
+      0.016819,
+      "\u0008 \u0008"
+    ],
+    [
+      0.016955,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017501,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017153,
+      "\u0008 \u0008"
+    ],
+    [
+      0.018853,
+      "\u0008 \u0008"
+    ],
+    [
+      0.016139,
+      "\u0008 \u0008"
+    ],
+    [
+      0.016513,
+      "\u0008 \u0008"
+    ],
+    [
+      0.365604,
+      "\u0008 \u0008"
+    ],
+    [
+      0.192215,
+      "1"
+    ],
+    [
+      0.000150,
+      "0"
+    ],
+    [
+      0.000164,
+      "."
+    ],
+    [
+      0.000121,
+      "1"
+    ],
+    [
+      0.000112,
+      "3"
+    ],
+    [
+      0.000110,
+      "3"
+    ],
+    [
+      0.000113,
+      "."
+    ],
+    [
+      0.000107,
+      "1"
+    ],
+    [
+      0.000132,
+      "1"
+    ],
+    [
+      0.000112,
+      "6"
+    ],
+    [
+      0.000141,
+      "."
+    ],
+    [
+      0.000138,
+      "5"
+    ],
+    [
+      0.000150,
+      "5"
+    ],
+    [
+      0.429924,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 56s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000033,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=0 --max=0 --prefix=db --saltmaster_address=10.133.116.55\u001b[K"
+    ],
+    [
+      0.312306,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.000818,
+      "\u001b]2;./create  --min=0 --max=0 --prefix=db --saltmaster_address=10.133.116.55\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;./create\u0007"
+    ],
+    [
+      0.221118,
+      "Creating node db0\r\n"
+    ],
+    [
+      51.845824,
+      "Bootstrapping db0 (188.166.126.19)\r\n"
+    ],
+    [
+      3.706136,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000052,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.034397,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 56s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000082,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.991390,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=0 --max=0 --prefix=db --saltmaster_address=10.133.116.55\u001b[K"
+    ],
+    [
+      1.343076,
+      "\u0008"
+    ],
+    [
+      0.500835,
+      "\u0008"
+    ],
+    [
+      0.017920,
+      "\u0008"
+    ],
+    [
+      0.018744,
+      "\u0008"
+    ],
+    [
+      0.015681,
+      "\u0008"
+    ],
+    [
+      0.018097,
+      "\u0008"
+    ],
+    [
+      0.020217,
+      "\u0008"
+    ],
+    [
+      0.015925,
+      "\u0008"
+    ],
+    [
+      0.017892,
+      "\u0008"
+    ],
+    [
+      0.015410,
+      "\u0008"
+    ],
+    [
+      0.017623,
+      "\u0008"
+    ],
+    [
+      0.017096,
+      "\u0008"
+    ],
+    [
+      0.016864,
+      "\u0008"
+    ],
+    [
+      0.017071,
+      "\u0008"
+    ],
+    [
+      0.016450,
+      "\u0008"
+    ],
+    [
+      0.017304,
+      "\u0008"
+    ],
+    [
+      0.017315,
+      "\u0008"
+    ],
+    [
+      0.018395,
+      "\u0008"
+    ],
+    [
+      0.237411,
+      "\u0008"
+    ],
+    [
+      0.500038,
+      "\u0008"
+    ],
+    [
+      0.017540,
+      "\u0008"
+    ],
+    [
+      0.018497,
+      "\u0008"
+    ],
+    [
+      0.016635,
+      "\u0008"
+    ],
+    [
+      0.019440,
+      "\u0008"
+    ],
+    [
+      0.017479,
+      "\u0008"
+    ],
+    [
+      0.015598,
+      "\u0008"
+    ],
+    [
+      0.017531,
+      "\u0008"
+    ],
+    [
+      0.017116,
+      "\u0008"
+    ],
+    [
+      0.019317,
+      "\u0008"
+    ],
+    [
+      0.015421,
+      "\u0008"
+    ],
+    [
+      0.017746,
+      "\u0008"
+    ],
+    [
+      0.016730,
+      "\u0008"
+    ],
+    [
+      0.115202,
+      "\u0008"
+    ],
+    [
+      0.191512,
+      "\r"
+    ],
+    [
+      0.168499,
+      "\u001b[A\u001b[114C"
+    ],
+    [
+      0.151410,
+      "\u0008"
+    ],
+    [
+      1.160099,
+      "\u0008b --\u001b[P\u001b[32C \u001b[A\u001b[78C"
+    ],
+    [
+      0.240617,
+      " -\u001b[1B\r\u001b[P\u001b[32C \u001b[A\u001b[79C"
+    ],
+    [
+      0.335484,
+      "f \u001b[1B\r-saltmaster_address=10.133.116.55\u001b[A\u001b[80C"
+    ],
+    [
+      0.063768,
+      "e --saltmaster_address=10.133.116.55\u001b[A\u001b[80C"
+    ],
+    [
+      0.288130,
+      "\u0008"
+    ],
+    [
+      0.500318,
+      "\u0008"
+    ],
+    [
+      0.017538,
+      "\u0008"
+    ],
+    [
+      0.019086,
+      "\u0008"
+    ],
+    [
+      0.015986,
+      "\u0008"
+    ],
+    [
+      0.017833,
+      "\u0008"
+    ],
+    [
+      0.019557,
+      "\u0008"
+    ],
+    [
+      0.015493,
+      "\u0008"
+    ],
+    [
+      0.017553,
+      "\u0008"
+    ],
+    [
+      0.017834,
+      "\u0008"
+    ],
+    [
+      0.017032,
+      "\u0008"
+    ],
+    [
+      0.018866,
+      "\u0008"
+    ],
+    [
+      0.015550,
+      "\u0008"
+    ],
+    [
+      0.017939,
+      "\u0008"
+    ],
+    [
+      0.017517,
+      "\u0008"
+    ],
+    [
+      0.019596,
+      "\u0008"
+    ],
+    [
+      0.016571,
+      "\u0008"
+    ],
+    [
+      0.016524,
+      "\u0008"
+    ],
+    [
+      0.017033,
+      "\u0008"
+    ],
+    [
+      0.017925,
+      "\u0008"
+    ],
+    [
+      0.019107,
+      "\u0008"
+    ],
+    [
+      0.015760,
+      "\u0008"
+    ],
+    [
+      0.017923,
+      "\u0008"
+    ],
+    [
+      0.331481,
+      "\u001b[1C"
+    ],
+    [
+      0.159875,
+      "\u001b[1C"
+    ],
+    [
+      0.120085,
+      "\u001b[1C"
+    ],
+    [
+      0.407952,
+      "\u0008\u001b[P\u001b[21C--\u001b[P\u001b[32C \u001b[A\u001b[59C"
+    ],
+    [
+      0.104172,
+      "1 --max=0 --prefix=fe --saltmaster_address=10.133.116.55\u001b[A\u001b[60C"
+    ],
+    [
+      0.176100,
+      "\u001b[1C"
+    ],
+    [
+      0.135681,
+      "\u001b[1C"
+    ],
+    [
+      0.128146,
+      "\u001b[1C"
+    ],
+    [
+      0.143531,
+      "\u001b[1C"
+    ],
+    [
+      0.144400,
+      "\u001b[1C"
+    ],
+    [
+      0.135830,
+      "\u001b[1C"
+    ],
+    [
+      0.128013,
+      "\u001b[1C"
+    ],
+    [
+      0.632693,
+      "\u001b[P\u001b[13C--\u001b[P\u001b[32C \u001b[A\u001b[67C"
+    ],
+    [
+      0.191397,
+      "3 --prefix=fe --saltmaster_address=10.133.116.55\u001b[A\u001b[68C"
+    ],
+    [
+      1.167719,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 56s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000032,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.116.55\u001b[K\u001b[A\u001b[68C"
+    ],
+    [
+      0.640132,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000078,
+      "\u001b[1B\r\r\n"
+    ],
+    [
+      0.001442,
+      "\u001b]2;./create  --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.116.55\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;./create\u0007"
+    ],
+    [
+      0.215694,
+      "Creating node fe1\r\n"
+    ],
+    [
+      1.364316,
+      "Creating node fe2\r\n"
+    ],
+    [
+      1.395706,
+      "Creating node fe3\r\n"
+    ],
+    [
+      44.627827,
+      "Bootstrapping fe1 (188.166.49.244)\r\n"
+    ],
+    [
+      46.122054,
+      "Bootstrapping fe3 (178.62.247.180)\r\n"
+    ],
+    [
+      34.554888,
+      "Bootstrapping fe2 (188.166.74.167)\r\n"
+    ],
+    [
+      4.363153,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000243,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000126,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.033969,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 02m 13s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000109,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.356757,
+      "s"
+    ],
+    [
+      0.119799,
+      "\u0008ss"
+    ],
+    [
+      0.223393,
+      "h"
+    ],
+    [
+      0.080139,
+      " "
+    ],
+    [
+      0.408655,
+      "1"
+    ],
+    [
+      0.000202,
+      "2"
+    ],
+    [
+      0.000117,
+      "8"
+    ],
+    [
+      0.000100,
+      "."
+    ],
+    [
+      0.000111,
+      "1"
+    ],
+    [
+      0.000096,
+      "9"
+    ],
+    [
+      0.000096,
+      "9"
+    ],
+    [
+      0.000101,
+      "."
+    ],
+    [
+      0.000120,
+      "5"
+    ],
+    [
+      0.000121,
+      "5"
+    ],
+    [
+      0.000112,
+      "."
+    ],
+    [
+      0.000131,
+      "3"
+    ],
+    [
+      0.000157,
+      "4"
+    ],
+    [
+      3.366080,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000046,
+      "\r\r\n"
+    ],
+    [
+      0.000719,
+      "\u001b]2;ssh 128.199.55.34\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;128.199.55.34\u0007"
+    ],
+    [
+      0.121441,
+      "The authenticity of host '128.199.55.34 (128.199.55.34)' can't be established.\r\nECDSA key fingerprint is SHA256:oUFysaxdKOIzDVtThBtNaKT1//IttTzNLWT/SEV3Fno.\r\nAre you sure you want to continue connecting (yes/no)? "
+    ],
+    [
+      0.725730,
+      "y"
+    ],
+    [
+      0.151780,
+      "e"
+    ],
+    [
+      0.207990,
+      "s"
+    ],
+    [
+      0.272114,
+      "\r\n"
+    ],
+    [
+      0.000298,
+      "Warning: Permanently added '128.199.55.34' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.315917,
+      "Linux saltmaster0 3.2.0-4-amd64 #1 SMP Debian 3.2.65-1+deb7u1 x86_64\r\n\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\n"
+    ],
+    [
+      0.536305,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.016974,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.24/0.42/0.21\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.936761,
+      "s"
+    ],
+    [
+      0.036586,
+      "\u0008sa"
+    ],
+    [
+      0.088226,
+      "l"
+    ],
+    [
+      0.175866,
+      "t"
+    ],
+    [
+      0.081876,
+      "-"
+    ],
+    [
+      0.166070,
+      "k"
+    ],
+    [
+      0.073568,
+      "e"
+    ],
+    [
+      0.048134,
+      "y"
+    ],
+    [
+      0.166899,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000554,
+      "\u001b]2;salt-key\u0007\u001b]1;salt-key\u0007"
+    ],
+    [
+      0.254324,
+      "\u001b[0;1;32mAccepted Keys:\u001b[0;0m\r\n\u001b[0;32mdb0\u001b[0;0m\r\n\u001b[0;32mfe1\u001b[0;0m\r\n\u001b[0;32msaltmaster0\u001b[0;0m\r\n\u001b[0;1;35mDenied Keys:\u001b[0;0m\r\n\u001b[0;1;31mUnaccepted Keys:\u001b[0;0m\r\n\u001b[0;31msaltmaster0\u001b[0;0m\r\n\u001b[0;1;34mRejected Keys:\u001b[0;0m\r\n"
+    ],
+    [
+      0.032234,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.014598,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.24/0.42/0.21\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.029651,
+      "salt-key"
+    ],
+    [
+      0.188096,
+      " "
+    ],
+    [
+      0.292075,
+      "."
+    ],
+    [
+      0.205842,
+      "l"
+    ],
+    [
+      0.086934,
+      " "
+    ],
+    [
+      0.151456,
+      "a"
+    ],
+    [
+      0.161291,
+      "c"
+    ],
+    [
+      0.159534,
+      "c"
+    ],
+    [
+      0.752725,
+      "\u0008"
+    ],
+    [
+      0.125288,
+      "\u0008"
+    ],
+    [
+      0.129669,
+      "\u0008"
+    ],
+    [
+      0.144770,
+      "\u0008"
+    ],
+    [
+      0.125432,
+      "\u0008"
+    ],
+    [
+      0.341496,
+      "\u0008l acc \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.277362,
+      "-l acc\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.260686,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.24/0.42/0.21\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m salt-key -l acc\u001b[K\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.271884,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;salt-key -l acc\u0007\u001b]1;salt-key\u0007"
+    ],
+    [
+      0.249021,
+      "\u001b[0;1;32mAccepted Keys:\u001b[0;0m\r\n\u001b[0;32mdb0\u001b[0;0m\r\n\u001b[0;32mfe1\u001b[0;0m\r\n\u001b[0;32msaltmaster0\u001b[0;0m\r\n"
+    ],
+    [
+      0.020134,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.014700,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.20/0.41/0.21\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      9.026663,
+      "s"
+    ],
+    [
+      0.005253,
+      "\u0008sa"
+    ],
+    [
+      0.114855,
+      "l"
+    ],
+    [
+      0.164412,
+      "t"
+    ],
+    [
+      0.030829,
+      " "
+    ],
+    [
+      0.729994,
+      "'"
+    ],
+    [
+      0.154676,
+      "*"
+    ],
+    [
+      0.165458,
+      "'"
+    ],
+    [
+      0.167543,
+      " "
+    ],
+    [
+      1.369199,
+      "m"
+    ],
+    [
+      0.089827,
+      "o"
+    ],
+    [
+      0.560191,
+      "\u0008 \u0008"
+    ],
+    [
+      0.429463,
+      "i"
+    ],
+    [
+      0.066463,
+      "n"
+    ],
+    [
+      0.112020,
+      "e"
+    ],
+    [
+      0.191835,
+      "."
+    ],
+    [
+      0.093344,
+      "g"
+    ],
+    [
+      0.122652,
+      "e"
+    ],
+    [
+      0.072112,
+      "t"
+    ],
+    [
+      0.152039,
+      " "
+    ],
+    [
+      0.445062,
+      "'"
+    ],
+    [
+      0.185145,
+      "d"
+    ],
+    [
+      0.321815,
+      "b"
+    ],
+    [
+      1.781308,
+      "*"
+    ],
+    [
+      0.311361,
+      "'"
+    ],
+    [
+      3.883384,
+      " "
+    ],
+    [
+      1.744117,
+      "n"
+    ],
+    [
+      0.061048,
+      "e"
+    ],
+    [
+      0.058661,
+      "t"
+    ],
+    [
+      0.157926,
+      "w"
+    ],
+    [
+      0.070200,
+      "o"
+    ],
+    [
+      0.091901,
+      "r"
+    ],
+    [
+      0.051320,
+      "k"
+    ],
+    [
+      0.244805,
+      "_"
+    ],
+    [
+      0.248643,
+      "i"
+    ],
+    [
+      0.063509,
+      "p"
+    ],
+    [
+      0.224923,
+      "_"
+    ],
+    [
+      0.150865,
+      "a"
+    ],
+    [
+      0.088121,
+      "d"
+    ],
+    [
+      0.351953,
+      "d"
+    ],
+    [
+      0.187285,
+      "r"
+    ],
+    [
+      0.068186,
+      "s"
+    ],
+    [
+      0.361159,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J"
+    ],
+    [
+      0.000383,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.20/0.41/0.21\u001b[36m]\u001b[39m\u001b[0m"
+    ],
+    [
+      0.000590,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[36m└──[\u001b[39m salt '*' mine.get 'db*' network_ip_addrs\u001b[K"
+    ],
+    [
+      1.230365,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001942,
+      "\r\r\n"
+    ],
+    [
+      0.000914,
+      "\u001b]2;time salt -v '*' mine.get 'db*' network_ip_addrs\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;salt\u0007"
+    ],
+    [
+      0.301091,
+      "Executing job with jid 20151102214154708979\r\n-------------------------------------------\r\n\r\n"
+    ],
+    [
+      0.035174,
+      "\u001b[0;36msaltmaster0\u001b[0;0m:\r\n    \u001b[0;36m----------\u001b[0;0m\r\n    \u001b[0;36mdb0\u001b[0;0m:\r\n        \u001b[0;32m- 10.133.117.62\u001b[0;0m\r\n"
+    ],
+    [
+      0.010081,
+      "\u001b[0;36mdb0\u001b[0;0m:\r\n    \u001b[0;36m----------\u001b[0;0m\r\n    \u001b[0;36mdb0\u001b[0;0m:\r\n        \u001b[0;32m- 10.133.117.62\u001b[0;0m\r\n"
+    ],
+    [
+      0.012668,
+      "\u001b[0;36mfe1\u001b[0;0m:"
+    ],
+    [
+      0.004644,
+      "\r\n    \u001b[0;36m----------\u001b[0;0m\r\n    \u001b[0;36mdb0\u001b[0;0m:"
+    ],
+    [
+      0.000012,
+      "\r\n        \u001b[0;32m- 10.133.117.62\u001b[0;0m\r\n"
+    ],
+    [
+      0.020860,
+      "salt -v '*' mine.get 'db*' network_ip_addrs  0.27s user 0.05s system 82% cpu 0.383 total\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.020532,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.13/0.38/0.20\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      5.750230,
+      "v"
+    ],
+    [
+      0.041128,
+      "\u0008vi"
+    ],
+    [
+      0.055766,
+      "m"
+    ],
+    [
+      0.054105,
+      " "
+    ],
+    [
+      0.247135,
+      "/"
+    ],
+    [
+      5.232702,
+      "\r\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.018902,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.11/0.36/0.20\u001b[36m]\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.181286,
+      "\r\r\n"
+    ],
+    [
+      0.003080,
+      "Connection to 128.199.55.34 closed.\r\r\n"
+    ],
+    [
+      0.001147,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000193,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.035374,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 51s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.475781,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.553400,
+      "./create --to\u001b[4mk\u001b[24men=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.116.55\r\r\nbck-i-search: k_\u001b[K\u001b[A\u001b[A\u001b[2C"
+    ],
+    [
+      0.078302,
+      "\u001b[4mk\u001b[4me\u001b[24m\u001b[2B\u0008\u0008\u0008\u0008\u0008e_\u001b[A\u001b[A\u001b[1C"
+    ],
+    [
+      0.696034,
+      "\u001b[13D# \u001b[4mk\u001b[4me\u001b[4my\u001b[24m \u001b[11P\u001b[65C\u001b[K\u001b[1B\r\u001b[M\u001b[16Cy_\u001b[A\u001b[11D"
+    ],
+    [
+      1.559801,
+      "\u001b[3C-6445a6f6cab1b6dcb1ebe63da54d8fbd                                \u001b[68D"
+    ],
+    [
+      1.607909,
+      "\u0007"
+    ],
+    [
+      0.000032,
+      "\u0008\u0008  \u001b[24m \u001b[24m \u001b[24m                                  \u001b[1B\r\u001b[K\u001b[A\u001b[5C"
+    ],
+    [
+      0.416619,
+      "\u001b[1B\rbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.191340,
+      "s\u001b[4ms\u001b[24mh 128.199.55.34\u001b[1B\u001b[8Ds_\u001b[A\u001b[10D"
+    ],
+    [
+      0.128011,
+      "\u0008\u001b[4ms\u001b[1B\u001b[9C\u001b[24ms_\u001b[A\u001b[12D"
+    ],
+    [
+      0.055550,
+      "\u001b[4ms\u001b[4ms\u001b[4mh\u001b[24m\u001b[1B\u001b[8Ch_\u001b[A\u001b[13D"
+    ],
+    [
+      0.288526,
+      "\u001b[24ms\u001b[24ms\u001b[24mh\u001b[1B\r\u001b[K\u001b[A\u001b[5C"
+    ],
+    [
+      0.000077,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000072,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000684,
+      "\u001b]2;ssh 128.199.55.34\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;128.199.55.34\u0007"
+    ],
+    [
+      1.011054,
+      "Linux saltmaster0 3.2.0-4-amd64 #1 SMP Debian 3.2.65-1+deb7u1 x86_64\r\n\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Mon Nov  2 21:41:19 2015 from hsi-kbw-134-3-146-35.hsi14.kabel-badenwuerttemberg.de\r\r\n"
+    ],
+    [
+      0.100755,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.014156,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.10/0.35/0.20\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.016815,
+      "v"
+    ],
+    [
+      0.355138,
+      "\u0008vi"
+    ],
+    [
+      0.025643,
+      "m"
+    ],
+    [
+      0.073387,
+      " "
+    ],
+    [
+      0.310054,
+      "/"
+    ],
+    [
+      0.103981,
+      "s"
+    ],
+    [
+      0.087684,
+      "r"
+    ],
+    [
+      0.122455,
+      "v\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.134514,
+      "\u0008\u001b[0m/s"
+    ],
+    [
+      0.090601,
+      "l"
+    ],
+    [
+      0.125589,
+      "\u0007\u0008\u0008.\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[4m\u001b[1mcorrections\u001b[0m\u001b[4m\u001b[24m\u001b[K\u001b[K\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[7m./   \u001b[0m  \u001b[1;31m..\u001b[0m/    \u001b[1;31msalt\u001b[0m/\u001b[K"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[4m\u001b[1moriginal\u001b[0m\u001b[4m\u001b[24m\u001b[K\u001b[K"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.069874,
+      "\u001b[J\u001b[0m/srv/sl\u001b[J\u001b[4A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\u001b[5Cvim /srv/.\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m"
+    ],
+    [
+      0.823225,
+      "\r\r\n\u001b[1B\u001b[7m./   \u001b[0m  \r\u001b[7m./   \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\u001b[5Cvim /srv/.\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\r\n\u001b[J\u001b[A\u001b[16C\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.168991,
+      "\u0008 \u0008"
+    ],
+    [
+      0.141718,
+      "s"
+    ],
+    [
+      0.022274,
+      "a"
+    ],
+    [
+      0.083525,
+      "l"
+    ],
+    [
+      0.130273,
+      "t\u001b[1m/\u001b[0m"
+    ],
+    [
+      2.521618,
+      "\u0007"
+    ],
+    [
+      0.000029,
+      "\u0008\u001b[0m/\r"
+    ],
+    [
+      0.000195,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000019,
+      "\u001b[4m\u001b[1mfile\u001b[0m\u001b[4m\u001b[24m\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[1;31m.\u001b[0m/                 \u001b[1;31mcontrib\u001b[0m/           .gitignore         \u001b[1;36m_modules\u001b[0m@          \u001b[1;31mreactor\u001b[0m/           \u001b[1;31mstates\u001b[0m/          \r\n\u001b[J\u001b[1;31m..\u001b[0m/                \u001b[J\u001b[1;31m.git\u001b[0m/              \u001b[J.gitmodules        \u001b[J\u001b[1;31mpillar\u001b[0m/            \u001b[J\u001b[1;31msaltstack-assets\u001b[0m/  \u001b[J\u001b[1;36m_states\u001b[0m@         \u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\u001b[5C"
+    ],
+    [
+      0.073401,
+      "vim /srv/salt/\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m"
+    ],
+    [
+      0.914454,
+      "p"
+    ],
+    [
+      0.078955,
+      "illar\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.498015,
+      "\u0007\u0008\u001b[0m/\r\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[J\u001b[4m\u001b[1mfile\u001b[0m\u001b[4m\u001b[24m"
+    ],
+    [
+      0.076209,
+      "\r\n\u001b[J\u001b[1;31m.\u001b[0m/              \u001b[J\u001b[1;31m..\u001b[0m/             \u001b[J\u001b[1;31morchestration\u001b[0m/  \u001b[Jtop.sls       \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\u001b[5Cvim /srv/salt/pillar/\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m"
+    ],
+    [
+      1.095155,
+      "o"
+    ],
+    [
+      0.021797,
+      "r"
+    ],
+    [
+      0.057735,
+      "chestration\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.442025,
+      "\u0007"
+    ],
+    [
+      0.000025,
+      "\u0008\u001b[0m/\r\r\n\u001b[J\u001b[4m\u001b[1mfile\u001b[0m\u001b[4m\u001b[24m\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[J\u001b[1;31m.\u001b[0m/           \u001b[J\u001b[1;31m..\u001b[0m/          \u001b[Jcommon.sls   \u001b[Jnode.sls     \u001b[Jprivate.sls  \u001b[Jredis.sls    \u001b[Jzsh.sls    \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\u001b[5C"
+    ],
+    [
+      0.069855,
+      "vim /srv/salt/pillar/orchestration/\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m"
+    ],
+    [
+      0.510266,
+      "p"
+    ],
+    [
+      0.084674,
+      "rivate.sls\u001b[1m \u001b[0m"
+    ],
+    [
+      0.403554,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000030,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000378,
+      "\r\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[J"
+    ],
+    [
+      0.000526,
+      "\u001b]2;vim /srv/salt/pillar/orchestration/private.sls\u0007\u001b]1;vim\u0007"
+    ],
+    [
+      0.007993,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000658,
+      "\u001b[1;30r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[30;1H\"/srv/salt/pillar/orchestration/private.sls\""
+    ],
+    [
+      0.000012,
+      " 1L, 33C"
+    ],
+    [
+      0.065306,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000284,
+      "\u001b[1;1H#mailgun_apikey: \u003cMAILGUNAPIKEY\u003e\r\n\u001b[1m\u001b[34m~                                                                                                                  \u001b[3;1H~                                                                                                                  \u001b[4;1H~                                                                                                                  \u001b[5;1H~                                                                                                                  \u001b[6;1H~                                                                                                                  \u001b[7;1H~                                                                                                                  \u001b[8;1H~                                                                                                                  \u001b[9;1H~                                                                                                                  \u001b[10;1H~     "
+    ],
+    [
+      0.000346,
+      "                                                                                                             \u001b[11;1H~                                                                                                                  \u001b[12;1H~                                                                                                                  \u001b[13;1H~                                                                                                                  \u001b[14;1H~                                                                                                                  \u001b[15;1H~                                                                                                                  \u001b[16;1H~                                                                                                                  \u001b[17;1H~                                                                                                                  \u001b[18;1H~                                                    "
+    ],
+    [
+      0.000188,
+      "                                                              \u001b[19;1H~                                                                                                                  \u001b[20;1H~                                                                                                                  \u001b[21;1H~                                                                                                                  \u001b[22;1H~                                                                                                                  \u001b[23;1H~                                                                                                                  \u001b[24;1H~                                                                                                                  \u001b[25;1H~                                                                                                                  \u001b[26;1H~                                                                                                    "
+    ],
+    [
+      0.000007,
+      "              \u001b[27;1H~                                                                                                                  \u001b[28;1H~                                                                                                                  \u001b[29;1H~                                                                                                                  \u001b[m\u001b[30;98H1,1\u001b[11CAll\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.275050,
+      "\u001b[?25lmailgun_apikey: \u003cMAILGUNAPIKEY\u003e\u001b[1;32H\u001b[K\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.250073,
+      "\u001b[?25l\u001b[30;100H2\u001b[1;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501023,
+      "\u001b[?25l\u001b[30;100H3\u001b[1;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015571,
+      "\u001b[?25l\u001b[30;100H4\u001b[1;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018094,
+      "\u001b[?25l\u001b[30;100H5\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030677,
+      "\u001b[?25l\u001b[30;100H6\u001b[1;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006347,
+      "\u001b[?25l\u001b[30;100H7\u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021074,
+      "\u001b[?25l\u001b[30;100H8\u001b[1;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010795,
+      "\u001b[?25l\u001b[30;100H9\u001b[1;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018553,
+      "\u001b[?25l\u001b[30;100H10\u001b[1;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018289,
+      "\u001b[?25l\u001b[30;101H1\u001b[1;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017109,
+      "\u001b[?25l\u001b[30;101H2\u001b[1;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035416,
+      "\u001b[?25l\u001b[30;101H3\u001b[1;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005466,
+      "\u001b[?25l\u001b[30;101H4\u001b[1;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008622,
+      "\u001b[?25l\u001b[30;101H5\u001b[1;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017664,
+      "\u001b[?25l\u001b[30;101H6\u001b[1;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.020725,
+      "\u001b[?25l\u001b[30;101H7\u001b[1;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015977,
+      "\u001b[?25l\u001b[30;101H8\u001b[1;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.019215,
+      "\u001b[?25l\u001b[30;101H9\u001b[1;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021875,
+      "\u001b[?25l\u001b[30;100H20\u001b[1;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010061,
+      "\u001b[?25l\u001b[30;101H1\u001b[1;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017362,
+      "\u001b[?25l\u001b[30;101H2\u001b[1;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.327163,
+      "\u001b[?25l\u001b[30;101H1\u001b[1;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127398,
+      "\u001b[?25l\u001b[30;101H0\u001b[1;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141827,
+      "\u001b[?25l\u001b[30;100H19\u001b[1;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162350,
+      "\u001b[?25l\u001b[30;101H8\u001b[1;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118741,
+      "\u001b[?25l\u001b[30;101H7\u001b[1;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.237456,
+      "\u001b[?25l\u001b[1;17H\u001b[K\u001b[30;101H6\u001b[1;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175307,
+      "\u001b[?25l\u001b[30;1H\u001b[1m-- INSERT --\u001b[m\u001b[30;13H\u001b[K\u001b[30;98H1,17\u001b[10CAll\u001b[1;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.371538,
+      "\u001b[?25l\u0008 key-6445a6f6cab1b6dcb1ebe63da54d8fbd\u001b[30;100H53\u001b[1;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.338415,
+      "\u001b[30;1H\u001b[K\u001b[1;52H"
+    ],
+    [
+      0.453018,
+      "\u001b[?25l\u001b[30;98H1,52\u001b[10CAll\u001b[1;52H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;98H\u001b[K\u001b[30;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087577,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.053950,
+      "q"
+    ],
+    [
+      0.000013,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.533117,
+      "\r\u001b[?25l\"/srv/salt/pillar/orchestration/private.sls\""
+    ],
+    [
+      0.009658,
+      " 1L, 53C written"
+    ],
+    [
+      0.000266,
+      "\r\r\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001596,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.015447,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 06s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.14/0.35/0.20\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      7.389979,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.198130,
+      "vim /srv/salt/pillar/orchestration/priva\u001b[4mt\u001b[24me.sls\u001b[1B\u001b[37Dt_\u001b[A\u001b[29C"
+    ],
+    [
+      0.060964,
+      "\u001b[4mt\u001b[4me\u001b[24m\u001b[1B\u001b[32De_\u001b[A\u001b[28C"
+    ],
+    [
+      0.042998,
+      "\u0007\u001b[24mt\u001b[24me\u001b[1B\rfailing bck-i-search: tes_\u001b[A\u001b[19C"
+    ],
+    [
+      0.060161,
+      "\u001b[1B\u001b[20Dt_\u001b[A\u001b[18C"
+    ],
+    [
+      0.147223,
+      "\u001b[1B\u001b[19D._\u001b[A\u001b[17C"
+    ],
+    [
+      0.172775,
+      "\u001b[1B\u001b[18Dp_\u001b[A\u001b[16C"
+    ],
+    [
+      0.608821,
+      "\u0007\u001b[40D                                              \u001b[1B\r\u001b[K\u001b[A\u001b[5C"
+    ],
+    [
+      0.291172,
+      "s"
+    ],
+    [
+      0.029973,
+      "\u0008sa"
+    ],
+    [
+      0.126786,
+      "l"
+    ],
+    [
+      0.096258,
+      "t"
+    ],
+    [
+      0.117020,
+      " "
+    ],
+    [
+      0.159970,
+      "'"
+    ],
+    [
+      0.179087,
+      "*"
+    ],
+    [
+      0.175908,
+      "'"
+    ],
+    [
+      0.104077,
+      " "
+    ],
+    [
+      0.129573,
+      "t"
+    ],
+    [
+      0.084686,
+      "e"
+    ],
+    [
+      0.028793,
+      "s"
+    ],
+    [
+      0.084909,
+      "t"
+    ],
+    [
+      0.096048,
+      "."
+    ],
+    [
+      0.223983,
+      "p"
+    ],
+    [
+      0.182924,
+      "i"
+    ],
+    [
+      0.056872,
+      "n"
+    ],
+    [
+      0.086084,
+      "g"
+    ],
+    [
+      0.241122,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 06s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.14/0.35/0.20\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m salt '*' test.ping\u001b[K"
+    ],
+    [
+      0.206017,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;time salt -v '*' test.ping\u0007\u001b]1;salt\u0007"
+    ],
+    [
+      0.275126,
+      "Executing job with jid 20151102214243591078"
+    ],
+    [
+      0.000608,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "-------------------------------------------\r\n\r\n"
+    ],
+    [
+      0.079179,
+      "\u001b[0;36msaltmaster0\u001b[0;0m:\r\n    \u001b[0;1;33mTrue\u001b[0;0m\r\n\u001b[0;36mdb0\u001b[0;0m:\r\n    \u001b[0;1;33mTrue\u001b[0;0m\r\n"
+    ],
+    [
+      0.030589,
+      "\u001b[0;36mfe1\u001b[0;0m:"
+    ],
+    [
+      0.001466,
+      "\r\n    \u001b[0;1;33mTrue\u001b[0;0m\r\n"
+    ],
+    [
+      0.021385,
+      "\u001b[0;36mfe3\u001b[0;0m:"
+    ],
+    [
+      0.001615,
+      "\r\n    \u001b[0;1;33mTrue\u001b[0;0m\r\n"
+    ],
+    [
+      0.030051,
+      "salt -v '*' test.ping  0.25s user 0.05s system 69% cpu 0.439 total\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.016469,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.19/0.35/0.20\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.971730,
+      "\r\r\n"
+    ],
+    [
+      0.001523,
+      "Connection to 128.199.55.34 closed.\r\r\n"
+    ],
+    [
+      0.001117,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000199,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000043,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.035155,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 32s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.712967,
+      "ssh 128.199.55.34"
+    ],
+    [
+      0.335494,
+      "\u001b[17D./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.116.55\u001b[K"
+    ],
+    [
+      5.567928,
+      "\r\r\n"
+    ],
+    [
+      0.002032,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000127,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.042360,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 32s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.427160,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.295769,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6\u001b[4mc\u001b[24md0bdf378e --min=1 --max=3 --prefix=fe --saltmaster_address=10.133.116.55\r\r\nbck-i-search: c_\u001b[K\u001b[A\u001b[A\u001b[60C"
+    ],
+    [
+      0.184081,
+      "\u001b[69D\u001b[4mc\u001b[4mr\u001b[24m\u001b[67C\u001b[24mc\u001b[2B\u001b[62Dr_\u001b[A\u001b[A\u001b[10D"
+    ],
+    [
+      0.055599,
+      "\u001b[1C\u001b[4mr\u001b[4me\u001b[24m\u001b[2B\u001b[6Ce_\u001b[A\u001b[A\u001b[11D"
+    ],
+    [
+      0.856595,
+      "\u001b[86C0\u001b[7C0\u001b[10Cdb\u001b[107D"
+    ],
+    [
+      0.511357,
+      "\u001b[105Csaltmaster --saltmaster              \u001b[A\u001b[27D"
+    ],
+    [
+      0.608367,
+      "\u001b[86C1\u001b[7C50 --prefix=mw \u001b[7P\u001b[12C_address=10.133.141.229\u001b[A\u001b[29D"
+    ],
+    [
+      0.896369,
+      "\u001b[24mc\u001b[24mr\u001b[24me\u001b[2B\r\u001b[K\u001b[A\u001b[36C"
+    ],
+    [
+      0.367949,
+      "\u0008 \u0008"
+    ],
+    [
+      0.500061,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017747,
+      "\u0008 \u0008"
+    ],
+    [
+      0.018466,
+      "\u0008 \u0008"
+    ],
+    [
+      0.015412,
+      "\u0008 \u0008"
+    ],
+    [
+      0.016873,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017722,
+      "\u0008 \u0008"
+    ],
+    [
+      0.017860,
+      "\u0008 \u0008"
+    ],
+    [
+      0.019328,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128016,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159676,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144363,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160009,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135958,
+      "\u0008 \u0008"
+    ],
+    [
+      0.265108,
+      "1"
+    ],
+    [
+      0.000274,
+      "0."
+    ],
+    [
+      0.000155,
+      "1"
+    ],
+    [
+      0.000130,
+      "3"
+    ],
+    [
+      0.000131,
+      "3"
+    ],
+    [
+      0.000126,
+      "."
+    ],
+    [
+      0.000124,
+      "1"
+    ],
+    [
+      0.000134,
+      "1"
+    ],
+    [
+      0.000120,
+      "6"
+    ],
+    [
+      0.000126,
+      "."
+    ],
+    [
+      0.000133,
+      "5"
+    ],
+    [
+      0.000143,
+      "5"
+    ],
+    [
+      1.517550,
+      "\u001b[A\u001b[30D"
+    ],
+    [
+      0.407893,
+      "#./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=50 --prefix=mw --saltmaster_address=10.133.116.55\u001b[A\u001b[30D"
+    ],
+    [
+      0.247861,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000065,
+      "\u001b[2B\r"
+    ],
+    [
+      0.000533,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000101,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000041,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.032705,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 32s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.542911,
+      "h"
+    ],
+    [
+      0.079675,
+      "\u0008ha"
+    ],
+    [
+      0.007626,
+      "e"
+    ],
+    [
+      0.104431,
+      "d"
+    ],
+    [
+      0.079895,
+      " "
+    ],
+    [
+      0.608178,
+      "\u0008"
+    ],
+    [
+      0.119635,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136171,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135859,
+      "\u0008\u0008h \u0008"
+    ],
+    [
+      0.049214,
+      "\u0008he"
+    ],
+    [
+      0.006746,
+      "a"
+    ],
+    [
+      0.128233,
+      "d"
+    ],
+    [
+      0.327944,
+      " "
+    ],
+    [
+      0.264016,
+      "r"
+    ],
+    [
+      0.280264,
+      "\u0008 \u0008"
+    ],
+    [
+      0.104097,
+      "c"
+    ],
+    [
+      0.159439,
+      "r"
+    ],
+    [
+      0.016489,
+      "e"
+    ],
+    [
+      0.109655,
+      "ate\u001b[1m \u001b[0m"
+    ],
+    [
+      0.337929,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000047,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000059,
+      "\r\r\n"
+    ],
+    [
+      0.000926,
+      "\u001b]2;head create\u0007"
+    ],
+    [
+      0.000059,
+      "\u001b]1;head\u0007"
+    ],
+    [
+      0.002890,
+      "#!/usr/bin/env python3\r\n\r\n# ./create --token= --min=0 --max=0 --prefix=saltmaster --saltmaster\r\n# ./create --token= --min=0 --max=0 --prefix=db --saltmaster_address=\r\n# ./create --token= --min=0 --max=0 --prefix=fe --saltmaster_address=\r\n# ./create --token= --min=1 --max=5 --prefix=mw --saltmaster_address= --image=centos-7-0-x64\r\n"
+    ],
+    [
+      0.000016,
+      "\r\nimport base64\r\nfrom binascii import hexlify\r\nimport getpass\r\n"
+    ],
+    [
+      0.000468,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000232,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.049457,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.521626,
+      "head create"
+    ],
+    [
+      0.543792,
+      "\u001b[11D#./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=50 --prefix=mw --saltmaster_address=10.133.116.55\u001b[K"
+    ],
+    [
+      1.184010,
+      "\u001b[1C"
+    ],
+    [
+      0.416825,
+      "-"
+    ],
+    [
+      0.000147,
+      "-"
+    ],
+    [
+      0.000246,
+      "i"
+    ],
+    [
+      0.000134,
+      "m"
+    ],
+    [
+      0.000134,
+      "a"
+    ],
+    [
+      0.000131,
+      "g"
+    ],
+    [
+      0.000156,
+      "e"
+    ],
+    [
+      0.000679,
+      "="
+    ],
+    [
+      0.000168,
+      "c"
+    ],
+    [
+      0.000151,
+      "e"
+    ],
+    [
+      0.000151,
+      "n"
+    ],
+    [
+      0.000140,
+      "t"
+    ],
+    [
+      0.000190,
+      "o"
+    ],
+    [
+      0.000253,
+      "s"
+    ],
+    [
+      0.000119,
+      "-"
+    ],
+    [
+      0.000148,
+      "7"
+    ],
+    [
+      0.000149,
+      "-"
+    ],
+    [
+      0.000110,
+      "0"
+    ],
+    [
+      0.000101,
+      "-"
+    ],
+    [
+      0.000107,
+      "x"
+    ],
+    [
+      0.000129,
+      "6"
+    ],
+    [
+      0.000121,
+      "4"
+    ],
+    [
+      0.355752,
+      "\u001b[A\u001b[54D"
+    ],
+    [
+      0.839884,
+      "\u001b[P\u001b[109Cw -\u001b[P\u001b[56C \u001b[A\u001b[54D"
+    ],
+    [
+      1.152124,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000044,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=50 --prefix=mw --saltmaster_address=10.133.116.55 --image=centos-7-0-x64\u001b[K\u001b[A\u001b[53D"
+    ],
+    [
+      3.891080,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000071,
+      "\u001b[1B\r\r\n"
+    ],
+    [
+      0.000697,
+      "\u001b]2;./create  --min=1 --max=50 --prefix=mw --saltmaster_address=10.133.116.55 \u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;./create\u0007"
+    ],
+    [
+      0.217676,
+      "Creating node mw1\r\n"
+    ],
+    [
+      1.690343,
+      "Creating node mw2\r\n"
+    ],
+    [
+      1.402893,
+      "Creating node mw3\r\n"
+    ],
+    [
+      1.454353,
+      "Creating node mw4\r\n"
+    ],
+    [
+      1.032395,
+      "Creating node mw5\r\n"
+    ],
+    [
+      1.012215,
+      "Creating node mw6\r\n"
+    ],
+    [
+      1.359281,
+      "Creating node mw7\r\n"
+    ],
+    [
+      1.568032,
+      "Creating node mw8\r\n"
+    ],
+    [
+      1.038261,
+      "Creating node mw9\r\n"
+    ],
+    [
+      1.358312,
+      "Creating node mw10\r\n"
+    ],
+    [
+      1.523693,
+      "Creating node mw11\r\n"
+    ],
+    [
+      1.282033,
+      "Creating node mw12\r\n"
+    ],
+    [
+      1.000995,
+      "Creating node mw13\r\n"
+    ],
+    [
+      1.116021,
+      "Creating node mw14\r\n"
+    ],
+    [
+      1.179290,
+      "Creating node mw15\r\n"
+    ],
+    [
+      1.153078,
+      "Creating node mw16\r\n"
+    ],
+    [
+      1.212527,
+      "Creating node mw17\r\n"
+    ],
+    [
+      0.988658,
+      "Creating node mw18\r\n"
+    ],
+    [
+      1.011127,
+      "Creating node mw19\r\n"
+    ],
+    [
+      0.956494,
+      "Creating node mw20\r\n"
+    ],
+    [
+      0.978139,
+      "Creating node mw21\r\n"
+    ],
+    [
+      1.357469,
+      "Creating node mw22\r\n"
+    ],
+    [
+      1.004061,
+      "Creating node mw23\r\n"
+    ],
+    [
+      1.139964,
+      "Creating node mw24\r\n"
+    ],
+    [
+      1.163893,
+      "Creating node mw25\r\n"
+    ],
+    [
+      0.975374,
+      "Creating node mw26\r\n"
+    ],
+    [
+      1.012541,
+      "Creating node mw27\r\n"
+    ],
+    [
+      1.328675,
+      "Creating node mw28\r\n"
+    ],
+    [
+      0.978740,
+      "Creating node mw29\r\n"
+    ],
+    [
+      1.160134,
+      "Creating node mw30\r\n"
+    ],
+    [
+      0.960949,
+      "Creating node mw31\r\n"
+    ],
+    [
+      1.000490,
+      "Creating node mw32\r\n"
+    ],
+    [
+      1.107020,
+      "Creating node mw33\r\n"
+    ],
+    [
+      0.986364,
+      "Creating node mw34\r\n"
+    ],
+    [
+      1.090017,
+      "Creating node mw35\r\n"
+    ],
+    [
+      1.202538,
+      "Creating node mw36\r\n"
+    ],
+    [
+      1.393380,
+      "Creating node mw37\r\n"
+    ],
+    [
+      1.027226,
+      "Creating node mw38\r\n"
+    ],
+    [
+      1.440622,
+      "Creating node mw39\r\n"
+    ],
+    [
+      0.981401,
+      "Creating node mw40\r\n"
+    ],
+    [
+      1.518014,
+      "Creating node mw41\r\n"
+    ],
+    [
+      1.021121,
+      "Creating node mw42\r\n"
+    ],
+    [
+      1.200985,
+      "Creating node mw43\r\n"
+    ],
+    [
+      1.349805,
+      "Creating node mw44\r\n"
+    ],
+    [
+      1.009161,
+      "Creating node mw45\r\n"
+    ],
+    [
+      1.470844,
+      "Creating node mw46\r\n"
+    ],
+    [
+      1.127920,
+      "Creating node mw47\r\n"
+    ],
+    [
+      1.040736,
+      "Creating node mw48\r\n"
+    ],
+    [
+      1.221375,
+      "Creating node mw49\r\n"
+    ],
+    [
+      1.010250,
+      "Creating node mw50\r\n"
+    ],
+    [
+      36.454197,
+      "Bootstrapping mw6 (178.62.243.153)\r\n"
+    ],
+    [
+      103.285040,
+      "Bootstrapping mw1 (128.199.48.242)\r\n"
+    ],
+    [
+      0.176975,
+      "Bootstrapping mw3 (128.199.32.58)\r\n"
+    ],
+    [
+      0.160091,
+      "Bootstrapping mw5 (128.199.35.152)\r\n"
+    ],
+    [
+      0.065935,
+      "Bootstrapping mw7 (128.199.60.145)\r\n"
+    ],
+    [
+      0.190160,
+      "Bootstrapping mw8 (188.166.35.151)\r\n"
+    ],
+    [
+      0.060676,
+      "Bootstrapping mw12 (188.166.42.174)\r\n"
+    ],
+    [
+      0.064430,
+      "Bootstrapping mw14 (188.166.20.41)\r\n"
+    ],
+    [
+      0.060212,
+      "Bootstrapping mw15 (128.199.57.48)\r\n"
+    ],
+    [
+      0.063738,
+      "Bootstrapping mw16 (188.166.118.187)\r\n"
+    ],
+    [
+      0.066990,
+      "Bootstrapping mw17 (188.166.121.124)\r\n"
+    ],
+    [
+      0.156804,
+      "Bootstrapping mw18 (178.62.208.165)\r\n"
+    ],
+    [
+      0.064683,
+      "Bootstrapping mw19 (188.166.25.250)\r\n"
+    ],
+    [
+      0.176514,
+      "Bootstrapping mw20 (178.62.231.65)\r\n"
+    ],
+    [
+      0.064075,
+      "Bootstrapping mw21 (188.166.11.105)\r\n"
+    ],
+    [
+      0.188456,
+      "Bootstrapping mw22 (178.62.251.73)\r\n"
+    ],
+    [
+      0.184781,
+      "Bootstrapping mw23 (188.166.34.178)\r\n"
+    ],
+    [
+      0.162912,
+      "Bootstrapping mw24 (188.166.115.116)\r\n"
+    ],
+    [
+      0.174066,
+      "Bootstrapping mw25 (188.166.108.206)\r\n"
+    ],
+    [
+      0.065477,
+      "Bootstrapping mw26 (188.166.85.239)\r\n"
+    ],
+    [
+      0.063828,
+      "Bootstrapping mw27 (178.62.198.56)\r\n"
+    ],
+    [
+      0.190917,
+      "Bootstrapping mw28 (188.166.26.58)\r\n"
+    ],
+    [
+      0.173304,
+      "Bootstrapping mw29 (128.199.50.144)\r\n"
+    ],
+    [
+      0.059891,
+      "Bootstrapping mw30 (178.62.243.145)\r\n"
+    ],
+    [
+      0.167837,
+      "Bootstrapping mw31 (188.166.27.102)\r\n"
+    ],
+    [
+      0.174192,
+      "Bootstrapping mw32 (188.166.67.149)\r\n"
+    ],
+    [
+      79.068465,
+      "Bootstrapping mw2 (178.62.251.233)\r\n"
+    ],
+    [
+      0.150131,
+      "Bootstrapping mw9 (128.199.52.69)\r\n"
+    ],
+    [
+      0.180151,
+      "Bootstrapping mw10 (188.166.64.138)\r\n"
+    ],
+    [
+      0.061858,
+      "Bootstrapping mw11 (178.62.192.141)\r\n"
+    ],
+    [
+      0.165543,
+      "Bootstrapping mw13 (188.166.100.228)\r\n"
+    ],
+    [
+      0.059150,
+      "Bootstrapping mw33 (188.166.33.116)\r\n"
+    ],
+    [
+      0.184942,
+      "Bootstrapping mw34 (188.166.64.90)\r\n"
+    ],
+    [
+      0.064100,
+      "Bootstrapping mw35 (188.166.107.137)\r\n"
+    ],
+    [
+      0.057996,
+      "Bootstrapping mw36 (128.199.48.209)\r\n"
+    ],
+    [
+      0.170139,
+      "Bootstrapping mw37 (128.199.48.210)\r\n"
+    ],
+    [
+      0.067902,
+      "Bootstrapping mw38 (128.199.59.199)\r\n"
+    ],
+    [
+      0.171982,
+      "Bootstrapping mw39 (188.166.29.147)\r\n"
+    ],
+    [
+      0.063915,
+      "Bootstrapping mw40 (188.166.95.62)\r\n"
+    ],
+    [
+      0.058139,
+      "Bootstrapping mw41 (188.166.104.202)\r\n"
+    ],
+    [
+      0.065706,
+      "Bootstrapping mw42 (128.199.54.219)\r\n"
+    ],
+    [
+      0.059892,
+      "Bootstrapping mw43 (188.166.98.230)\r\n"
+    ],
+    [
+      0.176037,
+      "Bootstrapping mw44 (178.62.243.148)\r\n"
+    ],
+    [
+      0.172873,
+      "Bootstrapping mw45 (188.166.124.12)\r\n"
+    ],
+    [
+      0.059080,
+      "Bootstrapping mw46 (178.62.246.229)\r\n"
+    ],
+    [
+      0.061930,
+      "Bootstrapping mw47 (178.62.247.133)\r\n"
+    ],
+    [
+      0.066257,
+      "Bootstrapping mw48 (188.166.68.126)\r\n"
+    ],
+    [
+      0.192081,
+      "Bootstrapping mw49 (178.62.222.227)\r\n"
+    ],
+    [
+      0.175942,
+      "Bootstrapping mw50 (188.166.92.8)\r\n"
+    ],
+    [
+      272.277836,
+      "Bootstrapping mw4 (178.62.208.164)\r\n"
+    ],
+    [
+      39.448646,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000174,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000064,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.034055,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 09m 53s\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.611187,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.231063,
+      "./create --token=e40a8e1e9c6389e4fb19e95ff50fe745e19d6722900aac5c4907c6cd0bdf378e --min=1 --max=50 --prefix=mw --saltmaster_address=10.133.116.55 --image=cento\u001b[4ms\u001b[24m-7-0-x64\r\r\nbck-i-search: s_\u001b[K\u001b[A\u001b[33C"
+    ],
+    [
+      0.143993,
+      "\u001b[30D\u001b[4ms\u001b[4ms\u001b[24m\u001b[28C\u001b[24ms\u001b[1B\u001b[35Ds_\u001b[A\u001b[2C"
+    ],
+    [
+      0.192062,
+      "\u001b[A\u001b[14D\u001b[4ms\u001b[4ms\u001b[4mh\u001b[24m 128.199.55.34\u001b[K\u001b[1B\r\u001b[M\u001b[16Ch_\u001b[A\u001b[13D"
+    ],
+    [
+      0.959847,
+      "\u001b[24ms\u001b[24ms\u001b[24mh\u001b[1B\r\u001b[K\u001b[A\u001b[5C"
+    ],
+    [
+      0.000076,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\u001b[1B\r"
+    ],
+    [
+      0.001301,
+      "\u001b]2;ssh 128.199.55.34\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;128.199.55.34\u0007"
+    ],
+    [
+      0.431996,
+      "Linux saltmaster0 3.2.0-4-amd64 #1 SMP Debian 3.2.65-1+deb7u1 x86_64\r\n\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Mon Nov  2 21:46:17 2015 from hsi-kbw-134-3-146-35.hsi14.kabel-badenwuerttemberg.de\r\r\n"
+    ],
+    [
+      0.096905,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.017504,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.05/0.27/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.089210,
+      "s"
+    ],
+    [
+      0.038489,
+      "\u0008sa"
+    ],
+    [
+      0.054205,
+      "l"
+    ],
+    [
+      0.150947,
+      "t"
+    ],
+    [
+      0.113479,
+      "-"
+    ],
+    [
+      0.192747,
+      "k"
+    ],
+    [
+      0.185954,
+      "e"
+    ],
+    [
+      0.080954,
+      "y"
+    ],
+    [
+      0.159289,
+      " "
+    ],
+    [
+      0.088708,
+      "-"
+    ],
+    [
+      0.092939,
+      "l"
+    ],
+    [
+      0.071209,
+      " "
+    ],
+    [
+      0.096773,
+      "a"
+    ],
+    [
+      0.139085,
+      "c"
+    ],
+    [
+      0.149822,
+      "c"
+    ],
+    [
+      0.223167,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.05/0.27/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m salt-key -l acc\u001b[K"
+    ],
+    [
+      0.224985,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;salt-key -l acc\u0007\u001b]1;salt-key\u0007"
+    ],
+    [
+      0.264215,
+      "\u001b[0;1;32mAccepted Keys:\u001b[0;0m\r\n\u001b[0;32mdb0\u001b[0;0m\r\n\u001b[0;32mfe1\u001b[0;0m\r\n\u001b[0;32mfe2\u001b[0;0m\r\n\u001b[0;32mfe3\u001b[0;0m\r\n\u001b[0;32mmw1\u001b[0;0m\r\n\u001b[0;32mmw10\u001b[0;0m\r\n\u001b[0;32mmw11\u001b[0;0m\r\n\u001b[0;32mmw12\u001b[0;0m\r\n\u001b[0;32mmw13\u001b[0;0m\r\n\u001b[0;32mmw14\u001b[0;0m\r\n\u001b[0;32mmw15\u001b[0;0m\r\n\u001b[0;32mmw16\u001b[0;0m\r\n\u001b[0;32mmw17\u001b[0;0m\r\n\u001b[0;32mmw18\u001b[0;0m\r\n\u001b[0;32mmw19\u001b[0;0m\r\n\u001b[0;32mmw2\u001b[0;0m\r\n\u001b[0;32mmw20\u001b[0;0m\r\n\u001b[0;32mmw21\u001b[0;0m\r\n\u001b[0;32mmw22\u001b[0;0m\r\n\u001b[0;32mmw23\u001b[0;0m\r\n\u001b[0;32mmw24\u001b[0;0m\r\n\u001b[0;32mmw25\u001b[0;0m\r\n\u001b[0;32mmw26\u001b[0;0m\r\n\u001b[0;32mmw27\u001b[0;0m\r\n\u001b[0;32mmw28\u001b[0;0m\r\n\u001b[0;32mmw29\u001b[0;0m\r\n\u001b[0;32mmw3\u001b[0;0m\r\n\u001b[0;32mmw30\u001b[0;0m\r\n\u001b[0;32mmw31\u001b[0;0m\r\n\u001b[0;32mmw32\u001b[0;0m\r\n\u001b[0;32mmw33\u001b[0;0m\r\n\u001b[0;32mmw34\u001b[0;0m\r\n\u001b[0;32mmw35\u001b[0;0m\r\n\u001b[0;32mmw36\u001b[0;0m\r\n\u001b[0;32mmw37\u001b[0;0m"
+    ],
+    [
+      0.000129,
+      "\r\n\u001b[0;32mmw38\u001b[0;0m\r\n\u001b[0;32mmw39\u001b[0;0m\r\n\u001b[0;32mmw40\u001b[0;0m\r\n\u001b[0;32mmw41\u001b[0;0m\r\n\u001b[0;32mmw42\u001b[0;0m\r\n\u001b[0;32mmw43\u001b[0;0m\r\n\u001b[0;32mmw44\u001b[0;0m\r\n\u001b[0;32mmw45\u001b[0;0m\r\n\u001b[0;32mmw46\u001b[0;0m\r\n\u001b[0;32mmw47\u001b[0;0m\r\n\u001b[0;32mmw48\u001b[0;0m\r\n\u001b[0;32mmw49\u001b[0;0m"
+    ],
+    [
+      0.000246,
+      "\r\n\u001b[0;32mmw5\u001b[0;0m\r\n\u001b[0;32mmw50\u001b[0;0m\r\n\u001b[0;32mmw6\u001b[0;0m\r\n\u001b[0;32mmw7\u001b[0;0m\r\n\u001b[0;32mmw8\u001b[0;0m\r\n\u001b[0;32mmw9\u001b[0;0m\r\n\u001b[0;32msaltmaster0\u001b[0;0m\r\n"
+    ],
+    [
+      0.027447,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.014468,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 01s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.05/0.26/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.028849,
+      "l"
+    ],
+    [
+      0.351831,
+      "\u0008 \u0008"
+    ],
+    [
+      0.088644,
+      "a"
+    ],
+    [
+      0.071928,
+      "\u0008ap"
+    ],
+    [
+      0.110372,
+      "t"
+    ],
+    [
+      0.097101,
+      "-"
+    ],
+    [
+      0.063204,
+      "g"
+    ],
+    [
+      0.712073,
+      "e"
+    ],
+    [
+      0.049117,
+      "t"
+    ],
+    [
+      0.103895,
+      " "
+    ],
+    [
+      0.074052,
+      "i"
+    ],
+    [
+      0.058297,
+      "n"
+    ],
+    [
+      0.042415,
+      "s"
+    ],
+    [
+      0.076680,
+      "t"
+    ],
+    [
+      0.149808,
+      "a"
+    ],
+    [
+      0.102681,
+      "l"
+    ],
+    [
+      0.158933,
+      "l"
+    ],
+    [
+      0.057616,
+      " "
+    ],
+    [
+      0.239482,
+      "l"
+    ],
+    [
+      0.126778,
+      "y"
+    ],
+    [
+      0.112780,
+      "n"
+    ],
+    [
+      0.185199,
+      "x"
+    ],
+    [
+      0.247477,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;apt-get install lynx\u0007\u001b]1;apt-get\u0007"
+    ],
+    [
+      0.006438,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003398,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.005383,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.040055,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.144033,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r\rReading state information... 0%\r"
+    ],
+    [
+      0.000778,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.149492,
+      "The following extra packages will be installed:\r\n  lynx-cur\r\n"
+    ],
+    [
+      0.002068,
+      "The following NEW packages will be installed:\r\n  lynx lynx-cur\r\n"
+    ],
+    [
+      0.004523,
+      "0 upgraded, 2 newly installed, 0 to remove and 49 not upgraded.\r\n"
+    ],
+    [
+      0.008524,
+      "Need to get 2,472 kB of archives.\r\nAfter this operation, 5,308 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000017,
+      "Do you want to continue [Y/n]? "
+    ],
+    [
+      0.594524,
+      "y"
+    ],
+    [
+      0.143036,
+      "\r\n"
+    ],
+    [
+      0.003411,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.037848,
+      "\r            \rGet:1 http://ftp.debian.org/debian/ wheezy/main lynx-cur amd64 2.8.8dev.12-2 [2,249 kB]\r\n\r            \r0% [1 lynx-cur 0 B/2,249 kB 0%]"
+    ],
+    [
+      0.137764,
+      "\r                               \r91% [Working]"
+    ],
+    [
+      0.009265,
+      "\r             \rGet:2 http://ftp.debian.org/debian/ wheezy/main lynx all 2.8.8dev.12-2 [223 kB]\r\n\r             \r91% [2 lynx 0 B/223 kB 0%]"
+    ],
+    [
+      0.006580,
+      "\r                          \r100% [Working]\r              \rFetched 2,472 kB in 0s (12.9 MB/s)\r\n"
+    ],
+    [
+      0.318720,
+      "Selecting previously unselected package lynx-cur.\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r"
+    ],
+    [
+      0.001661,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.000831,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001715,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.003546,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.003945,
+      "(Reading database ... 100%\r(Reading database ... 37896 files and directories currently installed.)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.003614,
+      "Unpacking lynx-cur (from .../lynx-cur_2.8.8dev.12-2_amd64.deb) ..."
+    ],
+    [
+      0.003767,
+      "\r\n"
+    ],
+    [
+      0.136277,
+      "Selecting previously unselected package lynx.\r\nUnpacking lynx (from .../lynx_2.8.8dev.12-2_all.deb) ...\r\n"
+    ],
+    [
+      0.021210,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.454386,
+      "Processing triggers for mime-support ...\r\n"
+    ],
+    [
+      0.564590,
+      "Setting up lynx-cur (2.8.8dev.12-2) ...\r\n"
+    ],
+    [
+      0.027772,
+      "update-alternatives: using /usr/bin/lynx to provide /usr/bin/www-browser (www-browser) in auto mode\r\n"
+    ],
+    [
+      0.031909,
+      "Setting up lynx (2.8.8dev.12-2) ...\r\n"
+    ],
+    [
+      0.668675,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.015941,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 03s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.05/0.26/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.579025,
+      "l"
+    ],
+    [
+      0.648711,
+      "\u0008ly"
+    ],
+    [
+      0.123782,
+      "n"
+    ],
+    [
+      0.173713,
+      "x"
+    ],
+    [
+      0.160950,
+      " "
+    ],
+    [
+      0.703990,
+      "http://188.166.49.244/lupamiheye.hs"
+    ],
+    [
+      0.548688,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 03s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.05/0.26/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m lynx http://188.166.49.244/lupamiheye.hs\u001b[K"
+    ],
+    [
+      0.292965,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;lynx http://188.166.49.244/lupamiheye.hs\u0007\u001b]1;lynx\u0007"
+    ],
+    [
+      0.009247,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000305,
+      "\u001b[39;49m\u001b[39;49m\u001b[315m\u001b[40m\u001b[H\u001b[2J\u001b[37m\u001b[40m\u001b[J\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000672,
+      "\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://188.166.49.244/lupamiheye.hs\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000008,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up 188.166.49.244\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000301,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mMaking HTTP connection to 188.166.49.244\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000814,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mSending HTTP request.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000384,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP request sent; waiting for response.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.006809,
+      "\u001b[5G\u001b(B\u001b[0;1m\u001b[33m\u001b[44m/1.1 200 OK\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000431,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mData transfer complete\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.006383,
+      "\u001b[1;108H\u001b[35m\u001b[40mhastebin\u001b[4;4H\u001b[32m\u001b[40m__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\n\u001b[4G\u001b[37m\u001b[40m[\u001b(B\u001b[0;1m\u001b[34m\u001b[40mDocument has only hidden links. Use the 'l'ist command.\u001b(B\u001b[0m\u001b[37m\u001b[40m]\u001b[7;3H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m(Textarea) Enter text. Use UP/DOWN arrows or TAB to move off.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[29;13H\u001b(B\u001b[0m\u001b[37m\u001b[40mEnter text into the field by typing on the keyboard\n\u001b[5GCtrl-U to delete all text in field, [Backspace] to delete a character\u001b[4;4H\u001b(B\u001b["
+    ],
+    [
+      0.000256,
+      "m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      3.417314,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.499444,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015985,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.023556,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.010995,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019366,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019919,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.010791,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018509,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000658,
+      "\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.054856,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.001054,
+      "\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.005013,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.014155,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000800,
+      "\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.012741,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017882,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.434324,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000265,
+      "\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.215764,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000231,
+      "\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.181445,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.770862,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mEnter text. Use arrows or tab to move off of field.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000025,
+      "\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.846948,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m(Textarea) Enter text. Use UP/DOWN arrows or TAB to move off.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.126039,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.495745,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.027347,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.004267,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.021047,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015367,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017375,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017905,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017303,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018449,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018247,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000009,
+      "\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016902,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017104,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018255,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015042,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018582,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015562,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016733,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000486,
+      "\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019929,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.027380,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.012291,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000285,
+      "\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.012981,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015747,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000601,
+      "\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015555,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000267,
+      "\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.031217,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.005759,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000118,
+      "\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.020186,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mG_________________________________________________________________________________________________________\u001b[5G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.013072,
+      "\u0008\u001b[32m\u001b[40mG_________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015507,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000153,
+      "\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016944,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000152,
+      "\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.599611,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mEnter text. Use arrows or tab to move off of field.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.950670,
+      "\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40my\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.000701,
+      "\r\u001b[30d\u001b[37m\u001b[40m\u001b[J\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[39;49m\u001b[K\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\r\n\r\nExiting via interrupt: 2\r\n\r\n"
+    ],
+    [
+      0.000664,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.015388,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 13s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.03/0.24/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.745773,
+      "lynx http://188.166.49.244/lupamiheye.hs"
+    ],
+    [
+      0.740461,
+      "\r\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.010676,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 13s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.03/0.24/0.23\u001b[36m]\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.267301,
+      "y"
+    ],
+    [
+      0.358296,
+      "\u0008 \u0008"
+    ],
+    [
+      0.198998,
+      "l"
+    ],
+    [
+      0.127292,
+      "\u0008ly"
+    ],
+    [
+      0.095627,
+      "n"
+    ],
+    [
+      0.383452,
+      "c"
+    ],
+    [
+      0.257287,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;lync\u0007\u001b]1;lync\u0007"
+    ],
+    [
+      0.000537,
+      "zsh: command not found: lync"
+    ],
+    [
+      0.000016,
+      "\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000358,
+      "\u001b]2;root@saltmaster0: ~\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.017808,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 00s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.03/0.24/0.23\u001b[36m]\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[31m127\u001b[0m\u001b[36m]\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.764441,
+      "lync"
+    ],
+    [
+      0.263857,
+      "\u0008 \u0008"
+    ],
+    [
+      0.072084,
+      "x"
+    ],
+    [
+      0.159906,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;lynx\u0007\u001b]1;lynx\u0007"
+    ],
+    [
+      0.008314,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000445,
+      "\u001b[39;49m\u001b[39;49m\u001b[315m\u001b[40m\u001b[H\u001b[2J\u001b[37m\u001b[40m\u001b[J\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000212,
+      "\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://lynx.isc.org/\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000069,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up lynx.isc.org\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.006462,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mMaking HTTP connection to lynx.isc.org\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.088749,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mSending HTTP request.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000278,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP request sent; waiting for response.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.090000,
+      "\u001b[5G\u001b(B\u001b[0;1m\u001b[33m\u001b[44m/1.1 301 Moved Permanently\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000272,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mData transfer complete\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000375,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP/1.1 301 Moved Permanently\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mUsing http://lynx.invisible-island.net/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      2.002373,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://lynx.invisible-island.net/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up lynx.invisible-island.net\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.829219,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mMaking HTTP connection to lynx.invisible-island.net\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.087968,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mSending HTTP request.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP request sent; waiting for response.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.090597,
+      "\u001b[5G\u001b(B\u001b[0;1m\u001b[33m\u001b[44m/1.1 200 OK\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000668,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mData transfer complete\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.001870,
+      "\u001b[1;79H\u001b[35m\u001b[40mLYNX – The Text Web-Browser (p1 of 2)\u001b[2;6H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\n\n\u001b[4G\u001b(B\u001b[0m\u001b[32m\u001b[40mhttp://lynx.invisible-island.net/\n\u001b[4G\u001b[37m\u001b[40mCopyright © 1997-2014,2015 by Thomas E. Dickey\n\u001b[6G\u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\u001b[8;45H\u001b[33m\u001b[44mLYNX – The Text Web-Browser\n\n\u001b[4G\u001b(B\u001b[0m\u001b[35m\u001b[40m  * \u001b[32m\u001b[40m(home page)\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mCurrent development\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mStable release\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mResources\n\n\u001b[4G\u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m is the \u001b(B\u001b[0;1m\u001b[34m\u001b[40mtext\u001b(B\u001b[0m\u001b[37m\u001b[40m web browser.\r\n\n   This is the toplevel page for the \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m software distribution site.\r\n\n   The \u001b[32m\u001b[40mcurrent development\u001b[37m\u001b[40m sources have the latest version of \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m available (development towards 2.8."
+    ],
+    [
+      0.000278,
+      "9).\r\n   The \u001b[32m\u001b[40mmain help\u001b[37m\u001b[40m page for lynx-current is online; the current \u001b[32m\u001b[40mUser Guide\u001b[37m\u001b[40m is part of the online documentation.\r\n\n   The most recent stable release is \u001b[32m\u001b[40mlynx2.8.8\u001b[37m\u001b[40m.\r\n\n   Other resources include:\r\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40mMailing list archives\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mpgp/gpg signatures\n\u001b[6G\u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\r\n\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\n\u001b[3G\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.\r\n H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list \u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.001073,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m-- press space for next page --\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.002155,
+      "\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mhttp://lynx.invisible-island.net/\u001b[3G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.996180,
+      "\u001b[C\u001b[32m\u001b[40mhttp://lynx.invisible-island.net/\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[10;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m(home page)\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.243255,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mEdit this document's URL:\u001b[K \u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mhttp://lynx.invisible-island.net/\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.844954,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.501216,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017365,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015312,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018605,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.021444,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019229,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.012142,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016438,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017438,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018537,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016481,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.023207,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.009812,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017573,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017061,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018283,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015960,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019324,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017513,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015475,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.018119,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019311,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017372,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015164,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.020074,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016122,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016166,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.025165,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015515,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019590,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.012393,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016050,
+      "\u0008\u001b(B\u001b[0;1m\u001b[33m\u001b[40m \u0008\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.367855,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40mh\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mt\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000288,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40mt\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mp\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000138,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40m:\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000116,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40m/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m1\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m8\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000048,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40m8\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019335,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m1\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m6\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m6\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m4\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m9\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m2\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m4\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m4\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40ml\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mu\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mp\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40ma\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mm\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mi\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mh\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40me\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40my\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40me\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m"
+    ],
+    [
+      0.000300,
+      "\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mh\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40ms\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.516625,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://188.166.49.244/lupamiheye.hs\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up 188.166.49.244\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000272,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mMaking HTTP connection to 188.166.49.244\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000333,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mSending HTTP request.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000330,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP request sent; waiting for response.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.003777,
+      "\u001b[5G\u001b(B\u001b[0;1m\u001b[33m\u001b[44m/1.1 200 OK\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000298,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mData transfer complete\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000944,
+      "\u001b[H\u001b(B\u001b[0;7m\u001b[37m\u001b[40m\u003c\u003c\u003c\u001b[1;79H\u001b(B\u001b[0m\u001b[37m\u001b[40m\u001b[29X\u001b[108G\u001b[35m\u001b[40mhastebin\u001b[2;1H\u001b[37m\u001b[40m\u001b[K\n\n   \u001b[32m\u001b[40m__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\r\n\u001b[37m\u001b[40m\u001b[K\n   [\u001b(B\u001b[0;1m\u001b[34m\u001b[40mDocument has only hidden links. Use the 'l'ist command.\u001b(B\u001b[0m\u001b[37m\u001b[40m]\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[7d  \u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m(Textarea) Enter text. Use UP/DOWN arrows or TAB to move off.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[29;12H\u001b(B\u001b[0m\u001b[37m\u001b[40m\u001b[1K "
+    ],
+    [
+      0.000199,
+      "Enter text into the field by typing on the keyboard\u001b[K\r\n    Ctrl-U to delete all text in field, [Backspace] to delete a character\u001b[K\u001b[4;4H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.338232,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.505336,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.019548,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.012846,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016593,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.015391,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.017159,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.016892,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.282054,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.265369,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[6;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.200455,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[7;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.168379,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.163749,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[5;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.711465,
+      "\u001b[32m\u001b[40m__________________________________________________________________________________________________________\u001b[28;62H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[4G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.355294,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mEnter text. Use arrows or tab to move off of field.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H"
+    ],
+    [
+      0.783784,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://lynx.invisible-island.net/\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[1;78H\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40mLYNX – The Text Web-Browser (p1 of 2)\u001b[2;6H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\n\n\u001b[4G\u001b(B\u001b[0m\u001b[32m\u001b[40mhttp://lynx.invisible-island.net/\u001b[37m\u001b[40m\u001b[K\r\n   Copyright © 1997-2014,2015 by Thomas E. Dickey\u001b[K\r\n     \u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\u001b(B\u001b[0m\u001b[37m\u001b[40m\u001b[K\r\n\u001b[K\u001b[8;45H\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLYNX – The Text Web-Browser\r\n\u001b(B\u001b[0m\u001b[37m\u001b[40m\u001b[K\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40m(home page)\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mCurrent development\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mStable release\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mResources\n\n\u001b[4G\u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m is the \u001b(B\u001b[0;1m\u001b[34m\u001b[40mtext\u001b(B\u001b[0m\u001b[37m\u001b[40m web browser.\r\n\n   This is the toplevel page for the \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m software distribution si"
+    ],
+    [
+      0.000197,
+      "te.\r\n\n   The \u001b[32m\u001b[40mcurrent development\u001b[37m\u001b[40m sources have the latest version of \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m available (development towards 2.8.9).\r\n   The \u001b[32m\u001b[40mmain help\u001b[37m\u001b[40m page for lynx-current is online; the current \u001b[32m\u001b[40mUser Guide\u001b[37m\u001b[40m is part of the online documentation.\r\n\n   The most recent stable release is \u001b[32m\u001b[40mlynx2.8.8\u001b[37m\u001b[40m.\r\n\n   Other resources include:\r\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40mMailing list archives\n\u001b[4G\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mpgp/gpg signatures\n\u001b[6G\u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\r\n\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\n\u001b[3G\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.\r\n H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list \u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m-- press space for next page --\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[10;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m(home page)\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.575607,
+      "\u001b[C\u001b[32m\u001b[40m(home page)\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[11;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mCurrent development\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.168277,
+      "\u001b[C\u001b[32m\u001b[40mCurrent development\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[12;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mStable release\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.152051,
+      "\u001b[C\u001b[32m\u001b[40mStable release\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[13;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mResources\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.176773,
+      "\u001b[C\u001b[32m\u001b[40mResources\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[19;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mcurrent development\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.151359,
+      "\u001b[C\u001b[32m\u001b[40mcurrent development\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[20;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mmain help\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.432505,
+      "\u001b[C\u001b[32m\u001b[40mmain help\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[19;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mcurrent development\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.404444,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://lynx.invisible-island.net/current/index.html\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up lynx.invisible-island.net\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.029524,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mMaking HTTP connection to lynx.invisible-island.net\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.089551,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mSending HTTP request.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000265,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP request sent; waiting for response.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.091829,
+      "\u001b[5G\u001b(B\u001b[0;1m\u001b[33m\u001b[44m/1.1 200 OK\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000329,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mData transfer complete\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.002320,
+      "\u001b[H\u001b(B\u001b[0;7m\u001b[37m\u001b[40m\u003c\u003c\u003c\u001b[1;79H\u001b(B\u001b[0m\u001b[37m\u001b[40m   \u001b[35m\u001b[40mLynx current development\u001b[114G3\u001b[4;37H\u001b[32m\u001b[40mcurrent/\n\n\n\n\u001b[37m\u001b[40m \u001b(B\u001b[0;1m\u001b[33m\u001b[44mLynx current development\u001b(B\u001b[0m\u001b[37m\u001b[40m\u001b[K\r\n\n   We are currently working on Lynx 2.8.9.\r\n\u001b[K\n   Lynx's version numbers have \"dev\", \"pre\" or \"rel\" suffixes. For example, \"lynx2.8.9dev.1\" is a development\r\n   version as part of the successive versions culminating in \"lynx2.8.9rel.1\".\r\n\n   This page contains links to the most recent \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m development source code.\r\n\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40m(home page)\u001b[37m\u001b[40m\u001b[K\r\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40mCurrent development\n\u001b[8G\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40m  + \u001b[32m\u001b[40mCurrent Version\u001b[37m\u001b[40m\u001b[K\n\u001b[8G\u001b[1K \u001b[35m\u001b[40m  + \u001b[32m\u001b[40mOlder Versions\u001b[37m\u001b[40m\u001b[K\u001b[21;9H\u001b[35m\u001b[40m  + \u001b[32m\u001b[40mImportant Documents\u001b[22;13H\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40m  o \u001b[32m\u001b[40mChanges since 2.8\u001b[37m\u001b[40m\u001b[K\u001b[23;14H\u001b[35m\u001b[40m  o \u001b[32m\u001b[40mOnline Documentation\n\u001b[8G\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40m  + \u001b[32m\u001b[40mOther Resources"
+    ],
+    [
+      0.000347,
+      "\u001b[25;13H\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40m  o \u001b[32m\u001b[40mDOS386/Win32 binaries\u001b[26;13H\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40m  o \u001b[32m\u001b[40mOS/2 binaries\u001b[27;13H\u001b[37m\u001b[40m\u001b[1K \u001b[35m\u001b[40m  o \u001b[32m\u001b[40mArchivers: gz, bz2, zip\u001b[37m\u001b[40m\u001b[K\r\n\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[1;114H\u001b[35m\u001b[40m6\r\u001b[28d\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000018,
+      "\u001b[30;78H\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m-- press space for next page --\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mhttp://lynx.invisible-island.net/\u001b[3G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.180558,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://lynx.invisible-island.net/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.001124,
+      "\u001b[9;23r\u001b[23;1H\u001b[7S\u001b[1;30r\u001b[1;79H\u001b[35m\u001b[40mLYNX – The Text Web-Browser\u001b[114G2\u001b[4;4H\u001b[32m\u001b[40mhttp://lynx.invisible-island.net/\u001b[37m\u001b[40m\u001b[K\u001b[8;45H\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLYNX – The Text Web-Browser\u001b[12;4H\u001b(B\u001b[0m\u001b[35m\u001b[40m  * \u001b[32m\u001b[40mStable release\u001b[37m\u001b[40m\u001b[K\r\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40mResources\u001b[37m\u001b[40m\u001b[K\r\n\u001b[K\n   \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m is the \u001b(B\u001b[0;1m\u001b[34m\u001b[40mtext\u001b(B\u001b[0m\u001b[37m\u001b[40m web browser.\u001b[K\r\n\u001b[K\n   This is the toplevel page for the \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m software distribution site.\r\n\n   The \u001b[32m\u001b[40mcurrent development\u001b[37m\u001b[40m sources have the latest version of \u001b(B\u001b[0;1m\u001b[31m\u001b[40mLynx\u001b(B\u001b[0m\u001b[37m\u001b[40m available (development towards 2.8.9).\r\n   The \u001b[32m\u001b[40mmain help\u001b[37m\u001b[40m page for lynx-current is online; the current \u001b[32m\u001b[40mUser Guide\u001b[37m\u001b[40m is part of the online documentation.\r\n\n   The most recent stable release is \u001b[32m\u001b[40mlynx2.8.8\u001b[37m\u001b[40m.\r\n\n   Other resources include:\r\n   \u001b[35m\u001b[40m  * \u001b[32m\u001b[40mMailing list archives\u001b[37m\u001b[40m\u001b[K\r\n   \u001b[35m\u001b"
+    ],
+    [
+      0.000197,
+      "[40m  * \u001b[32m\u001b[40mpgp/gpg signatures\u001b[37m\u001b[40m\u001b[K\n\u001b[6G\u001b(B\u001b[0;1m\u001b[33m\u001b[40m_____________________________________________________________________________________________________\r\n\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u001b[30;78H\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m-- press space for next page --\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mhttp://lynx.invisible-island.net/\u001b[3G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.768491,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://lynx.invisible-island.net/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b[32m\u001b[40mhttp://lynx.invisible-island.net/\r\u001b[28d\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[30;78H\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m-- press space for next page --\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mhttp://lynx.invisible-island.net/\u001b[3G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.485533,
+      "\u001b[C\u001b[32m\u001b[40mhttp://lynx.invisible-island.net/\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[10;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m(home page)\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.561810,
+      "\u001b[C\u001b[32m\u001b[40m(home page)\u001b[30;78H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[28;32H\u001b[11;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40mCurrent development\u001b[7G\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      1.367934,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mURL to open:\u001b[K \u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.801808,
+      "\u001b(B\u001b[0;1m\u001b[33m\u001b[40mh\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mt\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mt\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mp\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m:\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m1\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m8\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m8\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m1\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m6\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m6\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m4\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m9\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m2\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m4\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m4\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m/\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40ml\u001b(B\u001b[m\u001b[39;49m"
+    ],
+    [
+      0.000183,
+      "\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mu\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mp\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40ma\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mm\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mi\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mh\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40me\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40my\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40me\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40mh\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b(B\u001b[0;1m\u001b[33m\u001b[40ms\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.143981,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://188.166.49.244/lupamiheye.hs\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000845,
+      "\u001b[1;79H\u001b[37m\u001b[40m\u001b[29X\u001b[108G\u001b[35m\u001b[40mhastebin\u001b[2;1H\u001b[37m\u001b[40m\u001b[K\n\n   \u001b[32m\u001b[40m__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\n\u001b[4G__________________________________________________________________________________________________________\r\n\u001b[37m\u001b[40m\u001b[K\n   [\u001b(B\u001b[0;1m\u001b[34m\u001b[40mDocument has only hidden links. Use the 'l'ist command.\u001b(B\u001b[0m\u001b[37m\u001b[40m]\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[7d  \u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m(Textarea) Enter text. Use UP/DOWN arrows or TAB to move off.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.000158,
+      "\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40m__________________________________________________________________________________________________________\u001b[29;12H\u001b(B\u001b[0m\u001b[37m\u001b[40m\u001b[1K Enter text into the field by typing on the keyboard\u001b[K\r\n    Ctrl-U to delete all text in field, [Backspace] to delete a character\u001b[K\u001b[4;4H\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.941767,
+      "\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mEnter text. Use arrows or tab to move off of field.\u001b[K\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[4;4H\u001b(B\u001b[0;1m\u001b[33m\u001b[40ma\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.071358,
+      "\u001b[28;52H\u001b[4;5H\u001b(B\u001b[0;1m\u001b[33m\u001b[40ms\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.024006,
+      "\u001b[28;52H\u001b[4;6H\u001b(B\u001b[0;1m\u001b[33m\u001b[40md\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.086256,
+      "\u001b[28;52H\u001b[4;7H\u001b(B\u001b[0;1m\u001b[33m\u001b[40ma\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.113747,
+      "\u001b[28;52H\u001b[4;8H\u001b(B\u001b[0;1m\u001b[33m\u001b[40ms\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.007562,
+      "\u001b[28;52H\u001b[4;9H\u001b(B\u001b[0;1m\u001b[33m\u001b[40md\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.151179,
+      "\u001b[28;52H\u001b[4;10H\u001b(B\u001b[0;1m\u001b[33m\u001b[40ma\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.096276,
+      "\u001b[28;52H\u001b[4;11H\u001b(B\u001b[0;1m\u001b[33m\u001b[40ms\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      0.042838,
+      "\u001b[28;52H\u001b[4;12H\u001b(B\u001b[0;1m\u001b[33m\u001b[40md\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m"
+    ],
+    [
+      18.595282,
+      "\u001b[4G\u001b[32m\u001b[40masdasdasd_________________________________________________________________________________________________\r\u001b[28d\u001b(B\u001b[0;1m\u001b[33m\u001b[44m(Textarea) Enter text. Use UP/DOWN arrows or TAB to move off.\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\r\n\n\u001b[37m\u001b[40m\u001b[J\u001b(B\u001b[m\u001b[39;49m\u001b[315m\u001b[40m\u001b[39;49m\u001b[K\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\r\n\r\nExiting via interrupt: 2\r\n\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.018161,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 42s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.13/0.24/0.23\u001b[36m]\u001b[39m\u001b[0m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.161629,
+      "\r\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r\u001b]2;root@saltmaster0: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.020082,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[36m┌──[ \u001b[1m\u001b[31mroot\u001b[33m@\u001b[36msaltmaster0\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 00m 42s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[33m0.13/0.24/0.23\u001b[36m]\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m\r\n\u001b[36m└──[\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.528409,
+      "\r\r\n"
+    ],
+    [
+      0.000124,
+      "Connection to 128.199.55.34 closed.\r\r\n"
+    ],
+    [
+      0.001173,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000209,
+      "\u001b]2;arnoldbechtoldt@lap-abechtoldt01: ~/Documents/dev/github/cloud-provision/digitalocean\u0007"
+    ],
+    [
+      0.000044,
+      "\u001b]1;../digitalocean\u0007"
+    ],
+    [
+      0.035530,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(vm-cli)\r\n\u001b[36m┌──[ \u001b[1m\u001b[32marnoldbechtoldt\u001b[39m\u001b[0m - \u001b[36m[\u001b[1m\u001b[33m~/Documents/dev/github/cloud-provision/digitalocean\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[33m00h 01m 17s\u001b[0m\u001b[36m]\u001b[39m - \u001b[36m[\u001b[1m\u001b[31m1\u001b[0m\u001b[36m]\u001b[39m - \u001b[33mmaster\u001b[39m\r\n\u001b[36m└──[\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.297123,
+      "\r\r\n"
+    ]
+  ]
+}

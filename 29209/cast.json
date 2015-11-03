@@ -1,0 +1,514 @@
+{
+  "version": 1,
+  "width": 67,
+  "height": 19,
+  "duration": 41.007226,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.129986,
+      "\u001b]0;duckmole@edgard: ~/workspace/ddays\u0007duckmole@edgard:~/workspace/ddays$ "
+    ],
+    [
+      1.938543,
+      "t"
+    ],
+    [
+      0.087292,
+      "m"
+    ],
+    [
+      0.272278,
+      "u"
+    ],
+    [
+      0.088364,
+      "x"
+    ],
+    [
+      1.063925,
+      "\r\n"
+    ],
+    [
+      0.007833,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b[\u003e4;1m\u001b[?1004h\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40mSession: 3 \u001b[33m1 \u001b[36m1\u001b[37m                \u001b[41m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[37m\u001b[40m                  \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[19;1H\u001b[1;19r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.227344,
+      "\u001b[1;18rduckmole@edgard:~/workspace/ddays$ \u001b[1;19r\u001b[H\u001b[35C"
+    ],
+    [
+      3.836869,
+      "\u001b[H\u001b[13P\u001b[1;18r(reverse-i-search)`':\u001b[1;19r\u001b[H\u001b[22C"
+    ],
+    [
+      0.254909,
+      "\u001b[1;18r\u001b[H\u001b[19Cn': emacs teaser -nw\u001b[1;19r\u001b[H\u001b[37C"
+    ],
+    [
+      0.064980,
+      "\u001b[1;18r\u001b[H\u001b[20Ce': tmux new-window\u001b[1;19r\u001b[H\u001b[29C"
+    ],
+    [
+      0.257259,
+      "\u001b[8D\u001b[1@\u001b[1;18r\u001b[H\u001b[21Cw\u001b[1;19r\u001b[H\u001b[30C"
+    ],
+    [
+      0.535263,
+      "\u001b[H\u001b[10@\u001b[1;18rduckmole@edgard:~/workspace/ddays$\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.005266,
+      "\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40mSession: 3 \u001b[33m2 \u001b[36m1\u001b[37m            \u001b[36m1:bash-\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[41m\u001b[1m2:bash*\u001b(B\u001b[m\u001b[37m\u001b[40m              \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000910,
+      "\u001b[?25l\u001b[19d\u001b[37m\u001b[40m\u001b[1mActivity in window 1                                               \u001b(B\u001b[m\u001b[1;1H"
+    ],
+    [
+      0.238442,
+      "\u001b[35C"
+    ],
+    [
+      0.514171,
+      "\u001b[Hduckmole@edgard:~/workspace/ddays$ \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40mSession: 3 \u001b[33m2 \u001b[36m1\u001b[37m            \u001b[36m\u001b[7m1:bash#-\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[41m\u001b[1m2:bash*\u001b(B\u001b[m\u001b[37m\u001b[40m             \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[1;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.466439,
+      "\u001b[?25l\u001b[Hduckmole@edgard:~/workspace/ddays$ tmux new-window                 \u001b[2;1Hduckmole@edgard:~/workspace/ddays$ \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40mSession: 3 \u001b[33m1 \u001b[36m1\u001b[37m            \u001b[41m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m2:bash-\u001b(B\u001b[m\u001b[37m\u001b[40m              \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[2;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.990896,
+      "\u001b[1;18r\u001b[H\u001b[2;36He\u001b[1;19r\u001b[H\u001b[2;37H"
+    ],
+    [
+      0.096243,
+      "\u001b[1;18r\u001b[H\u001b[2;37Hm\u001b[1;19r\u001b[H\u001b[2;38H"
+    ],
+    [
+      0.118945,
+      "\u001b[1;18r\u001b[H\u001b[2;38Ha\u001b[1;19r\u001b[H\u001b[2;39H"
+    ],
+    [
+      0.232710,
+      "\u001b[1;18r\u001b[H\u001b[2;39Hc\u001b[1;19r\u001b[H\u001b[2;40H"
+    ],
+    [
+      0.192171,
+      "\u001b[1;18r\u001b[H\u001b[2;40Hs\u001b[1;19r\u001b[H\u001b[2;41H"
+    ],
+    [
+      0.063530,
+      "\u001b[1;18r\u001b[H\u001b[2;41H \u001b[1;19r\u001b[H\u001b[2;42H"
+    ],
+    [
+      0.767650,
+      "\u001b[1;18r\u001b[H\u001b[2;42He\u001b[1;19r\u001b[H\u001b[2;43H"
+    ],
+    [
+      0.256786,
+      "\u001b[1;18r\u001b[H\u001b[2;43Hs\u001b[1;19r\u001b[H\u001b[2;44H"
+    ],
+    [
+      0.125991,
+      "\u001b[1;18r\u001b[H\u001b[2;44Hi\u001b[1;19r\u001b[H\u001b[2;45H"
+    ],
+    [
+      0.146251,
+      "\u001b[1;18r\u001b[H\u001b[2;45Ho\u001b[1;19r\u001b[H\u001b[2;46H"
+    ],
+    [
+      0.123697,
+      "\u001b[1;18r\u001b[H\u001b[2;46H.txt \u001b[1;19r\u001b[H\u001b[2;51H"
+    ],
+    [
+      0.827312,
+      "\u001b[1;18r\u001b[H\u001b[2;51H-\u001b[1;19r\u001b[H\u001b[2;52H"
+    ],
+    [
+      0.411407,
+      "\u001b[1;18r\u001b[H\u001b[2;52Hn\u001b[1;19r\u001b[H\u001b[2;53H"
+    ],
+    [
+      0.221699,
+      "\u001b[1;18r\u001b[H\u001b[2;53Hw\u001b[1;19r\u001b[H\u001b[2;54H"
+    ],
+    [
+      0.751847,
+      "\r\n"
+    ],
+    [
+      0.025698,
+      "\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[3d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.031049,
+      "\u001b[1;18r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.000316,
+      "\u001b[18d\u001b[K\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[3d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001355,
+      "\u001b[1;18r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.004696,
+      "\u001b[1;18r\u001b[17d-UUU:----F1  \u001b[1m*scratch*   \u001b(B\u001b[m   All L1     (Fundamental) --------------\u001b[17;1H\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.027063,
+      "\u001b[1;18r\u001b[H\u001b[18dLoading 00debian-vars...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000642,
+      "\u001b[1;18r\u001b[H\u001b[18;25Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000523,
+      "\u001b[1;18r\u001b[H\u001b[18;9H/etc/emacs/site-start.d/50autoconf.el (source)...\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001085,
+      "\u001b[1;18r\u001b[H\u001b[18;58Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b[1;18r\u001b[H\u001b[18;35Hcmake-data.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001120,
+      "\u001b[1;18r\u001b[H\u001b[18;60Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001922,
+      "\u001b[1;18r\u001b[H\u001b[18d..\u001b[K\u001b[H\u001b[7mFile Edit Options Buffers Tools Help                               \u001b[1;1H\u001b[1;19r\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000275,
+      "\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[1;18r\u001b[H\u001b[16d\u001b[30m\u001b[47m-UUU:----F1  \u001b[1m*scratch*   \u001b(B\u001b[m\u001b[30m\u001b[47m   All L1     (Fundamental) --------------\u001b[17;1H\u001b[39m\u001b[49mLoading /etc/emacs/site-start.d/50dictionaries-common.el (source).\\\u001b[17;1H\u001b[1;19r\u001b[H\r\n\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004321,
+      "\u001b[1;18r\u001b[H\u001b[18durce)...\u001b[17;10Hvar/cache/dictionaries-common/emacsen-ispell-dicts.el (so\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000996,
+      "\u001b[1;18r\u001b[H\u001b[18dble is void: debian-aspell-only-dictionary-alist\u001b[17;1HError while loading 50dictionaries-common: Symbol's value as varia\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[17dLoading /etc/emacs/site-start.d/50emacs-goodies-el.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.033735,
+      "\u001b[1;18r\u001b[H\u001b[18done\u001b[17;66Hd\\\u001b[17;1H\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000497,
+      "\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[17;36Hrlang-mode.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.002266,
+      "\u001b[1;18r\u001b[H\u001b[17;61Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b[1;18r\u001b[H\u001b[17;35Hhaskell-mode.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001635,
+      "\u001b[1;18r\u001b[H\u001b[18doloads.el (source)...\u001b[17;10Husr/share/emacs24/site-lisp/haskell-mode/haskell-mode-aut\\\u001b[17;1H\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.014898,
+      "\u001b[1;18r\u001b[H\u001b[18;22Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000481,
+      "\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[17;10Hetc/emacs/site-start.d/50haskell-mode.el (source)...done\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000875,
+      "\u001b[1;18r\u001b[H\u001b[17;35Hlua-mode.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b[1;18r\u001b[H\u001b[17;58Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000466,
+      "\u001b[1;18r\u001b[H\u001b[17;35Hmagit.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001184,
+      "\u001b[1;18r\u001b[H\u001b[18d...\u001b[17;10Husr/share/emacs/site-lisp/magit/magit-install.el (source)\\\u001b[17;1H\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.002458,
+      "\u001b[1;18r\u001b[H\u001b[18;4Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000495,
+      "\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[17;10Hetc/emacs/site-start.d/50magit.el (source)...done\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001905,
+      "\u001b[1;18r\u001b[H\u001b[17;10Hhome/duckmole/.emacs.d/feature-mode.el (source)...\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.076891,
+      "\u001b[1;18r\u001b[H\u001b[17;60Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000543,
+      "\u001b[1;18r\u001b[H\u001b[17;33Hcoffee-mode.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.048628,
+      "\u001b[?25l\u001b[19d\u001b[32m\u001b[40mSession: 3 \u001b[33m1 \u001b[36m1\u001b[37m            \u001b[41m\u001b[1m1:emacs*\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m2:bash-\u001b(B\u001b[m\u001b[37m\u001b[40m             \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003543,
+      "\u001b[1;18r\u001b[H\u001b[17;59Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000494,
+      "\u001b[1;18r\u001b[H\u001b[17;34Hsv-mode.el (source)...\u001b[K\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.016845,
+      "\u001b[1;18r\u001b[H\u001b[17;56Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.000480,
+      "\u001b[1;18r\u001b[H\u001b[17;33Hdockerfile-mode.el (source)...\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.048829,
+      "\u001b[1;18r\u001b[H\u001b[17;63Hdone\u001b[1;19r\u001b[H\r\n"
+    ],
+    [
+      0.001025,
+      "\u001b[1;18r\u001b[H\u001b[17;33Hpackage.el (source)...\u001b[K\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.029130,
+      "\u001b[1;18r\u001b[18dcondition-case-unless-debug' instead.\u001b[17;1H`condition-case-no-debug' is an obsolete alias (as of 24.1); use `\\\u001b[17;1H\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.008963,
+      "\u001b[18d\u001b[K\u001b[1;18r\u001b[H\u001b[17dLoading /home/duckmole/.emacs.d/package.el (source)...done\u001b[K\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.031642,
+      "\u001b[1;18r\u001b[17;33Hnyan-mode.el (source)...\u001b[K\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.004380,
+      "\u001b[1;18r\u001b[17;57Hdone\u001b[1;19r\u001b[H"
+    ],
+    [
+      0.022264,
+      "\u001b[1;18r\u001b[18d\u001b[7m                                                                  \u001b[17;1HLoading term/xterm...                                              \u001b[17;1H\u001b[1;19r\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.004111,
+      "\u001b[1;18r\u001b[17;22H\u001b[7mdone\u001b[1;19r\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.076469,
+      "\u001b[1;18r\u001b[18d\u001b[7mFor information about GNU Emacs and the GNU system, type C-h C-a. \u001b[H                                                                   \u001b[1;1H\u001b[1;19r\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.001932,
+      "\u001b[1;18r\r\n\u001b[7m                                                                   \u001b[3;1H                                                                   \u001b[4;1H                                                                   \u001b[5;1H                                                                   \u001b[6;1H                                                                   \u001b[7;1H                                                                   \u001b[8;1H                                                                   \u001b[9;1H                                                                   \u001b[10;1H                                                                   \u001b[11;1H                                                                   \u001b[12;1H                                                                   \u001b[13;1H                                                                   \u001b[14;1H                                                                   \u001b[15;1H        "
+    ],
+    [
+      0.000023,
+      "                                                           \u001b[16;1H                                                                   \u001b[17;1H\u001b(B\u001b[m\u001b[30m\u001b[47m-UUU:----F1  *scratch*      (*^ｰﾟ)----------------------------- (1,\u001b[17;1H\u001b[1;19r\u001b[H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.124691,
+      "\u001b[1;18r\u001b[18d\u001b[7mFor information about GNU Emacs and the GNU system, type C-h C-a. \u001b[HJe fais des tests pour enregistrer                                 \u001b[1;1H\u001b[1;19r\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.001633,
+      "\u001b[1;18r\r\n\u001b[7mma démo d'ElectricSheep.io :                                       \u001b[3;1Hau DEVOPS-DDAY à Marseille le 20 novembre                          \u001b[4;1H                                                                   \u001b[5;1HSigné : @duckmole                                                  \u001b[6;1H                                                                   \u001b[7;1HElectricSheep.io in few words                                      \u001b[8;1HGive your backups some love                                        \u001b[9;1H- Manage your backup jobs centrally using an elegant configuration\\\u001b[10;1H DSL.                                                              \u001b[11;1H- Execute them securely over the network.                          \u001b[12;1H- Schedule your backups and get notified.                          \u001b[13;1H                                                                   \u001b[14;1H@ plus                                                             \u001b[15;1H                                                                   \u001b[16;1HAu 20 novembre                                                     \u001b[17;1H\u001b(B\u001b[m\u001b[30m\u001b[47m-UUU:----F1  esio.txt       (*^ｰﾟ)----------------------------- (1,\u001b[17;1H\u001b[1;19r\u001b[H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      9.013210,
+      "\u001b[1;18r\u001b[18d\u001b[44m\u001b[7mM-x \u001b[49m                                                             \u001b[1;19r\u001b[H\u001b[18;66H\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000025,
+      "\u001b[5G\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.232138,
+      "\u001b[1;18r\u001b[H\u001b[18;5H\u001b[7mi\u001b[1;19r\u001b[H\u001b[18;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.176362,
+      "\u001b[1;18r\u001b[H\u001b[18;6H\u001b[7mn\u001b[1;19r\u001b[H\u001b[18;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.327622,
+      "\u001b[1;18r\u001b[H\u001b[18;7H\u001b[7mv\u001b[1;19r\u001b[H\u001b[18;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.176870,
+      "\u001b[1;18r\u001b[H\u001b[18;8H\u001b[7me\u001b[1;19r\u001b[H\u001b[18;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.167537,
+      "\u001b[1;18r\u001b[H\u001b[18;9H\u001b[7mr\u001b[1;19r\u001b[H\u001b[18;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.135671,
+      "\u001b[1;18r\u001b[H\u001b[18;10H\u001b[7mt\u001b[1;19r\u001b[H\u001b[18;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.320894,
+      "\u001b[1;18r\u001b[H\u001b[18;11H\u001b[7m-\u001b[1;19r\u001b[H\u001b[18;12H\u001b(B\u001b[m"
+    ],
+    [
+      0.257293,
+      "\u001b[1;18r\u001b[H\u001b[18;12H\u001b[7mf\u001b[1;19r\u001b[H\u001b[18;13H\u001b(B\u001b[m"
+    ],
+    [
+      0.189794,
+      "\u001b[1;18r\u001b[H\u001b[18;13H\u001b[7ma\u001b[1;19r\u001b[H\u001b[18;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.196807,
+      "\u001b[1;18r\u001b[H\u001b[18;14H\u001b[7mce\u001b[1;19r\u001b[H\u001b[18;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.379819,
+      "\r"
+    ],
+    [
+      0.023829,
+      "\u001b[1;18r\u001b[H\u001b[18d\u001b[44m\u001b[7mInvert face: \u001b[49m  \u001b[1;19r\u001b[H\u001b[18;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.763428,
+      "\u001b[1;18r\u001b[H\u001b[18;14H\u001b[7md\u001b[1;19r\u001b[H\u001b[18;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.164581,
+      "\u001b[1;18r\u001b[H\u001b[18;15H\u001b[7ma\u001b[1;19r\u001b[H\u001b[18;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.199439,
+      "\u001b[1;18r\u001b[H\u001b[18;16H\u001b[7mf\u001b[1;19r\u001b[H\u001b[18;17H\u001b(B\u001b[m"
+    ],
+    [
+      0.447854,
+      "\u001b[1;18r\u001b[H\u001b[18;16H\u001b[7m \u001b[1;19r\u001b[H\u001b[18;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.144180,
+      "\u001b[1;18r\u001b[H\u001b[18;15H\u001b[7m \u001b[1;19r\u001b[H\u001b[18;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.271865,
+      "\u001b[1;18r\u001b[H\u001b[18;15H\u001b[7me\u001b[1;19r\u001b[H\u001b[18;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.200482,
+      "\u001b[1;18r\u001b[H\u001b[18;16H\u001b[7mf\u001b[1;19r\u001b[H\u001b[18;17H\u001b(B\u001b[m"
+    ],
+    [
+      0.192830,
+      "\u001b[1;18r\u001b[H\u001b[18;17H\u001b[7ma\u001b[1;19r\u001b[H\u001b[18;18H\u001b(B\u001b[m"
+    ],
+    [
+      0.102540,
+      "\u001b[1;18r\u001b[H\u001b[18;18H\u001b[7mu\u001b[1;19r\u001b[H\u001b[18;19H\u001b(B\u001b[m"
+    ],
+    [
+      0.184742,
+      "\u001b[1;18r\u001b[H\u001b[18;19H\u001b[7ml\u001b[1;19r\u001b[H\u001b[18;20H\u001b(B\u001b[m"
+    ],
+    [
+      0.031319,
+      "\u001b[1;18r\u001b[H\u001b[18;20H\u001b[7mt\u001b[1;19r\u001b[H\u001b[18;21H\u001b(B\u001b[m"
+    ],
+    [
+      0.466410,
+      "\r"
+    ],
+    [
+      0.044961,
+      "\u001b[K\u001b[1;18r\u001b[HJe fais des tests pour enregistrer\u001b[K\u001b[1;19r\u001b[H\u001b[34C\u001b[?25l"
+    ],
+    [
+      0.000430,
+      "\u001b[1;18r\u001b[H\r\nma démo d'ElectricSheep.io :\u001b[K\r\nau DEVOPS-DDAY à Marseille le 20 novembre\u001b[K\r\n\u001b[K\r\nSigné : @duckmole\u001b[K\r\n\u001b[K\r\nElectricSheep.io in few words\u001b[K\r\nGive your backups some love\u001b[K\r\n- Manage your backup jobs centrally using an elegant configuration\\\u001b[10;1H DSL.\u001b[K\r\n- Execute them securely over the network.\u001b[K\r\n- Schedule your backups and get notified.\u001b[K\r\n\u001b[K\u001b[1;19r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002845,
+      "\u001b[?25lJe fais des tests pour enregistrer\u001b[K\r\nma démo d'ElectricSheep.io :\u001b[K\r\nau DEVOPS-DDAY à Marseille le 20 novembre\u001b[K\r\n\u001b[K\r\nSigné : @duckmole\u001b[K\r\n\u001b[K\r\nElectricSheep.io in few words\u001b[K\r\nGive your backups some love\u001b[K\r\n- Manage your backup jobs centrally using an elegant configuration\\\u001b[10;1H DSL.\u001b[K\r\n- Execute them securely over the network.\u001b[K\r\n- Schedule your backups and get notified.\u001b[K\r\n\u001b[K\r\n@ plus\u001b[K\r\n\u001b[K\r\nAu 20 novembre\u001b[K\r\n\u001b[30m\u001b[47m-UUU:----F1  esio.txt       (*^ｰﾟ)----------------------------- (1,\u001b[18;1H\u001b(B\u001b[m\u001b[K\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.736071,
+      "\u001b[1;18r\u001b[18d(No files need saving)\r\u001b[K\u001b[?25l\u001b[Hduckmole@edgard:~/workspace/ddays$ tmux new-window                 \u001b[2;1Hduckmole@edgard:~/workspace/ddays$ emacs esio.txt -nw\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[1;19r\u001b[H\u001b[2B\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003068,
+      "\u001b[1;18r\u001b[H\u001b[2Bduckmole@edgard:~/workspace/ddays$ \u001b[1;19r\u001b[H\u001b[3;36H"
+    ],
+    [
+      0.091810,
+      "\u001b[?25l\u001b[19;1H\u001b[32m\u001b[40mSession: 3 \u001b[33m1 \u001b[36m1\u001b[37m            \u001b[41m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m2:bash-\u001b(B\u001b[m\u001b[37m\u001b[40m              \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[3;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.230428,
+      "\u001b[1;18r\u001b[H\u001b[3;36Hdéconnexion\u001b[1;19r\u001b[H\u001b[3B"
+    ],
+    [
+      0.002531,
+      "\u001b[?25l\u001b[Hduckmole@edgard:~/workspace/ddays$ \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40mSession: 3 \u001b[33m2 \u001b[36m1\u001b[37m                \u001b[41m\u001b[1m2:bash*\u001b(B\u001b[m\u001b[37m\u001b[40m                  \u001b[36m03 Nov 17:15\u001b(B\u001b[m\u001b[1;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.688238,
+      "\u001b[1;18r\u001b[H\u001b[35Cdéconnexion"
+    ],
+    [
+      0.000151,
+      "\u001b[1;19r"
+    ],
+    [
+      0.000058,
+      "\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[\u003e4m\u001b[?1004l"
+    ],
+    [
+      0.000073,
+      "\u001b[?1049l"
+    ],
+    [
+      0.000203,
+      "[exited]\r\n"
+    ],
+    [
+      0.001323,
+      "\u001b]0;duckmole@edgard: ~/workspace/ddays\u0007duckmole@edgard:~/workspace/ddays$ "
+    ],
+    [
+      1.451357,
+      "exit"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ]
+  ]
+}

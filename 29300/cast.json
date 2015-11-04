@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 27,
+  "duration": 83.889912,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.022912,
+      "\u001b[1;1H"
+    ],
+    [
+      0.093938,
+      "$ "
+    ],
+    [
+      3.371116,
+      "l"
+    ],
+    [
+      0.167106,
+      "l"
+    ],
+    [
+      0.215860,
+      "\r\n"
+    ],
+    [
+      0.002397,
+      "total 20K\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r-- 1 trevor trevor 114 Nov  4 10:04 config.ru\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r-- 1 trevor trevor  96 Nov  4 10:04 Gemfile\r\n"
+    ],
+    [
+      0.000002,
+      "-rw-r--r-- 1 trevor trevor 525 Nov  4 10:04 Gemfile.lock\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r-- 1 trevor trevor  10 Nov  4 10:01 .ruby-gemset\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 trevor trevor   6 Nov  4 10:01 .ruby-version\r\n"
+    ],
+    [
+      0.000174,
+      "$ "
+    ],
+    [
+      1.197397,
+      "c"
+    ],
+    [
+      0.112010,
+      "l"
+    ],
+    [
+      0.135982,
+      "e"
+    ],
+    [
+      0.152013,
+      "a"
+    ],
+    [
+      0.087998,
+      "r"
+    ],
+    [
+      2.472382,
+      "\r\n"
+    ],
+    [
+      0.005115,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.000060,
+      "$ "
+    ],
+    [
+      1.602412,
+      "c"
+    ],
+    [
+      0.168364,
+      "a"
+    ],
+    [
+      0.087741,
+      "t"
+    ],
+    [
+      0.103994,
+      " "
+    ],
+    [
+      0.336095,
+      "G"
+    ],
+    [
+      0.184125,
+      "e"
+    ],
+    [
+      0.115255,
+      "\r\nGemfile       Gemfile.lock  \r\n"
+    ],
+    [
+      0.000007,
+      "$ cat Gemfile"
+    ],
+    [
+      0.788436,
+      "m"
+    ],
+    [
+      0.202709,
+      "\u0007"
+    ],
+    [
+      0.885352,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.544461,
+      "\r\n"
+    ],
+    [
+      0.000530,
+      "source \"https://rubygems.org\"\r\n\r\ngem 'rack',  '1.6.4'\r\ngem 'rerun', '0.11.0'\r\ngem 'pry',   '0.10.3'\r\n"
+    ],
+    [
+      0.000063,
+      "$ "
+    ],
+    [
+      1.487138,
+      "c"
+    ],
+    [
+      0.191991,
+      "a"
+    ],
+    [
+      0.079998,
+      "t"
+    ],
+    [
+      0.111789,
+      " "
+    ],
+    [
+      0.744795,
+      "c"
+    ],
+    [
+      0.111386,
+      "o"
+    ],
+    [
+      0.064583,
+      "n"
+    ],
+    [
+      0.031808,
+      "f"
+    ],
+    [
+      0.212205,
+      "ig.ru "
+    ],
+    [
+      0.531406,
+      "\r\n"
+    ],
+    [
+      0.000770,
+      "require 'bundler'\r\nBundler.require\r\n\r\nrun -\u003e (env) {\r\n  binding.pry\r\n  [200, {'Content-Type' =\u003e 'text/plain'}, ['']]\r\n}\r\n"
+    ],
+    [
+      0.000046,
+      "$ "
+    ],
+    [
+      4.319173,
+      "r"
+    ],
+    [
+      0.096212,
+      "e"
+    ],
+    [
+      0.359991,
+      "r"
+    ],
+    [
+      0.147834,
+      "u"
+    ],
+    [
+      0.224395,
+      "n"
+    ],
+    [
+      0.255953,
+      " "
+    ],
+    [
+      0.491911,
+      "-"
+    ],
+    [
+      0.415790,
+      "-"
+    ],
+    [
+      0.268251,
+      " "
+    ],
+    [
+      0.191994,
+      "r"
+    ],
+    [
+      0.159999,
+      "a"
+    ],
+    [
+      0.216454,
+      "c"
+    ],
+    [
+      0.120001,
+      "k"
+    ],
+    [
+      0.231457,
+      "u"
+    ],
+    [
+      0.103983,
+      "p"
+    ],
+    [
+      1.865422,
+      "\r\n"
+    ],
+    [
+      0.177089,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "10:07:16 [rerun] Rerun-pry launched"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.255118,
+      "[2015-11-04 10:07:16] INFO  WEBrick 1.3.1\r\n"
+    ],
+    [
+      0.000008,
+      "[2015-11-04 10:07:16] INFO  ruby 2.2.3 (2015-08-18) [x86_64-linux]\r\n"
+    ],
+    [
+      0.000304,
+      "[2015-11-04 10:07:16] INFO  WEBrick::HTTPServer#start: pid=31000 port=9292\r\n"
+    ],
+    [
+      1.846561,
+      "10:07:18 [rerun] Watching . for **/*.{rb,js,coffee,css,scss,sass,erb,html,haml,ru,yml,slim,md,feature}\r\n"
+    ],
+    [
+      3.493774,
+      "\r\n\u001b[1mFrom:\u001b[0m /home/trevor/temp/rerun-pry/config.ru @ line 5 :\r\n\r\n    \u001b[1;34m1\u001b[0m: require \u001b[31m\u001b[1;31m'\u001b[0m\u001b[31mbundler\u001b[1;31m'\u001b[0m\u001b[31m\u001b[0m\r\n    \u001b[1;34m2\u001b[0m: \u001b[1;34;4mBundler\u001b[0m.require\r\n    \u001b[1;34m3\u001b[0m: \r\n    \u001b[1;34m4\u001b[0m: run -\u003e (env) {\r\n =\u003e \u001b[1;34m5\u001b[0m:   binding.pry\r\n    \u001b[1;34m6\u001b[0m:   [\u001b[1;34m200\u001b[0m, {\u001b[31m\u001b[1;31m'\u001b[0m\u001b[31mContent-Type\u001b[1;31m'\u001b[0m\u001b[31m\u001b[0m =\u003e \u001b[31m\u001b[1;31m'\u001b[0m\u001b[31mtext/plain\u001b[1;31m'\u001b[0m\u001b[31m\u001b[0m}, [\u001b[31m\u001b[1;31m'\u001b[0m\u001b[31m\u001b[1;31m'\u001b[0m\u001b[31m\u001b[0m]]\r\n    \u001b[1;34m7\u001b[0m: }\r\n\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0G"
+    ],
+    [
+      0.000489,
+      "[1] pry(#\u003cRack::Builder\u003e)\u003e "
+    ],
+    [
+      6.422306,
+      "t"
+    ],
+    [
+      0.000048,
+      "ype"
+    ],
+    [
+      0.291937,
+      "\r\n\" \" pressed inside rerun\r\n  c -- clear screen\r\n  r -- restart\r\n  p -- toggle pause\r\n  x or q -- stop and exit\r\n\r\n"
+    ],
+    [
+      1.000763,
+      "t"
+    ],
+    [
+      6.007327,
+      "puts"
+    ],
+    [
+      1.001250,
+      " "
+    ],
+    [
+      3.568682,
+      "env\r\n\u001b[1A\u001b[0G[1] pry(#\u003cRack::Builder\u003e)\u003e typetputs env\u001b[1B\u001b[0GNoMethodError: undefined method `typetputs' for #\u003cRack::Builder:0x00000002b1b438\u003e\r\nfrom (pry):1:in `block (2 levels) in \u003cmain\u003e'\r\n[2] pry(#\u003cRack::Builder\u003e)\u003e "
+    ],
+    [
+      3.440227,
+      "p"
+    ],
+    [
+      1.001492,
+      "uts "
+    ],
+    [
+      0.698711,
+      "env\r\n\u001b[1A\u001b[0G[2] pry(#\u003cRack::Builder\u003e)\u003e puts env\u001b[1B\u001b[0G{\"GATEWAY_INTERFACE\"=\u003e\"CGI/1.1\", \"PATH_INFO\"=\u003e\"/\", \"QUERY_STRING\"=\u003e\"\", \"REMOTE_ADDR\"=\u003e\"::1\", \"REMOTE_HOST\"=\u003e\"localhost.localdomain\", \"REQUEST_METHOD\"=\u003e\"GET\", \"REQUEST_URI\"=\u003e\"http://localhost:9292/\", \"SCRIPT_NAME\"=\u003e\"\", \"SERVER_NAME\"=\u003e\"localhost\", \"SERVER_PORT\"=\u003e\"9292\", \"SERVER_PROTOCOL\"=\u003e\"HTTP/1.1\", \"SERVER_SOFTWARE\"=\u003e\"WEBrick/1.3.1 (Ruby/2.2.3/2015-08-18)\", \"HTTP_HOST\"=\u003e\"localhost:9292\", \"HTTP_CONNECTION\"=\u003e\"keep-alive\", \"HTTP_CACHE_CONTROL\"=\u003e\"max-age=0\", \"HTTP_ACCEPT\"=\u003e\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\", \"HTTP_UPGRADE_INSECURE_REQUESTS\"=\u003e\"1\", \"HTTP_USER_AGENT\"=\u003e\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36\", \"HTTP_DNT\"=\u003e\"1\", \"HTTP_ACCEPT_ENCODING\"=\u003e\"gzip, deflate, sdch\", \"HTTP_ACCEPT_LANGUAGE\"=\u003e\"en-US,en;q=0.8\", \"rack.version\"=\u003e[1, 3], \"rack.input\"=\u003e#\u003cRack::Lint::InputWrapper:0x00000002b84668 @input=#\u003cStringIO:0x00000002b8c700\u003e\u003e, \"rack.errors\"=\u003e#\u003cRack::Lint::ErrorWrapper:0x00000002b84640 @error=#\u003cIO:\u003cSTDERR\u003e\u003e\u003e, \"rack.multithread\"=\u003etrue, \"rack.multiprocess\"=\u003efalse, \"rack.run_once\"=\u003efalse, \"rack.url_scheme\"=\u003e\"http\", \"rack.hijack?\"=\u003etrue, \"rack.hijack\"=\u003e#\u003cProc:0x00000002b84af0@/home/trevor/.rvm/gems/ruby-2.2.3@rerun-pry/gems/rack-1.6.4/lib/rack/lint.rb:525\u003e, \"rack.hijack_io\"=\u003enil, \"HTTP_VERSION\"=\u003e\"HTTP/1.1\", \"REQUEST_PATH\"=\u003e\"/\", \"rack.tempfiles\"=\u003e[]}\r\n=\u003e \u001b[1;36mnil\u001b[0m\r\n[3] pry(#\u003cRack::Builder\u003e)\u003e "
+    ],
+    [
+      4.307133,
+      "this "
+    ],
+    [
+      14.018506,
+      "can"
+    ],
+    [
+      1.001550,
+      "'t "
+    ],
+    [
+      1.001266,
+      "be "
+    ],
+    [
+      1.001257,
+      "bac"
+    ],
+    [
+      1.001682,
+      "kspa"
+    ],
+    [
+      0.000750,
+      "10:08:07 [rerun] Clearing screen\r\n\u001b[H\u001b[2J"
+    ],
+    [
+      3.937845,
+      "\r\n10:08:11 [rerun] Rerun-pry stopping\r\n[2015-11-04 10:08:11] INFO  going to shutdown ...\r\n10:08:11 [rerun] Sending signal TERM to 31000"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.022849,
+      "$ "
+    ],
+    [
+      2.298002,
+      "exit\r\n"
+    ]
+  ]
+}

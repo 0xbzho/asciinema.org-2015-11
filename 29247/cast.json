@@ -1,0 +1,1266 @@
+{
+  "version": 1,
+  "width": 104,
+  "height": 27,
+  "duration": 33.613535,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.047627,
+      "\u001b]7;file://Chi Hacknight/Users/renemarcelo\u0007"
+    ],
+    [
+      0.085106,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;renemarcelo@Chi Hacknight\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.002433,
+      "\u001b]7;file://Chi Hacknight/Users/renemarcelo\u0007"
+    ],
+    [
+      0.016368,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000033,
+      "\u001b[K\u001b[85C\u001b[37m~ \u001b[01;34mChi Hacknight\u001b[00m\u001b[100D"
+    ],
+    [
+      0.000125,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.676748,
+      "g"
+    ],
+    [
+      0.054730,
+      "\u0008gi"
+    ],
+    [
+      0.071652,
+      "t"
+    ],
+    [
+      0.091017,
+      " "
+    ],
+    [
+      1.373083,
+      "-"
+    ],
+    [
+      0.104275,
+      "-"
+    ],
+    [
+      0.559760,
+      "v"
+    ],
+    [
+      0.192285,
+      "e"
+    ],
+    [
+      0.064393,
+      "r"
+    ],
+    [
+      0.143367,
+      "s"
+    ],
+    [
+      0.088027,
+      "i"
+    ],
+    [
+      0.064216,
+      "o"
+    ],
+    [
+      0.024021,
+      "n"
+    ],
+    [
+      0.303768,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000086,
+      "\r\r\n"
+    ],
+    [
+      0.005012,
+      "\u001b]2;git --version\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.003578,
+      "git version 2.6.1\r\n"
+    ],
+    [
+      0.000260,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.000112,
+      "\u001b]2;renemarcelo@Chi Hacknight\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.002335,
+      "\u001b]7;file://Chi Hacknight/Users/renemarcelo\u0007"
+    ],
+    [
+      0.013722,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % \u001b[K\u001b[85C\u001b[37m~ \u001b[01;34mChi Hacknight\u001b[00m\u001b[100D"
+    ],
+    [
+      0.000507,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.878490,
+      "g"
+    ],
+    [
+      0.055767,
+      "\u0008gi"
+    ],
+    [
+      0.072003,
+      "t"
+    ],
+    [
+      0.135930,
+      " "
+    ],
+    [
+      1.864637,
+      "s"
+    ],
+    [
+      0.087564,
+      "t"
+    ],
+    [
+      0.135931,
+      "a"
+    ],
+    [
+      0.072029,
+      "t"
+    ],
+    [
+      0.103989,
+      "u"
+    ],
+    [
+      0.088117,
+      "s"
+    ],
+    [
+      0.751846,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128179,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119774,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120271,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127960,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128009,
+      "\u0008 \u0008"
+    ],
+    [
+      1.296243,
+      "c"
+    ],
+    [
+      0.743737,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.147119,
+      "     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.301179,
+      "c"
+    ],
+    [
+      0.176035,
+      "\u0008cd"
+    ],
+    [
+      0.095854,
+      " "
+    ],
+    [
+      0.312257,
+      "C"
+    ],
+    [
+      0.192216,
+      "o"
+    ],
+    [
+      0.055216,
+      "\u001b[?7l"
+    ],
+    [
+      0.000007,
+      "\u001b[31m......\u001b[39m"
+    ],
+    [
+      0.000018,
+      "\u001b[?7h"
+    ],
+    [
+      0.009354,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000006,
+      "cd Code\u001b[1m/\u001b[0m\u001b[K\u001b[77C\u001b[37m~ \u001b[01;34mChi Hacknight\u001b[00m\u001b[92D"
+    ],
+    [
+      0.486819,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000041,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\r\r\n"
+    ],
+    [
+      0.003842,
+      "\u001b]2;cd Code\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000117,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.000031,
+      "\u001b]2;renemarcelo@Chi Hacknight\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;~/Code\u0007"
+    ],
+    [
+      0.002554,
+      "\u001b]7;file://Chi Hacknight/Users/renemarcelo/Code\u0007"
+    ],
+    [
+      0.012528,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[80C\u001b[37m~/Code \u001b[01;34mChi Hacknight\u001b[00m\u001b[100D"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.005392,
+      "g"
+    ],
+    [
+      0.407777,
+      "\u0008gi"
+    ],
+    [
+      0.079831,
+      "t"
+    ],
+    [
+      0.119947,
+      " "
+    ],
+    [
+      0.191889,
+      "c"
+    ],
+    [
+      0.055935,
+      "l"
+    ],
+    [
+      0.160154,
+      "o"
+    ],
+    [
+      0.071851,
+      "n"
+    ],
+    [
+      0.560280,
+      "e"
+    ],
+    [
+      1.879890,
+      "\u0008 \u0008"
+    ],
+    [
+      0.417023,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034608,
+      "\u0008 \u0008"
+    ],
+    [
+      0.033184,
+      "\u0008 \u0008"
+    ],
+    [
+      0.033468,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034377,
+      "\u0008"
+    ],
+    [
+      0.034369,
+      "\u0008 \u0008"
+    ],
+    [
+      0.033445,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.034386,
+      "\u0008 \u0008"
+    ],
+    [
+      0.194322,
+      "h"
+    ],
+    [
+      0.000075,
+      "\u0008ht"
+    ],
+    [
+      0.000052,
+      "t"
+    ],
+    [
+      0.000055,
+      "p"
+    ],
+    [
+      0.000067,
+      "s"
+    ],
+    [
+      0.000048,
+      ":"
+    ],
+    [
+      0.000057,
+      "/"
+    ],
+    [
+      0.000056,
+      "/"
+    ],
+    [
+      0.000050,
+      "g"
+    ],
+    [
+      0.000054,
+      "i"
+    ],
+    [
+      0.000054,
+      "t"
+    ],
+    [
+      0.000081,
+      "h"
+    ],
+    [
+      0.000050,
+      "u"
+    ],
+    [
+      0.000067,
+      "b"
+    ],
+    [
+      0.000050,
+      "."
+    ],
+    [
+      0.000066,
+      "c"
+    ],
+    [
+      0.000052,
+      "o"
+    ],
+    [
+      0.000067,
+      "m"
+    ],
+    [
+      0.000050,
+      "/"
+    ],
+    [
+      0.000063,
+      "e"
+    ],
+    [
+      0.000055,
+      "a"
+    ],
+    [
+      0.000090,
+      "s"
+    ],
+    [
+      0.000070,
+      "h"
+    ],
+    [
+      0.000060,
+      "e"
+    ],
+    [
+      0.000065,
+      "r"
+    ],
+    [
+      0.000059,
+      "m"
+    ],
+    [
+      0.000064,
+      "a"
+    ],
+    [
+      0.000063,
+      "/"
+    ],
+    [
+      0.000060,
+      "g"
+    ],
+    [
+      0.000061,
+      "e"
+    ],
+    [
+      0.000061,
+      "o"
+    ],
+    [
+      0.000064,
+      "t"
+    ],
+    [
+      0.000058,
+      "r"
+    ],
+    [
+      0.000062,
+      "a"
+    ],
+    [
+      0.000061,
+      "c"
+    ],
+    [
+      0.000061,
+      "e"
+    ],
+    [
+      0.000068,
+      "r"
+    ],
+    [
+      0.000054,
+      "."
+    ],
+    [
+      0.000064,
+      "g"
+    ],
+    [
+      0.000061,
+      "i"
+    ],
+    [
+      0.000061,
+      "t"
+    ],
+    [
+      0.959900,
+      "\u001b[41D"
+    ],
+    [
+      0.516525,
+      "ghttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.048039,
+      "\u0008gihttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.104162,
+      "thttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.047701,
+      " https://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.472983,
+      "chttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.039428,
+      "lhttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.159700,
+      "ohttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.088041,
+      "nhttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.072163,
+      "ehttps://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.127693,
+      " https://github.com/easherma/geotracer.git\u001b[41D"
+    ],
+    [
+      0.872075,
+      "\u001b[41C"
+    ],
+    [
+      0.872345,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r\r\n"
+    ],
+    [
+      0.004458,
+      "\u001b]2;git clone https://github.com/easherma/geotracer.git\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.003069,
+      "Cloning into 'geotracer'...\r\n"
+    ],
+    [
+      0.748486,
+      "remote: Counting objects: 520, done.\u001b[K\r\nremote: Compressing objects:   3% (1/26)   \u001b[K\rremote: Compressing objects:   7% (2/26)   \u001b[K\rremote: Compressing objects:  11% (3/26)   \u001b[K\rremote: Compressing objects:  15% (4/26)   \u001b[K\r"
+    ],
+    [
+      0.018988,
+      "remote: Compressing objects:  19% (5/26)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  23% (6/26)   \u001b[K\r"
+    ],
+    [
+      0.000097,
+      "remote: Compressing objects:  26% (7/26)   \u001b[K\rremote: Compressing objects:  30% (8/26)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  34% (9/26)   \u001b[K\rremote: Compressing objects:"
+    ],
+    [
+      0.000005,
+      "  38% (10/26)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  42% (11/26)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  46% (12/26)   \u001b[K\rremote: Compressing objects:  50% (13/26)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects:  53% (14/26)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  57% (15/26)   \u001b[K\rremote: Compressing objects:  61% (16/26)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objec"
+    ],
+    [
+      0.000005,
+      "ts:  65% (17/26)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  69% (18/26)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  73% (19/26)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  76% (20/26)   \u001b[K\r"
+    ],
+    [
+      0.000066,
+      "remote: Compressing objects:  80% (21/26)   \u001b[K\rremote: Compressing objects:  84% (22/26)   \u001b[K\r"
+    ],
+    [
+      0.000013,
+      "remote: Compressing objects:  88% (23/26)   \u001b[K\rremote: Compressing objects:  92% (24/26)   \u001b[K\rremote: Compressing objects:  96% (25/26)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects: 100% (26/26)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects: 100% (26/26), done.\u001b[K\r\n"
+    ],
+    [
+      0.008032,
+      "Receiving objects:   0% (1/520)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:   1% (6/520)   \r"
+    ],
+    [
+      0.000169,
+      "Receiving objects:   2% (11/520)   \r"
+    ],
+    [
+      0.000110,
+      "Receiving objects:   3% (16/520)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:   4% (21/520)   \r"
+    ],
+    [
+      0.000193,
+      "Receiving objects:   5% (26/520)   \r"
+    ],
+    [
+      0.000164,
+      "Receiving objects:   6% (32/520)   \r"
+    ],
+    [
+      0.000080,
+      "Receiving objects:   7% (37/520)   \r"
+    ],
+    [
+      0.000117,
+      "Receiving objects:   8% (42/520)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:   9% (47/520)   \r"
+    ],
+    [
+      0.012918,
+      "Receiving objects:  10% (52/520)   \r"
+    ],
+    [
+      0.000201,
+      "Receiving objects:  11% (58/520)   \r"
+    ],
+    [
+      0.000200,
+      "Receiving objects:  12% (63/520)   \r"
+    ],
+    [
+      0.000157,
+      "Receiving objects:  13% (68/520)   \r"
+    ],
+    [
+      0.000207,
+      "Receiving objects:  14% (73/520)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  15% (78/520)   \r"
+    ],
+    [
+      0.000146,
+      "Receiving objects:  16% (84/520)   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  17% (89/520)   \r"
+    ],
+    [
+      0.002894,
+      "Receiving objects:  18% (94/520)   \r"
+    ],
+    [
+      0.000080,
+      "Receiving objects:  19% (99/520)   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:  20% (104/520)   \r"
+    ],
+    [
+      0.000133,
+      "Receiving objects:  21% (110/520)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  22% (115/520)   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  23% (120/520)   \r"
+    ],
+    [
+      0.000117,
+      "Receiving objects:  24% (125/520)   \r"
+    ],
+    [
+      0.020777,
+      "Receiving objects:  25% (130/520)   \r"
+    ],
+    [
+      0.004485,
+      "Receiving objects:  26% (136/520)   \r"
+    ],
+    [
+      0.000234,
+      "Receiving objects:  27% (141/520)   \r"
+    ],
+    [
+      0.040827,
+      "Receiving objects:  28% (146/520)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  29% (151/520)   \r"
+    ],
+    [
+      0.217251,
+      "Receiving objects:  30% (156/520)   \r"
+    ],
+    [
+      0.001024,
+      "Receiving objects:  31% (162/520)   \r"
+    ],
+    [
+      0.124870,
+      "Receiving objects:  32% (167/520)   \r"
+    ],
+    [
+      0.061590,
+      "Receiving objects:  33% (172/520)   \r"
+    ],
+    [
+      0.000377,
+      "Receiving objects:  34% (177/520)   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  35% (182/520)   \r"
+    ],
+    [
+      0.003643,
+      "Receiving objects:  36% (188/520)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  37% (193/520)   \r"
+    ],
+    [
+      0.000276,
+      "Receiving objects:  38% (198/520)   \r"
+    ],
+    [
+      0.006376,
+      "Receiving objects:  39% (203/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.023347,
+      "Receiving objects:  40% (208/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  41% (214/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  42% (219/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  43% (224/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:  44% (229/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  45% (234/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  46% (240/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:  47% (245/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  48% (250/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  49% (255/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  50% (260/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  51% (266/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  52% (271/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  53% (276/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.007129,
+      "Receiving objects:  54% (281/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  55% (286/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  56% (292/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  57% (297/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  58% (302/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  59% (307/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  60% (312/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  61% (318/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  62% (323/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  63% (328/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  64% (333/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  65% (338/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  66% (344/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000045,
+      "Receiving objects:  67% (349/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  68% (354/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  69% (359/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.002018,
+      "Receiving objects:  70% (364/520), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  71% (370/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000100,
+      "Receiving objects:  72% (375/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  73% (380/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  74% (385/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000185,
+      "Receiving objects:  75% (390/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000195,
+      "Receiving objects:  76% (396/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  77% (401/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects:  78% (406/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  79% (411/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  80% (416/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  81% (422/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  82% (427/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000154,
+      "Receiving objects:  83% (432/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.005971,
+      "Receiving objects:  84% (437/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.005474,
+      "Receiving objects:  85% (442/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000066,
+      "Receiving objects:  86% (448/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  87% (453/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  88% (458/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  89% (463/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  90% (468/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  91% (474/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000138,
+      "Receiving objects:  92% (479/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  93% (484/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000064,
+      "Receiving objects:  94% (489/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  95% (494/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000179,
+      "remote: Total 520 (delta 12), reused 0 (delta 0), pack-reused 494\u001b[K\r\n"
+    ],
+    [
+      0.000095,
+      "Receiving objects:  96% (500/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  97% (505/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000132,
+      "Receiving objects:  98% (510/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  99% (515/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects: 100% (520/520), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects: 100% (520/520), 831.29 KiB | 1.39 MiB/s, done.\r\n"
+    ],
+    [
+      0.000181,
+      "Resolving deltas:   0% (0/268)   \r"
+    ],
+    [
+      0.000331,
+      "Resolving deltas:   1% (3/268)   \r"
+    ],
+    [
+      0.000332,
+      "Resolving deltas:   2% (6/268)   \r"
+    ],
+    [
+      0.000417,
+      "Resolving deltas:  11% (30/268)   \r"
+    ],
+    [
+      0.000073,
+      "Resolving deltas:  12% (33/268)   \r"
+    ],
+    [
+      0.000040,
+      "Resolving deltas:  13% (35/268)   \r"
+    ],
+    [
+      0.000053,
+      "Resolving deltas:  14% (38/268)   \r"
+    ],
+    [
+      0.000066,
+      "Resolving deltas:  15% (41/268)   \r"
+    ],
+    [
+      0.000705,
+      "Resolving deltas:  31% (85/268)   \r"
+    ],
+    [
+      0.000005,
+      "Resolving deltas:  32% (86/268)   \r"
+    ],
+    [
+      0.000232,
+      "Resolving deltas:  38% (102/268)   \r"
+    ],
+    [
+      0.000181,
+      "Resolving deltas:  41% (111/268)   \r"
+    ],
+    [
+      0.000081,
+      "Resolving deltas:  43% (116/268)   \r"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:  45% (121/268)   \r"
+    ],
+    [
+      0.000065,
+      "Resolving deltas:  47% (126/268)   \r"
+    ],
+    [
+      0.000161,
+      "Resolving deltas:  49% (133/268)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas:  50% (134/268)   \r"
+    ],
+    [
+      0.000362,
+      "Resolving deltas:  60% (163/268)   \r"
+    ],
+    [
+      0.000022,
+      "Resolving deltas:  61% (164/268)   \r"
+    ],
+    [
+      0.000377,
+      "Resolving deltas:  69% (185/268)   \r"
+    ],
+    [
+      0.000570,
+      "Resolving deltas:  81% (218/268)   \r"
+    ],
+    [
+      0.000040,
+      "Resolving deltas:  82% (220/268)   \r"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:  83% (224/268)   \r"
+    ],
+    [
+      0.000228,
+      "Resolving deltas:  87% (235/268)   \r"
+    ],
+    [
+      0.000066,
+      "Resolving deltas:  88% (238/268)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  89% (241/268)   \r"
+    ],
+    [
+      0.000042,
+      "Resolving deltas:  90% (243/268)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  91% (244/268)   \r"
+    ],
+    [
+      0.000097,
+      "Resolving deltas:  92% (247/268)   \r"
+    ],
+    [
+      0.000194,
+      "Resolving deltas:  95% (255/268)   \r"
+    ],
+    [
+      0.000141,
+      "Resolving deltas:  98% (263/268)   \r"
+    ],
+    [
+      0.000028,
+      "Resolving deltas:  99% (267/268)   \r"
+    ],
+    [
+      0.000044,
+      "Resolving deltas: 100% (268/268)   \r"
+    ],
+    [
+      0.000053,
+      "Resolving deltas: 100% (268/268), done.\r\n"
+    ],
+    [
+      0.004124,
+      "Checking connectivity... "
+    ],
+    [
+      0.002949,
+      "done.\r\n"
+    ],
+    [
+      0.029737,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.000116,
+      "\u001b]2;renemarcelo@Chi Hacknight\u0007"
+    ],
+    [
+      0.000084,
+      "\u001b]1;~/Code\u0007"
+    ],
+    [
+      0.002731,
+      "\u001b]7;file://Chi Hacknight/Users/renemarcelo/Code\u0007"
+    ],
+    [
+      0.012020,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[80C\u001b[37m~/Code \u001b[01;34mChi Hacknight\u001b[00m\u001b[100D"
+    ],
+    [
+      0.000088,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.747956,
+      "\r\r\n"
+    ]
+  ]
+}

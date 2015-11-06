@@ -1,0 +1,810 @@
+{
+  "version": 1,
+  "width": 197,
+  "height": 48,
+  "duration": 87.835555,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.921029,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000051,
+      "\u001b]2;jou@jou-ltm: ~/src/seeye\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;~/src/seeye\u0007"
+    ],
+    [
+      0.027690,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J🚀  \u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mseeye \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000077,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.283617,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[12C"
+    ],
+    [
+      0.735827,
+      "a\u001b[4ms\u001b[24mciinema rec\u001b[1B\u001b[26Ds_\u001b[A\u001b[12C"
+    ],
+    [
+      0.311685,
+      "\u0008.\u001b[24m/bin/\u001b[4ms\u001b[4me\u001b[24meye https://github.com/jingweno/ruby-rails-sample/tarball/master/\u001b[1B\u001b[85De_\u001b[A\u001b[16C"
+    ],
+    [
+      1.672179,
+      "\u001b[24ms\u001b[24me\u001b[1B\r\u001b[K\u001b[A\u001b[33C"
+    ],
+    [
+      0.000024,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000093,
+      "\u001b[1B\r"
+    ],
+    [
+      0.001232,
+      "\u001b]2;./bin/seeye https://github.com/jingweno/ruby-rails-sample/tarball/master/\u0007\u001b]1;./bin/seeye\u0007"
+    ],
+    [
+      2.079275,
+      "Creating one-off app...\r\n"
+    ],
+    [
+      6.052874,
+      "."
+    ],
+    [
+      0.339579,
+      "\r\n-----\u003e Ruby app detected\r\n-----\u003e Compiling Ruby/Rails\r\n-----\u003e Using Ruby version: ruby-2.2.3\r\n-----\u003e Installing dependencies using bundler 1.9.7\r\n       Running: bundle install --without development:test --path vendor/bundle --binstubs vendor/bundle/bin -j4 --deployment\r\n       Fetching gem metadata from https://rubygems.org/...........\r\n       Fetching version metadata from https://rubygems.org/...\r\n       Fetching dependency metadata from https://rubygems.org/..\r\n       Using rake 10.4.2\r\n       Installing i18n 0.7.0\r\n       Installing minitest 5.5.1\r\n       Installing builder 3.2.2\r\n       Installing thread_safe 0.3.5\r\n"
+    ],
+    [
+      0.151861,
+      "       Installing mini_portile 0.6.2\r\n"
+    ],
+    [
+      0.062176,
+      "       Installing erubis 2.7.0\r\n"
+    ],
+    [
+      0.458224,
+      "       Installing rack 1.6.0\r\n"
+    ],
+    [
+      0.913790,
+      "       Installing mime-types 2.4.3\r\n"
+    ],
+    [
+      0.000009,
+      "       Installing json 1.8.2\r\n"
+    ],
+    [
+      0.000023,
+      "       Installing arel 6.0.0\r\n"
+    ],
+    [
+      0.002972,
+      "       Installing coffee-script-source 1.9.1\r\n"
+    ],
+    [
+      0.000007,
+      "       Installing execjs 2.5.2\r\n"
+    ],
+    [
+      0.000062,
+      "       Installing thor 0.19.1\r\n"
+    ],
+    [
+      0.066876,
+      "       Installing hike 1.2.3\r\n       Using bundler 1.9.7\r\n"
+    ],
+    [
+      0.000009,
+      "       Installing multi_json 1.11.0\r\n"
+    ],
+    [
+      0.516688,
+      "       Installing tilt 1.4.1\r\n"
+    ],
+    [
+      0.043189,
+      "       Installing rails_serve_static_assets 0.0.4\r\n"
+    ],
+    [
+      0.001233,
+      "       Using rdoc 4.2.0\r\n"
+    ],
+    [
+      1.423562,
+      "       Installing rails_stdout_logging 0.0.3\r\n       Installing sass 3.4.13\r\n       Installing tzinfo 1.2.2\r\n"
+    ],
+    [
+      0.169949,
+      "       Installing rack-test 0.6.3\r\n"
+    ],
+    [
+      8.629916,
+      "       Installing pg 0.18.1\r\n"
+    ],
+    [
+      0.515168,
+      "       Installing mail 2.6.3\r\n"
+    ],
+    [
+      0.418823,
+      "       Installing coffee-script 2.4.1\r\n"
+    ],
+    [
+      0.499645,
+      "       Installing uglifier 2.7.1\r\n"
+    ],
+    [
+      0.409301,
+      "       Installing sprockets 2.12.3\r\n"
+    ],
+    [
+      0.515726,
+      "       Installing sdoc 0.4.1\r\n"
+    ],
+    [
+      0.405909,
+      "       Installing rails_12factor 0.0.3\r\n"
+    ],
+    [
+      0.589382,
+      "       Installing activesupport 4.2.1\r\n"
+    ],
+    [
+      0.434464,
+      "       Installing rails-deprecated_sanitizer 1.0.3\r\n"
+    ],
+    [
+      0.512346,
+      "       Installing globalid 0.3.5\r\n"
+    ],
+    [
+      0.511501,
+      "       Installing activemodel 4.2.1\r\n"
+    ],
+    [
+      0.409682,
+      "       Installing jbuilder 2.2.12\r\n"
+    ],
+    [
+      0.401694,
+      "       Installing activejob 4.2.1\r\n"
+    ],
+    [
+      0.575160,
+      "       Installing activerecord 4.2.1\r\n"
+    ],
+    [
+      0.661713,
+      "       Installing nokogiri 1.6.6.2\r\n"
+    ],
+    [
+      0.364892,
+      "       Installing rails-dom-testing 1.0.6\r\n"
+    ],
+    [
+      0.120963,
+      "       Installing loofah 2.0.1\r\n"
+    ],
+    [
+      0.546459,
+      "       Installing rails-html-sanitizer 1.0.2\r\n"
+    ],
+    [
+      0.179745,
+      "       Installing puma 2.11.1\r\n"
+    ],
+    [
+      0.130867,
+      "       Installing actionview 4.2.1\r\n"
+    ],
+    [
+      0.500884,
+      "       Installing actionpack 4.2.1\r\n"
+    ],
+    [
+      0.408984,
+      "       Installing actionmailer 4.2.1\r\n"
+    ],
+    [
+      0.037252,
+      "       Installing sprockets-rails 2.2.4\r\n"
+    ],
+    [
+      0.039277,
+      "       Installing railties 4.2.1\r\n"
+    ],
+    [
+      0.541380,
+      "       Installing coffee-rails 4.1.0\r\n"
+    ],
+    [
+      0.000010,
+      "       Installing jquery-rails 4.0.3\r\n"
+    ],
+    [
+      0.073457,
+      "       Installing rails 4.2.1\r\n"
+    ],
+    [
+      0.332568,
+      "       Installing sass-rails 5.0.3\r\n"
+    ],
+    [
+      0.004005,
+      "       Installing turbolinks 2.5.3\r\n       Bundle complete! 14 Gemfile dependencies, 53 gems now installed.\r\n       Gems in the groups development and test were not installed.\r\n       Bundled gems are installed into ./vendor/bundle.\r\n"
+    ],
+    [
+      0.005089,
+      "       Bundle completed (25.23s)\r\n"
+    ],
+    [
+      0.000004,
+      "       Cleaning up the bundler cache.\r\n"
+    ],
+    [
+      1.561018,
+      "-----\u003e Preparing app for Rails asset pipeline\r\n       Running: rake assets:precompile\r\n"
+    ],
+    [
+      1.604089,
+      "       I, [2015-11-06T06:18:52.029518 #1079]  INFO -- : Writing /tmp/build_42579aa89869eba73cd464bf4c83c66a/jingweno-ruby-rails-sample-070afd6/public/assets/application-12b8f543cd30f7da91cbc02f9924ff5c.js\r\n"
+    ],
+    [
+      0.000015,
+      "       I, [2015-11-06T06:18:52.065789 #1079]  INFO -- : Writing /tmp/build_42579aa89869eba73cd464bf4c83c66a/jingweno-ruby-rails-sample-070afd6/public/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css\r\n"
+    ],
+    [
+      0.003827,
+      "       Asset precompilation completed (1.58s)\r\n       Cleaning assets\r\n       Running: rake assets:clean\r\n"
+    ],
+    [
+      1.224924,
+      "\r\n###### WARNING:\r\n       You are deploying to a non-production environment: \"development\".\r\n       See https://devcenter.heroku.com/articles/deploying-to-a-custom-rails-environment for more information.\r\n\r\n"
+    ],
+    [
+      0.000303,
+      "-----\u003e Discovering process types\r\n"
+    ],
+    [
+      0.003428,
+      "       Procfile declares types -\u003e web\r\n       Default types for Ruby  -\u003e console, rake, worker\r\n\r\n-----\u003e Compressing... \r\n"
+    ],
+    [
+      3.581033,
+      "done, 30.4MB\r\n"
+    ],
+    [
+      0.098395,
+      "-----\u003e Launching... \r\n"
+    ],
+    [
+      3.652868,
+      "done, v6\r\n       https://quiet-mesa-5597.herokuapp.com/ deployed to Heroku\r\n\r\n"
+    ],
+    [
+      6.054428,
+      "."
+    ],
+    [
+      5.502806,
+      ".\r\nRunning tests...\r\n"
+    ],
+    [
+      5.170841,
+      "Fetching gem metadata from https://rubygems.org/"
+    ],
+    [
+      0.000323,
+      "."
+    ],
+    [
+      0.532695,
+      "."
+    ],
+    [
+      0.147357,
+      "."
+    ],
+    [
+      0.040228,
+      "."
+    ],
+    [
+      0.030651,
+      "."
+    ],
+    [
+      0.137911,
+      "."
+    ],
+    [
+      0.065076,
+      "."
+    ],
+    [
+      0.052357,
+      "."
+    ],
+    [
+      0.044801,
+      "."
+    ],
+    [
+      0.013020,
+      "."
+    ],
+    [
+      0.018955,
+      "."
+    ],
+    [
+      0.182391,
+      "\r\r\n"
+    ],
+    [
+      0.001476,
+      "Fetching version metadata from https://rubygems.org/"
+    ],
+    [
+      0.023398,
+      "."
+    ],
+    [
+      1.279643,
+      "."
+    ],
+    [
+      0.000006,
+      "."
+    ],
+    [
+      0.297157,
+      "\r\r\n"
+    ],
+    [
+      0.307111,
+      "Fetching dependency metadata from https://rubygems.org/."
+    ],
+    [
+      0.001092,
+      "."
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.198917,
+      "Using rake 10.4.2"
+    ],
+    [
+      0.001512,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "Using i18n 0.7.0\r\r\n"
+    ],
+    [
+      0.000052,
+      "Using json 1.8.2\r\r\n"
+    ],
+    [
+      0.000008,
+      "Using minitest 5.5.1\r\r\n"
+    ],
+    [
+      0.000044,
+      "Using thread_safe 0.3.5\r\r\n"
+    ],
+    [
+      0.000034,
+      "Using tzinfo 1.2.2\r\r\n"
+    ],
+    [
+      0.000026,
+      "Using activesupport 4.2.1\r\r\n"
+    ],
+    [
+      0.000031,
+      "Using builder 3.2.2\r\r\n"
+    ],
+    [
+      0.000074,
+      "Using erubis 2.7.0\r\r\n"
+    ],
+    [
+      0.000008,
+      "Using mini_portile 0.6.2\r\r\n"
+    ],
+    [
+      0.000049,
+      "Using nokogiri 1.6.6.2\r\r\n"
+    ],
+    [
+      0.003351,
+      "Using rails-deprecated_sanitizer 1.0.3\r\r\n"
+    ],
+    [
+      0.000010,
+      "Using rails-dom-testing 1.0.6\r\r\n"
+    ],
+    [
+      0.000086,
+      "Using loofah 2.0.1\r\r\n"
+    ],
+    [
+      0.000008,
+      "Using rails-html-sanitizer 1.0.2\r\r\n"
+    ],
+    [
+      0.000047,
+      "Using actionview 4.2.1\r\r\n"
+    ],
+    [
+      0.000042,
+      "Using rack 1.6.0\r\r\n"
+    ],
+    [
+      0.015022,
+      "Using rack-test 0.6.3\r\r\n"
+    ],
+    [
+      0.000007,
+      "Using actionpack 4.2.1\r\r\nUsing globalid 0.3.5\r\r\n"
+    ],
+    [
+      0.000016,
+      "Using activejob 4.2.1\r\r\n"
+    ],
+    [
+      0.000002,
+      "Using mime-types 2.4.3\r\r\n"
+    ],
+    [
+      0.000023,
+      "Using mail 2.6.3\r\r\n"
+    ],
+    [
+      0.000046,
+      "Using actionmailer 4.2.1\r\r\n"
+    ],
+    [
+      0.000016,
+      "Using activemodel 4.2.1\r\r\n"
+    ],
+    [
+      0.000009,
+      "Using arel 6.0.0\r\r\n"
+    ],
+    [
+      0.000019,
+      "Using activerecord 4.2.1\r\r\n"
+    ],
+    [
+      1.216754,
+      "\u001b[32mInstalling debug_inspector 0.0.2\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.861428,
+      "\u001b[32mInstalling binding_of_caller 0.7.2\u001b[0m\r\r\n"
+    ],
+    [
+      0.671824,
+      "\u001b[32mInstalling columnize 0.9.0\u001b[0m\r\r\n"
+    ],
+    [
+      3.481616,
+      "\u001b[32mInstalling byebug 4.0.5\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.000147,
+      "Using coffee-script-source 1.9.1\r\r\n"
+    ],
+    [
+      0.000025,
+      "Using execjs 2.5.2\r\r\n"
+    ],
+    [
+      0.000045,
+      "Using coffee-script 2.4.1\r\r\n"
+    ],
+    [
+      0.000045,
+      "Using thor 0.19.1"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.000027,
+      "Using railties 4.2.1\r\r\n"
+    ],
+    [
+      0.000069,
+      "Using coffee-rails 4.1.0\r\r\n"
+    ],
+    [
+      0.000007,
+      "Using hike 1.2.3\r\r\n"
+    ],
+    [
+      0.000052,
+      "Using multi_json 1.11.0\r\r\n"
+    ],
+    [
+      0.003332,
+      "Using jbuilder 2.2.12\r\r\n"
+    ],
+    [
+      0.000009,
+      "Using jquery-rails 4.0.3\r\r\n"
+    ],
+    [
+      0.000040,
+      "Using pg 0.18.1\r\r\n"
+    ],
+    [
+      0.000024,
+      "Using puma 2.11.1\r\r\n"
+    ],
+    [
+      0.000031,
+      "Using bundler 1.9.7\r\r\n"
+    ],
+    [
+      0.000035,
+      "Using tilt 1.4.1\r\r\n"
+    ],
+    [
+      0.000076,
+      "Using sprockets 2.12.3\r\r\n"
+    ],
+    [
+      0.000018,
+      "Using sprockets-rails 2.2.4\r\r\n"
+    ],
+    [
+      0.000041,
+      "Using rails 4.2.1\r\r\n"
+    ],
+    [
+      0.000042,
+      "Using rails_serve_static_assets 0.0.4\r\r\n"
+    ],
+    [
+      0.000034,
+      "Using rails_stdout_logging 0.0.3\r\r\n"
+    ],
+    [
+      0.000055,
+      "Using rails_12factor 0.0.3\r\r\n"
+    ],
+    [
+      0.000030,
+      "Using rdoc 4.2.0\r\r\nUsing sass 3.4.13\r\r\nUsing sass-rails 5.0.3\r\r\nUsing sdoc 0.4.1\r\r\n"
+    ],
+    [
+      0.404348,
+      "\u001b[32mInstalling spring 1.4.0\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.004003,
+      "Using turbolinks 2.5.3"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000040,
+      "Using uglifier 2.7.1"
+    ],
+    [
+      0.000022,
+      "\r\r\n"
+    ],
+    [
+      1.736949,
+      "\u001b[32mInstalling web-console 2.1.2\u001b[0m\r\r\n"
+    ],
+    [
+      0.003490,
+      "\u001b[32mBundle complete! 14 Gemfile dependencies, 59 gems now installed.\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[32mUse `bundle show [gemname]` to see where a bundled gem is installed.\u001b[0m\r\r\n"
+    ],
+    [
+      5.739145,
+      "rake aborted!"
+    ],
+    [
+      0.000007,
+      "\r\r\nPG::ConnectionBad: FATAL:  permission denied for database \"postgres\"\r\r\nDETAIL:  User does not have CONNECT privilege.\r\r\n"
+    ],
+    [
+      0.000027,
+      "/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:651:in `initialize'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:651:in `new'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:651:in `connect'\r\r\n"
+    ],
+    [
+      0.000044,
+      "/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'\r\r\n/app/vendor/bu"
+    ],
+    [
+      0.000007,
+      "ndle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'"
+    ],
+    [
+      0.000189,
+      "\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:567:in `retrieve_connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_handling.rb:113:in `retrieve_connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/connection_handling.rb:87:in `connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/tasks/postgresql_database_tasks.rb:8:in `connection'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/tasks/postgresql_database_tasks.rb:30:in `drop'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/tasks/postgres"
+    ],
+    [
+      0.000124,
+      "ql_database_tasks.rb:43:in `purge'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/tasks/database_tasks.rb:163:in `purge'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/railties/databases.rake:353:in `block (3 levels) in \u003ctop (required)\u003e'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.1/lib/active_record/railties/databases.rake:359:in `block (3 levels) in \u003ctop (required)\u003e'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activesupport-4.2.1/lib/active_support/dependencies.rb:268:in `load'\r\r\n"
+    ],
+    [
+      0.000008,
+      "/app/vendor/bundle/ruby/2.2.0/gems/activesupport-4.2.1/lib/active_support/dependencies.rb:268:in `block in load'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activesupport-4.2.1/lib/active_support/dependencies.rb:240:in `load_dependency'\r\r\n/app/vendor/bundle/ruby/2.2.0/gems/activesupport-4.2.1/lib/active_support/dependencies.rb:268:in `load'\r\r\n-e:1:in `\u003cmain\u003e'\r\r\nTasks: TOP =\u003e db:test:load =\u003e db:test:purge\r\r\n"
+    ],
+    [
+      0.000017,
+      "(See full trace by running task with --trace)\r\r\n"
+    ],
+    [
+      0.449197,
+      "Run options: --seed 53884\r\r\n\r\r\n# Running:\r\r\n\r\r\n"
+    ],
+    [
+      0.000010,
+      "."
+    ],
+    [
+      0.005298,
+      "\r\r\n\r\r\n"
+    ],
+    [
+      0.000458,
+      "Finished in 0.017444s, 57.3265 runs/s, 57.3265 assertions/s.\r\r\n"
+    ],
+    [
+      0.000008,
+      "\r\r\n1 runs, 1 assertions, 0 failures, 0 errors, 0 skips\r\r\n"
+    ],
+    [
+      0.264947,
+      "stty: standard input: unable to perform all requested operations\r\n"
+    ],
+    [
+      0.903660,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b]2;jou@jou-ltm: ~/src/seeye\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;~/src/seeye\u0007"
+    ],
+    [
+      0.053369,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J🚀  \u001b[01;32m➜ \u001b[01;32m \u001b[36mseeye \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.947228,
+      "e"
+    ],
+    [
+      0.174389,
+      "\u0008ec"
+    ],
+    [
+      0.128233,
+      "h"
+    ],
+    [
+      0.127963,
+      "o"
+    ],
+    [
+      0.111511,
+      " "
+    ],
+    [
+      0.240595,
+      "Y"
+    ],
+    [
+      0.167651,
+      "a"
+    ],
+    [
+      0.144137,
+      "y"
+    ],
+    [
+      0.279953,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.001944,
+      "\u001b]2;echo Yay\u0007\u001b]1;echo\u0007"
+    ],
+    [
+      0.000009,
+      "Yay\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;jou@jou-ltm: ~/src/seeye\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;~/src/seeye\u0007"
+    ],
+    [
+      0.029000,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J🚀  \u001b[01;32m➜ \u001b[01;32m \u001b[36mseeye \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.785203,
+      "\r\r\n"
+    ]
+  ]
+}

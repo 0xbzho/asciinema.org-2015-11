@@ -1,0 +1,730 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 29.928596,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.198461,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000044,
+      "~/Code/indutny/node $ "
+    ],
+    [
+      0.384103,
+      "l"
+    ],
+    [
+      0.144047,
+      "l"
+    ],
+    [
+      0.071993,
+      "d"
+    ],
+    [
+      0.063944,
+      "b"
+    ],
+    [
+      0.103742,
+      " "
+    ],
+    [
+      0.160020,
+      "-"
+    ],
+    [
+      0.112249,
+      "-"
+    ],
+    [
+      0.087795,
+      " "
+    ],
+    [
+      0.112192,
+      "."
+    ],
+    [
+      0.144105,
+      "/"
+    ],
+    [
+      0.087891,
+      "n"
+    ],
+    [
+      0.135896,
+      "o"
+    ],
+    [
+      0.104027,
+      "d"
+    ],
+    [
+      0.064077,
+      "e"
+    ],
+    [
+      0.111954,
+      " "
+    ],
+    [
+      0.519999,
+      "5"
+    ],
+    [
+      0.080196,
+      "."
+    ],
+    [
+      0.159737,
+      "j"
+    ],
+    [
+      0.063870,
+      "s"
+    ],
+    [
+      0.144219,
+      "\r\n"
+    ],
+    [
+      0.103673,
+      "(lldb) target create \"./node\"\r\n"
+    ],
+    [
+      0.288039,
+      "b"
+    ],
+    [
+      0.095475,
+      " "
+    ],
+    [
+      0.019201,
+      "Current executable set to './node' (x86_64).\r\n(lldb) settings set -- target.run-args  \"5.js\"\r\n"
+    ],
+    [
+      0.000929,
+      "(lldb) "
+    ],
+    [
+      0.000003,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.000053,
+      "b "
+    ],
+    [
+      0.164680,
+      "D"
+    ],
+    [
+      0.183602,
+      "o"
+    ],
+    [
+      0.248189,
+      "W"
+    ],
+    [
+      0.176081,
+      "r"
+    ],
+    [
+      0.111975,
+      "i"
+    ],
+    [
+      0.087953,
+      "t"
+    ],
+    [
+      0.064040,
+      "e"
+    ],
+    [
+      0.239964,
+      "\r\n"
+    ],
+    [
+      0.174402,
+      "Breakpoint 1: 3 locations.\r\n"
+    ],
+    [
+      0.000073,
+      "(lldb) "
+    ],
+    [
+      0.000003,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000002,
+      "\u001b[8G"
+    ],
+    [
+      0.769490,
+      "r"
+    ],
+    [
+      0.136136,
+      "\r\n"
+    ],
+    [
+      0.321839,
+      "Process 81407 launched: './node' (x86_64)\r\n"
+    ],
+    [
+      0.292987,
+      "Process 81407 stopped\r\n* thread #1: tid = 0xafaaf, 0x0000000100695f76 node`node::StreamWrap::DoWrite(this=0x0000000102b00ff0, w=0x0000000101600730, bufs=0x00007fff5fbf2100, count=1, send_handle=0x0000000000000000) + 16 at stream_wrap.cc:343, queue = 'com.apple.main-thread', stop reason = breakpoint 1.2\r\n    frame #0: 0x0000000100695f76 node`node::StreamWrap::DoWrite(this=0x0000000102b00ff0, w=0x0000000101600730, bufs=0x00007fff5fbf2100, count=1, send_handle=0x0000000000000000) + 16 at stream_wrap.cc:343\r\n   340 \t                        uv_stream_t* send_handle) {\r\n   341 \t  int r;\r\n   342 \t  if (send_handle == nullptr) {\r\n-\u003e 343 \t    r = uv_write(\u0026w-\u003ereq_, stream(), bufs, count, AfterWrite);\r\n   344 \t  } else {\r\n   345 \t    r = uv_write2(\u0026w-\u003ereq_, stream(), bufs, count, send_handle, AfterWrite);\r\n   346 \t  }\r\n"
+    ],
+    [
+      0.000103,
+      "(lldb) "
+    ],
+    [
+      0.000014,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000002,
+      "\u001b[8G"
+    ],
+    [
+      0.504711,
+      "b"
+    ],
+    [
+      0.072175,
+      "t"
+    ],
+    [
+      0.080095,
+      " "
+    ],
+    [
+      0.447328,
+      "1"
+    ],
+    [
+      0.064669,
+      "5"
+    ],
+    [
+      0.127456,
+      "\r\n"
+    ],
+    [
+      0.008093,
+      "* thread #1: tid = 0xafaaf, 0x0000000100695f76 node`node::StreamWrap::DoWrite(this=0x0000000102b00ff0, w=0x0000000101600730, bufs=0x00007fff5fbf2100, count=1, send_handle=0x0000000000000000) + 16 at stream_wrap.cc:343, queue = 'com.apple.main-thread', stop reason = breakpoint 1.2\r\n  * frame #0: 0x0000000100695f76 node`node::StreamWrap::DoWrite(this=0x0000000102b00ff0, w=0x0000000101600730, bufs=0x00007fff5fbf2100, count=1, send_handle=0x0000000000000000) + 16 at stream_wrap.cc:343\r\n    frame #1: 0x0000000100693b3a node`int node::StreamBase::WriteString\u003c(node::encoding)1\u003e(this=0x0000000102b00ff0, args=\u003cunavailable\u003e) + 1030 at stream_base.cc:338\r\n    frame #2: 0x000000010069638b node`void node::StreamBase::JSMethod\u003cnode::StreamWrap, \u0026(int node::StreamBase::WriteString\u003c(node::encoding)1\u003e(v8::FunctionCallbackInfo\u003cv8::Value\u003e const\u0026))\u003e(args=0x00007fff5fbf6180) + 59 at stream_base-inl.h:100\r\n    frame #3: 0x000012079a62c4a8\r\n    frame #4: 0x000012079a62d293\r\n    frame #5: 0x000012079a628b2b\r\n    frame #6: 0x00001207"
+    ],
+    [
+      0.000060,
+      "9a6294cb\r\n    frame #7: 0x000012079a62f6d8\r\n    frame #8: 0x000012079a62fb84\r\n    frame #9: 0x000012079a519514\r\n    frame #10: 0x000012079a62ca2c\r\n    frame #11: 0x000012079a51f6bc\r\n    frame #12: 0x000012079a5e1216\r\n    frame #13: 0x000012079a519514\r\n    frame #14: 0x000012079a5f5d0f\r\n"
+    ],
+    [
+      0.000034,
+      "(lld"
+    ],
+    [
+      0.000003,
+      "b) "
+    ],
+    [
+      0.000008,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000002,
+      "\u001b[8G"
+    ],
+    [
+      0.696103,
+      "v"
+    ],
+    [
+      0.112184,
+      "8"
+    ],
+    [
+      0.143980,
+      " "
+    ],
+    [
+      0.471945,
+      "b"
+    ],
+    [
+      0.095934,
+      "t"
+    ],
+    [
+      0.104075,
+      " "
+    ],
+    [
+      0.447760,
+      "1"
+    ],
+    [
+      0.088247,
+      "5"
+    ],
+    [
+      0.424391,
+      "\r\n"
+    ],
+    [
+      0.350163,
+      " * thread #1: tid = 0xafaaf, 0x0000000100695f76 node`node::StreamWrap::DoWrite(this=0x0000000102b00ff0, w=0x0000000101600730, bufs=0x00007fff5fbf2100, count=1, send_handle=0x0000000000000000) + 16 at stream_wrap.cc:343, queue = 'com.apple.main-thread', stop reason = breakpoint 1.2\r\n  * frame #0: 0x0000000100695f76 node`node::StreamWrap::DoWrite(this=0x0000000102b00ff0, w=0x0000000101600730, bufs=0x00007fff5fbf2100, count=1, send_handle=0x0000000000000000) + 16 at stream_wrap.cc:343\r\n    frame #1: 0x0000000100693b3a node`int node::StreamBase::WriteString\u003c(node::encoding)1\u003e(this=0x0000000102b00ff0, args=\u003cunavailable\u003e) + 1030 at stream_base.cc:338\r\n    frame #2: 0x000000010069638b node`void node::StreamBase::JSMethod\u003cnode::StreamWrap, \u0026(int node::StreamBase::WriteString\u003c(node::encoding)1\u003e(v8::FunctionCallbackInfo\u003cv8::Value\u003e const\u0026))\u003e(args=0x00007fff5fbf6180) + 59 at stream_base-inl.h:100\r\n    frame #3: 0x000012079a62c4a8 \u003cinternal code\u003e\r\n    frame #4: 0x000012079a62d293 Socket._writeGeneric(this=0x00002b4c17bf99"
+    ],
+    [
+      0.000067,
+      "11:\u003cObject: Socket\u003e, 0x000036ebe92043c9:\u003cfalse\u003e, 0x00002b4c17b07c49:\u003cString: \"aaaaaaaaaaaaa\"\u003e, 0x000036ebe92a8221:\u003cString: \"utf8\"\u003e, 0x00002b4c17b4ef71:\u003cfunction: WritableState.onwrite at _stream_writable.js:88:26\u003e) at net.js:622:42\r\n    frame #5: 0x000012079a628b2b writeOrBuffer(this=0x000036ebe9204139:\u003cundefined\u003e, 0x00002b4c17bf9911:\u003cObject: Socket\u003e, 0x00002b4c17bf99d9:\u003cObject: WritableState\u003e, 0x00002b4c17b07c49:\u003cString: \"aaaaaaaaaaaaa\"\u003e, 0x000036ebe92a8221:\u003cString: \"utf8\"\u003e, 0x00002b4c17b77ed1:\u003cfunction: nop at _stream_writable.js:17:13\u003e) at _stream_writable.js:255:23\r\n    frame #6: 0x000012079a6294cb OutgoingMessage._writeRaw(this=0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e, 0x00002b4c17b07c49:\u003cString: \"aaaaaaaaaaaaa\"\u003e, 0x000036ebe9204139:\u003cundefined\u003e, 0x000036ebe9204139:\u003cundefined\u003e) at _http_outgoing.js:147:47\r\n    frame #7: 0x000012079a62f6d8 OutgoingMessage._send(this=0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e, 0x00002b4c17b07c49:\u003cString: \"aaaaaaaaaaaaa\"\u003e, 0x000036ebe9204139:\u003cundefined\u003e, 0x000036ebe9204139"
+    ],
+    [
+      0.000160,
+      ":\u003cundefined\u003e) at _http_outgoing.js:124:43\r\n    frame #8: 0x000012079a62fb84 OutgoingMessage.write(this=0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e, 0x00002b4c17b07c49:\u003cString: \"aaaaaaaaaaaaa\"\u003e, 0x000036ebe9204139:\u003cundefined\u003e, 0x000036ebe9204139:\u003cundefined\u003e) at _http_outgoing.js:422:43\r\n    frame #9: 0x000012079a519514 \u003cadaptor\u003e\r\n    frame #10: 0x000012079a62ca2c (anonymous)(this=0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e, 0x00002b4c17bf9cf1:\u003cObject: IncomingMessage\u003e) at /Users/findutnyy/Code/indutny/node/5.js:15:14\r\n    frame #11: 0x000012079a51f6bc \u003cinternal\u003e\r\n    frame #12: 0x000012079a5e1216 g(this=0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e) at events.js:255:13\r\n    frame #13: 0x000012079a519514 \u003cadaptor\u003e\r\n    frame #14: 0x000012079a5f5d0f emitOne(this=0x000036ebe9204139:\u003cundefined\u003e, 0x00002b4c17bf9e01:\u003cfunction: g at events.js:255:13\u003e, 0x000036ebe9204361:\u003ctrue\u003e, 0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e, 0x00002b4c17bf9cf1:\u003cObject: IncomingMessage\u003e) at events.js:75:17\r\n"
+    ],
+    [
+      0.000004,
+      "(lldb) "
+    ],
+    [
+      0.000016,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000003,
+      "\u001b[8G"
+    ],
+    [
+      5.096991,
+      "v"
+    ],
+    [
+      0.183964,
+      "8"
+    ],
+    [
+      0.151895,
+      " "
+    ],
+    [
+      0.088183,
+      "i"
+    ],
+    [
+      0.151955,
+      " "
+    ],
+    [
+      0.313024,
+      "0"
+    ],
+    [
+      0.000010,
+      "x00"
+    ],
+    [
+      0.000005,
+      "0"
+    ],
+    [
+      0.000015,
+      "0"
+    ],
+    [
+      0.000004,
+      "2"
+    ],
+    [
+      0.000013,
+      "b"
+    ],
+    [
+      0.000004,
+      "4"
+    ],
+    [
+      0.000004,
+      "c"
+    ],
+    [
+      0.000019,
+      "1"
+    ],
+    [
+      0.000007,
+      "7b"
+    ],
+    [
+      0.000018,
+      "f"
+    ],
+    [
+      0.000003,
+      "9"
+    ],
+    [
+      0.000023,
+      "9"
+    ],
+    [
+      0.000003,
+      "11"
+    ],
+    [
+      0.158974,
+      "\r\n"
+    ],
+    [
+      0.019867,
+      "0x00002b4c17bf9911:\u003cObject: Socket properties {\r\n    ._connecting=0x000036ebe92043c9:\u003cfalse\u003e,\r\n    ._hadError=0x000036ebe92043c9:\u003cfalse\u003e,\r\n    ._handle=0x00002b4c17bfa341:\u003cObject: TCP\u003e,\r\n    ._parent=0x000036ebe9204111:\u003cOddball\u003e,\r\n    ._host=0x00002b4c17b0a081:\u003cString: \"localhost\"\u003e,\r\n    ._readableState=0x00002b4c17bfa229:\u003cObject: ReadableState\u003e,\r\n    .readable=0x000036ebe9204361:\u003ctrue\u003e,\r\n    .domain=0x000036ebe9204111:\u003cOddball\u003e,\r\n    ._events=0x00002b4c17bfa1f1:\u003cObject: Object\u003e,\r\n    ._eventsCount=\u003cSmi: 1075970048\u003e,\r\n    ._maxListeners=0x000036ebe9204139:\u003cundefined\u003e,\r\n    ._writableState=0x00002b4c17bf99d9:\u003cObject: WritableState\u003e,\r\n    .writable=0x000036ebe9204361:\u003ctrue\u003e,\r\n    .allowHalfOpen=0x000036ebe92043c9:\u003cfalse\u003e,\r\n    .destroyed=0x000036ebe92043c9:\u003cfalse\u003e,\r\n    .bytesRead=\u003cSmi: 47\u003e,\r\n    ._bytesDispatched=\u003cSmi: 555263\u003e,\r\n    ._sockname=0x000036ebe9204111:\u003cOddball\u003e,\r\n    ._pendingData=0x000036ebe9204111:\u003cOddball\u003e,\r\n    ._pendingEncoding=0x000036ebe9204601:\u003cString: \"\"\u003e,\r\n    .parser=0x00002b4c17bfa009:\u003cO"
+    ],
+    [
+      0.000068,
+      "bject: HTTPParser\u003e,\r\n    ._httpMessage=0x00002b4c17bf9c09:\u003cObject: ClientRequest\u003e,\r\n    ._consuming=0x000036ebe9204361:\u003ctrue\u003e}\u003e\r\n"
+    ],
+    [
+      0.000015,
+      "(lldb) "
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000002,
+      "\u001b[8G"
+    ],
+    [
+      2.899733,
+      "v"
+    ],
+    [
+      0.111999,
+      "8"
+    ],
+    [
+      0.136026,
+      " "
+    ],
+    [
+      0.208092,
+      "i"
+    ],
+    [
+      0.159880,
+      " "
+    ],
+    [
+      0.264955,
+      "0"
+    ],
+    [
+      0.000007,
+      "x0"
+    ],
+    [
+      0.000027,
+      "00"
+    ],
+    [
+      0.000006,
+      "02"
+    ],
+    [
+      0.000048,
+      "b4"
+    ],
+    [
+      0.000007,
+      "c17bf"
+    ],
+    [
+      0.000025,
+      "a"
+    ],
+    [
+      0.000004,
+      "1"
+    ],
+    [
+      0.000015,
+      "f"
+    ],
+    [
+      0.000003,
+      "1"
+    ],
+    [
+      1.190805,
+      "\r\n"
+    ],
+    [
+      0.010997,
+      "0x00002b4c17bfa1f1:\u003cObject: Object properties {\r\n    .32=0x000036ebe9204139:\u003cundefined\u003e,\r\n    .drain=0x000003dbca0652d9:\u003cfunction: ondrain at _http_common.js:192:17\u003e,\r\n    ._socketEnd=0x000003dbca065969:\u003cfunction: onSocketEnd at net.js:236:21\u003e,\r\n    .end=0x000003dbca06e129:\u003cArray: length=2\u003e,\r\n    .close=0x000003dbca06e149:\u003cArray: length=2\u003e,\r\n    .finish=0x000003dbca0658d9:\u003cfunction: onSocketFinish at net.js:186:24\u003e,\r\n    .error=0x000003dbca064f19:\u003cfunction: socketErrorListener at _http_client.js:259:29\u003e,\r\n    .free=0x000003dbca06c631:\u003cfunction: onFree at _http_agent.js:181:18\u003e,\r\n    .agentRemove=0x000003dbca06c6c1:\u003cfunction: onRemove at _http_agent.js:195:20\u003e,\r\n    .data=0x00002b4c17bfa1a9:\u003cfunction: socketOnData at _http_client.js:304:22\u003e}\u003e\r\n"
+    ],
+    [
+      0.000073,
+      "(ll"
+    ],
+    [
+      0.000002,
+      "db) "
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000002,
+      "\u001b[8G"
+    ],
+    [
+      3.092883,
+      "v"
+    ],
+    [
+      0.087965,
+      "8"
+    ],
+    [
+      0.135980,
+      " "
+    ],
+    [
+      0.088079,
+      "i"
+    ],
+    [
+      0.119904,
+      " "
+    ],
+    [
+      0.281172,
+      "0"
+    ],
+    [
+      0.000008,
+      "x00"
+    ],
+    [
+      0.000003,
+      "0"
+    ],
+    [
+      0.000037,
+      "003db"
+    ],
+    [
+      0.000024,
+      "c"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000003,
+      "0"
+    ],
+    [
+      0.000023,
+      "6"
+    ],
+    [
+      0.000004,
+      "e"
+    ],
+    [
+      0.000003,
+      "1"
+    ],
+    [
+      0.000014,
+      "2"
+    ],
+    [
+      0.000003,
+      "9"
+    ],
+    [
+      0.918755,
+      "\r\n"
+    ],
+    [
+      0.006259,
+      "0x000003dbca06e129:\u003cArray: length=2 {\r\n    [0]=0x000003dbca06c5e9:\u003cfunction: g at events.js:255:13\u003e,\r\n    [1]=0x000003dbca064f61:\u003cfunction: socketOnEnd at _http_client.js:286:21\u003e}\u003e\r\n"
+    ],
+    [
+      0.000086,
+      "(lldb) "
+    ],
+    [
+      0.000023,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.897521,
+      "q"
+    ],
+    [
+      0.095965,
+      "\r\n"
+    ],
+    [
+      0.000445,
+      "Qui"
+    ],
+    [
+      0.000006,
+      "tting LLDB wi"
+    ],
+    [
+      0.000003,
+      "ll "
+    ],
+    [
+      0.000003,
+      "ki"
+    ],
+    [
+      0.000003,
+      "ll "
+    ],
+    [
+      0.000003,
+      "on"
+    ],
+    [
+      0.000004,
+      "e o"
+    ],
+    [
+      0.000003,
+      "r "
+    ],
+    [
+      0.000004,
+      "mor"
+    ],
+    [
+      0.000003,
+      "e "
+    ],
+    [
+      0.000003,
+      "pr"
+    ],
+    [
+      0.000003,
+      "oc"
+    ],
+    [
+      0.000003,
+      "es"
+    ],
+    [
+      0.000004,
+      "ses"
+    ],
+    [
+      0.000003,
+      ". "
+    ],
+    [
+      0.000003,
+      "Do"
+    ],
+    [
+      0.000003,
+      " y"
+    ],
+    [
+      0.000003,
+      "ou "
+    ],
+    [
+      0.000003,
+      "re"
+    ],
+    [
+      0.000003,
+      "all"
+    ],
+    [
+      0.000003,
+      "y "
+    ],
+    [
+      0.000004,
+      "wan"
+    ],
+    [
+      0.000003,
+      "t "
+    ],
+    [
+      0.000003,
+      "to "
+    ],
+    [
+      0.000003,
+      "pr"
+    ],
+    [
+      0.000004,
+      "oc"
+    ],
+    [
+      0.000004,
+      "eed"
+    ],
+    [
+      0.000003,
+      ": "
+    ],
+    [
+      0.000004,
+      "[Y/"
+    ],
+    [
+      0.000003,
+      "n]"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.415245,
+      "y"
+    ],
+    [
+      0.112289,
+      "\r\n"
+    ],
+    [
+      0.029836,
+      "~/Code/indutny/node $ "
+    ],
+    [
+      0.722230,
+      "exit\r\n"
+    ]
+  ]
+}

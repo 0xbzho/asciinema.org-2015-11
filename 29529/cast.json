@@ -1,0 +1,478 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 33.368101,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.624692,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000350,
+      "\u001b]2;wojtekryrych@wojtek: ~/projects/vim-ctrlspace-new-docs\u0007\u001b]1;..pace-new-docs\u0007"
+    ],
+    [
+      0.036406,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mvim-ctrlspace-new-docs \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000196,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "v"
+    ],
+    [
+      0.086630,
+      "\u0008vi"
+    ],
+    [
+      0.091892,
+      "m"
+    ],
+    [
+      0.830923,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000097,
+      "\r\r\n"
+    ],
+    [
+      0.008355,
+      "\u001b]2;vim\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;vim\u0007"
+    ],
+    [
+      0.561788,
+      "\u001b[?1002h"
+    ],
+    [
+      0.000009,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.015497,
+      "\u001b[1;25r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[94m\u001b[100m\u001b[H\u001b[2J"
+    ],
+    [
+      0.006434,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.032913,
+      "\u001b[?25l\u001b[1;1H\u001b[93m  1 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                            \u001b[m\u001b[94m\u001b[100m\u001b[2;1H\u001b[1m\u001b[93m~                                                                               \u001b[3;1H~                                                                               \u001b[4;1H~                                                                               \u001b[5;1H~                                                                               \u001b[6;1H~                                                                               \u001b[7;1H~                                                                               \u001b[8;1H~                                                                               \u001b[9;1H~                                                                               \u001b[10;1H~                                                                               \u001b[11;1H~                                                                               \u001b[12;1H~               "
+    ],
+    [
+      0.000130,
+      "                                                                \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               "
+    ],
+    [
+      0.000700,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[24;1H\u001b[7m\u001b[96m\u001b[40m[No Name] [Git(master)]                                                0,0-1 All\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.322133,
+      "\u001b[?25l"
+    ],
+    [
+      0.016139,
+      "\u001b[?1002l"
+    ],
+    [
+      0.001629,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u001b[7m\u001b[93m\u001b[40m[No Name] [Git(master)]                                             ★  0,0-1 All\u001b[m\u001b[94m\u001b[100m\u001b[23;1H\u003e\u001b[7m\u001b[92m\u001b[47m [1*No Name] ★                                                                 \u001b[m\u001b[94m\u001b[100m\u001b[24;1H\u001b[7m\u001b[96m\u001b[40m⌗    •                 \u001b[44C1 [1*No Name]\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.672293,
+      "\u001b[?25l\r\n\r\n\u001b[m\u001b[94m\u001b[100m⌗  Add directory to bookmarks:"
+    ],
+    [
+      0.000084,
+      " /Users/wojtekryrych/projects/vim-ctrlspace-new-d\r\r\n\u001b[24;80Ho\u001b[25;1Hcs"
+    ],
+    [
+      0.000026,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "/"
+    ],
+    [
+      0.000054,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.183853,
+      "e"
+    ],
+    [
+      0.000047,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.362025,
+      "x"
+    ],
+    [
+      0.000036,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.300981,
+      "..."
+    ],
+    [
+      0.000192,
+      "\u001b[?25l\u001b[25;6H\u001b[K\u001b[25;6H\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "..."
+    ],
+    [
+      0.000191,
+      "\u001b[?25l\u001b[25;6H\u001b[K\u001b[25;6H\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.843703,
+      "\u001b[?25l\u001b[25;5H\u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[25;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179599,
+      "\u001b[?25l\u001b[25;4H\u001b[K"
+    ],
+    [
+      0.000054,
+      "\u001b[25;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.221781,
+      "r"
+    ],
+    [
+      0.000031,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055944,
+      "e"
+    ],
+    [
+      0.000032,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167029,
+      "..."
+    ],
+    [
+      0.000332,
+      "\u001b[?25l\u0008\u0008\u0008pos_for_examples/"
+    ],
+    [
+      0.000051,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "e\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151759,
+      "m"
+    ],
+    [
+      0.000048,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.112024,
+      "..."
+    ],
+    [
+      0.000329,
+      "\u001b[?25l\u0008\u0008\u0008ber.js/"
+    ],
+    [
+      0.000036,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.380683,
+      "\r"
+    ],
+    [
+      0.001068,
+      "\u001b[27m\u001b[m\u001b[94m\u001b[100m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[93m  1 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                            \u001b[m\u001b[94m\u001b[100m\u001b[2;1H\u001b[1m\u001b[93m~                                                                               \u001b[3;1H~                                                                               \u001b[4;1H~                                                                               \u001b[5;1H~                                                                               \u001b[6;1H~                                                                               \u001b[7;1H~                                                                               \u001b[8;1H~                                                                               \u001b[9;1H~                                                                               \u001b[10;1H~                                                                               \u001b[11;1H~                                                                            "
+    ],
+    [
+      0.000054,
+      "   \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u001b[7m\u001b[93m\u001b[40m[No Name] [Git(master)]                                             ★  0,0-1 All\u001b[m\u001b[94m\u001b[100m"
+    ],
+    [
+      0.000284,
+      "\u001b[23;1H\u003e\u001b[7m\u001b[92m\u001b[47m [1*No Name] ★                                                                 \u001b[m\u001b[94m\u001b[100m\u001b[24;1H\u001b[7m\u001b[96m\u001b[40m⌗    •                                                             1 [1*No Name]"
+    ],
+    [
+      0.000029,
+      "\u001b[25;1H\u001b[m\u001b[94m\u001b[100m⌗  New bookmark name:"
+    ],
+    [
+      0.000033,
+      " ember.js"
+    ],
+    [
+      0.000030,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.452466,
+      "\r"
+    ],
+    [
+      0.000919,
+      "\u001b[27m\u001b[m\u001b[94m\u001b[100m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[93m  1 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                            \u001b[m\u001b[94m\u001b[100m\u001b[2;1H\u001b[1m\u001b[93m~                                                                               \u001b[3;1H~                                                                               \u001b[4;1H~                                                                               \u001b[5;1H~                                                                               \u001b[6;1H~                                                                               \u001b[7;1H~                                                                               \u001b[8;1H~                                                                               \u001b[9;1H~                                                                               \u001b[10;1H~                                                                               \u001b[11;1H~                                                                            "
+    ],
+    [
+      0.000054,
+      "   \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u001b[7m\u001b[93m\u001b[40m[No Name] [Git(master)]                                             ★  0,0-1 All\u001b[m\u001b[94m\u001b[100m"
+    ],
+    [
+      0.000321,
+      "\u001b[23;1H\u003e\u001b[7m\u001b[92m\u001b[47m [1*No Name] ★                                                                 \u001b[m\u001b[94m\u001b[100m\u001b[24;1H\u001b[7m\u001b[96m\u001b[40m⌗    •                                                             1 [1*No Name]"
+    ],
+    [
+      0.042355,
+      "\u001b[?1002h"
+    ],
+    [
+      0.048823,
+      "\u001b[?1002l\u001b[?1002h"
+    ],
+    [
+      0.014961,
+      "\u001b[?1002l"
+    ],
+    [
+      0.002349,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[23;3H\u001b[7m\u001b[92m\u001b[47member.js     \u001b[m\u001b[94m\u001b[100m\u001b[24;6H\u001b[7m\u001b[96m\u001b[40m♥\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.814148,
+      "\u001b[?25l\u001b[?1002h"
+    ],
+    [
+      0.014983,
+      "\u001b[?1002l\u001b[m\u001b[94m\u001b[100m\u001b[2C\u001b[7m\u001b[92m\u001b[47m[1*No Name] ★\u001b[m\u001b[94m\u001b[100m\u001b[24;6H\u001b[7m\u001b[96m\u001b[40m•"
+    ],
+    [
+      0.000244,
+      "\u001b[m\u001b[94m\u001b[100m\r\n⌗  CWD is now: /Users/wojtekryrych/projects/vim-ctrlspace-new-docs/repos_for_ex\r\r\n\u001b[24;80Ha\u001b[25;1Hmples/ember.js\r\r\n\u001b[1m\u001b[36mPress ENTER or type command to continue\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[1;1H\u001b[2L\u001b[?25l\u001b[1;1H\u001b[93m  1 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                            \u001b[m\u001b[94m\u001b[100m\u001b[2;1H\u001b[1m\u001b[93m~                                                                               \u001b[m\u001b[94m\u001b[100m\u001b[25;1H\u001b[K\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.683559,
+      "\u001b[?25l\u001b[?1002h"
+    ],
+    [
+      0.011959,
+      "\u001b[?1002l\r\n\r\n⌗  Collecting files..."
+    ],
+    [
+      0.174920,
+      "\u001b[27m\u001b[m\u001b[94m\u001b[100m\u001b[H\u001b[2J\u001b[1;1H\u001b[93m  1 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                            \u001b[m\u001b[94m\u001b[100m\u001b[2;1H\u001b[1m\u001b[93m~                                                                               \u001b[3;1H~                                                                               \u001b[4;1H~                                                                               \u001b[5;1H~                                                                               \u001b[6;1H~                                                                               \u001b[7;1H~                                                                               \u001b[8;1H~                                                                               \u001b[9;1H~                                                                               \u001b[10;1H~                                                                               \u001b[11;1H~                                                                               \u001b[1"
+    ],
+    [
+      0.000083,
+      "2;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u001b[7m\u001b[93m\u001b[40m[No Name] [Git(master)]                                             ★  0,0-1 All\u001b[m\u001b[94m\u001b[100m\u001b[24;1H"
+    ],
+    [
+      0.000626,
+      "\u001b[7m\u001b[96m\u001b[40mCtrlSpace [ctrlspace][-]                                               0,0-1 All\u001b[m\u001b[94m\u001b[100m\u001b[25;1H⌗  Collecting files... Done (738)."
+    ],
+    [
+      0.052426,
+      "\u001b[15;1H\u001b[7m\u001b[93m\u001b[40m[No Name] [Git(master)]                                             ★  0,0-1 All\u001b[m\u001b[94m\u001b[100m\u001b[16;1H\u001b[7m\u001b[94m\u001b[40m  packages/loader/lib/main.js                                                   \u001b[17;1H  server/index.js                                                               \u001b[18;1H  testem.dist.json                                                              \u001b[19;1H  testem.json                                                                   \u001b[20;1H  tests/node/helpers/app-module.js                                              \u001b[21;1H  tests/node/runtime-test.js                                                    \u001b[22;1H  tests/node/template-compiler-test.js                                          \u001b[m\u001b[94m\u001b[100m\u001b[23;1H\u003e\u001b[7m\u001b[92m\u001b[47m tests/node/visit-test.js                                                      \u001b[m\u001b[94m\u001b[100m\u001b[24;1H\u001b[7m\u001b[96m\u001b[40m⌗    ○                  \u001b[43C1 [1*No Name]\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "\u001b[?25l"
+    ],
+    [
+      0.000247,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u003e\u001b[7m\u001b[92m\u001b[47m tests/node/template-compiler-test.js                                          \u001b[m\u001b[94m\u001b[100m\u001b[23;1H\u001b[7m\u001b[94m\u001b[40m  tests/node/visit-test.js                                                      \u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197526,
+      "\u001b[?25l"
+    ],
+    [
+      0.000254,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[21;1H\u003e\u001b[7m\u001b[92m\u001b[47m tests/node/runtime-test.js                                                    \u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u001b[7m\u001b[94m\u001b[40m  tests/node/template-compiler-test.js                                          \u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151961,
+      "\u001b[?25l"
+    ],
+    [
+      0.000252,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u003e\u001b[7m\u001b[92m\u001b[47m tests/node/helpers/app-module.js                                              \u001b[m\u001b[94m\u001b[100m\u001b[21;1H\u001b[7m\u001b[94m\u001b[40m  tests/node/runtime-test.js                                                    \u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173561,
+      "\u001b[?25l"
+    ],
+    [
+      0.000241,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[19;1H\u003e\u001b[7m\u001b[92m\u001b[47m testem.json                                                                   \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[7m\u001b[94m\u001b[40m  tests/node/helpers/app-module.js                                              \u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.168635,
+      "\u001b[?25l\u001b[?1002h\u001b[m\u001b[94m\u001b[100m\u001b[25;1H\"~/projects/vim-ctrlspace-new-docs/repos_for_examples/ember.js/testem.json\""
+    ],
+    [
+      0.007496,
+      "\r\u003cjects/vim-ctrlspace-new-docs/repos_for_examples/ember.js/testem.json\" 8L, 170C"
+    ],
+    [
+      0.195264,
+      "\u001b[?1002l"
+    ],
+    [
+      0.011048,
+      "\u001b[?1002h\u001b[?1002l"
+    ],
+    [
+      0.011181,
+      "\u001b[?1002h"
+    ],
+    [
+      0.003087,
+      "\u001b[?1002l"
+    ],
+    [
+      0.010490,
+      "\u001b[?1002h\u001b[?1002l"
+    ],
+    [
+      0.012401,
+      "\u001b[?1002h\u001b[?1002l"
+    ],
+    [
+      0.011778,
+      "\u001b[?1002h\u001b[?1002l"
+    ],
+    [
+      0.010031,
+      "\u001b[?1002h"
+    ],
+    [
+      0.017814,
+      "\u001b[1;5H\u001b[1m\u001b[31m\u001b[102m{\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m  \"\u001b[32mframework\u001b[m\u001b[94m\u001b[100m\": \"\u001b[36mqunit\u001b[m\u001b[94m\u001b[100m\",                                                     \u001b[3;1H\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m  \"\u001b[32mtest_page\u001b[m\u001b[94m\u001b[100m\": \"\u001b[36mtests/index.html?hidepassed\u001b[m\u001b[94m\u001b[100m\",                               \u001b[4;1H\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100m  \"\u001b[32mtimeout\u001b[m\u001b[94m\u001b[100m\": \u001b[36m540\u001b[m\u001b[94m\u001b[100m,                                                           \u001b[5;1H\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m  \"\u001b[32mparallel\u001b[m\u001b[94m\u001b[100m\": \u001b[36m4\u001b[m\u001b[94m\u001b[100m,                                                            \u001b[6;1H\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m  \"\u001b[32mdisable_watching\u001b[m\u001b[94m\u001b[100m\": \u001b[36mtrue\u001b[m\u001b[94m\u001b[100m,                                                 \u001b[7;1H\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m  \"\u001b[32mlaunch_in_dev\u001b[m\u001b[94m\u001b[100m\": \u001b[31m[\u001b[m\u001b[94m\u001b[100m\"\u001b[36mPhantomJS\u001b[m\u001b[94m\u001b[100m\"\u001b[31m]\u001b[m\u001b[94m\u001b[100m                                            \u001b[8;1H\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m\u001b[1m\u001b[31m\u001b[102m}\u001b[m\u001b[94m\u001b[100m  "
+    ],
+    [
+      0.000069,
+      "                                                                         \u001b[15;1H\u001b[1m\u001b[93m~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[m\u001b[94m\u001b[100m\u001b[24;1H\u001b[7m\u001b[96m\u001b[40m\u003cce-new-docs/repos_for_examples/ember.js/testem.json [json] [Git(master)]1,1 All\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[25;1H\u001b[K\u001b[25;1H:"
+    ],
+    [
+      0.000042,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.549046,
+      "q"
+    ],
+    [
+      0.000032,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.453881,
+      "!"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.290069,
+      "\r"
+    ],
+    [
+      0.045057,
+      "\u001b[?25l\u001b[?1002l"
+    ],
+    [
+      0.000009,
+      "\u001b[25;1H\u001b[K\u001b[25;1H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000004,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.004612,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000218,
+      "\u001b]2;wojtekryrych@wojtek: ~/projects/vim-ctrlspace-new-docs\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b]1;..pace-new-docs\u0007"
+    ],
+    [
+      0.034413,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mvim-ctrlspace-new-docs \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000092,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.367036,
+      "\r\r\n"
+    ]
+  ]
+}

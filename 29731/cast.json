@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 29,
+  "duration": 50.530691,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.457568,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000032,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/redis/src\u0007"
+    ],
+    [
+      0.085647,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31msrc ➤ \u001b[00m"
+    ],
+    [
+      0.000026,
+      "\u001b[K\u001b[59C\u001b[31m :deval*: !!??\u001b[00m\u001b[73D"
+    ],
+    [
+      4.882370,
+      "."
+    ],
+    [
+      0.000156,
+      "\u0008./"
+    ],
+    [
+      0.000167,
+      "r"
+    ],
+    [
+      0.000111,
+      "e"
+    ],
+    [
+      0.000086,
+      "d"
+    ],
+    [
+      0.000082,
+      "i"
+    ],
+    [
+      0.000257,
+      "s"
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000082,
+      "c"
+    ],
+    [
+      0.000080,
+      "l"
+    ],
+    [
+      0.000077,
+      "i"
+    ],
+    [
+      0.000581,
+      " "
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000081,
+      "-"
+    ],
+    [
+      0.000078,
+      "l"
+    ],
+    [
+      0.000086,
+      "d"
+    ],
+    [
+      0.000076,
+      "b"
+    ],
+    [
+      0.000530,
+      " "
+    ],
+    [
+      0.000083,
+      "-"
+    ],
+    [
+      0.000068,
+      "-"
+    ],
+    [
+      0.000064,
+      "e"
+    ],
+    [
+      0.000061,
+      "v"
+    ],
+    [
+      0.000060,
+      "a"
+    ],
+    [
+      0.000073,
+      "l"
+    ],
+    [
+      0.000435,
+      " "
+    ],
+    [
+      0.000093,
+      "/"
+    ],
+    [
+      0.000080,
+      "t"
+    ],
+    [
+      0.000076,
+      "m"
+    ],
+    [
+      0.000074,
+      "p"
+    ],
+    [
+      0.000080,
+      "/"
+    ],
+    [
+      0.000054,
+      "s"
+    ],
+    [
+      0.000074,
+      "c"
+    ],
+    [
+      0.000053,
+      "r"
+    ],
+    [
+      0.000049,
+      "i"
+    ],
+    [
+      0.000050,
+      "p"
+    ],
+    [
+      0.000049,
+      "t"
+    ],
+    [
+      0.000050,
+      "."
+    ],
+    [
+      0.000049,
+      "l"
+    ],
+    [
+      0.000050,
+      "u"
+    ],
+    [
+      0.000050,
+      "a"
+    ],
+    [
+      0.615871,
+      "\r\r\n"
+    ],
+    [
+      0.009451,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ./redis-cli --ldb --eval /tmp/script.lua\u0007"
+    ],
+    [
+      0.009869,
+      "\u001b[0;33;49m1* redis.call('rpush','foo','a')\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "lua debugger\u003e "
+    ],
+    [
+      2.148482,
+      "\r\u001b[0Klua debugger\u003e h\r\u001b[15C"
+    ],
+    [
+      0.047529,
+      "\r\u001b[0Klua debugger\u003e he\r\u001b[16C"
+    ],
+    [
+      0.032264,
+      "\r\u001b[0Klua debugger\u003e hel\r\u001b[17C"
+    ],
+    [
+      0.088142,
+      "\r\u001b[0Klua debugger\u003e help\r\u001b[18C"
+    ],
+    [
+      0.983667,
+      "\r\n"
+    ],
+    [
+      0.010975,
+      "\u001b[0;37;49mRedis Lua debugger help:\u001b[0m\r\n\u001b[0;37;49m[s]tep          Run current line and stop again.\u001b[0m\r\n\u001b[0;37;49m[n]ext          Alias for step.\u001b[0m\r\n\u001b[0;37;49m[c]continue     Run till next breakpoint.\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0;37;49m[l]list [line]  List source code, around [line] if specified\u001b[0m\r\n\u001b[0;37;49m                you can use another arg for context size.\u001b[0m\r\n\u001b[0;37;49m[p]rint \u003cvar\u003e   Show the value of the specified local variable.\u001b[0m\r\n\u001b[0;37;49m[b]eark         Show all breakpoints.\u001b[0m\r\n\u001b[0;37;49m[b]eark \u003cline\u003e  Add a breakpoint to the specified line.\u001b[0m\r\n\u001b[0;37;49m[b]eark -\u003cline\u003e Remove breakpoint from the specified line.\u001b[0m\r\n\u001b[0;37;49m[b]eark 0       Remove all breakpoints.\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "lua debugger\u003e "
+    ],
+    [
+      2.253016,
+      "\r\u001b[0Klua debugger\u003e l\r\u001b[15C"
+    ],
+    [
+      0.135928,
+      "\r\u001b[0Klua debugger\u003e li\r\u001b[16C"
+    ],
+    [
+      0.024100,
+      "\r\u001b[0Klua debugger\u003e lis\r\u001b[17C"
+    ],
+    [
+      0.072494,
+      "\r\u001b[0Klua debugger\u003e list\r\u001b[18C"
+    ],
+    [
+      0.687662,
+      "\r\n"
+    ],
+    [
+      0.008591,
+      "\u001b[0;33;49m1* redis.call('rpush','foo','a')\u001b[0m\r\n\u001b[0;37;49m2: redis.call('rpush','foo','b')\u001b[0m\r\n\u001b[0;37;49m3: redis.call('rpush','foo','c')\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0;37;49m4: redis.call('lrange','foo',0,-1)\u001b[0m\r\n\u001b[0;37;49m5: local a, res\u001b[0m\r\n\u001b[0;37;49m6: redis.call('del','mylist')\u001b[0m\r\n\u001b[0;37;49m7: a = 100\u001b[0m\r\n\u001b[0;37;49m8: res = {}\u001b[0m\r\n\u001b[0;37;49m9: while a \u003e= 0 do\u001b[0m\r\n\u001b[0;37;49m10:     table.insert(res,redis.call('rpush','mylist',a))\u001b[0m\r\n\u001b[0;37;49m11:     redis.call('lrange','mylist',0,-1)\u001b[0m\r\n\u001b[0;37;49m12:     a = a - 1\u001b[0m\r\n\u001b[0;37;49m13: end\u001b[0m\r\n\u001b[0;37;49m14: redis.call('lrange','mylist',0,-1)\u001b[0m\r\n\u001b[0;37;49m15: return res\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "lua debugger\u003e "
+    ],
+    [
+      3.263206,
+      "\r\u001b[0Klua debugger\u003e n\r\u001b[15C"
+    ],
+    [
+      1.848330,
+      "\r\n"
+    ],
+    [
+      0.008118,
+      "\u001b[0;32;49m\u003credis\u003e rpush foo a\u001b[0m\r\n\u001b[0;36;49m\u003creply\u003e 1\u001b[0m\r\n\u001b[0;33;49m2* redis.call('rpush','foo','b')\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "lua debugger\u003e "
+    ],
+    [
+      1.304449,
+      "\r\u001b[0Klua debugger\u003e n\r\u001b[15C"
+    ],
+    [
+      1.759243,
+      "\r\n"
+    ],
+    [
+      0.008351,
+      "\u001b[0;32;49m\u003credis\u003e rpush foo b\u001b[0m\r\n\u001b[0;36;49m\u003creply\u003e 2\u001b[0m\r\n\u001b[0;33;49m3* redis.call('rpush','foo','c')\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "lua debugger\u003e "
+    ],
+    [
+      0.744662,
+      "\r\u001b[0Klua debugger\u003e n\r\u001b[15C"
+    ],
+    [
+      0.400092,
+      "\r\n"
+    ],
+    [
+      0.000564,
+      "\u001b[0;32;49m\u003credis\u003e rpush foo c\u001b[0m\r\n\u001b[0;36;49m\u003creply\u003e 3\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;33;49m4* redis.call('lrange','foo',0,-1)\u001b[0m\r\n"
+    ],
+    [
+      0.000026,
+      "lua debugger\u003e "
+    ],
+    [
+      2.094347,
+      "\r\u001b[0Klua debugger\u003e n\r\u001b[15C"
+    ],
+    [
+      0.368248,
+      "\r\n"
+    ],
+    [
+      0.008601,
+      "\u001b[0;32;49m\u003credis\u003e lrange foo 0 -1\u001b[0m\r\n\u001b[0;36;49m\u003creply\u003e [\"a\",\"b\",\"c\"]\u001b[0m\r\n\u001b[0;33;49m5* local a, res\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "lua debugger\u003e "
+    ],
+    [
+      1.112322,
+      "\r\u001b[0Klua debugger\u003e b\r\u001b[15C"
+    ],
+    [
+      0.182937,
+      "\r\u001b[0Klua debugger\u003e br\r\u001b[16C"
+    ],
+    [
+      0.039940,
+      "\r\u001b[0Klua debugger\u003e bre\r\u001b[17C"
+    ],
+    [
+      0.079955,
+      "\r\u001b[0Klua debugger\u003e brea\r\u001b[18C"
+    ],
+    [
+      0.056441,
+      "\r\u001b[0Klua debugger\u003e break\r\u001b[19C"
+    ],
+    [
+      0.096003,
+      "\r\u001b[0Klua debugger\u003e break \r\u001b[20C"
+    ],
+    [
+      0.143587,
+      "\r\u001b[0Klua debugger\u003e break 1\r\u001b[21C"
+    ],
+    [
+      0.064031,
+      "\r\u001b[0Klua debugger\u003e break 14\r\u001b[22C"
+    ],
+    [
+      1.264223,
+      "\r\n"
+    ],
+    [
+      0.000450,
+      "\u001b[0;37;49m13: end\u001b[0m\r\n\u001b[1;37;49m14# redis.call('lrange','mylist',0,-1)\u001b[0m\r\n\u001b[0;37;49m15: return res\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "lua debugger\u003e "
+    ],
+    [
+      4.527489,
+      "\r\u001b[0Klua debugger\u003e c\r\u001b[15C"
+    ],
+    [
+      0.096183,
+      "\r\u001b[0Klua debugger\u003e co\r\u001b[16C"
+    ],
+    [
+      0.159726,
+      "\r\u001b[0Klua debugger\u003e con\r\u001b[17C"
+    ],
+    [
+      0.112103,
+      "\r\u001b[0Klua debugger\u003e cont\r\u001b[18C"
+    ],
+    [
+      0.032115,
+      "\r\u001b[0Klua debugger\u003e conti\r\u001b[19C"
+    ],
+    [
+      0.080042,
+      "\r\u001b[0Klua debugger\u003e contin\r\u001b[20C"
+    ],
+    [
+      0.096658,
+      "\r\u001b[0Klua debugger\u003e continu\r\u001b[21C"
+    ],
+    [
+      0.071209,
+      "\r\u001b[0Klua debugger\u003e continue\r\u001b[22C"
+    ],
+    [
+      0.544716,
+      "\r\n"
+    ],
+    [
+      0.010043,
+      "\u001b[1;37;49m14# redis.call('lrange','mylist',0,-1)\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "lua debugger\u003e "
+    ],
+    [
+      4.669292,
+      "\r\u001b[0Klua debugger\u003e n\r\u001b[15C"
+    ],
+    [
+      0.424262,
+      "\r\n"
+    ],
+    [
+      0.009625,
+      "\u001b[0;32;49m\u003credis\u003e lrange mylist 0 -1\u001b[0m\r\n\u001b[0;36;49m\u003creply\u003e [\"100\",\"99\",\"98\",\"97\",\"96\",\"95\",\"94\",\"93\",\"92\",\"91\",\"90\",\"89 ...\u001b[0m\r\n\u001b[0;33;49m15* return res\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "lua debugger\u003e "
+    ],
+    [
+      3.974360,
+      "\r\u001b[0Klua debugger\u003e g\r\u001b[15C"
+    ],
+    [
+      0.095868,
+      "\r\u001b[0Klua debugger\u003e ge\r\u001b[16C"
+    ],
+    [
+      0.104276,
+      "\r\u001b[0Klua debugger\u003e get\r\u001b[17C"
+    ],
+    [
+      0.097053,
+      "\r\u001b[0Klua debugger\u003e get \r\u001b[18C"
+    ],
+    [
+      0.151114,
+      "\r\u001b[0Klua debugger\u003e get a\r\u001b[19C"
+    ],
+    [
+      1.463742,
+      "\r\u001b[0Klua debugger\u003e get \r\u001b[18C"
+    ],
+    [
+      0.251117,
+      "\r\u001b[0Klua debugger\u003e get\r\u001b[17C"
+    ],
+    [
+      0.033988,
+      "\r\u001b[0Klua debugger\u003e ge\r\u001b[16C"
+    ],
+    [
+      0.034448,
+      "\r\u001b[0Klua debugger\u003e g\r\u001b[15C"
+    ],
+    [
+      0.033636,
+      "\r\u001b[0Klua debugger\u003e \r\u001b[14C"
+    ],
+    [
+      0.134632,
+      "\r\u001b[0Klua debugger\u003e p\r\u001b[15C"
+    ],
+    [
+      0.080370,
+      "\r\u001b[0Klua debugger\u003e pr\r\u001b[16C"
+    ],
+    [
+      0.111813,
+      "\r\u001b[0Klua debugger\u003e pri\r\u001b[17C"
+    ],
+    [
+      0.048025,
+      "\r\u001b[0Klua debugger\u003e prin\r\u001b[18C"
+    ],
+    [
+      0.055903,
+      "\r\u001b[0Klua debugger\u003e print\r\u001b[19C"
+    ],
+    [
+      0.088146,
+      "\r\u001b[0Klua debugger\u003e print \r\u001b[20C"
+    ],
+    [
+      0.151766,
+      "\r\u001b[0Klua debugger\u003e print a\r\u001b[21C"
+    ],
+    [
+      0.137163,
+      "\r\n"
+    ],
+    [
+      0.008534,
+      "\u001b[0;35;49m\u003cvalue\u003e -1\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "lua debugger\u003e "
+    ],
+    [
+      3.430533,
+      "\r\u001b[0Klua debugger\u003e q\r\u001b[15C"
+    ],
+    [
+      0.056101,
+      "\r\u001b[0Klua debugger\u003e qu\r\u001b[16C"
+    ],
+    [
+      0.057067,
+      "\r\u001b[0Klua debugger\u003e qui\r\u001b[17C"
+    ],
+    [
+      0.086974,
+      "\r\u001b[0Klua debugger\u003e quit\r\u001b[18C"
+    ],
+    [
+      0.639995,
+      "\r\n"
+    ],
+    [
+      0.008884,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/redis/src\u0007"
+    ],
+    [
+      0.096160,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31msrc ➤ \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[59C\u001b[31m :deval*: !!??\u001b[00m\u001b[73D"
+    ],
+    [
+      0.807765,
+      "\r\r\n"
+    ]
+  ]
+}

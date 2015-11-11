@@ -1,0 +1,6034 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 25,
+  "duration": 49.459925,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.124616,
+      "aniversarioperu /tmp $ "
+    ],
+    [
+      2.206128,
+      "m"
+    ],
+    [
+      0.111799,
+      "k"
+    ],
+    [
+      0.240212,
+      "v"
+    ],
+    [
+      0.135738,
+      "i"
+    ],
+    [
+      0.079984,
+      "r"
+    ],
+    [
+      0.203450,
+      "tualenv "
+    ],
+    [
+      0.340606,
+      "-"
+    ],
+    [
+      0.224018,
+      "p"
+    ],
+    [
+      0.151906,
+      " "
+    ],
+    [
+      0.480095,
+      "/"
+    ],
+    [
+      0.239935,
+      "u"
+    ],
+    [
+      0.088011,
+      "s"
+    ],
+    [
+      0.151977,
+      "r"
+    ],
+    [
+      0.320086,
+      "/"
+    ],
+    [
+      0.255963,
+      "b"
+    ],
+    [
+      0.095945,
+      "i"
+    ],
+    [
+      0.096005,
+      "n"
+    ],
+    [
+      0.312004,
+      "\u0026"
+    ],
+    [
+      0.536132,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.600125,
+      "/"
+    ],
+    [
+      0.335888,
+      "p"
+    ],
+    [
+      0.079849,
+      "y"
+    ],
+    [
+      0.136026,
+      "t"
+    ],
+    [
+      0.104071,
+      "h"
+    ],
+    [
+      0.047907,
+      "o"
+    ],
+    [
+      0.152012,
+      "n"
+    ],
+    [
+      0.320227,
+      "4"
+    ],
+    [
+      0.567843,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.064039,
+      "3"
+    ],
+    [
+      0.352070,
+      " "
+    ],
+    [
+      0.503900,
+      "p"
+    ],
+    [
+      0.088126,
+      "e"
+    ],
+    [
+      0.071861,
+      "r"
+    ],
+    [
+      0.103944,
+      "i"
+    ],
+    [
+      0.080215,
+      "o"
+    ],
+    [
+      0.279919,
+      "d"
+    ],
+    [
+      0.055927,
+      "i"
+    ],
+    [
+      0.095958,
+      "s"
+    ],
+    [
+      0.079958,
+      "t"
+    ],
+    [
+      0.208008,
+      "b"
+    ],
+    [
+      0.096162,
+      "o"
+    ],
+    [
+      0.119885,
+      "t"
+    ],
+    [
+      0.112022,
+      "\r\n"
+    ],
+    [
+      0.249170,
+      "Already using interpreter /usr/bin/python3\r\n"
+    ],
+    [
+      0.000020,
+      "Using base prefix '/usr'"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.016171,
+      "New python executable in periodistbot/bin/python3\r\n"
+    ],
+    [
+      0.007114,
+      "Also creating executable in periodistbot/bin/python\r\n"
+    ],
+    [
+      0.059019,
+      "Installing setuptools, pip..."
+    ],
+    [
+      1.080531,
+      "done."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.447494,
+      "(periodistbot)aniversarioperu /tmp $ "
+    ],
+    [
+      0.564590,
+      "g"
+    ],
+    [
+      0.071841,
+      "i"
+    ],
+    [
+      0.111954,
+      "t"
+    ],
+    [
+      0.184106,
+      " "
+    ],
+    [
+      0.216115,
+      "c"
+    ],
+    [
+      0.087853,
+      "l"
+    ],
+    [
+      0.152059,
+      "o"
+    ],
+    [
+      0.071875,
+      "n"
+    ],
+    [
+      0.176056,
+      "e"
+    ],
+    [
+      0.104147,
+      " "
+    ],
+    [
+      0.752711,
+      "h"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000027,
+      "p"
+    ],
+    [
+      0.000027,
+      "s"
+    ],
+    [
+      0.000028,
+      ":"
+    ],
+    [
+      0.000029,
+      "/"
+    ],
+    [
+      0.000026,
+      "/"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000028,
+      "n"
+    ],
+    [
+      0.000030,
+      "i"
+    ],
+    [
+      0.000029,
+      "v"
+    ],
+    [
+      0.000029,
+      "e"
+    ],
+    [
+      0.000029,
+      "r"
+    ],
+    [
+      0.000030,
+      "s"
+    ],
+    [
+      0.000031,
+      "a"
+    ],
+    [
+      0.000030,
+      "r"
+    ],
+    [
+      0.000031,
+      "i"
+    ],
+    [
+      0.000031,
+      "o"
+    ],
+    [
+      0.000032,
+      "p"
+    ],
+    [
+      0.000032,
+      "e"
+    ],
+    [
+      0.000032,
+      "r"
+    ],
+    [
+      0.000033,
+      "u"
+    ],
+    [
+      0.000033,
+      "@"
+    ],
+    [
+      0.000033,
+      "b"
+    ],
+    [
+      0.000034,
+      "i"
+    ],
+    [
+      0.000034,
+      "t"
+    ],
+    [
+      0.000035,
+      "b"
+    ],
+    [
+      0.000035,
+      "u"
+    ],
+    [
+      0.000035,
+      "c"
+    ],
+    [
+      0.000037,
+      "k"
+    ],
+    [
+      0.000036,
+      "e"
+    ],
+    [
+      0.000037,
+      "t"
+    ],
+    [
+      0.000037,
+      "."
+    ],
+    [
+      0.000038,
+      "o"
+    ],
+    [
+      0.000037,
+      "r"
+    ],
+    [
+      0.000038,
+      "g"
+    ],
+    [
+      0.000057,
+      "/"
+    ],
+    [
+      0.000038,
+      "a"
+    ],
+    [
+      0.000040,
+      "n"
+    ],
+    [
+      0.000040,
+      "i"
+    ],
+    [
+      0.000040,
+      "v"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000042,
+      "r"
+    ],
+    [
+      0.000041,
+      "s"
+    ],
+    [
+      0.000042,
+      "a"
+    ],
+    [
+      0.000042,
+      "r"
+    ],
+    [
+      0.000042,
+      "i"
+    ],
+    [
+      0.000042,
+      "o"
+    ],
+    [
+      0.000048,
+      "p \r"
+    ],
+    [
+      0.000018,
+      "e"
+    ],
+    [
+      0.000018,
+      "r"
+    ],
+    [
+      0.000018,
+      "u"
+    ],
+    [
+      0.000018,
+      "/"
+    ],
+    [
+      0.000019,
+      "p"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000020,
+      "r"
+    ],
+    [
+      0.000020,
+      "i"
+    ],
+    [
+      0.000020,
+      "o"
+    ],
+    [
+      0.000021,
+      "d"
+    ],
+    [
+      0.000021,
+      "i"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000022,
+      "b"
+    ],
+    [
+      0.000023,
+      "o"
+    ],
+    [
+      0.000024,
+      "t"
+    ],
+    [
+      0.000024,
+      "_"
+    ],
+    [
+      0.000024,
+      "l"
+    ],
+    [
+      0.000024,
+      "i"
+    ],
+    [
+      0.000024,
+      "b"
+    ],
+    [
+      0.000025,
+      "."
+    ],
+    [
+      0.000025,
+      "g"
+    ],
+    [
+      0.000025,
+      "i"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.597247,
+      "\r\n"
+    ],
+    [
+      0.002069,
+      "Cloning into 'periodistbot_lib'...\r\n"
+    ],
+    [
+      1.420845,
+      "remote: Counting objects: 294, done.\u001b[K\r\n"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:   0% (1/283)   \u001b[K\rremote: Compressing objects:   1% (3/283)   \u001b[K\rremote: Compressing objects:   2% (6/283)   \u001b[K\rremote: Compressing objects:   3% (9/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:   4% (12/283)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Compressing objects:   5% (15/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:   6% (17/283)   \u001b[K\rremote: Compressing objects:   7% (20/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:   8% (23/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:   9% (26/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  10% (29/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  11% (32/283)   \u001b[K\r"
+    ],
+    [
+      0.000025,
+      "remote: Compressing objects:  12% (34/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  13% (37/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  14% (40/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  15% (43/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  16% (46/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  17% (49/283)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:  18% (51/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  19% (54/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  20% (57/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  21% (60/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  22% (63/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  23% (66/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  24% (68/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  25% (71/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  26% (74/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  27% (77/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  28% (80/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  29% (83/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  30% (85/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  31% (88/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  32% (91/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  33% (94/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  34% (97/283)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Compressing objects:  35% (100/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  36% (102/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  37% (105/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  38% (108/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  39% (111/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  40% (114/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  41% (117/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  42% (119/283)   \u001b[K\r"
+    ],
+    [
+      0.000032,
+      "remote: Compressing objects:  43% (122/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  44% (125/283)   \u001b[K\rremote: Compressing objects:  45% (128/283)   \u001b[K\rremote: Compressing objects:  46% (131/283)   \u001b[K\rremote: Compressing objects:  47% (134/283)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:  48% (136/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  49% (139/283)   \u001b[K\rremote: Compressing objects:  50% (142/283)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Compressing objects:  51% (145/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  52% (148/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  53% (150/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  54% (153/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  55% (156/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  56% (159/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  57% (162/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  58% (165/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  59% (167/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  60% (170/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  61% (173/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  62% (176/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  63% (179/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  64% (182/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  65% (184/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  66% (187/283)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Compressing objects:  67% (190/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  68% (193/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  69% (196/283)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Compressing objects:  70% (199/283)   \u001b[K\rremote: Compressing objects:  71% (201/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  72% (204/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  73% (207/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  74% (210/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  75% (213/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  76% (216/283)   \u001b[K\r"
+    ],
+    [
+      0.000019,
+      "remote: Compressing objects:  77% (218/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  78% (221/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  79% (224/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  80% (227/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  81% (230/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  82% (233/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  83% (235/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  84% (238/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  85% (241/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  86% (244/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  87% (247/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  88% (250/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  89% (252/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  90% (255/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  91% (258/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  92% (261/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  93% (264/283)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  94% (267/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  95% (269/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  96% (272/283)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  97% (275/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  98% (278/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  99% (281/283)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects: 100% (283/283)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects: 100% (283/283), done.\u001b[K"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002214,
+      "Receiving objects:   0% (1/294)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:   1% (3/294)   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:   2% (6/294)   \r"
+    ],
+    [
+      0.000180,
+      "Receiving objects:   3% (9/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:   4% (12/294)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:   5% (15/294)   \r"
+    ],
+    [
+      0.000095,
+      "Receiving objects:   6% (18/294)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:   7% (21/294)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:   8% (24/294)   \r"
+    ],
+    [
+      0.000145,
+      "Receiving objects:   9% (27/294)   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  10% (30/294)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  11% (33/294)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  12% (36/294)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:  13% (39/294)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  14% (42/294)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  15% (45/294)   \r"
+    ],
+    [
+      0.115241,
+      "Receiving objects:  16% (48/294)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  17% (50/294)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  18% (53/294)   \r"
+    ],
+    [
+      0.000184,
+      "Receiving objects:  19% (56/294)   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  20% (59/294)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  21% (62/294)   \r"
+    ],
+    [
+      0.000219,
+      "Receiving objects:  22% (65/294)   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  23% (68/294)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  24% (71/294)   \r"
+    ],
+    [
+      0.000059,
+      "Receiving objects:  25% (74/294)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  26% (77/294)   \r"
+    ],
+    [
+      0.020755,
+      "Receiving objects:  27% (80/294)   \r"
+    ],
+    [
+      0.000771,
+      "Receiving objects:  28% (83/294)   \r"
+    ],
+    [
+      0.101230,
+      "Receiving objects:  29% (86/294)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  30% (89/294)   \r"
+    ],
+    [
+      0.000129,
+      "Receiving objects:  31% (92/294)   \r"
+    ],
+    [
+      0.127333,
+      "Receiving objects:  32% (95/294)   \r"
+    ],
+    [
+      0.023544,
+      "Receiving objects:  33% (98/294)   \r"
+    ],
+    [
+      0.000179,
+      "Receiving objects:  34% (100/294)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  35% (103/294)   \r"
+    ],
+    [
+      0.000148,
+      "Receiving objects:  36% (106/294)   \r"
+    ],
+    [
+      0.000142,
+      "Receiving objects:  37% (109/294)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  38% (112/294)   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  39% (115/294)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  40% (118/294)   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  41% (121/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  42% (124/294)   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:  43% (127/294)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  44% (130/294)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  45% (133/294)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  46% (136/294)   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  47% (139/294)   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  48% (142/294)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  49% (145/294)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  50% (147/294)   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  51% (150/294)   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  52% (153/294)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  53% (156/294)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  54% (159/294)   \r"
+    ],
+    [
+      0.000265,
+      "Receiving objects:  55% (162/294)   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:  56% (165/294)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  57% (168/294)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  58% (171/294)   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  59% (174/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  60% (177/294)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  61% (180/294)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  62% (183/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  63% (186/294)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  64% (189/294)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  65% (192/294)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  66% (195/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  67% (197/294)   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  68% (200/294)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  69% (203/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  70% (206/294)   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects:  71% (209/294)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  72% (212/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  73% (215/294)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  74% (218/294)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  75% (221/294)   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  76% (224/294)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  77% (227/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  78% (230/294)   \r"
+    ],
+    [
+      0.001602,
+      "remote: Total 294 (delta 169), reused 0 (delta 0)\u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  79% (233/294)   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:  80% (236/294)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  81% (239/294)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  82% (242/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  83% (245/294)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  84% (247/294)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  85% (250/294)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  86% (253/294)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  87% (256/294)   \r"
+    ],
+    [
+      0.000059,
+      "Receiving objects:  88% (259/294)   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects:  89% (262/294)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  90% (265/294)   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  91% (268/294)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  92% (271/294)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  93% (274/294)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  94% (277/294)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  95% (280/294)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  96% (283/294)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  97% (286/294)   \rReceiving objects:  98% (289/294)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  99% (292/294)   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects: 100% (294/294)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects: 100% (294/294), 126.45 KiB | 0 bytes/s, done."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000334,
+      "Resolving deltas:   0% (0/169)   \r"
+    ],
+    [
+      0.000292,
+      "Resolving deltas:   1% (3/169)   \r"
+    ],
+    [
+      0.000205,
+      "Resolving deltas:   7% (12/169)   \r"
+    ],
+    [
+      0.000258,
+      "Resolving deltas:  10% (18/169)   \r"
+    ],
+    [
+      0.000342,
+      "Resolving deltas:  17% (30/169)   \r"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:  18% (32/169)   \r"
+    ],
+    [
+      0.000089,
+      "Resolving deltas:  19% (33/169)   \r"
+    ],
+    [
+      0.000075,
+      "Resolving deltas:  20% (34/169)   \r"
+    ],
+    [
+      0.000235,
+      "Resolving deltas:  23% (39/169)   \r"
+    ],
+    [
+      0.000131,
+      "Resolving deltas:  25% (43/169)   \r"
+    ],
+    [
+      0.000187,
+      "Resolving deltas:  28% (49/169)   \r"
+    ],
+    [
+      0.000114,
+      "Resolving deltas:  30% (51/169)   \r"
+    ],
+    [
+      0.000177,
+      "Resolving deltas:  31% (54/169)   \r"
+    ],
+    [
+      0.000283,
+      "Resolving deltas:  35% (60/169)   \r"
+    ],
+    [
+      0.000945,
+      "Resolving deltas:  51% (87/169)   \r"
+    ],
+    [
+      0.000121,
+      "Resolving deltas:  52% (89/169)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  53% (90/169)   \r"
+    ],
+    [
+      0.000202,
+      "Resolving deltas:  56% (95/169)   \r"
+    ],
+    [
+      0.001125,
+      "Resolving deltas:  85% (145/169)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  86% (146/169)   \r"
+    ],
+    [
+      0.000174,
+      "Resolving deltas:  89% (151/169)   \r"
+    ],
+    [
+      0.000075,
+      "Resolving deltas:  90% (153/169)   \r"
+    ],
+    [
+      0.000045,
+      "Resolving deltas:  91% (154/169)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  92% (157/169)   \r"
+    ],
+    [
+      0.000104,
+      "Resolving deltas:  95% (161/169)   \r"
+    ],
+    [
+      0.000187,
+      "Resolving deltas: 100% (169/169)   \r"
+    ],
+    [
+      0.000057,
+      "Resolving deltas: 100% (169/169), done.\r\n"
+    ],
+    [
+      0.018449,
+      "Checking connectivity... "
+    ],
+    [
+      0.002041,
+      "done.\r\n"
+    ],
+    [
+      0.016944,
+      "(periodistbot)aniversarioperu /tmp $ "
+    ],
+    [
+      2.621802,
+      "c"
+    ],
+    [
+      0.239851,
+      "d"
+    ],
+    [
+      0.352140,
+      " "
+    ],
+    [
+      0.960007,
+      "p"
+    ],
+    [
+      0.087914,
+      "e"
+    ],
+    [
+      0.144086,
+      "r"
+    ],
+    [
+      0.060660,
+      "iodistbot_lib/"
+    ],
+    [
+      0.443461,
+      "\r\n"
+    ],
+    [
+      0.000245,
+      "(periodistbot)aniversarioperu /tmp/periodistbot_lib $ "
+    ],
+    [
+      0.535711,
+      "p"
+    ],
+    [
+      0.127796,
+      "i"
+    ],
+    [
+      0.080112,
+      "p"
+    ],
+    [
+      0.191947,
+      " "
+    ],
+    [
+      0.128170,
+      "i"
+    ],
+    [
+      0.079796,
+      "n"
+    ],
+    [
+      0.072142,
+      "s"
+    ],
+    [
+      0.079887,
+      "t"
+    ],
+    [
+      0.072017,
+      "a"
+    ],
+    [
+      0.040000,
+      "l"
+    ],
+    [
+      0.152066,
+      "l"
+    ],
+    [
+      0.143952,
+      " "
+    ],
+    [
+      0.624069,
+      "r"
+    ],
+    [
+      0.352113,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.247777,
+      "-"
+    ],
+    [
+      0.072318,
+      "r"
+    ],
+    [
+      0.127715,
+      " "
+    ],
+    [
+      0.152083,
+      "r"
+    ],
+    [
+      0.087900,
+      "e"
+    ],
+    [
+      0.296151,
+      "q"
+    ],
+    [
+      0.127844,
+      "u"
+    ],
+    [
+      0.135471,
+      "irements/"
+    ],
+    [
+      0.776709,
+      "d"
+    ],
+    [
+      0.352018,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.071841,
+      "b"
+    ],
+    [
+      0.176103,
+      "a"
+    ],
+    [
+      0.111921,
+      "s"
+    ],
+    [
+      0.294594,
+      "e.txt "
+    ],
+    [
+      0.841403,
+      "\r\n"
+    ],
+    [
+      0.524363,
+      "Downloading/unpacking arrow==0.7.0 (from -r requirements/base.txt (line 1))"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.643605,
+      "  Downloading arrow-0.7.0.tar.gz (75kB): "
+    ],
+    [
+      0.000055,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):   5%  4.1kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  10%  8.2kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  16%  12kB "
+    ],
+    [
+      0.037608,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  21%  16kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  27%  20kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  32%  24kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  38%  28kB"
+    ],
+    [
+      0.021718,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  43%  32kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  48%  36kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  54%  40kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  59%  45kB"
+    ],
+    [
+      0.023781,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  65%  49kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  70%  53kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  76%  57kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  81%  61kB"
+    ],
+    [
+      0.012720,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  86%  65kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  92%  69kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):  97%  73kB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB): 100%  75kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB):           "
+    ],
+    [
+      0.000013,
+      "\r  Downloading arrow-0.7.0.tar.gz (75kB): "
+    ],
+    [
+      0.000015,
+      "75kB downloaded"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.041560,
+      "  Running setup.py (path:/home/aniversarioperu/.virtualenvs/periodistbot/build/arrow/setup.py) egg_info for package arrow\r\n"
+    ],
+    [
+      0.141685,
+      "    "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.089585,
+      "Downloading/unpacking beautifulsoup4==4.4.1 (from -r requirements/base.txt (line 2))"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.340634,
+      "  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB): "
+    ],
+    [
+      0.022436,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):   5%  4.1kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  10%  8.2kB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  15%  12kB "
+    ],
+    [
+      0.000070,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  20%  16kB"
+    ],
+    [
+      0.024940,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  25%  20kB"
+    ],
+    [
+      0.000114,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  30%  24kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  35%  28kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  40%  32kB"
+    ],
+    [
+      0.022343,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  45%  36kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  50%  40kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  55%  45kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  60%  49kB"
+    ],
+    [
+      0.022779,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  65%  53kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  70%  57kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  75%  61kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  80%  65kB"
+    ],
+    [
+      0.021815,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  85%  69kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  90%  73kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):  95%  77kB"
+    ],
+    [
+      0.000126,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB): 100%  81kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB):           "
+    ],
+    [
+      0.000009,
+      "\r  Downloading beautifulsoup4-4.4.1-py3-none-any.whl (81kB): "
+    ],
+    [
+      0.000011,
+      "81kB downloaded"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.014555,
+      "Downloading/unpacking humanize==0.5.1 (from -r requirements/base.txt (line 3))\r\n"
+    ],
+    [
+      0.371806,
+      "  Downloading humanize-0.5.1.tar.gz\r\n"
+    ],
+    [
+      0.009022,
+      "  Running setup.py (path:/home/aniversarioperu/.virtualenvs/periodistbot/build/humanize/setup.py) egg_info for package humanize\r\n"
+    ],
+    [
+      0.142073,
+      "    "
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.091644,
+      "Downloading/unpacking pafy==0.4.1 (from -r requirements/base.txt (line 4))\r\n"
+    ],
+    [
+      0.402079,
+      "  Downloading pafy-0.4.1-py2.py3-none-any.whl"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.010649,
+      "Downloading/unpacking requests==2.8.0 (from -r requirements/base.txt (line 5))"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.427423,
+      "  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB): "
+    ],
+    [
+      0.000084,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   0%  4.1kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   1%  8.2kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   2%  12kB "
+    ],
+    [
+      0.022148,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   3%  16kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   4%  20kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   5%  24kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   6%  28kB"
+    ],
+    [
+      0.024629,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   6%  32kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   7%  36kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   8%  40kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):   9%  45kB"
+    ],
+    [
+      0.021746,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  10%  49kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  11%  53kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  12%  57kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  12%  61kB"
+    ],
+    [
+      0.027754,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  13%  65kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  14%  69kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  15%  73kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  16%  77kB"
+    ],
+    [
+      0.021774,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  17%  81kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  18%  86kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  18%  90kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  19%  94kB"
+    ],
+    [
+      0.022747,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  20%  98kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  21%  102kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  22%  106kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  23%  110kB"
+    ],
+    [
+      0.023777,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  24%  114kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  24%  118kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  25%  122kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  26%  126kB"
+    ],
+    [
+      0.022733,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  27%  131kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  28%  135kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  29%  139kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  30%  143kB"
+    ],
+    [
+      0.024832,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  30%  147kB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  31%  151kB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  32%  155kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  33%  159kB"
+    ],
+    [
+      0.023594,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  34%  163kB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  35%  167kB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  36%  172kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  36%  176kB"
+    ],
+    [
+      0.021698,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  37%  180kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  38%  184kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  39%  188kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  40%  192kB"
+    ],
+    [
+      0.021743,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  41%  196kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  42%  200kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  42%  204kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  43%  208kB"
+    ],
+    [
+      0.026748,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  44%  212kB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  45%  217kB"
+    ],
+    [
+      0.000012,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  46%  221kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  47%  225kB"
+    ],
+    [
+      0.023768,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  48%  229kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  48%  233kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  49%  237kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  50%  241kB"
+    ],
+    [
+      0.021739,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  51%  245kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  52%  249kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  53%  253kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  54%  258kB"
+    ],
+    [
+      0.023761,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  55%  262kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  55%  266kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  56%  270kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  57%  274kB"
+    ],
+    [
+      0.023779,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  58%  278kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  59%  282kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  60%  286kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  61%  290kB"
+    ],
+    [
+      0.023736,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  61%  294kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  62%  299kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  63%  303kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  64%  307kB"
+    ],
+    [
+      0.024953,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  65%  311kB"
+    ],
+    [
+      0.000519,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  66%  315kB"
+    ],
+    [
+      0.001313,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  67%  319kB"
+    ],
+    [
+      0.000205,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  67%  323kB"
+    ],
+    [
+      0.019841,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  68%  327kB"
+    ],
+    [
+      0.000114,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  69%  331kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  70%  335kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  71%  339kB"
+    ],
+    [
+      0.021685,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  72%  344kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  73%  348kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  73%  352kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  74%  356kB"
+    ],
+    [
+      0.027741,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  75%  360kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  76%  364kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  77%  368kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  78%  372kB"
+    ],
+    [
+      0.021770,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  79%  376kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  79%  380kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  80%  385kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  81%  389kB"
+    ],
+    [
+      0.021719,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  82%  393kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  83%  397kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  84%  401kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  85%  405kB"
+    ],
+    [
+      0.023763,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  85%  409kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  86%  413kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  87%  417kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  88%  421kB"
+    ],
+    [
+      0.024757,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  89%  425kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  90%  430kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  91%  434kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  91%  438kB"
+    ],
+    [
+      0.022744,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  92%  442kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  93%  446kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  94%  450kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  95%  454kB"
+    ],
+    [
+      0.023778,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  96%  458kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  97%  462kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  97%  466kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  98%  471kB"
+    ],
+    [
+      0.000789,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):  99%  475kB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB): 100%  476kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB):            "
+    ],
+    [
+      0.000011,
+      "\r  Downloading requests-2.8.0-py2.py3-none-any.whl (476kB): "
+    ],
+    [
+      0.000009,
+      "476kB downloaded\r\n"
+    ],
+    [
+      0.026398,
+      "Downloading/unpacking textblob==0.10.0 (from -r requirements/base.txt (line 6))"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.427985,
+      "  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB): "
+    ],
+    [
+      0.000034,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   0%  4.1kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   1%  8.2kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   1%  12kB "
+    ],
+    [
+      0.021208,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   2%  16kB"
+    ],
+    [
+      0.000045,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   3%  20kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   3%  24kB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   4%  28kB"
+    ],
+    [
+      0.022778,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   5%  32kB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   5%  36kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   6%  40kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   7%  45kB"
+    ],
+    [
+      0.022863,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   7%  49kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   8%  53kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   9%  57kB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):   9%  61kB"
+    ],
+    [
+      0.023883,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  10%  65kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  10%  69kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  11%  73kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  12%  77kB"
+    ],
+    [
+      0.022659,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  12%  81kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  13%  86kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  14%  90kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  14%  94kB"
+    ],
+    [
+      0.026748,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  15%  98kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  16%  102kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  16%  106kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  17%  110kB"
+    ],
+    [
+      0.021760,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  18%  114kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  18%  118kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  19%  122kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  20%  126kB"
+    ],
+    [
+      0.025812,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  20%  131kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  21%  135kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  21%  139kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  22%  143kB"
+    ],
+    [
+      0.027718,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  23%  147kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  23%  151kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  24%  155kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  25%  159kB"
+    ],
+    [
+      0.024775,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  25%  163kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  26%  167kB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  27%  172kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  27%  176kB"
+    ],
+    [
+      0.022716,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  28%  180kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  29%  184kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  29%  188kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  30%  192kB"
+    ],
+    [
+      0.027771,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  31%  196kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  31%  200kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  32%  204kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  32%  208kB"
+    ],
+    [
+      0.030795,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  33%  212kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  34%  217kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  34%  221kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  35%  225kB"
+    ],
+    [
+      0.022786,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  36%  229kB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  36%  233kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  37%  237kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  38%  241kB"
+    ],
+    [
+      0.026630,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  38%  245kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  39%  249kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  40%  253kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  40%  258kB"
+    ],
+    [
+      0.021729,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  41%  262kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  42%  266kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  42%  270kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  43%  274kB"
+    ],
+    [
+      0.023777,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  43%  278kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  44%  282kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  45%  286kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  45%  290kB"
+    ],
+    [
+      0.025772,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  46%  294kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  47%  299kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  47%  303kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  48%  307kB"
+    ],
+    [
+      0.021737,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  49%  311kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  49%  315kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  50%  319kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  51%  323kB"
+    ],
+    [
+      0.021784,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  51%  327kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  52%  331kB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  53%  335kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  53%  339kB"
+    ],
+    [
+      0.025737,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  54%  344kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  54%  348kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  55%  352kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  56%  356kB"
+    ],
+    [
+      0.023751,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  56%  360kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  57%  364kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  58%  368kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  58%  372kB"
+    ],
+    [
+      0.021774,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  59%  376kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  60%  380kB"
+    ],
+    [
+      0.000114,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  60%  385kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  61%  389kB"
+    ],
+    [
+      0.023732,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  62%  393kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  62%  397kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  63%  401kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  63%  405kB"
+    ],
+    [
+      0.021761,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  64%  409kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  65%  413kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  65%  417kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  66%  421kB"
+    ],
+    [
+      0.024771,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  67%  425kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  67%  430kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  68%  434kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  69%  438kB"
+    ],
+    [
+      0.023753,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  69%  442kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  70%  446kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  71%  450kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  71%  454kB"
+    ],
+    [
+      0.022759,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  72%  458kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  73%  462kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  73%  466kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  74%  471kB"
+    ],
+    [
+      0.021762,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  74%  475kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  75%  479kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  76%  483kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  76%  487kB"
+    ],
+    [
+      0.023752,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  77%  491kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  78%  495kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  78%  499kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  79%  503kB"
+    ],
+    [
+      0.022740,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  80%  507kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  80%  512kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  81%  516kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  82%  520kB"
+    ],
+    [
+      0.022774,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  82%  524kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  83%  528kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  84%  532kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  84%  536kB"
+    ],
+    [
+      0.023753,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  85%  540kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  85%  544kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  86%  548kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  87%  552kB"
+    ],
+    [
+      0.023754,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  87%  557kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  88%  561kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  89%  565kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  89%  569kB"
+    ],
+    [
+      0.023914,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  90%  573kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  91%  577kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  91%  581kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  92%  585kB"
+    ],
+    [
+      0.023620,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  93%  589kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  93%  593kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  94%  598kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  95%  602kB"
+    ],
+    [
+      0.021754,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  95%  606kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  96%  610kB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  96%  614kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  97%  618kB"
+    ],
+    [
+      0.015061,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  98%  622kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  98%  626kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):  99%  630kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB): 100%  633kB"
+    ],
+    [
+      0.000229,
+      "\r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB):            \r  Downloading textblob-0.10.0-py2.py3-none-any.whl (633kB): 633kB downloaded\r\n"
+    ],
+    [
+      0.025144,
+      "Downloading/unpacking markdown==2.6.2 (from -r requirements/base.txt (line 7))\r\n"
+    ],
+    [
+      0.400667,
+      "  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB): "
+    ],
+    [
+      0.000105,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):   2%  4.1kB"
+    ],
+    [
+      0.000135,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):   5%  8.2kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):   7%  12kB "
+    ],
+    [
+      0.022454,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  10%  16kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  13%  20kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  15%  24kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  18%  28kB"
+    ],
+    [
+      0.023342,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  20%  32kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  23%  36kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  26%  40kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  28%  45kB"
+    ],
+    [
+      0.023716,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  31%  49kB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  33%  53kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  36%  57kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  39%  61kB"
+    ],
+    [
+      0.021912,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  41%  65kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  44%  69kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  46%  73kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  49%  77kB"
+    ],
+    [
+      0.024732,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  52%  81kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  54%  86kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  57%  90kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  59%  94kB"
+    ],
+    [
+      0.025739,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  62%  98kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  65%  102kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  67%  106kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  70%  110kB"
+    ],
+    [
+      0.021824,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  72%  114kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  75%  118kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  78%  122kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  80%  126kB"
+    ],
+    [
+      0.023766,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  83%  131kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  86%  135kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  88%  139kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  91%  143kB"
+    ],
+    [
+      0.013752,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  93%  147kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  96%  151kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):  99%  155kB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB): 100%  157kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB):            "
+    ],
+    [
+      0.000010,
+      "\r  Downloading Markdown-2.6.2-py2.py3-none-any.whl (157kB): "
+    ],
+    [
+      0.000010,
+      "157kB downloaded"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.016602,
+      "Downloading/unpacking youtube-dl==2015.10.16 (from -r requirements/base.txt (line 8))"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.863287,
+      "  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB): "
+    ],
+    [
+      0.000182,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   0%  4.1kB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   0%  8.2kB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   1%  12kB "
+    ],
+    [
+      0.021362,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   1%  16kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   1%  20kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   2%  24kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   2%  28kB"
+    ],
+    [
+      0.023567,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   3%  32kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   3%  36kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   3%  40kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   4%  45kB"
+    ],
+    [
+      0.022900,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   4%  49kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   5%  53kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   5%  57kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   5%  61kB"
+    ],
+    [
+      0.024613,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   6%  65kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   6%  69kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   7%  73kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   7%  77kB"
+    ],
+    [
+      0.021887,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   7%  81kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   8%  86kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   8%  90kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   8%  94kB"
+    ],
+    [
+      0.023639,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   9%  98kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):   9%  102kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  10%  106kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  10%  110kB"
+    ],
+    [
+      0.023764,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  10%  114kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  11%  118kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  11%  122kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  12%  126kB"
+    ],
+    [
+      0.023762,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  12%  131kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  12%  135kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  13%  139kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  13%  143kB"
+    ],
+    [
+      0.021735,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  14%  147kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  14%  151kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  14%  155kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  15%  159kB"
+    ],
+    [
+      0.021778,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  15%  163kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  15%  167kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  16%  172kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  16%  176kB"
+    ],
+    [
+      0.026753,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  17%  180kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  17%  184kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  17%  188kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  18%  192kB"
+    ],
+    [
+      0.023744,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  18%  196kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  19%  200kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  19%  204kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  19%  208kB"
+    ],
+    [
+      0.021755,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  20%  212kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  20%  217kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  21%  221kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  21%  225kB"
+    ],
+    [
+      0.023766,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  21%  229kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  22%  233kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  22%  237kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  22%  241kB"
+    ],
+    [
+      0.023760,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  23%  245kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  23%  249kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  24%  253kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  24%  258kB"
+    ],
+    [
+      0.023746,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  24%  262kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  25%  266kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  25%  270kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  26%  274kB"
+    ],
+    [
+      0.023764,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  26%  278kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  26%  282kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  27%  286kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  27%  290kB"
+    ],
+    [
+      0.022078,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  28%  294kB\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  28%  299kB\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  28%  303kB"
+    ],
+    [
+      0.000020,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  29%  307kB"
+    ],
+    [
+      0.021672,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  29%  311kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  29%  315kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  30%  319kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  30%  323kB"
+    ],
+    [
+      0.025756,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  31%  327kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  31%  331kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  31%  335kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  32%  339kB"
+    ],
+    [
+      0.021754,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  32%  344kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  33%  348kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  33%  352kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  33%  356kB"
+    ],
+    [
+      0.022756,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  34%  360kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  34%  364kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  35%  368kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  35%  372kB"
+    ],
+    [
+      0.023743,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  35%  376kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  36%  380kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  36%  385kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  36%  389kB"
+    ],
+    [
+      0.023798,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  37%  393kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  37%  397kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  38%  401kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  38%  405kB"
+    ],
+    [
+      0.024763,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  38%  409kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  39%  413kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  39%  417kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  40%  421kB"
+    ],
+    [
+      0.023742,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  40%  425kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  40%  430kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  41%  434kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  41%  438kB"
+    ],
+    [
+      0.021783,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  42%  442kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  42%  446kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  42%  450kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  43%  454kB"
+    ],
+    [
+      0.022821,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  43%  458kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  43%  462kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  44%  466kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  44%  471kB"
+    ],
+    [
+      0.024709,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  45%  475kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  45%  479kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  45%  483kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  46%  487kB"
+    ],
+    [
+      0.022686,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  46%  491kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  47%  495kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  47%  499kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  47%  503kB"
+    ],
+    [
+      0.021750,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  48%  507kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  48%  512kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  49%  516kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  49%  520kB"
+    ],
+    [
+      0.023730,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  49%  524kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  50%  528kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  50%  532kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  50%  536kB"
+    ],
+    [
+      0.026783,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  51%  540kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  51%  544kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  52%  548kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  52%  552kB"
+    ],
+    [
+      0.021707,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  52%  557kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  53%  561kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  53%  565kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  54%  569kB"
+    ],
+    [
+      0.023778,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  54%  573kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  54%  577kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  55%  581kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  55%  585kB"
+    ],
+    [
+      0.021765,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  56%  589kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  56%  593kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  56%  598kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  57%  602kB"
+    ],
+    [
+      0.021761,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  57%  606kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  57%  610kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  58%  614kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  58%  618kB"
+    ],
+    [
+      0.026742,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  59%  622kB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  59%  626kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  59%  630kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  60%  634kB"
+    ],
+    [
+      0.024131,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  60%  638kB"
+    ],
+    [
+      0.000255,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  61%  643kB"
+    ],
+    [
+      0.000034,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  61%  647kB"
+    ],
+    [
+      0.001513,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  61%  651kB"
+    ],
+    [
+      0.019861,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  62%  655kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  62%  659kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  63%  663kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  63%  667kB"
+    ],
+    [
+      0.024674,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  63%  671kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  64%  675kB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  64%  679kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  64%  684kB"
+    ],
+    [
+      0.023704,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  65%  688kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  65%  692kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  66%  696kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  66%  700kB"
+    ],
+    [
+      0.021759,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  66%  704kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  67%  708kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  67%  712kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  68%  716kB"
+    ],
+    [
+      0.024749,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  68%  720kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  68%  724kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  69%  729kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  69%  733kB"
+    ],
+    [
+      0.021760,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  70%  737kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  70%  741kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  70%  745kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  71%  749kB"
+    ],
+    [
+      0.024779,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  71%  753kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  71%  757kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  72%  761kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  72%  765kB"
+    ],
+    [
+      0.023753,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  73%  770kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  73%  774kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  73%  778kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  74%  782kB"
+    ],
+    [
+      0.021765,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  74%  786kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  75%  790kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  75%  794kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  75%  798kB"
+    ],
+    [
+      0.021746,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  76%  802kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  76%  806kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  77%  811kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  77%  815kB"
+    ],
+    [
+      0.026755,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  77%  819kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  78%  823kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  78%  827kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  78%  831kB"
+    ],
+    [
+      0.023775,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  79%  835kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  79%  839kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  80%  843kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  80%  847kB"
+    ],
+    [
+      0.021739,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  80%  851kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  81%  856kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  81%  860kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  82%  864kB"
+    ],
+    [
+      0.023762,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  82%  868kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  82%  872kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  83%  876kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  83%  880kB"
+    ],
+    [
+      0.022785,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  84%  884kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  84%  888kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  84%  892kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  85%  897kB"
+    ],
+    [
+      0.022729,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  85%  901kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  85%  905kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  86%  909kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  86%  913kB"
+    ],
+    [
+      0.024752,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  87%  917kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  87%  921kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  87%  925kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  88%  929kB"
+    ],
+    [
+      0.021771,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  88%  933kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  89%  937kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  89%  942kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  89%  946kB"
+    ],
+    [
+      0.021733,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  90%  950kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  90%  954kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  91%  958kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  91%  962kB"
+    ],
+    [
+      0.026766,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  91%  966kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  92%  970kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  92%  974kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  92%  978kB"
+    ],
+    [
+      0.021826,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  93%  983kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  93%  987kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  94%  991kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  94%  995kB"
+    ],
+    [
+      0.021779,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  94%  999kB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  95%  1.0MB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  95%  1.0MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  96%  1.0MB"
+    ],
+    [
+      0.023615,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  96%  1.0MB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  96%  1.0MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  97%  1.0MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  97%  1.0MB"
+    ],
+    [
+      0.022712,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  98%  1.0MB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  98%  1.0MB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  98%  1.0MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  99%  1.0MB"
+    ],
+    [
+      0.006677,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  99%  1.0MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):  99%  1.1MB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB): 100%  1.1MB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB):            "
+    ],
+    [
+      0.000017,
+      "\r  Downloading youtube_dl-2015.10.16-py2.py3-none-any.whl (1.1MB): "
+    ],
+    [
+      0.000017,
+      "1.1MB downloaded"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.095677,
+      "Downloading/unpacking nltk (from -r requirements/base.txt (line 9))"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.166035,
+      "  Downloading nltk-3.1.tar.gz (1.1MB): "
+    ],
+    [
+      0.000059,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   0%  4.1kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   0%  8.2kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   1%  12kB "
+    ],
+    [
+      0.023930,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   1%  16kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   1%  20kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   2%  24kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   2%  28kB"
+    ],
+    [
+      0.023622,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   2%  32kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   3%  36kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   3%  40kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   4%  45kB"
+    ],
+    [
+      0.024654,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   4%  49kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   4%  53kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   5%  57kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   5%  61kB"
+    ],
+    [
+      0.021876,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   5%  65kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   6%  69kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   6%  73kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   7%  77kB"
+    ],
+    [
+      0.022842,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   7%  81kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   7%  86kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   8%  90kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   8%  94kB"
+    ],
+    [
+      0.023601,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   8%  98kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   9%  102kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):   9%  106kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  10%  110kB"
+    ],
+    [
+      0.026710,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  10%  114kB"
+    ],
+    [
+      0.000263,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  10%  118kB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  11%  122kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  11%  126kB"
+    ],
+    [
+      0.020871,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  11%  131kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  12%  135kB"
+    ],
+    [
+      0.000135,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  12%  139kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  13%  143kB"
+    ],
+    [
+      0.024320,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  13%  147kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  13%  151kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  14%  155kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  14%  159kB"
+    ],
+    [
+      0.023859,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  14%  163kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  15%  167kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  15%  172kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  15%  176kB"
+    ],
+    [
+      0.367733,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  16%  180kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  16%  184kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  17%  188kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  17%  192kB"
+    ],
+    [
+      0.015655,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  17%  196kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  18%  200kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  18%  204kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  18%  208kB"
+    ],
+    [
+      0.011758,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  19%  212kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  19%  217kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  20%  221kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  20%  225kB"
+    ],
+    [
+      0.000247,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  20%  229kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  21%  233kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  21%  237kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  21%  241kB"
+    ],
+    [
+      0.000233,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  22%  245kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  22%  249kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  23%  253kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  23%  258kB"
+    ],
+    [
+      0.000242,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  23%  262kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  24%  266kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  24%  270kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  24%  274kB"
+    ],
+    [
+      0.000280,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  25%  278kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  25%  282kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  26%  286kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  26%  290kB"
+    ],
+    [
+      0.000245,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  26%  294kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  27%  299kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  27%  303kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  27%  307kB"
+    ],
+    [
+      0.000245,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  28%  311kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  28%  315kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  28%  319kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  29%  323kB"
+    ],
+    [
+      0.000241,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  29%  327kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  30%  331kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  30%  335kB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  30%  339kB"
+    ],
+    [
+      0.000286,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  31%  344kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  31%  348kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  31%  352kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  32%  356kB"
+    ],
+    [
+      0.000250,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  32%  360kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  33%  364kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  33%  368kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  33%  372kB"
+    ],
+    [
+      0.000242,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  34%  376kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  34%  380kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  34%  385kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  35%  389kB"
+    ],
+    [
+      0.000241,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  35%  393kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  36%  397kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  36%  401kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  36%  405kB"
+    ],
+    [
+      0.000336,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  37%  409kB"
+    ],
+    [
+      0.000013,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  37%  413kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  37%  417kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  38%  421kB"
+    ],
+    [
+      0.000237,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  38%  425kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  39%  430kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  39%  434kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  39%  438kB"
+    ],
+    [
+      0.000241,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  40%  442kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  40%  446kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  40%  450kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  41%  454kB"
+    ],
+    [
+      0.022808,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  41%  458kB\r  Downloading nltk-3.1.tar.gz (1.1MB):  42%  462kB"
+    ],
+    [
+      0.001103,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  42%  466kB\r  Downloading nltk-3.1.tar.gz (1.1MB):  42%  471kB"
+    ],
+    [
+      0.020225,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  43%  475kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  43%  479kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  43%  483kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  44%  487kB"
+    ],
+    [
+      0.023697,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  44%  491kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  44%  495kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  45%  499kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  45%  503kB"
+    ],
+    [
+      0.021859,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  46%  507kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  46%  512kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  46%  516kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  47%  520kB"
+    ],
+    [
+      0.021760,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  47%  524kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  47%  528kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  48%  532kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  48%  536kB"
+    ],
+    [
+      0.025756,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  49%  540kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  49%  544kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  49%  548kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  50%  552kB"
+    ],
+    [
+      0.022747,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  50%  557kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  50%  561kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  51%  565kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  51%  569kB"
+    ],
+    [
+      0.021769,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  52%  573kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  52%  577kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  52%  581kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  53%  585kB"
+    ],
+    [
+      0.024768,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  53%  589kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  53%  593kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  54%  598kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  54%  602kB"
+    ],
+    [
+      0.020738,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  55%  606kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  55%  610kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  55%  614kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  56%  618kB"
+    ],
+    [
+      0.022965,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  56%  622kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  56%  626kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  57%  630kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  57%  634kB"
+    ],
+    [
+      0.023643,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  57%  638kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  58%  643kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  58%  647kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  59%  651kB"
+    ],
+    [
+      0.021642,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  59%  655kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  59%  659kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  60%  663kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  60%  667kB"
+    ],
+    [
+      0.025706,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  60%  671kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  61%  675kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  61%  679kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  62%  684kB"
+    ],
+    [
+      0.023763,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  62%  688kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  62%  692kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  63%  696kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  63%  700kB"
+    ],
+    [
+      0.022744,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  63%  704kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  64%  708kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  64%  712kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  65%  716kB"
+    ],
+    [
+      0.023771,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  65%  720kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  65%  724kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  66%  729kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  66%  733kB"
+    ],
+    [
+      0.025778,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  66%  737kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  67%  741kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  67%  745kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  68%  749kB"
+    ],
+    [
+      0.023726,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  68%  753kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  68%  757kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  69%  761kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  69%  765kB"
+    ],
+    [
+      0.023769,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  69%  770kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  70%  774kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  70%  778kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  70%  782kB"
+    ],
+    [
+      0.021730,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  71%  786kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  71%  790kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  72%  794kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  72%  798kB"
+    ],
+    [
+      0.021731,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  72%  802kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  73%  806kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  73%  811kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  73%  815kB"
+    ],
+    [
+      0.026816,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  74%  819kB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  74%  823kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  75%  827kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  75%  831kB"
+    ],
+    [
+      0.021675,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  75%  835kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  76%  839kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  76%  843kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  76%  847kB"
+    ],
+    [
+      0.021819,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  77%  851kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  77%  856kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  78%  860kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  78%  864kB"
+    ],
+    [
+      0.023839,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  78%  868kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  79%  872kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  79%  876kB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  79%  880kB"
+    ],
+    [
+      0.021846,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  80%  884kB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  80%  888kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  81%  892kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  81%  897kB"
+    ],
+    [
+      0.023854,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  81%  901kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  82%  905kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  82%  909kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  82%  913kB"
+    ],
+    [
+      0.025841,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  83%  917kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  83%  921kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  84%  925kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  84%  929kB"
+    ],
+    [
+      0.021659,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  84%  933kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  85%  937kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  85%  942kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  85%  946kB"
+    ],
+    [
+      0.023733,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  86%  950kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  86%  954kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  86%  958kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  87%  962kB"
+    ],
+    [
+      0.025745,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  87%  966kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  88%  970kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  88%  974kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  88%  978kB"
+    ],
+    [
+      0.022782,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  89%  983kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  89%  987kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  89%  991kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  90%  995kB"
+    ],
+    [
+      0.021744,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  90%  999kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  91%  1.0MB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  91%  1.0MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  91%  1.0MB"
+    ],
+    [
+      0.025726,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  92%  1.0MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  92%  1.0MB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  92%  1.0MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  93%  1.0MB"
+    ],
+    [
+      0.024765,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  93%  1.0MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  94%  1.0MB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  94%  1.0MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  94%  1.0MB"
+    ],
+    [
+      0.021755,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  95%  1.0MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  95%  1.1MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  95%  1.1MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  96%  1.1MB"
+    ],
+    [
+      0.023743,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  96%  1.1MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  97%  1.1MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  97%  1.1MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  97%  1.1MB"
+    ],
+    [
+      0.021775,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  98%  1.1MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  98%  1.1MB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  98%  1.1MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  99%  1.1MB"
+    ],
+    [
+      0.006723,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  99%  1.1MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):  99%  1.1MB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB): 100%  1.1MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB):            "
+    ],
+    [
+      0.000022,
+      "\r  Downloading nltk-3.1.tar.gz (1.1MB): "
+    ],
+    [
+      0.000011,
+      "1.1MB downloaded"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.153738,
+      "  Running setup.py (path:/home/aniversarioperu/.virtualenvs/periodistbot/build/nltk/setup.py) egg_info for package nltk"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.152558,
+      "    "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.068681,
+      "    warning: no files found matching 'README.txt'"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.001922,
+      "    warning: no files found matching 'Makefile' under directory '*.txt'"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000693,
+      "    warning: no previously-included files matching '*~' found anywhere in distribution"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.038769,
+      "Downloading/unpacking python-wordpress-xmlrpc==2.3 (from -r requirements/base.txt (line 10))\r\n"
+    ],
+    [
+      0.379210,
+      "  Downloading python-wordpress-xmlrpc-2.3.zip"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.010169,
+      "  Running setup.py (path:/home/aniversarioperu/.virtualenvs/periodistbot/build/python-wordpress-xmlrpc/setup.py) egg_info for package python-wordpress-xmlrpc\r\n"
+    ],
+    [
+      0.140605,
+      "    \r\n"
+    ],
+    [
+      0.089681,
+      "Downloading/unpacking python-slugify==1.1.4 (from -r requirements/base.txt (line 11))"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.361587,
+      "  Downloading python-slugify-1.1.4.tar.gz"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.005046,
+      "  Running setup.py (path:/home/aniversarioperu/.virtualenvs/periodistbot/build/python-slugify/setup.py) egg_info for package python-slugify"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.143396,
+      "    \r\n"
+    ],
+    [
+      0.092210,
+      "Downloading/unpacking python-dateutil (from arrow==0.7.0-\u003e-r requirements/base.txt (line 1))"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.132050,
+      "  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB): "
+    ],
+    [
+      0.000014,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):   2%  4.1kB\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):   4%  8.2kB"
+    ],
+    [
+      0.000044,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):   6%  12kB "
+    ],
+    [
+      0.021407,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):   8%  16kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  10%  20kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  13%  24kB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  15%  28kB"
+    ],
+    [
+      0.022662,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  17%  32kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  19%  36kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  21%  40kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  23%  45kB"
+    ],
+    [
+      0.022729,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  26%  49kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  28%  53kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  30%  57kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  32%  61kB"
+    ],
+    [
+      0.028658,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  34%  65kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  36%  69kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  39%  73kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  41%  77kB"
+    ],
+    [
+      0.021877,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  43%  81kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  45%  86kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  47%  90kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  49%  94kB"
+    ],
+    [
+      0.022744,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  52%  98kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  54%  102kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  56%  106kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  58%  110kB"
+    ],
+    [
+      0.022735,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  60%  114kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  62%  118kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  65%  122kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  67%  126kB"
+    ],
+    [
+      0.023664,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  69%  131kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  71%  135kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  73%  139kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  75%  143kB"
+    ],
+    [
+      0.022950,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  78%  147kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  80%  151kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  82%  155kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  84%  159kB"
+    ],
+    [
+      0.023538,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  86%  163kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  88%  167kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  91%  172kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  93%  176kB"
+    ],
+    [
+      0.011667,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  95%  180kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  97%  184kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):  99%  188kB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB): 100%  188kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB):            "
+    ],
+    [
+      0.000022,
+      "\r  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB): "
+    ],
+    [
+      0.000013,
+      "188kB downloaded\r\n"
+    ],
+    [
+      0.010796,
+      "Downloading/unpacking Unidecode\u003e=0.04.16 (from python-slugify==1.1.4-\u003e-r requirements/base.txt (line 11))"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.236087,
+      "  Downloading Unidecode-0.04.18.tar.gz (206kB): "
+    ],
+    [
+      0.000019,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):   1%  4.1kB\r  Downloading Unidecode-0.04.18.tar.gz (206kB):   3%  8.2kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):   5%  12kB "
+    ],
+    [
+      0.021890,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):   7%  16kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):   9%  20kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  11%  24kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  13%  28kB"
+    ],
+    [
+      0.023494,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  15%  32kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  17%  36kB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  19%  40kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  21%  45kB"
+    ],
+    [
+      0.021742,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  23%  49kB"
+    ],
+    [
+      0.000126,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  25%  53kB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  27%  57kB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  29%  61kB"
+    ],
+    [
+      0.022899,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  31%  65kB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  33%  69kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  35%  73kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  37%  77kB"
+    ],
+    [
+      0.025272,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  39%  81kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  41%  86kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  43%  90kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  45%  94kB"
+    ],
+    [
+      0.022777,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  47%  98kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  49%  102kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  51%  106kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  53%  110kB"
+    ],
+    [
+      0.023649,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  55%  114kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  57%  118kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  59%  122kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  61%  126kB"
+    ],
+    [
+      0.021896,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  63%  131kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  65%  135kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  67%  139kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  69%  143kB"
+    ],
+    [
+      0.026691,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  71%  147kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  73%  151kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  75%  155kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  77%  159kB"
+    ],
+    [
+      0.069717,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  79%  163kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  81%  167kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  83%  172kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  85%  176kB"
+    ],
+    [
+      0.015719,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  87%  180kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  89%  184kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  91%  188kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  93%  192kB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  95%  196kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  97%  200kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):  99%  204kB"
+    ],
+    [
+      0.000471,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB): 100%  206kB"
+    ],
+    [
+      0.000012,
+      "\r  Downloading Unidecode-0.04.18.tar.gz (206kB):            \r  Downloading Unidecode-0.04.18.tar.gz (206kB): 206kB downloaded\r\n"
+    ],
+    [
+      0.056288,
+      "  Running setup.py (path:/home/aniversarioperu/.virtualenvs/periodistbot/build/Unidecode/setup.py) egg_info for package Unidecode"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.141624,
+      "    \r\n"
+    ],
+    [
+      0.094011,
+      "Downloading/unpacking six\u003e=1.5 (from python-dateutil-\u003earrow==0.7.0-\u003e-r requirements/base.txt (line 1))\r\n"
+    ],
+    [
+      0.137204,
+      "  Downloading six-1.10.0-py2.py3-none-any.whl"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.004523,
+      "Installing collected packages: arrow, beautifulsoup4, humanize, pafy, requests, textblob, markdown, youtube-dl, nltk, python-wordpress-xmlrpc, python-slugify, python-dateutil, Unidecode, six"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  Running setup.py install for arrow"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.233487,
+      "    "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.156661,
+      "  Running setup.py install for humanize"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.202160,
+      "    \r\n"
+    ],
+    [
+      1.307779,
+      "  Running setup.py install for nltk\r\n"
+    ],
+    [
+      1.055975,
+      "    \r\n"
+    ],
+    [
+      0.022942,
+      "    warning: no files found matching 'README.txt'"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.003237,
+      "    warning: no files found matching 'Makefile' under directory '*.txt'"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001164,
+      "    warning: no previously-included files matching '*~' found anywhere in distribution"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.092931,
+      "  Running setup.py install for python-wordpress-xmlrpc"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.206468,
+      "    \r\n"
+    ],
+    [
+      0.069302,
+      "  Running setup.py install for python-slugify"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.212074,
+      "    \r\n"
+    ],
+    [
+      0.020706,
+      "    Installing slugify script to /home/aniversarioperu/.virtualenvs/periodistbot/bin"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.075376,
+      "  Running setup.py install for Unidecode"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.401347,
+      "    "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.026863,
+      "    Installing unidecode script to /home/aniversarioperu/.virtualenvs/periodistbot/bin"
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.072303,
+      "Successfully installed arrow beautifulsoup4 humanize pafy requests textblob markdown youtube-dl nltk python-wordpress-xmlrpc python-slugify python-dateutil Unidecode six\r\n"
+    ],
+    [
+      0.000017,
+      "Cleaning up...\r\n"
+    ],
+    [
+      0.141619,
+      "(periodistbot)aniversarioperu /tmp/periodistbot_lib $ "
+    ],
+    [
+      2.510501,
+      "exit"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ]
+  ]
+}

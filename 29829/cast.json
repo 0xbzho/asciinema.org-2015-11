@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 50,
+  "duration": 10.072979,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.068151,
+      "\u001b[01;32mdvdvck@armatoste\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.731934,
+      "./algoritmo "
+    ],
+    [
+      0.712187,
+      "\r\n"
+    ],
+    [
+      0.000832,
+      "\r\nIngreseel valor de a \r\n"
+    ],
+    [
+      1.383000,
+      "5"
+    ],
+    [
+      0.263944,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\r\nIngrese el valor de b \r\n"
+    ],
+    [
+      0.512002,
+      "1"
+    ],
+    [
+      0.263911,
+      "0"
+    ],
+    [
+      0.336135,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\r\nIngrese el valor de E \r\n"
+    ],
+    [
+      0.296542,
+      "."
+    ],
+    [
+      0.287238,
+      "0"
+    ],
+    [
+      0.208024,
+      "0"
+    ],
+    [
+      0.440424,
+      "1"
+    ],
+    [
+      0.351538,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      " D es igual a: 9.15022\r\n D es igual a: 0.252221\r\n D es igual a: 0.231192\r\n D es igual a: 0.21139\r\n D es igual a: 0.192768\r\n D es igual a: 0.175287\r\n D es igual a: 0.158911\r\n D es igual a: 0.143611\r\n D es igual a: 0.129359\r\n D es igual a: 0.116131\r\n D es igual a: 0.103899\r\n D es igual a: 0.0926373\r\n D es igual a: 0.0823154\r\n D es igual a: 0.0728986\r\n D es igual a: 0.0643497\r\n D es igual a: 0.0566263\r\n D es igual a: 0.0496824\r\n D es igual a: 0.0434685\r\n D es igual a: 0.0379336\r\n D es igual a: 0.0330238\r\n D es igual a: 0.0286868\r\n D es igual a: 0.0248699\r\n D es igual a: 0.021522\r\n D es igual a: 0.0185952\r\n D es igual a: 0.0160432\r\n D es igual a: 0.0138242\r\n D es igual a: 0.0118988\r\n D es igual a: 0.0102315\r\n D es igual a: 0.00879025\r\n D es igual a: 0.00754642\r\n D es igual a: 0.00647426\r\n D es igual a: 0.00555134\r\n D es igual a: 0.00475788\r\n D es igual a: 0.004076\r\n D es igual a: 0.00349069\r\n D es igual a: 0.0029881\r\n D es igual a: 0.00255752\r\n D es igual a: 0.00218821\r\n D es igual a: 0.0018723\r\n D es igual a: 0.00160146\r\n D es igual a: 0.00136971\r\n D es igual a: 0.00117087\r\n D es igual a: 0.00100136\r\n D es igual a: 0.000856161\r\nX es igual a: 2.2758\r\n"
+    ],
+    [
+      0.000170,
+      "\u001b[01;32mdvdvck@armatoste\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      3.216414,
+      "exit\r\n"
+    ]
+  ]
+}

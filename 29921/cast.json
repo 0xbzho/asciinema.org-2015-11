@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 21,
+  "duration": 712.657180,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.091124,
+      "\u001b]777;notify;Command completed;nosetests --with-xunit -v --no-byte-compile -w .\u0007\u001b]0;fabiand@tee:~/work/ovirt/gerrit/appliance/tests\u0007\u001b]7;file://tee.local/home/fabiand/work/ovirt/gerrit/appliance/tests\u0007"
+    ],
+    [
+      0.003437,
+      "[fabiand@tee tests (master)]$ "
+    ],
+    [
+      1.389879,
+      "m"
+    ],
+    [
+      0.104046,
+      "a"
+    ],
+    [
+      0.087980,
+      "k"
+    ],
+    [
+      0.072046,
+      "e"
+    ],
+    [
+      0.111992,
+      " "
+    ],
+    [
+      0.119990,
+      "c"
+    ],
+    [
+      0.088120,
+      "h"
+    ],
+    [
+      0.087999,
+      "e"
+    ],
+    [
+      0.047859,
+      "c"
+    ],
+    [
+      0.080015,
+      "k"
+    ],
+    [
+      0.160714,
+      "\r\n"
+    ],
+    [
+      0.001234,
+      "pyflakes *.py\r\n"
+    ],
+    [
+      0.118368,
+      "pep8 *.py\r\n"
+    ],
+    [
+      0.149485,
+      "nosetests --with-xunit -v --no-byte-compile -w .\r\n"
+    ],
+    [
+      181.217713,
+      "Create and add a host and wait for it to come up ... "
+    ],
+    [
+      102.880120,
+      "ok\r\nCreate a storage domain on Engine ... SKIP: Not implemented\r\nUse create a storage domain and host to spawn a disk-less VM ... SKIP: Not implemented\r\n"
+    ],
+    [
+      181.677894,
+      "Check that the basic IP connectivity between VMs is given ... "
+    ],
+    [
+      56.911587,
+      "ok\r\nCheck if the node can reach the engine ... "
+    ],
+    [
+      30.890428,
+      "ok\r\nCheck that the engine comes up and provides it's API ... "
+    ],
+    [
+      54.195533,
+      "ok\r\n"
+    ],
+    [
+      37.898684,
+      "Check that a host can be rebooted and comes back ... "
+    ],
+    [
+      18.697341,
+      "ok\r\nCheck if host can be shutdown gracefully ... "
+    ],
+    [
+      11.685401,
+      "ok\r\nCheck if snapshots are working correct ... "
+    ],
+    [
+      15.036001,
+      "ok\r\nCheck if basic SSH is working correct ... "
+    ],
+    [
+      9.529890,
+      "ok\r\n"
+    ],
+    [
+      0.043593,
+      "\r\n"
+    ],
+    [
+      0.005453,
+      "----------------------------------------------------------------------\r\nXML: /home/fabiand/work/ovirt/gerrit/appliance/tests/nosetests.xml\r\n----------------------------------------------------------------------\r\nRan 10 tests in 700.548s\r\n\r\nOK (SKIP=2)\r\n"
+    ],
+    [
+      0.016828,
+      "xsltproc nosetests.xslt nosetests.xml\r\n"
+    ],
+    [
+      0.002270,
+      "\r\nXunit Test Results - For: \r\nResults for nosetests\r\n\r\n* Tests run: 10\r\n* Failures: 0\r\n* Skipped: 2\r\n* Errors: 0\r\n----\r\nClass: testSanity.Test_Tier_1_IntegrationSanity\r\nName: test_tier_1_add_host102.881\r\nPASSED\r\n\r\n----\r\nClass: testSanity.Test_Tier_1_IntegrationSanity\r\nName: test_tier_1_add_storage0.000\r\nSKIPPED\r\nNot implemented\r\n----\r\nClass: testSanity.Test_Tier_1_IntegrationSanity\r\nName: test_tier_2_spawn_vm0.000\r\nSKIPPED\r\nNot implemented\r\n----\r\nClass: testVirt.Test_Tier_0_IntegrationTestCase\r\nName: test_tier_1_intra_network_connectivity56.912\r\nPASSED\r\n\r\n----\r\nClass: testVirt.Test_Tier_0_IntegrationTestCase\r\nName: test_tier_1_node_can_reach_engine30.890\r\nPASSED\r\n\r\n----\r\nClass: testVirt.Test_Tier_0_IntegrationTestCase\r\nName: test_tier_2_engine_is_up54.195\r\nPASSED\r\n\r\n----\r\nClass: testVirt.Test_Tier_0_NodeTestcase\r\nName: test_reboot_works18.698\r\nPASSED\r\n\r\n----\r\nClass: testVirt.Test_Tier_0_NodeTestcase\r\nName: test_shutdown_works11.684\r\nPASSED\r\n\r\n----\r\nClass: testVirt.Test_Tier_0_NodeTestcase\r\nName: test_snapshots_work15.037\r\nPASSED\r\n\r\n----\r\nClass: testVirt.Test_Tier_0_NodeTestcase\r\nName: test_ssh_works9.529\r\nPASSED\r\n"
+    ],
+    [
+      0.005720,
+      "\u001b]777;notify;Command completed;make check\u0007\u001b]0;fabiand@tee:~/work/ovirt/gerrit/appliance/tests\u0007\u001b]7;file://tee.local/home/fabiand/work/ovirt/gerrit/appliance/tests\u0007"
+    ],
+    [
+      0.007555,
+      "[fabiand@tee tests (master)]$ "
+    ],
+    [
+      3.871957,
+      "#"
+    ],
+    [
+      0.175979,
+      " "
+    ],
+    [
+      0.144004,
+      "D"
+    ],
+    [
+      0.088017,
+      "o"
+    ],
+    [
+      0.024000,
+      "n"
+    ],
+    [
+      0.047981,
+      "e"
+    ],
+    [
+      1.002068,
+      "\r\n"
+    ],
+    [
+      0.002461,
+      "\u001b]777;notify;Command completed;# Done\u0007\u001b]0;fabiand@tee:~/work/ovirt/gerrit/appliance/tests\u0007\u001b]7;file://tee.local/home/fabiand/work/ovirt/gerrit/appliance/tests\u0007"
+    ],
+    [
+      0.002882,
+      "[fabiand@tee tests (master)]$ "
+    ],
+    [
+      3.881467,
+      "exit\r\n"
+    ]
+  ]
+}

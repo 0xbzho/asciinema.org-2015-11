@@ -1,0 +1,4486 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 94.324137,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.783137,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;gustavo@frozen: ~/Projects/capistrano-deploy\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..strano-deploy\u0007"
+    ],
+    [
+      0.092378,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/capistrano-deploy \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[43m\u001b[31m\u001b[30m  master  \u001b[49m\u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "$ \u001b[K"
+    ],
+    [
+      0.000080,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000241,
+      "\u001b[?2004h"
+    ],
+    [
+      1.962442,
+      "#"
+    ],
+    [
+      0.449891,
+      "\u0008#D"
+    ],
+    [
+      0.125360,
+      "e"
+    ],
+    [
+      0.152867,
+      "m"
+    ],
+    [
+      0.094421,
+      "o"
+    ],
+    [
+      0.129401,
+      "n"
+    ],
+    [
+      0.096542,
+      "s"
+    ],
+    [
+      0.092666,
+      "t"
+    ],
+    [
+      0.171313,
+      "r"
+    ],
+    [
+      0.086249,
+      "a"
+    ],
+    [
+      0.098964,
+      "ç"
+    ],
+    [
+      0.209398,
+      "ã"
+    ],
+    [
+      0.121953,
+      "o"
+    ],
+    [
+      0.162476,
+      "d"
+    ],
+    [
+      0.010601,
+      " "
+    ],
+    [
+      0.072239,
+      "e"
+    ],
+    [
+      0.124887,
+      " "
+    ],
+    [
+      0.043264,
+      "d"
+    ],
+    [
+      0.087985,
+      "e"
+    ],
+    [
+      0.166004,
+      "p"
+    ],
+    [
+      0.038260,
+      "l"
+    ],
+    [
+      0.263132,
+      "\u0008 \u0008"
+    ],
+    [
+      0.149966,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159153,
+      "\u0008 \u0008"
+    ],
+    [
+      0.172459,
+      "\u0008 \u0008"
+    ],
+    [
+      0.165350,
+      "\u0008"
+    ],
+    [
+      0.174400,
+      "\u0008 \u0008"
+    ],
+    [
+      0.176792,
+      "\u0008"
+    ],
+    [
+      0.150646,
+      "\u0008 \u0008"
+    ],
+    [
+      0.075776,
+      " "
+    ],
+    [
+      0.031297,
+      "d"
+    ],
+    [
+      0.110944,
+      "e"
+    ],
+    [
+      0.180906,
+      " "
+    ],
+    [
+      0.115812,
+      "d"
+    ],
+    [
+      0.075509,
+      "e"
+    ],
+    [
+      0.135900,
+      "p"
+    ],
+    [
+      0.086407,
+      "l"
+    ],
+    [
+      0.239369,
+      "o"
+    ],
+    [
+      0.204079,
+      "y"
+    ],
+    [
+      0.292189,
+      " "
+    ],
+    [
+      0.129793,
+      "c"
+    ],
+    [
+      0.091907,
+      "o"
+    ],
+    [
+      0.072776,
+      "m"
+    ],
+    [
+      0.166588,
+      " "
+    ],
+    [
+      0.123808,
+      "o"
+    ],
+    [
+      0.124955,
+      " "
+    ],
+    [
+      0.101210,
+      "c"
+    ],
+    [
+      0.280559,
+      "\u0008 \u0008"
+    ],
+    [
+      0.098000,
+      "C"
+    ],
+    [
+      0.112936,
+      "a"
+    ],
+    [
+      0.118378,
+      "p"
+    ],
+    [
+      0.069244,
+      "i"
+    ],
+    [
+      0.105987,
+      "s"
+    ],
+    [
+      0.067663,
+      "t"
+    ],
+    [
+      0.168984,
+      "r"
+    ],
+    [
+      0.036105,
+      "a"
+    ],
+    [
+      0.035274,
+      "n"
+    ],
+    [
+      0.100829,
+      "o"
+    ],
+    [
+      0.280018,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.000457,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000126,
+      "\u001b]2;gustavo@frozen: ~/Projects/capistrano-deploy\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;..strano-deploy\u0007"
+    ],
+    [
+      0.096239,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/capistrano-deploy \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[43m\u001b[31m\u001b[30m  master  \u001b[49m\u001b[33m\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "$ \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.784021,
+      "v"
+    ],
+    [
+      0.066459,
+      "\u0008va"
+    ],
+    [
+      0.190880,
+      "g"
+    ],
+    [
+      0.177277,
+      "r"
+    ],
+    [
+      0.033323,
+      "a"
+    ],
+    [
+      0.091811,
+      "n"
+    ],
+    [
+      0.099662,
+      "t"
+    ],
+    [
+      0.085316,
+      " "
+    ],
+    [
+      0.109933,
+      "s"
+    ],
+    [
+      0.167009,
+      "s"
+    ],
+    [
+      0.069706,
+      "h"
+    ],
+    [
+      0.197348,
+      " "
+    ],
+    [
+      0.051157,
+      "d"
+    ],
+    [
+      0.257876,
+      "v"
+    ],
+    [
+      0.283941,
+      "\u0008 \u0008"
+    ],
+    [
+      0.072376,
+      "e"
+    ],
+    [
+      0.078026,
+      "v"
+    ],
+    [
+      0.102905,
+      "e"
+    ],
+    [
+      0.051940,
+      "l"
+    ],
+    [
+      0.172647,
+      "o"
+    ],
+    [
+      0.162846,
+      "p"
+    ],
+    [
+      0.086407,
+      "m"
+    ],
+    [
+      0.090038,
+      "e"
+    ],
+    [
+      0.077655,
+      "n"
+    ],
+    [
+      0.115476,
+      "t"
+    ],
+    [
+      0.087291,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000058,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.000634,
+      "\u001b]2;vagrant ssh development\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      10.916768,
+      "Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-55-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n  System information as of Thu Nov 12 18:48:09 BRST 2015\r\n\r\n  System load:  0.0               Processes:           86\r\n  Usage of /:   7.2% of 39.34GB   Users logged in:     1\r\n  Memory usage: 17%               IP address for eth0: 10.0.2.15\r\n  Swap usage:   0%                IP address for eth1: 172.16.30.30\r\n\r\n  Graph this data and manage this system at:\r\n    https://landscape.canonical.com/\r\n\r\n  Get cloud support with Ubuntu Advantage Cloud Guest:\r\n    http://www.ubuntu.com/business/services/cloud\r\n\r\n107 packages can be updated.\r\n40 updates are security updates.\r\n\r\n\r\nLast login: Thu Nov 12 18:48:10 2015 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.124140,
+      "Agent pid 11276"
+    ],
+    [
+      0.002670,
+      "\r\n"
+    ],
+    [
+      0.003394,
+      "Identity added: /home/vagrant/.ssh/id_rsa (/home/vagrant/.ssh/id_rsa)"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.002735,
+      "\u001b]0;vagrant@boletim-web: ~\u0007vagrant@boletim-web:~$ "
+    ],
+    [
+      1.583184,
+      "c"
+    ],
+    [
+      0.123489,
+      "d"
+    ],
+    [
+      0.090490,
+      " "
+    ],
+    [
+      0.178748,
+      "/"
+    ],
+    [
+      0.274126,
+      "a"
+    ],
+    [
+      0.384913,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.100369,
+      "v"
+    ],
+    [
+      0.073120,
+      "a"
+    ],
+    [
+      0.194081,
+      "g"
+    ],
+    [
+      0.149870,
+      "r"
+    ],
+    [
+      0.038110,
+      "a"
+    ],
+    [
+      0.079986,
+      "n"
+    ],
+    [
+      0.131972,
+      "t"
+    ],
+    [
+      0.076652,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "\u001b]0;vagrant@boletim-web: /vagrant\u0007vagrant@boletim-web:/vagrant$ "
+    ],
+    [
+      0.342714,
+      "c"
+    ],
+    [
+      0.065612,
+      "a"
+    ],
+    [
+      0.044576,
+      "p"
+    ],
+    [
+      0.203012,
+      " "
+    ],
+    [
+      0.159738,
+      "p"
+    ],
+    [
+      0.078178,
+      "r"
+    ],
+    [
+      0.112409,
+      "o"
+    ],
+    [
+      0.071271,
+      "d"
+    ],
+    [
+      0.092598,
+      "u"
+    ],
+    [
+      0.125908,
+      "c"
+    ],
+    [
+      0.215527,
+      "t"
+    ],
+    [
+      0.059318,
+      "i"
+    ],
+    [
+      0.188163,
+      "o"
+    ],
+    [
+      0.088155,
+      "n"
+    ],
+    [
+      0.180426,
+      " "
+    ],
+    [
+      0.111396,
+      "d"
+    ],
+    [
+      0.058650,
+      "e"
+    ],
+    [
+      0.094611,
+      "p"
+    ],
+    [
+      0.070855,
+      "l"
+    ],
+    [
+      0.198218,
+      "o"
+    ],
+    [
+      0.132970,
+      "y"
+    ],
+    [
+      1.975993,
+      "\r\n"
+    ],
+    [
+      0.368995,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m5de2368b\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ ! -d /opt/rbenv/versions/2.1.2 ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m5de2368b\u001b[0m] Command: \u001b[0;34;49m[ ! -d /opt/rbenv/versions/2.1.2 ]\u001b[0m"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      1.702983,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m5de2368b\u001b[0m] Finished in 1.703 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.004626,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m17057e96\u001b[0m] Running \u001b[0;33;49m/usr/bin/env mkdir -p /tmp/capistrano-deploy/\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000312,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m17057e96\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env mkdir -p /tmp/capistrano-deploy/ )\u001b[0m"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.169588,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m17057e96\u001b[0m] Finished in 0.167 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000371,
+      "\r\n"
+    ],
+    [
+      0.169052,
+      "\u001b[0;30;49mDEBUG\u001b[0mUploading /tmp/capistrano-deploy/git-ssh.sh 0.0%"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.071218,
+      "\u001b[0;34;49mINFO\u001b[0mUploading /tmp/capistrano-deploy/git-ssh.sh 100.0%"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      0.245884,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mb7841e73\u001b[0m] Running \u001b[0;33;49m/usr/bin/env chmod +x /tmp/capistrano-deploy/git-ssh.sh\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.000379,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb7841e73\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env chmod +x /tmp/capistrano-deploy/git-ssh.sh )\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.165793,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mb7841e73\u001b[0m] Finished in 0.166 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.018865,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] Running \u001b[0;33;49m/usr/bin/env git ls-remote -h git@bitbucket.org:webgoal/conlicitacao-boletim-web.git\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000942,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 GIT_ASKPASS=/bin/echo GIT_SSH=/tmp/capistrano-deploy/git-ssh.sh /usr/bin/env git ls-remote -h git@bitbucket.org:webgoal/conlicitacao-boletim-web.git )\u001b[0m\r\n"
+    ],
+    [
+      2.235302,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000110,
+      "\t"
+    ],
+    [
+      0.000158,
+      "066cef54bf98b8d5f3c0193c20fe6675d02a80a2\u001b[0m"
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.000534,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000162,
+      "\t"
+    ],
+    [
+      0.000178,
+      "\t"
+    ],
+    [
+      0.000220,
+      "\u001b[0m"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000487,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000148,
+      "\t"
+    ],
+    [
+      0.000136,
+      "refs/heads/analytics\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000448,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000102,
+      "\t"
+    ],
+    [
+      0.000124,
+      "\r"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[0m"
+    ],
+    [
+      0.000402,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000136,
+      "\t"
+    ],
+    [
+      0.000178,
+      "42e73e4db1a19c1e6d3a16b69673f1895e5a5e60\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000578,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000161,
+      "\t"
+    ],
+    [
+      0.000099,
+      "\t"
+    ],
+    [
+      0.000123,
+      "\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000604,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000118,
+      "\t"
+    ],
+    [
+      0.000139,
+      "refs/heads/devise\u001b[0m"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000120,
+      "\t"
+    ],
+    [
+      0.000121,
+      "\r"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[0m"
+    ],
+    [
+      0.000366,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000139,
+      "\t"
+    ],
+    [
+      0.000168,
+      "d0f23a9f267d9521bea37041bc5f3086aa2a3e18\u001b[0m"
+    ],
+    [
+      0.000137,
+      "\r\n"
+    ],
+    [
+      0.000398,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000120,
+      "\t"
+    ],
+    [
+      0.000117,
+      "\t"
+    ],
+    [
+      0.000189,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.073413,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000535,
+      "\trefs/heads/email-unlock-copia-consultor\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000463,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000168,
+      "\t"
+    ],
+    [
+      0.000380,
+      "32050b196636b5a8f4240783e38fe0b758666043\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000324,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000146,
+      "\trefs/heads/filtro-exclusivo\u001b[0m\r\n"
+    ],
+    [
+      0.000546,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000475,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000506,
+      "\t8021da335262b7a5369d2ead48210cfb7fd097d0\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000347,
+      "\trefs/heads/informacoes-contato\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000156,
+      "\t\r"
+    ],
+    [
+      0.000432,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000404,
+      "\tf1c3d4fceeee884f8d66e432fe2f31a83f54f947\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000450,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000480,
+      "\trefs/heads/link-redefinir-senha\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000630,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000041,
+      "\t"
+    ],
+    [
+      0.000272,
+      "538900e5da924d90e411193be780460b932a581d\u001b[0m\r\n"
+    ],
+    [
+      0.000429,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000140,
+      "\t"
+    ],
+    [
+      0.000656,
+      "\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000171,
+      "\t"
+    ],
+    [
+      0.000161,
+      "refs/heads/log-operacoes-usuario\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.000546,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000084,
+      "\t"
+    ],
+    [
+      0.000422,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000817,
+      "\t2cecc7565540ddcb423c1cbc850d7a295623154d\u001b[0m\r\n"
+    ],
+    [
+      0.001643,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000060,
+      "\t"
+    ],
+    [
+      0.000191,
+      "\t"
+    ],
+    [
+      0.000792,
+      "\u001b[0m"
+    ],
+    [
+      0.000704,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000045,
+      "\t"
+    ],
+    [
+      0.000200,
+      "refs/heads/master\u001b[0m"
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.000421,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000096,
+      "\t"
+    ],
+    [
+      0.000090,
+      "\r"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[0m"
+    ],
+    [
+      0.000383,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000117,
+      "\t"
+    ],
+    [
+      0.000142,
+      "7ce48f756de03546694d17f35b553fa0f51f2943\u001b[0m"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000130,
+      "\t"
+    ],
+    [
+      0.000316,
+      "\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000162,
+      "\trefs/heads/mixpanel\u001b[0m\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000369,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000114,
+      "\t"
+    ],
+    [
+      0.000304,
+      "cc7897a6df67f178061c4c67c4803236d036b36f\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000330,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000107,
+      "\t"
+    ],
+    [
+      0.000308,
+      "refs/heads/monitoramento-sessoes-contato\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000303,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000113,
+      "\t"
+    ],
+    [
+      0.000336,
+      "1661e25b80ce07e69e528a6b5d8c970009544f43\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000307,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000132,
+      "\t"
+    ],
+    [
+      0.000313,
+      "refs/heads/nova-autenticacao\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000344,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t769a5c322111b5f62c3030d6dfdf20f9b0c9d54e\u001b[0m\r\n"
+    ],
+    [
+      0.000298,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000282,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000287,
+      "\trefs/heads/novos-filtros\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000316,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000111,
+      "\t"
+    ],
+    [
+      0.000299,
+      "427fe4b91f00cfc1a1e731e0b5048f76859c78d2\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000297,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000115,
+      "\t"
+    ],
+    [
+      0.000307,
+      "refs/heads/novos-filtros-autenticacao\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000301,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000145,
+      "\te63baf1e2f20774d6f2dcad975456928b6937a83\u001b[0m\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000330,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000304,
+      "\trefs/heads/novos-filtros-melhorias-fechamento\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000354,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000374,
+      "\ta557f4e74eba520f48562b6fcd896cf56790ab23\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000163,
+      "\t\t\u001b[0m\r\n"
+    ],
+    [
+      0.000412,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000659,
+      "\trefs/heads/palavra-chave\u001b[0m\r\n"
+    ],
+    [
+      0.001284,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000151,
+      "\t\r\r\n"
+    ],
+    [
+      0.000342,
+      "\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000097,
+      "\t"
+    ],
+    [
+      0.002135,
+      "ed3e691ea1f2fbc2ad4666d4c600a9857c5ae608\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000072,
+      "\trefs/heads/primeiro_boletim\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000364,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000147,
+      "\t"
+    ],
+    [
+      0.000141,
+      "73327dd1639ffb5c1d1f10c0ac36f5a49c5d07a7\u001b[0m"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000631,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000099,
+      "\t"
+    ],
+    [
+      0.000124,
+      "\t"
+    ],
+    [
+      0.000118,
+      "\u001b[0m"
+    ],
+    [
+      0.000374,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001007,
+      "\trefs/heads/react\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t3d4ceb050a4034a10ecc71471279fe478359f8db\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\trefs/heads/sessao-unica\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000327,
+      "\t8dd6596ecd7fb6df28e8250e7ef76892d05163f0\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000375,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000091,
+      "\t"
+    ],
+    [
+      0.000337,
+      "refs/heads/sharing\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000105,
+      "\t"
+    ],
+    [
+      0.000312,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000324,
+      "\t8dff56848a8e08136b0ab19b982985c2c2f4461c\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000112,
+      "\t"
+    ],
+    [
+      0.000320,
+      "\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000164,
+      "\trefs/heads/simulacao_acesso\u001b[0m\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000319,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000314,
+      "\ta33e448377d23d19035b2b6521074326d0d6d8fa\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000115,
+      "\t"
+    ],
+    [
+      0.000305,
+      "\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000388,
+      "\trefs/heads/solr-sem-db\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000400,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000168,
+      "\t"
+    ],
+    [
+      0.000464,
+      "cc5e945b99931f305ed0ee2f6666843b1d149361\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000385,
+      "\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000511,
+      "\t"
+    ],
+    [
+      0.000396,
+      "refs/heads/solr-vagrant\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000175,
+      "\t"
+    ],
+    [
+      0.000148,
+      "\r"
+    ],
+    [
+      0.000424,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000153,
+      "\t"
+    ],
+    [
+      0.000159,
+      "c47d87f8dd7e1bf8287708235f94309d881810ed\u001b[0m\r\n"
+    ],
+    [
+      0.000530,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000175,
+      "\t"
+    ],
+    [
+      0.000392,
+      "\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000090,
+      "\t"
+    ],
+    [
+      0.001730,
+      "refs/heads/status-elasticsearch\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001126,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000958,
+      "\tcf357b63436adccb27d22d8787a15a29e02764e7\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\t\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\trefs/heads/unlock\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m93b5c76b\u001b[0m] Finished in 2.364 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000944,
+      "\r\n"
+    ],
+    [
+      0.000560,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m905978ca\u001b[0m] Running \u001b[0;33;49m/usr/bin/env mkdir -pv /home/ubuntu/capistrano-deploy/shared /home/ubuntu/capistrano-deploy/releases\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m905978ca\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env mkdir -pv /home/ubuntu/capistrano-deploy/shared /home/ubuntu/capistrano-deploy/releases )\u001b[0m"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.180674,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m905978ca\u001b[0m] Finished in 0.180 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.001376,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49me95d7980\u001b[0m] Running \u001b[0;33;49m/usr/bin/env mkdir -pv /home/ubuntu/capistrano-deploy/shared/bin /home/ubuntu/capistrano-deploy/shared/log /home/ubuntu/capistrano-deploy/shared/tmp/pids /home/ubuntu/capistrano-deploy/shared/tmp/cache /home/ubuntu/capistrano-deploy/shared/tmp/sockets /home/ubuntu/capistrano-deploy/shared/vendor/bundle /home/ubuntu/capistrano-deploy/shared/public/system /home/ubuntu/capistrano-deploy/shared/conlicitacao_autenticacao_consumidor/log\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49me95d7980\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env mkdir -pv /home/ubuntu/capistrano-deploy/shared/bin /home/ubuntu/capistrano-deploy/shared/log /home/ubuntu/capistrano-deploy/shared/tmp/pids /home/ubuntu/capistrano-deploy/shared/tmp/cache /home/ubuntu/capistrano-deploy/shared/tmp/sockets /home/ubuntu/capistrano-deploy/shared/vendor/bundle /home/ubuntu/capistrano-deploy/shared/public/system /home/ubuntu/capistrano-deploy/shared/conlicitacao_autenticacao_consumidor/log )\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.274317,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49me95d7980\u001b[0m] Finished in 0.273 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000451,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md9b9de66\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -f /home/ubuntu/capistrano-deploy/current/REVISION ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md9b9de66\u001b[0m] Command: \u001b[0;34;49m[ -f /home/ubuntu/capistrano-deploy/current/REVISION ]\u001b[0m"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.190218,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md9b9de66\u001b[0m] Finished in 0.190 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.000661,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7f0d0b05\u001b[0m] Running \u001b[0;33;49m/usr/bin/env cat /home/ubuntu/capistrano-deploy/current/REVISION 2\u003e/dev/null\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7f0d0b05\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env cat /home/ubuntu/capistrano-deploy/current/REVISION 2\u003e/dev/null )\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.240624,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7f0d0b05\u001b[0m] Finished in 0.240 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7f0d0b05\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000119,
+      "\t"
+    ],
+    [
+      0.000178,
+      "73327dd\r"
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[0m"
+    ],
+    [
+      0.000383,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7f0d0b05\u001b[0m] Finished in 0.240 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.001719,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m45a4fc05\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -f /home/ubuntu/capistrano-deploy/repo/HEAD ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m45a4fc05\u001b[0m] Command: \u001b[0;34;49m[ -f /home/ubuntu/capistrano-deploy/repo/HEAD ]\u001b[0m"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.191345,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m45a4fc05\u001b[0m] Finished in 0.191 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000734,
+      "\u001b[0;34;49mINFO\u001b[0mThe repository mirror is at /home/ubuntu/capistrano-deploy/repo"
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000813,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m30160d72\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/repo; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/repo'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000298,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m30160d72\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/repo; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/repo'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.196689,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m30160d72\u001b[0m] Finished in 0.196 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.000600,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m125448f6\u001b[0m] Running \u001b[0;33;49m/usr/bin/env git remote update\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m125448f6\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/repo \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 GIT_ASKPASS=/bin/echo GIT_SSH=/tmp/capistrano-deploy/git-ssh.sh /usr/bin/env git remote update )\u001b[0m"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.212163,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m125448f6\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000101,
+      "\t"
+    ],
+    [
+      0.000118,
+      "Fetching origin\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m125448f6\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000614,
+      "\t\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      2.227116,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m125448f6\u001b[0m] Finished in 2.440 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.001285,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49me00deede\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/repo; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/repo'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49me00deede\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/repo; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/repo'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.176258,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49me00deede\u001b[0m] Finished in 0.175 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000764,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m98980ad9\u001b[0m] Running \u001b[0;33;49m/usr/bin/env mkdir -p /home/ubuntu/capistrano-deploy/releases/20151112205541\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000449,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m98980ad9\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/repo \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 GIT_ASKPASS=/bin/echo GIT_SSH=/tmp/capistrano-deploy/git-ssh.sh /usr/bin/env mkdir -p /home/ubuntu/capistrano-deploy/releases/20151112205541 )\u001b[0m"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.179186,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m98980ad9\u001b[0m] Finished in 0.179 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.000929,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m4f4d8550\u001b[0m] Running \u001b[0;33;49m/usr/bin/env git archive react | tar -x -C /home/ubuntu/capistrano-deploy/releases/20151112205541\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.000419,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m4f4d8550\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/repo \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 GIT_ASKPASS=/bin/echo GIT_SSH=/tmp/capistrano-deploy/git-ssh.sh /usr/bin/env git archive react | tar -x -C /home/ubuntu/capistrano-deploy/releases/20151112205541 )\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      2.171924,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m4f4d8550\u001b[0m] Finished in 2.171 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001306,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49ma91cadbf\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/repo; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/repo'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m\r\n"
+    ],
+    [
+      0.000368,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49ma91cadbf\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/repo; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/repo'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.001169,
+      "\r\n"
+    ],
+    [
+      0.356386,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49ma91cadbf\u001b[0m] Finished in 0.356 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000626,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m252b3d4a\u001b[0m] Running \u001b[0;33;49m/usr/bin/env git rev-parse --short react\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m252b3d4a\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/repo \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 GIT_ASKPASS=/bin/echo GIT_SSH=/tmp/capistrano-deploy/git-ssh.sh /usr/bin/env git rev-parse --short react )\u001b[0m"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.448838,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m252b3d4a\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000135,
+      "\t"
+    ],
+    [
+      0.000126,
+      "73327dd\u001b[0m"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000414,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m252b3d4a\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000108,
+      "\t"
+    ],
+    [
+      0.000187,
+      "\r"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.002162,
+      "\u001b[0m"
+    ],
+    [
+      0.000128,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m252b3d4a\u001b[0m] Finished in 0.451 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m).\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0480f6ad\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0480f6ad\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m\r\n"
+    ],
+    [
+      0.174554,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0480f6ad\u001b[0m] Finished in 0.175 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000809,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49md7c3cc39\u001b[0m] Running \u001b[0;33;49m/usr/bin/env echo \"73327dd\" \u003e\u003e REVISION\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000333,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md7c3cc39\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/releases/20151112205541 \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env echo \"73327dd\" \u003e\u003e REVISION )\u001b[0m"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.257428,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49md7c3cc39\u001b[0m] Finished in 0.257 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.004881,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49maf866b1d\u001b[0m] Running \u001b[0;33;49m/usr/bin/env mkdir -pv /home/ubuntu/capistrano-deploy/releases/20151112205541 /home/ubuntu/capistrano-deploy/releases/20151112205541 /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor /home/ubuntu/capistrano-deploy/releases/20151112205541/public /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000374,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49maf866b1d\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env mkdir -pv /home/ubuntu/capistrano-deploy/releases/20151112205541 /home/ubuntu/capistrano-deploy/releases/20151112205541 /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor /home/ubuntu/capistrano-deploy/releases/20151112205541/public /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor )\u001b[0m"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.285258,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49maf866b1d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000038,
+      "\t"
+    ],
+    [
+      0.000220,
+      "mkdir: created directory ‘/home/ubuntu/capistrano-deploy/releases/20151112205541/tmp’\u001b[0m"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000509,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49maf866b1d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000098,
+      "\t"
+    ],
+    [
+      0.000187,
+      "\r"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b[0m"
+    ],
+    [
+      0.000439,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49maf866b1d\u001b[0m] Finished in 0.287 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000905,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mcc0b3354\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/bin ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mcc0b3354\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/bin ]\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.173108,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mcc0b3354\u001b[0m] Finished in 0.173 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000681,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m507358c8\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/bin ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m507358c8\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/bin ]\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.175766,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m507358c8\u001b[0m] Finished in 0.175 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000575,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mfe0c47d0\u001b[0m] Running \u001b[0;33;49m/usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/releases/20151112205541/bin\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mfe0c47d0\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/releases/20151112205541/bin )\u001b[0m"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.174006,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mfe0c47d0\u001b[0m] Finished in 0.174 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000652,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m7513179c\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/bin /home/ubuntu/capistrano-deploy/releases/20151112205541/bin\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000418,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7513179c\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/bin /home/ubuntu/capistrano-deploy/releases/20151112205541/bin )\u001b[0m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.182389,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m7513179c\u001b[0m] Finished in 0.181 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.000823,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m901ba64b\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/log ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m901ba64b\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/log ]\u001b[0m"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.183661,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m901ba64b\u001b[0m] Finished in 0.183 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.001009,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0dd5bcc6\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/log ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.000540,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0dd5bcc6\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/log ]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.178878,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0dd5bcc6\u001b[0m] Finished in 0.179 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000694,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m6a7dec23\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/log /home/ubuntu/capistrano-deploy/releases/20151112205541/log\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m6a7dec23\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/log /home/ubuntu/capistrano-deploy/releases/20151112205541/log )\u001b[0m"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.178654,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m6a7dec23\u001b[0m] Finished in 0.178 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000911,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m72d15819\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/pids ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m72d15819\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/pids ]\u001b[0m"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.162542,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m72d15819\u001b[0m] Finished in 0.162 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000706,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb404cc0b\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/pids ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb404cc0b\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/pids ]\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.158388,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb404cc0b\u001b[0m] Finished in 0.158 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000276,
+      "\r\n"
+    ],
+    [
+      0.000880,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49ma6f4510b\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/tmp/pids /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/pids\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000475,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49ma6f4510b\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/tmp/pids /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/pids )\u001b[0m"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.160179,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49ma6f4510b\u001b[0m] Finished in 0.159 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000895,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb53dff30\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/cache ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000375,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb53dff30\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/cache ]\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.170061,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb53dff30\u001b[0m] Finished in 0.170 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000609,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m35b2da84\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/cache ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m35b2da84\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/cache ]\u001b[0m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.179709,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m35b2da84\u001b[0m] Finished in 0.179 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000597,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49ma9f7b6c9\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/tmp/cache /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/cache\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49ma9f7b6c9\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/tmp/cache /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/cache )\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.176731,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49ma9f7b6c9\u001b[0m] Finished in 0.176 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000769,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mf5bc9d19\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/sockets ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000294,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mf5bc9d19\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/sockets ]\u001b[0m"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.175703,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mf5bc9d19\u001b[0m] Finished in 0.175 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000732,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m23e24123\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/sockets ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m23e24123\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/sockets ]\u001b[0m"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.204074,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m23e24123\u001b[0m] Finished in 0.204 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000898,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49me9fbe167\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/tmp/sockets /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/sockets\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.000489,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49me9fbe167\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/tmp/sockets /home/ubuntu/capistrano-deploy/releases/20151112205541/tmp/sockets )\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.254390,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49me9fbe167\u001b[0m] Finished in 0.252 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000517,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mafe34666\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor/bundle ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mafe34666\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor/bundle ]\u001b[0m"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.211117,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mafe34666\u001b[0m] Finished in 0.211 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.000945,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m06ecaa43\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor/bundle ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.000393,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m06ecaa43\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor/bundle ]\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.186107,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m06ecaa43\u001b[0m] Finished in 0.185 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000570,
+      "\r\n"
+    ],
+    [
+      0.000686,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m7c027a2c\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/vendor/bundle /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor/bundle\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000340,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m7c027a2c\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/vendor/bundle /home/ubuntu/capistrano-deploy/releases/20151112205541/vendor/bundle )\u001b[0m"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.203958,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m7c027a2c\u001b[0m] Finished in 0.204 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000738,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m1b3d93e2\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/public/system ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m1b3d93e2\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/public/system ]\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.193168,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m1b3d93e2\u001b[0m] Finished in 0.193 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000657,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md51f6782\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/public/system ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000234,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md51f6782\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/public/system ]\u001b[0m"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.178182,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md51f6782\u001b[0m] Finished in 0.177 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.001130,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m1b635aff\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/public/system /home/ubuntu/capistrano-deploy/releases/20151112205541/public/system\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000336,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m1b635aff\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/public/system /home/ubuntu/capistrano-deploy/releases/20151112205541/public/system )\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.168883,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m1b635aff\u001b[0m] Finished in 0.168 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.001279,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0888bb9f\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000289,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0888bb9f\u001b[0m] Command: \u001b[0;34;49m[ -L /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log ]\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.158973,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m0888bb9f\u001b[0m] Finished in 0.159 seconds with exit status 1 (\u001b[0;31;49mfailed\u001b[0m)."
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.000625,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mdc48b310\u001b[0m] Running \u001b[0;33;49m/usr/bin/env [ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log ]\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000805,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mdc48b310\u001b[0m] Command: \u001b[0;34;49m[ -d /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log ]\u001b[0m"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.157734,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mdc48b310\u001b[0m] Finished in 0.158 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mdfdb5447\u001b[0m] Running \u001b[0;33;49m/usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mdfdb5447\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log )\u001b[0m"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.165364,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mdfdb5447\u001b[0m] Finished in 0.165 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.001047,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m09b8b845\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/conlicitacao_autenticacao_consumidor/log /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000568,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m09b8b845\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/shared/conlicitacao_autenticacao_consumidor/log /home/ubuntu/capistrano-deploy/releases/20151112205541/conlicitacao_autenticacao_consumidor/log )\u001b[0m"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.170623,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m09b8b845\u001b[0m] Finished in 0.170 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.001534,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m02b1d982\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.001112,
+      "\r\n"
+    ],
+    [
+      0.000416,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m02b1d982\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.157230,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m02b1d982\u001b[0m] Finished in 0.159 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000883,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mcd85f1e7\u001b[0m] Running \u001b[0;33;49mRBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /opt/rbenv/bin/rbenv exec bundle install --binstubs /home/ubuntu/capistrano-deploy/shared/bin --path /home/ubuntu/capistrano-deploy/shared/bundle --without development test --deployment --quiet\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mcd85f1e7\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/releases/20151112205541 \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /opt/rbenv/bin/rbenv exec bundle install --binstubs /home/ubuntu/capistrano-deploy/shared/bin --path /home/ubuntu/capistrano-deploy/shared/bundle --without development test --deployment --quiet )\u001b[0m"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.999361,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mcd85f1e7\u001b[0m] Finished in 0.999 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.001080,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m2d121594\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000323,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m2d121594\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.161648,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m2d121594\u001b[0m] Finished in 0.162 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000219,
+      "\r\n"
+    ],
+    [
+      0.000634,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] Running \u001b[0;33;49mRBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /opt/rbenv/bin/rbenv exec bundle exec rake assets:precompile\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/releases/20151112205541 \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 RAILS_ENV=staging RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /opt/rbenv/bin/rbenv exec bundle exec rake assets:precompile )\u001b[0m"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      3.850037,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t"
+    ],
+    [
+      0.000162,
+      "I, [2015-11-12T18:58:36.328277 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-body-e6fff826d8e157be776a47fd583bec11.jpg\u001b[0m"
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.000452,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000157,
+      "\t"
+    ],
+    [
+      0.000210,
+      "\r"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[0m"
+    ],
+    [
+      0.000453,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000181,
+      "\t"
+    ],
+    [
+      0.000190,
+      "I, [2015-11-12T18:58:36.330682 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-estatisticas-ce99c56c0311607f9309c5bc6fa6d167.png\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.000718,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000161,
+      "\t"
+    ],
+    [
+      0.000423,
+      "\r\r\n"
+    ],
+    [
+      0.000224,
+      "\u001b[0m"
+    ],
+    [
+      0.000665,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000186,
+      "\t"
+    ],
+    [
+      0.000235,
+      "I, [2015-11-12T18:58:36.332265 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-gradient-262dad50fdcd1fa1caa8ef9f457b1314.jpg\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000592,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000205,
+      "\t"
+    ],
+    [
+      0.000633,
+      "\r"
+    ],
+    [
+      0.000605,
+      "\r\n"
+    ],
+    [
+      0.000749,
+      "\u001b[0m"
+    ],
+    [
+      0.000586,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000167,
+      "\t"
+    ],
+    [
+      0.000228,
+      "I, [2015-11-12T18:58:36.333792 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-holder-f53fb8e61828add800ce25f7162b5c75.png\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000134,
+      "\t"
+    ],
+    [
+      0.000407,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000799,
+      "\tI, [2015-11-12T18:58:36.335938 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-home-links-c636feeace5ed14b9528496bc3107ba8.jpg\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000030,
+      "\t\r\r\n\u001b[0m"
+    ],
+    [
+      0.059315,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000190,
+      "\t"
+    ],
+    [
+      0.001061,
+      "I, [2015-11-12T18:58:36.337413 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-login-box-aae02a08aea3e170c55a8fd2a24d959a.jpg\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000231,
+      "\t"
+    ],
+    [
+      0.000277,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000671,
+      "\tI, [2015-11-12T18:58:36.339492 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bg-title-large-e9ba617f3aa2d57aaef76f6769a21776.jpg\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000277,
+      "\t"
+    ],
+    [
+      0.000510,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000167,
+      "\t"
+    ],
+    [
+      0.000477,
+      "I, [2015-11-12T18:58:36.340865 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/bidding-hovered-dfbf98435e8bc3238e7fbb5d0bba73c0.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000455,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000442,
+      "\tI, [2015-11-12T18:58:36.342229 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/bidding-selected-6a6b962fd8045673920431c0b8b466d7.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000427,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000168,
+      "\t"
+    ],
+    [
+      0.000468,
+      "I, [2015-11-12T18:58:36.343588 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/boletim-header-4d3e5bfb37fc25ca3a31c9b23e199b3e.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000590,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.345110 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/icon-download-dark-c4f97b7c1d226d3656600d556fd926e9.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000572,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000170,
+      "\t"
+    ],
+    [
+      0.000474,
+      "I, [2015-11-12T18:58:36.346464 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/icon-download-9de1da9b6dc909329d322014d1c4c4e4.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000457,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000488,
+      "\tI, [2015-11-12T18:58:36.347886 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/icon-items-60b49e35f52e36f4112a67df3da9a3cc.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000167,
+      "\t"
+    ],
+    [
+      0.000432,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000471,
+      "\tI, [2015-11-12T18:58:36.349322 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim/logo-conlicitacao-fb33365c1d3c2f67554cbdd1d6353117.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000439,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000163,
+      "\t"
+    ],
+    [
+      0.000451,
+      "I, [2015-11-12T18:58:36.350949 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/cl-logo-2327ea77011ddcdc6191d9710b225077.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000613,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.003719,
+      "\tI, [2015-11-12T18:58:36.352565 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/close-modal-icon-d9fc291cc3e0858f6d346d3613c53d0b.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.354010 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/close-b94ee62df256602227e867caa5844168.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.355600 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/conlicitacao-brand-0d129c0c7964790e955e2b7315ce6b00.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.357135 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/email-9082963344a1867f58008214f8730740.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000862,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000076,
+      "\t"
+    ],
+    [
+      0.000231,
+      "I, [2015-11-12T18:58:36.358544 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/glyphicons-consulta-online-peq-d9bf79a8d49aa74641c0cdd5bdf8de8c.png\u001b[0m"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000484,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000108,
+      "\t"
+    ],
+    [
+      0.000211,
+      "\r"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000516,
+      "\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000308,
+      "\tI, [2015-11-12T18:58:36.360189 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/glyphicons-consulta-online-fdaa9465f2dcc5718797d06c8441dc3f.png\u001b[0m\r\n"
+    ],
+    [
+      0.000423,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000099,
+      "\t"
+    ],
+    [
+      0.000154,
+      "\r"
+    ],
+    [
+      0.000470,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000094,
+      "\t"
+    ],
+    [
+      0.000218,
+      "I, [2015-11-12T18:58:36.361728 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/glyphicons-halflings-white-1c696cab03ab0287367a03fbf62f3297.png\u001b[0m"
+    ],
+    [
+      0.000402,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000098,
+      "\t"
+    ],
+    [
+      0.000184,
+      "\r"
+    ],
+    [
+      0.000534,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000095,
+      "\t"
+    ],
+    [
+      0.000195,
+      "I, [2015-11-12T18:58:36.363245 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/glyphicons-halflings-6bf173c2f51c63ebe3ba11fd757581f7.png\u001b[0m"
+    ],
+    [
+      0.000443,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000134,
+      "\t"
+    ],
+    [
+      0.000445,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000205,
+      "\t"
+    ],
+    [
+      0.000185,
+      "I, [2015-11-12T18:58:36.364759 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/icone-btn-mercado-fa1b501cb58bc1fb99e299aadeef0008.png\u001b[0m"
+    ],
+    [
+      0.000482,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000085,
+      "\t"
+    ],
+    [
+      0.000169,
+      "\r"
+    ],
+    [
+      0.000573,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000095,
+      "\t"
+    ],
+    [
+      0.000214,
+      "I, [2015-11-12T18:58:36.366214 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/icone-mercado-32530af358ef35bc396e5fb3d8190053.png\u001b[0m"
+    ],
+    [
+      0.000456,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000095,
+      "\t"
+    ],
+    [
+      0.000183,
+      "\r"
+    ],
+    [
+      0.000411,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000093,
+      "\t"
+    ],
+    [
+      0.000223,
+      "I, [2015-11-12T18:58:36.367795 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/icone-senha-e5d096aae59bcd8050db5b9a9b851fd0.png\u001b[0m"
+    ],
+    [
+      0.000390,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000094,
+      "\t"
+    ],
+    [
+      0.001689,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000060,
+      "\t"
+    ],
+    [
+      0.000044,
+      "I, [2015-11-12T18:58:36.369281 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/loader-049f0ae197ce16d0817c88d9cdc140f9.gif\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000374,
+      "\t"
+    ],
+    [
+      0.000837,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000146,
+      "\tI, [2015-11-12T18:58:36.370863 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/loading_spinner-8d43c108fb0b41f4e7f73e483cca2621.gif\u001b[0m"
+    ],
+    [
+      0.000517,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000492,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000942,
+      "\tI, [2015-11-12T18:58:36.372440 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/logo-conlicitacao-a00f4d61cc9f7268bf338f0c4d2a5838.png\u001b[0m\r\n"
+    ],
+    [
+      0.001713,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000068,
+      "\t"
+    ],
+    [
+      0.000149,
+      "\r"
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[0m"
+    ],
+    [
+      0.000497,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000110,
+      "\t"
+    ],
+    [
+      0.000224,
+      "I, [2015-11-12T18:58:36.374044 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/logo-rodape-47ce36ebdb98c424cf79f9643c03b188.png\u001b[0m"
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000096,
+      "\t"
+    ],
+    [
+      0.000468,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000089,
+      "\t"
+    ],
+    [
+      0.000397,
+      "I, [2015-11-12T18:58:36.375501 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/navitrine-cd21e6b5c1e9fe26d08963568fb81272.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000395,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000097,
+      "\t"
+    ],
+    [
+      0.000230,
+      "I, [2015-11-12T18:58:36.376979 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/picto-negocios-356de4b42af6b0b2514a5a400ef801b6.png\u001b[0m"
+    ],
+    [
+      0.000408,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000105,
+      "\t"
+    ],
+    [
+      0.000419,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000109,
+      "\t"
+    ],
+    [
+      0.000228,
+      "I, [2015-11-12T18:58:36.378488 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/picto-setas-d53667869338dbf3197f8ba4c6507103.png\u001b[0m"
+    ],
+    [
+      0.000380,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000207,
+      "\t"
+    ],
+    [
+      0.000410,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000098,
+      "\t"
+    ],
+    [
+      0.000217,
+      "I, [2015-11-12T18:58:36.379947 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/printer-03c8e03b313a704732d5ed4c5c8a0501.png\u001b[0m"
+    ],
+    [
+      0.000406,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000094,
+      "\t"
+    ],
+    [
+      0.000426,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000108,
+      "\t"
+    ],
+    [
+      0.000233,
+      "I, [2015-11-12T18:58:36.381414 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/select2-spinner-5b2c6a56d53efc3d0c8683cc731f7823.gif\u001b[0m\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000096,
+      "\t"
+    ],
+    [
+      0.000431,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000107,
+      "\t"
+    ],
+    [
+      0.000448,
+      "I, [2015-11-12T18:58:36.382951 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/select2-95d683adc59e9fa07d5a7fafeb1a7191.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000326,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001097,
+      "\tI, [2015-11-12T18:58:36.384460 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/select2x2-eb8387c351bf91c572b3457791548fe9.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.386011 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/send-e995b212e0e0a84169645162d5fa6e31.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000087,
+      "\t"
+    ],
+    [
+      0.000037,
+      "\r"
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[0m"
+    ],
+    [
+      0.000588,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000156,
+      "\t"
+    ],
+    [
+      0.000195,
+      "I, [2015-11-12T18:58:36.387448 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/shadow-home-links-564297e149d4c234ebbf914227317ea3.png\u001b[0m"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000146,
+      "\t"
+    ],
+    [
+      0.000448,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000134,
+      "\t"
+    ],
+    [
+      0.000390,
+      "I, [2015-11-12T18:58:36.388882 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/sombra-convenios-c8fa89c47fbb344a77e6cd5b9aeef48e.jpg\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000217,
+      "\t"
+    ],
+    [
+      0.000155,
+      "\r"
+    ],
+    [
+      0.000385,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000154,
+      "\t"
+    ],
+    [
+      0.000468,
+      "I, [2015-11-12T18:58:36.390439 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/sombra-vitrine-dbfc42289f31fd5ab626827e576f7ed9.jpg\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001115,
+      "\t\r\r\n\u001b[0m"
+    ],
+    [
+      0.084764,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000298,
+      "\t"
+    ],
+    [
+      0.000663,
+      "I, [2015-11-12T18:58:36.532471 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/application-b9399521b373fccc04d4fde69dad7c61.js\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000227,
+      "\t"
+    ],
+    [
+      0.000286,
+      "\r\r\n\u001b[0m"
+    ],
+    [
+      0.039332,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000044,
+      "\t"
+    ],
+    [
+      0.000294,
+      "I, [2015-11-12T18:58:36.572600 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim_web/public/bulletin_filters-d4b5e100605bec5bf66ecb4e8f8b4415.js\u001b[0m"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.039236,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.577092 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/react/application_react-b654ba4d582ef7620c6a7acaea230125.js\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m"
+    ],
+    [
+      0.018451,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000011,
+      "\tI, [2015-11-12T18:58:36.626112 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/application-ea6c59b314f3cbd4461049372775cd89.css\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000038,
+      "\t"
+    ],
+    [
+      0.000192,
+      "\r"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[0m"
+    ],
+    [
+      0.006979,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000109,
+      "\t"
+    ],
+    [
+      0.000198,
+      "I, [2015-11-12T18:58:36.638305 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim_web/print/bulletin_print-d6f9a5ab9ed67ff2c627aa647dcf1136.css\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000562,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000060,
+      "\t"
+    ],
+    [
+      0.000130,
+      "\r"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[0m"
+    ],
+    [
+      0.000593,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000157,
+      "\t"
+    ],
+    [
+      0.000199,
+      "I, [2015-11-12T18:58:36.639938 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim_web/public/application-8d21b187530f6d58be27caf451db40b0.css\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.000561,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000159,
+      "\t"
+    ],
+    [
+      0.000235,
+      "\r"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[0m"
+    ],
+    [
+      0.000524,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000146,
+      "\t"
+    ],
+    [
+      0.000181,
+      "I, [2015-11-12T18:58:36.642111 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim_web/public/bulletin_filters-0b894b5026d13e5f0eda2a54baafacb4.css\u001b[0m"
+    ],
+    [
+      0.000330,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000114,
+      "\t"
+    ],
+    [
+      0.000168,
+      "\r\r\n\u001b[0m"
+    ],
+    [
+      0.000869,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000293,
+      "\t"
+    ],
+    [
+      0.000149,
+      "I, [2015-11-12T18:58:36.644786 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/boletim_web/public/sessions-bebca7634fd24470edadc7469b0658ea.css\u001b[0m"
+    ],
+    [
+      0.000559,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000087,
+      "\t"
+    ],
+    [
+      0.000145,
+      "\r"
+    ],
+    [
+      0.000662,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000172,
+      "\t"
+    ],
+    [
+      0.000602,
+      "I, [2015-11-12T18:58:36.646307 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/online-search/select2x2-eb8387c351bf91c572b3457791548fe9.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000261,
+      "\t"
+    ],
+    [
+      0.000163,
+      "\r\r\n\u001b[0m"
+    ],
+    [
+      0.002074,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000134,
+      "\t"
+    ],
+    [
+      0.000219,
+      "I, [2015-11-12T18:58:36.649197 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/print-f36c392b40e22e7b212f35921ee7084f.css\u001b[0m"
+    ],
+    [
+      0.001187,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000704,
+      "\t\r\r\n\u001b[0m"
+    ],
+    [
+      0.001126,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.651219 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/FontAwesome-d8146f71bdd747e375e1147ab3e8c75c.otf\u001b[0m\r\n"
+    ],
+    [
+      0.045987,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000102,
+      "\t"
+    ],
+    [
+      0.000695,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000141,
+      "\t"
+    ],
+    [
+      0.002376,
+      "I, [2015-11-12T18:58:36.655048 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/fontawesome-webfont-2f44f7c918b93a0bbf270edf3c76f3ee.eot\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001348,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.658414 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/fontawesome-webfont-2031add94918aeff20ebfe151e2fce91.svg\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000487,
+      "\tI, [2015-11-12T18:58:36.663638 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/fontawesome-webfont-a8103106da08466169b5af67fa6db566.ttf\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000419,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000481,
+      "\tI, [2015-11-12T18:58:36.667592 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/fontawesome-webfont-6b69d96a638ccb6dfdfa29a6d9560fbf.woff\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000229,
+      "\t"
+    ],
+    [
+      0.000471,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000147,
+      "\t"
+    ],
+    [
+      0.000420,
+      "I, [2015-11-12T18:58:36.671644 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_flat_0_aaaaaa_40x100-48ab3235cacb6bfce6758314b93daa02.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000469,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001172,
+      "\tI, [2015-11-12T18:58:36.674183 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_flat_75_ffffff_40x100-dec7e1fba97cdc673694cd57aaad1e48.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.676744 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_glass_55_fbf9ee_1x400-840a95fd300d90bff529f741f44f1198.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000620,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000182,
+      "\t"
+    ],
+    [
+      0.000168,
+      "I, [2015-11-12T18:58:36.679211 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_glass_65_ffffff_1x400-7a3fd650afd9db8490f55fa0418d9f03.png\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000425,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000678,
+      "\t"
+    ],
+    [
+      0.000029,
+      "\r"
+    ],
+    [
+      0.000809,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000060,
+      "\tI, [2015-11-12T18:58:36.681634 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_glass_75_dadada_1x400-1291c5b2749ae313a8644becbd86387c.png\u001b[0m"
+    ],
+    [
+      0.000314,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000043,
+      "\t"
+    ],
+    [
+      0.000585,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000124,
+      "\t"
+    ],
+    [
+      0.000150,
+      "I, [2015-11-12T18:58:36.684237 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_glass_75_e6e6e6_1x400-a52e8c9824dbd266eba0436bba303a59.png\u001b[0m"
+    ],
+    [
+      0.000429,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000204,
+      "\t"
+    ],
+    [
+      0.000115,
+      "\r"
+    ],
+    [
+      0.000415,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000126,
+      "\t"
+    ],
+    [
+      0.000412,
+      "I, [2015-11-12T18:58:36.686816 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_glass_95_fef1ec_1x400-c60919d323a570388865ebeffc0e3869.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000142,
+      "\t"
+    ],
+    [
+      0.000479,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000099,
+      "\t"
+    ],
+    [
+      0.000145,
+      "I, [2015-11-12T18:58:36.689424 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100-e1cc2ed49215580070257211a577ae6a.png\u001b[0m"
+    ],
+    [
+      0.000346,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000118,
+      "\t"
+    ],
+    [
+      0.000505,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000093,
+      "\t"
+    ],
+    [
+      0.000930,
+      "I, [2015-11-12T18:58:36.691920 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-icons_222222_256x240-e4c00c63b1b90e877392ed712e1fcda0.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001002,
+      "\t"
+    ],
+    [
+      0.000289,
+      "\r"
+    ],
+    [
+      0.001606,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\tI, [2015-11-12T18:58:36.694696 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-icons_2e83ff_256x240-e642f51673449c42f2c677fb59ef42a8.png\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000115,
+      "\t"
+    ],
+    [
+      0.000458,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000158,
+      "\t"
+    ],
+    [
+      0.000166,
+      "I, [2015-11-12T18:58:36.697026 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-icons_454545_256x240-c48e1dd57b1e3c8325cd0cef3b8bc264.png\u001b[0m\r\n"
+    ],
+    [
+      0.000365,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000183,
+      "\t"
+    ],
+    [
+      0.000489,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000124,
+      "\t"
+    ],
+    [
+      0.000163,
+      "I, [2015-11-12T18:58:36.699430 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-icons_888888_256x240-f8290a67ace3f078ae114d0e907eb930.png\u001b[0m\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000423,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000123,
+      "\t"
+    ],
+    [
+      0.000157,
+      "I, [2015-11-12T18:58:36.701810 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/jquery-ui/ui-icons_cd0a0a_256x240-9ebec4d3b5ab451bd8a68f6d0fb74363.png\u001b[0m"
+    ],
+    [
+      0.000576,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000459,
+      "\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000405,
+      "\tI, [2015-11-12T18:58:36.705239 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bootstrap/glyphicons-halflings-regular-bdf02b709cb333d62b210918e82e8332.eot\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000124,
+      "\t"
+    ],
+    [
+      0.000546,
+      "\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000122,
+      "\t"
+    ],
+    [
+      0.001317,
+      "I, [2015-11-12T18:58:36.708672 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bootstrap/glyphicons-halflings-regular-c70378e72e14717d89b6beaefca7788f.svg\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m\t\r\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000893,
+      "\tI, [2015-11-12T18:58:36.713082 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bootstrap/glyphicons-halflings-regular-2414a25156511273ce181dacfc70182b.ttf\u001b[0m\r\n"
+    ],
+    [
+      0.000569,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000169,
+      "\t"
+    ],
+    [
+      0.000191,
+      "\r"
+    ],
+    [
+      0.000607,
+      "\r\n\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000407,
+      "\tI, [2015-11-12T18:58:36.724000 #21073]  INFO -- : Writing /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/bootstrap/glyphicons-halflings-regular-427631733f9e8c336d95918db3190f95.woff\u001b[0m\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000185,
+      "\t\r\r\n\u001b[0m"
+    ],
+    [
+      0.044800,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m984c8a0d\u001b[0m] Finished in 4.296 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000997,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m37ae3a63\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m37ae3a63\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.161169,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m37ae3a63\u001b[0m] Finished in 0.160 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.001534,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m51c9bf70\u001b[0m] Running \u001b[0;33;49m/usr/bin/env cp /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/manifest* /home/ubuntu/capistrano-deploy/releases/20151112205541/assets_manifest_backup\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000504,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m51c9bf70\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/releases/20151112205541 \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env cp /home/ubuntu/capistrano-deploy/releases/20151112205541/public/assets/manifest* /home/ubuntu/capistrano-deploy/releases/20151112205541/assets_manifest_backup )\u001b[0m"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.166710,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m51c9bf70\u001b[0m] Finished in 0.163 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.001318,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m8861ab9f\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m8861ab9f\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/releases/20151112205541; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases/20151112205541'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.158127,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m8861ab9f\u001b[0m] Finished in 0.157 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000628,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m46424931\u001b[0m] Running \u001b[0;33;49mRBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /opt/rbenv/bin/rbenv exec bundle exec rake db:migrate\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m46424931\u001b[0m] Command: \u001b[0;34;49mcd /home/ubuntu/capistrano-deploy/releases/20151112205541 \u0026\u0026 ( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 RAILS_ENV=staging RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /opt/rbenv/bin/rbenv exec bundle exec rake db:migrate )\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      2.422952,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m46424931\u001b[0m] Finished in 2.423 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001072,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m9ef08f22\u001b[0m] Running \u001b[0;33;49m/usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/current\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m9ef08f22\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/current )\u001b[0m"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.158272,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m9ef08f22\u001b[0m] Finished in 0.157 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.001295,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m64f790e1\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ln -s /home/ubuntu/capistrano-deploy/releases/20151112205541 /home/ubuntu/capistrano-deploy/current\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000453,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m64f790e1\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ln -s /home/ubuntu/capistrano-deploy/releases/20151112205541 /home/ubuntu/capistrano-deploy/current )\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.154285,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m64f790e1\u001b[0m] Finished in 0.154 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.001382,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m70ae4567\u001b[0m] Running \u001b[0;33;49m/usr/bin/env ls -x /home/ubuntu/capistrano-deploy/releases\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.000396,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m70ae4567\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env ls -x /home/ubuntu/capistrano-deploy/releases )\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.156523,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m70ae4567\u001b[0m] Finished in 0.156 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000498,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m70ae4567\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000198,
+      "\t"
+    ],
+    [
+      0.000217,
+      "20151112203750"
+    ],
+    [
+      0.000201,
+      "\t"
+    ],
+    [
+      0.000199,
+      "20151112204344"
+    ],
+    [
+      0.000188,
+      "\t"
+    ],
+    [
+      0.000193,
+      "20151112204437"
+    ],
+    [
+      0.000202,
+      "\t"
+    ],
+    [
+      0.000204,
+      "20151112204633"
+    ],
+    [
+      0.000190,
+      "\t"
+    ],
+    [
+      0.000195,
+      "20151112204822\r"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.001342,
+      "\u001b[0m\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m70ae4567\u001b[0m] \u001b[0;32;49m\t20151112205541\r\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0m"
+    ],
+    [
+      0.000379,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m70ae4567\u001b[0m] Finished in 0.156 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000944,
+      "\u001b[0;34;49mINFO\u001b[0mKeeping 5 of 6 deployed releases on 54.94.162.102"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000908,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49md50f7d07\u001b[0m] Running \u001b[0;33;49m/usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/releases/20151112203750\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000468,
+      "\r\n\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49md50f7d07\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env rm -rf /home/ubuntu/capistrano-deploy/releases/20151112203750 )\u001b[0m"
+    ],
+    [
+      0.000644,
+      "\r\n"
+    ],
+    [
+      0.522016,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49md50f7d07\u001b[0m] Finished in 0.522 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.001282,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m010b07a0\u001b[0m] Running \u001b[0;33;49m/usr/bin/env if test ! -d /home/ubuntu/capistrano-deploy/releases; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases'\" 1\u003e\u00262; false; fi\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000264,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m010b07a0\u001b[0m] Command: \u001b[0;34;49mif test ! -d /home/ubuntu/capistrano-deploy/releases; then echo \"Directory does not exist '/home/ubuntu/capistrano-deploy/releases'\" 1\u003e\u00262; false; fi\u001b[0m"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.153595,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m010b07a0\u001b[0m] Finished in 0.153 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001430,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m2f395d66\u001b[0m] Running \u001b[0;33;49m/usr/bin/env echo \"Branch react (at 73327dd) deployed as release 20151112205541 by vagrant\" \u003e\u003e /home/ubuntu/capistrano-deploy/revisions.log\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49m2f395d66\u001b[0m] Command: \u001b[0;34;49mecho \"Branch react (at 73327dd) deployed as release 20151112205541 by vagrant\" \u003e\u003e /home/ubuntu/capistrano-deploy/revisions.log\u001b[0m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.160053,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49m2f395d66\u001b[0m] Finished in 0.160 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000906,
+      "\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mb27825e7\u001b[0m] Running \u001b[0;33;49m/usr/bin/env service unicorn restart\u001b[0m on \u001b[0;34;49m54.94.162.102\u001b[0m"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb27825e7\u001b[0m] Command: \u001b[0;34;49m( RBENV_ROOT=/opt/rbenv RBENV_VERSION=2.1.2 /usr/bin/env service unicorn restart )\u001b[0m"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.157391,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb27825e7\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000266,
+      "\t"
+    ],
+    [
+      0.000222,
+      "Restarting Unicorn server: \u001b[0m"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      3.400857,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb27825e7\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.000252,
+      "\t"
+    ],
+    [
+      0.000085,
+      "unicorn.\u001b[0m"
+    ],
+    [
+      0.000458,
+      "\r\n"
+    ],
+    [
+      0.000379,
+      "\u001b[0;30;49mDEBUG\u001b[0m[\u001b[0;32;49mb27825e7\u001b[0m] \u001b[0;32;49m"
+    ],
+    [
+      0.001344,
+      "\t\r\r\n\u001b[0m\u001b[0;34;49mINFO\u001b[0m[\u001b[0;32;49mb27825e7\u001b[0m] Finished in 3.561 seconds with exit status 0 (\u001b[0;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      13.489465,
+      "#"
+    ],
+    [
+      0.575746,
+      "E"
+    ],
+    [
+      0.403247,
+      ","
+    ],
+    [
+      0.183658,
+      ","
+    ],
+    [
+      0.168415,
+      ","
+    ],
+    [
+      0.193355,
+      "\u001b]0;vagrant@boletim-web: /vagrant\u0007vagrant@boletim-web:/vagrant$ "
+    ],
+    [
+      0.000401,
+      "#"
+    ],
+    [
+      0.000232,
+      "E"
+    ],
+    [
+      0.000231,
+      ","
+    ],
+    [
+      0.000229,
+      ","
+    ],
+    [
+      0.000172,
+      ","
+    ],
+    [
+      0.056769,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.178475,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.194075,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.434329,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.164456,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.247114,
+      "\u0007"
+    ],
+    [
+      0.793078,
+      "\r\n\u001b]0;vagrant@boletim-web: /vagrant\u0007vagrant@boletim-web:/vagrant$ "
+    ],
+    [
+      0.300462,
+      "\r\n\u001b]0;vagrant@boletim-web: /vagrant\u0007vagrant@boletim-web:/vagrant$ "
+    ],
+    [
+      0.140934,
+      "\r\n\u001b]0;vagrant@boletim-web: /vagrant\u0007vagrant@boletim-web:/vagrant$ "
+    ],
+    [
+      0.699199,
+      "#"
+    ],
+    [
+      0.487374,
+      "E"
+    ],
+    [
+      0.543897,
+      "."
+    ],
+    [
+      0.181831,
+      "."
+    ],
+    [
+      0.151176,
+      "."
+    ],
+    [
+      0.151018,
+      " "
+    ],
+    [
+      0.253561,
+      "p"
+    ],
+    [
+      0.175943,
+      "r"
+    ],
+    [
+      0.103002,
+      "o"
+    ],
+    [
+      0.096231,
+      "n"
+    ],
+    [
+      0.057886,
+      "t"
+    ],
+    [
+      0.091157,
+      "o"
+    ],
+    [
+      0.186951,
+      "!"
+    ],
+    [
+      0.194245,
+      ","
+    ],
+    [
+      0.176510,
+      " "
+    ],
+    [
+      0.156099,
+      "E"
+    ],
+    [
+      0.109575,
+      "m"
+    ],
+    [
+      0.146036,
+      " "
+    ],
+    [
+      0.201241,
+      "p"
+    ],
+    [
+      0.095378,
+      "o"
+    ],
+    [
+      0.206280,
+      "u"
+    ],
+    [
+      0.381855,
+      "o"
+    ],
+    [
+      0.287944,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.082433,
+      "c"
+    ],
+    [
+      0.087894,
+      "o"
+    ],
+    [
+      0.099238,
+      "s"
+    ],
+    [
+      0.076285,
+      " "
+    ],
+    [
+      0.177447,
+      "s"
+    ],
+    [
+      0.076595,
+      "e"
+    ],
+    [
+      0.203052,
+      "g"
+    ],
+    [
+      0.060600,
+      "u"
+    ],
+    [
+      0.081356,
+      "n"
+    ],
+    [
+      0.071840,
+      "d"
+    ],
+    [
+      0.107350,
+      "a"
+    ],
+    [
+      0.028098,
+      "s"
+    ],
+    [
+      0.249671,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.172491,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.162961,
+      "o"
+    ],
+    [
+      0.099987,
+      "s"
+    ],
+    [
+      0.099229,
+      " "
+    ],
+    [
+      0.070267,
+      "e"
+    ],
+    [
+      0.100576,
+      "s"
+    ],
+    [
+      0.117505,
+      "t"
+    ],
+    [
+      0.174867,
+      "á"
+    ],
+    [
+      0.111116,
+      " "
+    ],
+    [
+      0.146729,
+      "n"
+    ],
+    [
+      0.047665,
+      "o"
+    ],
+    [
+      0.150976,
+      " "
+    ],
+    [
+      0.094403,
+      "a"
+    ],
+    [
+      0.087140,
+      "r"
+    ],
+    [
+      0.399264,
+      "\r\n\u001b]0;vagrant@boletim-web: /vagrant\u0007vagrant@boletim-web:/vagrant$ "
+    ],
+    [
+      1.589888,
+      "logout\r\n"
+    ],
+    [
+      0.000292,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.000655,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000098,
+      "\u001b]2;gustavo@frozen: ~/Projects/capistrano-deploy\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;..strano-deploy\u0007"
+    ],
+    [
+      0.086307,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/capistrano-deploy \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[43m\u001b[31m\u001b[30m  master  \u001b[49m\u001b[33m\u001b[39m\r\n$ \u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000053,
+      "\u001b[?2004h"
+    ],
+    [
+      1.631873,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

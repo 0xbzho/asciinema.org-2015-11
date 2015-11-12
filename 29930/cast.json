@@ -1,0 +1,1846 @@
+{
+  "version": 1,
+  "width": 250,
+  "height": 85,
+  "duration": 99.768076,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.398736,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.048681,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000042,
+      "\u001b[K\u001b[229CDocker: virtualbox\u001b[247D"
+    ],
+    [
+      0.000124,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.017866,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000024,
+      "\u001b[K\u001b[229CDocker: virtualbox\u001b[247D"
+    ],
+    [
+      0.000075,
+      "\u001b[?2004h"
+    ],
+    [
+      0.130554,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[219CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.762757,
+      "\u001b[46masciinema\u001b[49m rec"
+    ],
+    [
+      0.511285,
+      "\u001b[13D\u001b[49m \u001b[49m \u001b[49m \u001b[49m \u001b[49m \u001b[49m \u001b[49m \u001b[49m \u001b[49m     \u001b[13D"
+    ],
+    [
+      0.337775,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.078949,
+      "\u0008\u001b[33md\u001b[33mo\u001b[39m"
+    ],
+    [
+      0.186309,
+      "\u0008\u0008\u001b[39m\u001b[46md\u001b[39m\u001b[46mo\u001b[46mcker-machine\u001b[49m -D create --driver xhyve xhyve-test"
+    ],
+    [
+      1.306544,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.018762,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[46mdocker-machine\u001b[49m -D create --driver xhyve xhyve-test\u001b[K\u001b[169CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[197D"
+    ],
+    [
+      0.000125,
+      "\r\r\n"
+    ],
+    [
+      0.011819,
+      "Docker Machine Version: 0.5.0 (9775f9e)\r\n"
+    ],
+    [
+      0.000382,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000055,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.014716,
+      "Plugin server listening at address 127.0.0.1:51215"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000462,
+      "() Calling RpcServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000671,
+      "Using API Version 1\r\n"
+    ],
+    [
+      0.000004,
+      "() Calling RpcServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000294,
+      "() Calling RpcServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000175,
+      "(flag-lookup) Calling RpcServerDriver.GetCreateFlags\r\n"
+    ],
+    [
+      0.204618,
+      "Making call to close connection to plugin binary\r\nMaking call to close driver server\r\n"
+    ],
+    [
+      0.000011,
+      "(flag-lookup) Calling RpcServerDriver.Close\r\n"
+    ],
+    [
+      0.000262,
+      "Successfully made call to close driver server\r\n"
+    ],
+    [
+      0.000245,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000024,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.014062,
+      "Plugin server listening at address 127.0.0.1:51219"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000485,
+      "() Calling RpcServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000580,
+      "Using API Version 1\r\n"
+    ],
+    [
+      0.000003,
+      "() Calling RpcServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000309,
+      "() Calling RpcServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000141,
+      "(xhyve-test) Calling RpcServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000152,
+      "(xhyve-test) Calling RpcServerDriver.DriverName\r\n"
+    ],
+    [
+      0.000139,
+      "(xhyve-test) Calling RpcServerDriver.GetCreateFlags\r\n"
+    ],
+    [
+      0.000363,
+      "(xhyve-test) Calling RpcServerDriver.SetConfigFromFlags\r\n"
+    ],
+    [
+      0.000383,
+      "Running pre-create checks...\r\n(xhyve-test) Calling RpcServerDriver.PreCreateCheck\r\n"
+    ],
+    [
+      0.000142,
+      "(xhyve-test) DBG | ===== Docker Machine xhyve Driver Version 0.0.1-dev (HEAD) ====="
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000014,
+      "(xhyve-test) DBG | executing: /usr/local/bin/VBoxManage -v\r\n"
+    ],
+    [
+      0.013206,
+      "(xhyve-test) DBG | STDOUT: 5.0.8r103449\r\n(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve-test) DBG | STDERR: \r\n"
+    ],
+    [
+      0.000051,
+      "(xhyve-test) Calling RpcServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000428,
+      "(xhyve-test) Calling RpcServerDriver.GetConfigRaw"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000545,
+      "Creating machine...\r\n(xhyve-test) Calling RpcServerDriver.Create\r\n"
+    ],
+    [
+      0.031096,
+      "(xhyve-test) OUT | Creating SSH key...\r\n"
+    ],
+    [
+      0.364657,
+      "(xhyve-test) OUT | Creating VM...\r\n"
+    ],
+    [
+      0.000036,
+      "(xhyve-test) DBG | Mounting boot2docker.iso\r\n"
+    ],
+    [
+      0.000090,
+      "(xhyve-test) OUT | Extracting vmlinuz64 and initrd.img from boot2docker.iso...\r\n"
+    ],
+    [
+      0.000087,
+      "(xhyve-test) DBG | executing: \u0026{/usr/bin/hdiutil [hdiutil attach /Users/zchee/.docker/machine/machines/xhyve-test/boot2docker.iso] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e} attach /Users/zchee/.docker/machine/machines/xhyve-test/boot2docker.iso\r\n"
+    ],
+    [
+      1.202965,
+      "(xhyve-test) DBG | Extract vmlinuz64\r\n"
+    ],
+    [
+      0.005483,
+      "(xhyve-test) DBG | Extract initrd.img\r\n"
+    ],
+    [
+      0.029961,
+      "(xhyve-test) DBG | Unmounting boot2docker.iso\r\n"
+    ],
+    [
+      0.000067,
+      "(xhyve-test) DBG | executing: \u0026{/usr/bin/hdiutil [hdiutil detach /Volumes/Boot2Docker-v1.9/] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e} detach /Volumes/Boot2Docker-v1.9/"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.133661,
+      "(xhyve-test) OUT | Make a boot2docker userdata.tar key bundle...\r\n"
+    ],
+    [
+      0.000296,
+      "(xhyve-test) OUT | Fix file permission...\r\n"
+    ],
+    [
+      0.000074,
+      "(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/boot2docker.iso\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/config.json\r\n(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/id_rsa\r\n"
+    ],
+    [
+      0.000023,
+      "(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/id_rsa.pub\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/initrd.img\r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/userdata.tar\r\n"
+    ],
+    [
+      0.000085,
+      "(xhyve-test) DBG | /Users/zchee/.docker/machine/machines/xhyve-test/vmlinuz64\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) OUT | Creating blank ext4 filesystem disk image...\r\n"
+    ],
+    [
+      0.000308,
+      "(xhyve-test) DBG | libguestfs: trace: disk_create \"/Users/zchee/.docker/machine/machines/xhyve-test/xhyve-test.img\" \"raw\" 20971520000"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      29.266674,
+      "(xhyve-test) DBG | libguestfs: trace: disk_create = 0\r\n(xhyve-test) DBG | libguestfs: trace: add_drive \"/Users/zchee/.docker/machine/machines/xhyve-test/xhyve-test.img\" \"readonly:false\" \"format:raw\"\r\n(xhyve-test) DBG | libguestfs: trace: add_drive = 0\r\n(xhyve-test) DBG | libguestfs: trace: launch\r\n(xhyve-test) DBG | libguestfs: trace: get_tmpdir\r\n(xhyve-test) DBG | libguestfs: trace: get_tmpdir = \"/private/var/folders/52/cj7dcsvs0754fvll7b7vhw2r0000gn/T\"\r\n"
+    ],
+    [
+      0.000313,
+      "(xhyve-test) DBG | libguestfs: trace: get_backend_setting \"force_tcg\"\r\n"
+    ],
+    [
+      0.000116,
+      "(xhyve-test) DBG | libguestfs: trace: get_backend_setting = NULL (error)\r\n"
+    ],
+    [
+      0.235565,
+      "(xhyve-test) DBG | libguestfs: trace: get_backend_setting \"gdb\"\r\n(xhyve-test) DBG | libguestfs: trace: get_backend_setting = NULL (error)\r\n"
+    ],
+    [
+      9.296803,
+      "(xhyve-test) DBG | libguestfs: trace: launch = 0\r\n"
+    ],
+    [
+      0.000009,
+      "(xhyve-test) DBG | libguestfs: trace: list_devices\r\n"
+    ],
+    [
+      0.007991,
+      "(xhyve-test) DBG | libguestfs: trace: list_devices = [\"/dev/sda\"]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000599,
+      "(xhyve-test) DBG | libguestfs: trace: part_disk \"/dev/sda\" \"mbr\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.597334,
+      "(xhyve-test) DBG | libguestfs: trace: part_disk = 0\r\n(xhyve-test) DBG | libguestfs: trace: list_partitions\r\n"
+    ],
+    [
+      0.004641,
+      "(xhyve-test) DBG | libguestfs: trace: list_partitions = [\"/dev/sda1\"]\r\n"
+    ],
+    [
+      0.000647,
+      "(xhyve-test) DBG | libguestfs: trace: mkfs \"ext4\" \"/dev/sda1\"\r\n"
+    ],
+    [
+      3.522550,
+      "(xhyve-test) DBG | libguestfs: trace: mkfs = 0\r\n"
+    ],
+    [
+      0.000007,
+      "(xhyve-test) DBG | libguestfs: trace: mount \"/dev/sda1\" \"/\"\r\n"
+    ],
+    [
+      0.114682,
+      "(xhyve-test) DBG | libguestfs: trace: mount = 0\r\n"
+    ],
+    [
+      0.000069,
+      "(xhyve-test) DBG | libguestfs: trace: mkdir_p \"/var/lib/boot2docker\"\r\n"
+    ],
+    [
+      0.013358,
+      "(xhyve-test) DBG | libguestfs: trace: mkdir_p = 0"
+    ],
+    [
+      0.000012,
+      "\r\n(xhyve-test) DBG | libguestfs: trace: upload \"/Users/zchee/.docker/machine/machines/xhyve-test/userdata.tar\" \"/var/lib/boot2docker/userdata.tar\"\r\n"
+    ],
+    [
+      0.007096,
+      "(xhyve-test) DBG | libguestfs: trace: upload = 0\r\n"
+    ],
+    [
+      0.001147,
+      "(xhyve-test) DBG | libguestfs: trace: shutdown"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) DBG | libguestfs: trace: internal_autosync"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.088474,
+      "(xhyve-test) DBG | libguestfs: trace: internal_autosync = 0\r\n"
+    ],
+    [
+      0.040108,
+      "(xhyve-test) DBG | libguestfs: trace: shutdown = 0\r\n"
+    ],
+    [
+      0.000072,
+      "(xhyve-test) DBG | libguestfs: trace: close\r\n"
+    ],
+    [
+      0.007416,
+      "(xhyve-test) DBG | Created disk size: 20000MB\r\n"
+    ],
+    [
+      0.000053,
+      "(xhyve-test) OUT | Generate UUID...\r\n"
+    ],
+    [
+      0.000446,
+      "(xhyve-test) DBG | executing: \u0026{/usr/bin/uuidgen [uuidgen] []  \u003cnil\u003e  \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e}\r\n"
+    ],
+    [
+      0.004596,
+      "(xhyve-test) OUT | Convert UUID to MAC address...\r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve-test) DBG | uuidgen generated UUID: 386BF5C9-D006-4D68-8A85-43B009ECAC74\r\n"
+    ],
+    [
+      1.250946,
+      "(xhyve-test) DBG | uuid2mac output MAC address: b6:11:64:42:cf:32\r\n"
+    ],
+    [
+      0.000008,
+      "(xhyve-test) OUT | Starting xhyve-test...\r\n"
+    ],
+    [
+      0.000099,
+      "(xhyve-test) DBG | \u0026{/Users/zchee/go/bin/goxhyve [goxhyve 386BF5C9-D006-4D68-8A85-43B009ECAC74 1 1024 /Users/zchee/.docker/machine/machines/xhyve-test/boot2docker.iso /Users/zchee/.docker/machine/machines/xhyve-test/xhyve-test.img kexec,/Users/zchee/.docker/machine/machines/xhyve-test/vmlinuz64,/Users/zchee/.docker/machine/machines/xhyve-test/initrd.img,loglevel=3 user=docker console=ttyS0 console=tty0 noembed nomodeset norestore waitusb=10:LABEL=boot2docker-data base host=boot2docker -d] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e}"
+    ],
+    [
+      0.000021,
+      "\r\n(xhyve-test) DBG | d.MacAddr%!(EXTRA string=b6:11:64:42:cf:32)\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) OUT | Waiting for VM to come online...\r\n"
+    ],
+    [
+      0.000694,
+      "(xhyve-test) DBG | \r\n(xhyve-test) DBG | Not there yet 1/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.000617,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000037,
+      "(xhyve-test) DBG | Not there yet 2/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004533,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000008,
+      "(xhyve-test) DBG | Not there yet 3/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.003866,
+      "(xhyve-test) DBG | "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "(xhyve-test) DBG | Not there yet 4/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      2.001882,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000034,
+      "(xhyve-test) DBG | Not there yet 5/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004291,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve-test) DBG | Not there yet 6/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004263,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve-test) DBG | Not there yet 7/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004220,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000067,
+      "(xhyve-test) DBG | Not there yet 8/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004723,
+      "(xhyve-test) DBG | \r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve-test) DBG | Not there yet 9/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004648,
+      "(xhyve-test) DBG | "
+    ],
+    [
+      0.000008,
+      "\r\n(xhyve-test) DBG | Not there yet 10/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.005137,
+      "(xhyve-test) DBG | "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "(xhyve-test) DBG | Not there yet 11/60, error: IP not found for MAC b6:11:64:42:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.003569,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000007,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000002,
+      "(xhyve-test) DBG | Got an ip: 192.168.64.12"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "(xhyve-test) Calling RpcServerDriver.GetConfigRaw"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "(xhyve-test) Calling RpcServerDriver.GetConfigRaw"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000423,
+      "(xhyve-test) Calling RpcServerDriver.DriverName\r\n"
+    ],
+    [
+      0.000122,
+      "Waiting for machine to be running, this may take a few minutes..."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "(xhyve-test) Calling RpcServerDriver.GetState\r\n"
+    ],
+    [
+      0.000186,
+      "Machine is running, waiting for SSH to be available...\r\nGetting to WaitForSSH function..."
+    ],
+    [
+      0.000002,
+      "\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000169,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000017,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000107,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000101,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001529,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000003,
+      "About to run SSH command:\r\nexit 0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.063203,
+      "SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000007,
+      "\r\nDetecting operating system of created instance...\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000332,
+      "(xhyve-test) DBG | 192.168.64.12\r\n(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000054,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000118,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000142,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000220,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000005,
+      "About to run SSH command:\r\ncat /etc/os-release"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.059683,
+      "SSH cmd err, output: \u003cnil\u003e: NAME=Boot2Docker\r\nVERSION=1.9.0\r\nID=boot2docker\r\nID_LIKE=tcl\r\nVERSION_ID=1.9.0\r\nPRETTY_NAME=\"Boot2Docker 1.9.0 (TCL 6.4.1); master : d81f2f4 - Sun Nov  8 00:34:57 UTC 2015\"\r\nANSI_COLOR=\"1;34\"\r\nHOME_URL=\"http://boot2docker.io\"\r\nSUPPORT_URL=\"https://github.com/boot2docker/boot2docker\"\r\nBUG_REPORT_URL=\"https://github.com/boot2docker/boot2docker/issues\"\r\n"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "found compatible host: boot2docker\r\n"
+    ],
+    [
+      0.000008,
+      "Provisioning created instance...\r\n(xhyve-test) Calling RpcServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000221,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000227,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000030,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000134,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000142,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000209,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000005,
+      "About to run SSH command:\r\nsudo /usr/bin/sethostname xhyve-test \u0026\u0026 echo \"xhyve-test\" | sudo tee /var/lib/boot2docker/etc/hostname"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.064353,
+      "SSH cmd err, output: \u003cnil\u003e: \u001b[1;32mSetting hostname to \u001b[1;35mboot2docker\u001b[0;39m \u001b[1;32mDone.\u001b[0;39m\r\nxhyve-test\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000375,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000035,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000122,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000159,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000175,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000025,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      1.353515,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       28      0 192.168.64.12:ssh       192.168.64.1:51235      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16395 /var/run/acpid.socket\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14282 /run/udev/control\r\nunix  3      [ ]         DGRAM                     14291 \r\nunix  3      [ ]         STREAM     CONNECTED      16631 \r\nunix  3      [ ]         STREAM     CONNECTED      16630 \r\nunix  3      [ ]         DGRAM                     14292 \r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      3.003920,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000320,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000071,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000250,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000199,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000271,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000009,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      0.065247,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       28      0 192.168.64.12:ssh       192.168.64.1:51250      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\ntcp        0      0 :::2376                 :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16395 /var/run/acpid.socket\r\nunix  2      [ ACC ]     STREAM     LISTENING      16838 /var/lib/docker/network/files/e20ccce031dda4ae52064333aa3718c647bf1148a5861fda8b20772d5afdf06a.sock\r\nunix  2      [ ACC ]     STREAM     LISTENING      16756 /var/run/docker.sock\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14282 /run/udev/control\r\nunix  3      [ ]     "
+    ],
+    [
+      0.000045,
+      "    DGRAM                     14291 \r\nunix  3      [ ]         STREAM     CONNECTED      17014 \r\nunix  3      [ ]         STREAM     CONNECTED      17015 \r\nunix  3      [ ]         DGRAM                     14292 \r\n\r\n"
+    ],
+    [
+      0.000137,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000330,
+      "(xhyve-test) DBG | 192.168.64.12"
+    ],
+    [
+      0.000004,
+      "\r\n(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000043,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000110,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000166,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000160,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000005,
+      "About to run SSH command:\r\nsudo mkdir -p /var/lib/boot2docker"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.054603,
+      "SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "(xhyve-test) Calling RpcServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000222,
+      "(xhyve-test) Calling RpcServerDriver.GetIP\r\n"
+    ],
+    [
+      0.000234,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000024,
+      "Copying certs to the local machine directory...\r\n"
+    ],
+    [
+      0.001428,
+      "generating server cert: /Users/zchee/.docker/machine/machines/xhyve-test/server.pem ca-key=/Users/zchee/.docker/machine/certs/ca.pem private-key=/Users/zchee/.docker/machine/certs/ca-key.pem org=zchee.xhyve-test\r\n"
+    ],
+    [
+      0.173186,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000191,
+      "(xhyve-test) DBG | 192.168.64.12"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000016,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000147,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000144,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000163,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000004,
+      "About to run SSH command:\r\nsudo /etc/init.d/docker stop\r\n"
+    ],
+    [
+      0.058869,
+      "SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "Copying certs to the remote machine...\r\n"
+    ],
+    [
+      0.000041,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000506,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000032,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000152,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000185,
+      "Using SSH client type: external"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "About to run SSH command:\r\nprintf '%s' '-----BEGIN CERTIFICATE-----\r\nMIICzTCCAbWgAwIBAgIQBpweZnadEVEbJUq0phYPUDANBgkqhkiG9w0BAQsFADAQ\r\nMQ4wDAYDVQQKEwV6Y2hlZTAeFw0xNTEwMjkyMzE1MDBaFw0xODEwMTMyMzE1MDBa\r\nMBAxDjAMBgNVBAoTBXpjaGVlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC\r\nAQEAwnTNFwwjzw0c+piIa45SDOaSNzrvMqAgJY6JnRte9E6IIJSaYN+8iMRoVKCQ\r\n5ujLJuI0epSn0g+9zF+3oSFkhPAOqdxu0u4vbAMUvifVjgbHjhYR1wFmek7qrwtL\r\nxawMZHjZ06YSFf0Cp6uT+xQ4e/0IgQUKbzo0M+tlNQPnetJS+Peeu2acs+gWuSiS\r\nWpK7izefQ1Kq6uebh9q6KGVkf6xlCJStxADS+k+EMrxQnSzPNLdf/RxIJqMsNDGR\r\npDt9n7TFdFcKnqDAA/ZCEhGS224RGMODFerH5vnS5p4LHSFS81Wiey26UxLBjLAJ\r\nayomiXT90i0TbFYHqy8+lQ+EkwIDAQABoyMwITAOBgNVHQ8BAf8EBAMCAqwwDwYD\r\nVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAbD0O3BjoaFMePUnBpoNL\r\nGTkyS0g0jC7KFNVbhSuW8AepikigCkqeT27v36yWpZ5kVuFM01TW0elSMTIn95Ds\r\nmlJU43m35AEUnANMTmPEnackJWbmrCugViF5rNGyzxqPduPnCai1wwvLOWrM8dQV\r\n95wHdxUGIDLCMuV+9aGa3Lil/w9+oewPmM6rkq+HX2GIKQyq8mLQ1T0HWqD0VLBi\r\ng5FEzRaJbbNWYgeMkrt6qUM3CYEU/EEqvMrUKfn9lHPyG07JYKpnCJ6Qjr+dhgxx\r\nXC6H+lyB/pFTcL9A3TunfHu1T/AaiF4"
+    ],
+    [
+      0.000005,
+      "H3dmwx1zJYV7MMAVhVNPkbJfERqzIk7wn\r\nvQ==\r\n-----END CERTIFICATE-----\r\n' | sudo tee /var/lib/boot2docker/ca.pem\r\n"
+    ],
+    [
+      0.054428,
+      "SSH cmd err, output: \u003cnil\u003e: -----BEGIN CERTIFICATE-----\r\nMIICzTCCAbWgAwIBAgIQBpweZnadEVEbJUq0phYPUDANBgkqhkiG9w0BAQsFADAQ\r\nMQ4wDAYDVQQKEwV6Y2hlZTAeFw0xNTEwMjkyMzE1MDBaFw0xODEwMTMyMzE1MDBa\r\nMBAxDjAMBgNVBAoTBXpjaGVlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC\r\nAQEAwnTNFwwjzw0c+piIa45SDOaSNzrvMqAgJY6JnRte9E6IIJSaYN+8iMRoVKCQ\r\n5ujLJuI0epSn0g+9zF+3oSFkhPAOqdxu0u4vbAMUvifVjgbHjhYR1wFmek7qrwtL\r\nxawMZHjZ06YSFf0Cp6uT+xQ4e/0IgQUKbzo0M+tlNQPnetJS+Peeu2acs+gWuSiS\r\nWpK7izefQ1Kq6uebh9q6KGVkf6xlCJStxADS+k+EMrxQnSzPNLdf/RxIJqMsNDGR\r\npDt9n7TFdFcKnqDAA/ZCEhGS224RGMODFerH5vnS5p4LHSFS81Wiey26UxLBjLAJ\r\nayomiXT90i0TbFYHqy8+lQ+EkwIDAQABoyMwITAOBgNVHQ8BAf8EBAMCAqwwDwYD\r\nVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAbD0O3BjoaFMePUnBpoNL\r\nGTkyS0g0jC7KFNVbhSuW8AepikigCkqeT27v36yWpZ5kVuFM01TW0elSMTIn95Ds\r\nmlJU43m35AEUnANMTmPEnackJWbmrCugViF5rNGyzxqPduPnCai1wwvLOWrM8dQV\r\n95wHdxUGIDLCMuV+9aGa3Lil/w9+oewPmM6rkq+HX2GIKQyq8mLQ1T0HWqD0VLBi\r\ng5FEzRaJbbNWYgeMkrt6qUM3CYEU/EEqvMrUKfn9lHPyG07JYKpnCJ6Qjr+dhgxx\r\nXC6H+lyB/pFTcL9A3TunfHu1T/AaiF4H3dmwx1zJYV7"
+    ],
+    [
+      0.000044,
+      "MMAVhVNPkbJfERqzIk7wn\r\nvQ==\r\n-----END CERTIFICATE-----\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000328,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000017,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000118,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000167,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000076,
+      "About to run SSH command:\r\nprintf '%s' '-----BEGIN CERTIFICATE-----\r\nMIIDETCCAfmgAwIBAgIRAPAW88FKIC+V4EtO9Ka7JDUwDQYJKoZIhvcNAQELBQAw\r\nEDEOMAwGA1UEChMFemNoZWUwHhcNMTUxMTEyMjAwMzAwWhcNMTgxMDI3MjAwMzAw\r\nWjAbMRkwFwYDVQQKExB6Y2hlZS54aHl2ZS10ZXN0MIIBIjANBgkqhkiG9w0BAQEF\r\nAAOCAQ8AMIIBCgKCAQEAqHGeOZu0Z+9OxlAoNW/M3lY01ZrwR9B1WpasWBwkg+Y0\r\njov0Fo9Il2kogqLIe8qLhGt6AYdBSrrOom62qVUhRW911bBz3g/FXGQWgTLP8p3m\r\npxaXmvYVrvJnZ1Z2SDnyqj0lL9jiimSqv91IalW82Pjo+6X7A8mw6kHmW0VenK6A\r\nMaFwk9A3VNQYuuMoWT4yl26ACtj+oJzzmz3XgeCfzJ0vJjFZLgvzY6BlMUK700oO\r\nUOy1GoYoXALbLuAw6HqFp5C0BbmmmqMjx4fo2STG23o5fQE5pzx3+jHQnwuSch/o\r\nS9Vlekzm5K7PDkB0DvFZ4DIfuBpZiKOiCZI6ELVoQQIDAQABo1swWTAOBgNVHQ8B\r\nAf8EBAMCA6gwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMAwGA1UdEwEB\r\n/wQCMAAwGgYDVR0RBBMwEYIJbG9jYWxob3N0hwTAqEAMMA0GCSqGSIb3DQEBCwUA\r\nA4IBAQCw1Wrl5eO3mTepfkhxabbNbbqBRPYJ8XBALdaMXOtc55wUXstrQKZIZsTJ\r\nF7oDgVis2IaXBPkQnx6KQ2QVGn/6KNuVUPpuysaLadQF30GkbVWZAw9AHGd4T1Fp\r\n0ndR4dXZFZzm/n5/Ygwgb48FimTKv6zs5ChjdnYo7TS2V2kCOckDSIPw4Z3DYrAv\r\n3hnnYX0c905iXdcFVzhbHl+XMhoKLfO"
+    ],
+    [
+      0.000007,
+      "3V8TvAjTDqkU7sIIdXQO7ArrW8GpcnTpf\r\noyBgoLgrY0gopxpIIh5DnLLi1jQyq2rMSHCQTXnZwNsivJZp962Kc3A82rXM4/gT\r\n43rofpowb9+j9xOpkryej0lP4VwQ\r\n-----END CERTIFICATE-----\r\n' | sudo tee /var/lib/boot2docker/server.pem\r\n"
+    ],
+    [
+      0.061642,
+      "SSH cmd err, output: \u003cnil\u003e: -----BEGIN CERTIFICATE-----\r\nMIIDETCCAfmgAwIBAgIRAPAW88FKIC+V4EtO9Ka7JDUwDQYJKoZIhvcNAQELBQAw\r\nEDEOMAwGA1UEChMFemNoZWUwHhcNMTUxMTEyMjAwMzAwWhcNMTgxMDI3MjAwMzAw\r\nWjAbMRkwFwYDVQQKExB6Y2hlZS54aHl2ZS10ZXN0MIIBIjANBgkqhkiG9w0BAQEF\r\nAAOCAQ8AMIIBCgKCAQEAqHGeOZu0Z+9OxlAoNW/M3lY01ZrwR9B1WpasWBwkg+Y0\r\njov0Fo9Il2kogqLIe8qLhGt6AYdBSrrOom62qVUhRW911bBz3g/FXGQWgTLP8p3m\r\npxaXmvYVrvJnZ1Z2SDnyqj0lL9jiimSqv91IalW82Pjo+6X7A8mw6kHmW0VenK6A\r\nMaFwk9A3VNQYuuMoWT4yl26ACtj+oJzzmz3XgeCfzJ0vJjFZLgvzY6BlMUK700oO\r\nUOy1GoYoXALbLuAw6HqFp5C0BbmmmqMjx4fo2STG23o5fQE5pzx3+jHQnwuSch/o\r\nS9Vlekzm5K7PDkB0DvFZ4DIfuBpZiKOiCZI6ELVoQQIDAQABo1swWTAOBgNVHQ8B\r\nAf8EBAMCA6gwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMAwGA1UdEwEB\r\n/wQCMAAwGgYDVR0RBBMwEYIJbG9jYWxob3N0hwTAqEAMMA0GCSqGSIb3DQEBCwUA\r\nA4IBAQCw1Wrl5eO3mTepfkhxabbNbbqBRPYJ8XBALdaMXOtc55wUXstrQKZIZsTJ\r\nF7oDgVis2IaXBPkQnx6KQ2QVGn/6KNuVUPpuysaLadQF30GkbVWZAw9AHGd4T1Fp\r\n0ndR4dXZFZzm/n5/Ygwgb48FimTKv6zs5ChjdnYo7TS2V2kCOckDSIPw4Z3DYrAv\r\n3hnnYX0c905iXdcFVzhbHl+XMhoKLfO3V8TvAjTDqkU"
+    ],
+    [
+      0.000045,
+      "7sIIdXQO7ArrW8GpcnTpf\r\noyBgoLgrY0gopxpIIh5DnLLi1jQyq2rMSHCQTXnZwNsivJZp962Kc3A82rXM4/gT\r\n43rofpowb9+j9xOpkryej0lP4VwQ\r\n-----END CERTIFICATE-----\r\n\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000286,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000013,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000147,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000135,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000181,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000250,
+      "About to run SSH command:\r\nprintf '%s' '-----BEGIN RSA PRIVATE KEY-----\r\nMIIEowIBAAKCAQEAqHGeOZu0Z+9OxlAoNW/M3lY01ZrwR9B1WpasWBwkg+Y0jov0\r\nFo9Il2kogqLIe8qLhGt6AYdBSrrOom62qVUhRW911bBz3g/FXGQWgTLP8p3mpxaX\r\nmvYVrvJnZ1Z2SDnyqj0lL9jiimSqv91IalW82Pjo+6X7A8mw6kHmW0VenK6AMaFw\r\nk9A3VNQYuuMoWT4yl26ACtj+oJzzmz3XgeCfzJ0vJjFZLgvzY6BlMUK700oOUOy1\r\nGoYoXALbLuAw6HqFp5C0BbmmmqMjx4fo2STG23o5fQE5pzx3+jHQnwuSch/oS9Vl\r\nekzm5K7PDkB0DvFZ4DIfuBpZiKOiCZI6ELVoQQIDAQABAoIBAH1+4O50ti01WxBf\r\nSgW9/PmtaoG2hMxMYBKU7WRb20y153RIixt/twqvmzHxC8NG/Tk0Rdr7pUaC9U6J\r\ng+eW+EneKAGEDF9mipkyLJ4neEx/HghgyaT3MOJ90VJpVYisO8Jf+eOzB90p8Rkv\r\nSTOIG0Hf+Nz8JY8F5pwxaumXPk0mc/1cLezLBV2R0SbGyl1NeyLtgU+RKi4P5ehr\r\nzs5EV2RdJXRM8sh4Mr/E3ZrPzmOAVRGzCTTHQbKXVr1E0rIeWg1tYJMD57W7Lkc4\r\ngqZ5qnh/VfSK0gSi8tmS6ps05JnxP9hrjx7XAzy2OJrWOC0LHC+qg710WXB83bbU\r\n6ArAiV0CgYEA0zgqeMXBR8EAdunevTZG8qBRzY6ZZuNSIs0bd7QPU5SJpMb+kFTp\r\nntQ3lyyMbLQod5AqV1j5vrkhgFnaxaEswmpmmt7Htgrs0df5UOGkyZCfqrJa8oNm\r\nW1is/qvqH9bkJF718NugNDzmCkFSMdAzlbEqT6Vxpde4egvX9z1sa3sCgYEAzCfT\r\n42DaJ1rJgQtrWoViDCg0RhNP/9k"
+    ],
+    [
+      0.000008,
+      "3T9S56VfdcTsepBIaaibzaNh093CXCJSmN9QJ\r\nhlUlowg83/mVOWmj0gPNw4V5T2dnkfS489cInKBXhbdzaaBEyKarLqU04RZ3OjGB\r\nwqIye63CRWEqv0i2Qyz0sy3KgmRaetOuQq4pYHMCgYB8+KZoftk1E0SrFwTq/spL\r\nk//Sl6S785QNcz3lPWw0D5bBH9xOmW8Awp+BmqIbTx0CYRIsTEC4T+E6h++hLxPE\r\nlB/RUi7nzt7/6cFh0aAmgqN148Fb69MMCROSOzVzUTn7KxRpRgkr3zxcpPl077MV\r\nxpU6OrFbZp+H1qoZZwZXMQKBgEYZetj9PYr70mrb5+26FPOFroVNRk/cXvCrY3aq\r\n899YZGoDyUwfub6LbIY2A7YvjG9pACg+/mBfiL+DLGj9TAHlynZTU1cfc2GbfRJF\r\nCLD3IXZJinh/Tn7zM54dne2X0DKMIzkYhmsPO8Ck34+0wNiKDC+mDn39RVAddR1y\r\nPcTfAoGBAI4QcFi67+mZP09AaeDJ1bVReUlFCtz+h3dSkveAWc3z2h2h7B57XU8g\r\n4X7ArD0L4cXMuzRe66oOy1VWzxcWXIh0unz1hYjGoXr5LNFakQ2gVsaixFVNruJP\r\nZ16D1UOQq9kNAPZT3tY9boUevVvH3N1rgO1zj1nzxUzc0+sdUG8t\r\n-----END RSA PRIVATE KEY-----\r\n' | sudo tee /var/lib/boot2docker/server-key.pem\r\n"
+    ],
+    [
+      0.057040,
+      "SSH cmd err, output: \u003cnil\u003e: -----BEGIN RSA PRIVATE KEY-----\r\nMIIEowIBAAKCAQEAqHGeOZu0Z+9OxlAoNW/M3lY01ZrwR9B1WpasWBwkg+Y0jov0\r\nFo9Il2kogqLIe8qLhGt6AYdBSrrOom62qVUhRW911bBz3g/FXGQWgTLP8p3mpxaX\r\nmvYVrvJnZ1Z2SDnyqj0lL9jiimSqv91IalW82Pjo+6X7A8mw6kHmW0VenK6AMaFw\r\nk9A3VNQYuuMoWT4yl26ACtj+oJzzmz3XgeCfzJ0vJjFZLgvzY6BlMUK700oOUOy1\r\nGoYoXALbLuAw6HqFp5C0BbmmmqMjx4fo2STG23o5fQE5pzx3+jHQnwuSch/oS9Vl\r\nekzm5K7PDkB0DvFZ4DIfuBpZiKOiCZI6ELVoQQIDAQABAoIBAH1+4O50ti01WxBf\r\nSgW9/PmtaoG2hMxMYBKU7WRb20y153RIixt/twqvmzHxC8NG/Tk0Rdr7pUaC9U6J\r\ng+eW+EneKAGEDF9mipkyLJ4neEx/HghgyaT3MOJ90VJpVYisO8Jf+eOzB90p8Rkv\r\nSTOIG0Hf+Nz8JY8F5pwxaumXPk0mc/1cLezLBV2R0SbGyl1NeyLtgU+RKi4P5ehr\r\nzs5EV2RdJXRM8sh4Mr/E3ZrPzmOAVRGzCTTHQbKXVr1E0rIeWg1tYJMD57W7Lkc4\r\ngqZ5qnh/VfSK0gSi8tmS6ps05JnxP9hrjx7XAzy2OJrWOC0LHC+qg710WXB83bbU\r\n6ArAiV0CgYEA0zgqeMXBR8EAdunevTZG8qBRzY6ZZuNSIs0bd7QPU5SJpMb+kFTp\r\nntQ3lyyMbLQod5AqV1j5vrkhgFnaxaEswmpmmt7Htgrs0df5UOGkyZCfqrJa8oNm\r\nW1is/qvqH9bkJF718NugNDzmCkFSMdAzlbEqT6Vxpde4egvX9z1sa3sCgYEAzCfT\r\n42DaJ1rJgQtrWoViDCg0RhNP/9k3T9S56VfdcTs"
+    ],
+    [
+      0.000038,
+      "epBIaaibzaNh093CXCJSmN9QJ\r\nhlUlowg83/mVOWmj0gPNw4V5T2dnkfS489cInKBXhbdzaaBEyKarLqU04RZ3OjGB\r\nwqIye63CRWEqv0i2Qyz0sy3KgmRaetOuQq4pYHMCgYB8+KZoftk1E0SrFwTq/spL\r\nk//Sl6S785QNcz3lPWw0D5bBH9xOmW8Awp+BmqIbTx0CYRIsTEC4T+E6h++hLxPE\r\nlB/RUi7nzt7/6cFh0aAmgqN148Fb69MMCROSOzVzUTn7KxRpRgkr3zxcpPl077MV\r\nxpU6OrFbZp+H1qoZZwZXMQKBgEYZetj9PYr70mrb5+26FPOFroVNRk/cXvCrY3aq\r\n899YZGoDyUwfub6LbIY2A7YvjG9pACg+/mBfiL+DLGj9TAHlynZTU1cfc2GbfRJF\r\nCLD3IXZJinh/Tn7zM54dne2X0DKMIzkYhmsPO8Ck34+0wNiKDC+mDn39RVAddR1y\r\nPcTfAoGBAI4QcFi67+mZP09AaeDJ1bVReUlFCtz+h3dSkveAWc3z2h2h7B57XU8g\r\n4X7ArD0L4cXMuzRe66oOy1VWzxcWXIh0unz1hYjGoXr5LNFakQ2gVsaixFVNruJP\r\nZ16D1UOQq9kNAPZT3tY9boUevVvH3N1rgO1zj1nzxUzc0+sdUG8t\r\n-----END RSA PRIVATE KEY-----\r\n\r\n(xhyve-test) Calling RpcServerDriver.GetURL\r\n"
+    ],
+    [
+      0.000320,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000091,
+      "(xhyve-test) Calling RpcServerDriver.DriverName"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001164,
+      "Setting Docker configuration on the remote daemon...\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000205,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000043,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000119,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000131,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000204,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000006,
+      "About to run SSH command:\r\nprintf %s \"\r\nEXTRA_ARGS='\r\n--label provider=xhyve\r\n\r\n'\r\nCACERT=/var/lib/boot2docker/ca.pem\r\nDOCKER_HOST='-H tcp://0.0.0.0:2376'\r\nDOCKER_STORAGE=aufs\r\nDOCKER_TLS=auto\r\nSERVERKEY=/var/lib/boot2docker/server-key.pem\r\nSERVERCERT=/var/lib/boot2docker/server.pem\r\n\r\n\r\n\" | sudo tee /var/lib/boot2docker/profile\r\n"
+    ],
+    [
+      0.057470,
+      "SSH cmd err, output: \u003cnil\u003e: \r\nEXTRA_ARGS='\r\n--label provider=xhyve\r\n\r\n'\r\nCACERT=/var/lib/boot2docker/ca.pem\r\nDOCKER_HOST='-H tcp://0.0.0.0:2376'\r\nDOCKER_STORAGE=aufs\r\nDOCKER_TLS=auto\r\nSERVERKEY=/var/lib/boot2docker/server-key.pem\r\nSERVERCERT=/var/lib/boot2docker/server.pem\r\n\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000355,
+      "(xhyve-test) DBG | 192.168.64.12\r\n(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000085,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000126,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000202,
+      "Using SSH client type: external"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "About to run SSH command:\r\nsudo /etc/init.d/docker start"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.073427,
+      "SSH cmd err, output: \u003cnil\u003e: Device \"eth1\" does not exist.\r\nNeed TLS certs for boot2docker,127.0.0.1,192.168.64.12\r\n-------------------\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n(xhyve-test) Calling RpcServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000337,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000009,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000089,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000157,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000007,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      0.066587,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       28      0 192.168.64.12:ssh       192.168.64.1:51262      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16395 /var/run/acpid.socket\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14282 /run/udev/control\r\nunix  3      [ ]         DGRAM                     14291 \r\nunix  3      [ ]         STREAM     CONNECTED      17496 \r\nunix  3      [ ]         DGRAM                     14292 \r\nunix  3      [ ]         STREAM     CONNECTED      17495 \r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      3.005480,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHHostname"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000007,
+      "(xhyve-test) DBG | 192.168.64.12\r\n(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000199,
+      "(xhyve-test) Calling RpcServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000267,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000006,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      0.061822,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       28      0 192.168.64.12:ssh       192.168.64.1:51267      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\ntcp        0      0 :::2376                 :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16395 /var/run/acpid.socket\r\nunix  2      [ ACC ]     STREAM     LISTENING      17588 /var/lib/docker/network/files/5f5f65401c71517413957e555ca77d9112abc557d3cf604e4fef8ae58f287fb5.sock\r\nunix  2      [ ACC ]     STREAM     LISTENING      17521 /var/run/docker.sock\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14282 /run/udev/control\r\nunix  3      [ ]     "
+    ],
+    [
+      0.000043,
+      "    DGRAM                     14291 \r\nunix  3      [ ]         STREAM     CONNECTED      17701 \r\nunix  3      [ ]         DGRAM                     14292 \r\nunix  3      [ ]         STREAM     CONNECTED      17702 \r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "(xhyve-test) Calling RpcServerDriver.GetIP\r\n"
+    ],
+    [
+      0.000339,
+      "(xhyve-test) DBG | 192.168.64.12"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000300,
+      "Reticulating splines...\r\n(xhyve-test) Calling RpcServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000174,
+      "(xhyve-test) Calling RpcServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000526,
+      "To see how to connect Docker to this machine, run: docker-machine env xhyve-test\r\n"
+    ],
+    [
+      0.002030,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.054840,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[219CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000080,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.019741,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[219CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000104,
+      "\u001b[?2004h"
+    ],
+    [
+      0.122644,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[219CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.852976,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.078661,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mv\u001b[0m\u001b[39m"
+    ],
+    [
+      0.841140,
+      "\u0008\u0008\u001b[0m\u001b[39m\u001b[46me\u001b[0m\u001b[39m\u001b[46mv\u001b[46mal\u001b[49m \u001b[33m\"$(docker-machine env virtualbox)\"\u001b[39m"
+    ],
+    [
+      0.601985,
+      "\u0008\u001b[7m\u001b[33m\"\u001b[27m\u001b[39m\u0008"
+    ],
+    [
+      0.167877,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.262665,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.250146,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.020925,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.021090,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.021838,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.197974,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.224138,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.215912,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.120058,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.151132,
+      "\u0008\u001b[7m\u001b[33m)\u001b[27m\u001b[27m\u001b[33m\"\u001b[39m\u001b[39m \u0008\u0008\u0008"
+    ],
+    [
+      0.209258,
+      "\u001b[27m\u001b[33mx\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.112695,
+      "\u001b[27m\u001b[33mh\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.998893,
+      "\u001b[27m\u001b[33my\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.240380,
+      "\u001b[27m\u001b[33mv\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.031870,
+      "\u001b[27m\u001b[33me\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.375649,
+      "\u001b[27m\u001b[33m-\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.223170,
+      "\u001b[27m\u001b[33mt\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.072341,
+      "\u001b[27m\u001b[33me\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.119744,
+      "\u001b[27m\u001b[33ms\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.088886,
+      "\u001b[27m\u001b[33mt\u001b[7m\u001b[33m)\u001b[27m\u001b[33m\"\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.483400,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.017792,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[46meval\u001b[49m \u001b[33m\"$(docker-machine env xhyve-test\u001b[7m\u001b[33m)\u001b[27m\"\u001b[39m\u001b[K\u001b[180CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[210D"
+    ],
+    [
+      0.000101,
+      "\r\r\n"
+    ],
+    [
+      0.010398,
+      "Docker Machine Version: 0.5.0 (9775f9e)\r\n"
+    ],
+    [
+      0.000522,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000143,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.013606,
+      "Plugin server listening at address 127.0.0.1:51293\r\n"
+    ],
+    [
+      0.000621,
+      "() Calling RpcServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000732,
+      "Using API Version 1\r\n"
+    ],
+    [
+      0.000004,
+      "() Calling RpcServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000422,
+      "() Calling RpcServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000142,
+      "(xhyve-test) Calling RpcServerDriver.GetState\r\n"
+    ],
+    [
+      0.000123,
+      "(xhyve-test) Calling RpcServerDriver.GetURL\r\n"
+    ],
+    [
+      0.000246,
+      "(xhyve-test) DBG | 192.168.64.12\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve-test) DBG | IP found in DHCP lease table: 192.168.64.12\r\n"
+    ],
+    [
+      0.000039,
+      "Reading CA certificate from /Users/zchee/.docker/machine/certs/ca.pem\r\n"
+    ],
+    [
+      0.000035,
+      "Reading server certificate from /Users/zchee/.docker/machine/machines/xhyve-test/server.pem\r\n"
+    ],
+    [
+      0.000014,
+      "Reading server key from /Users/zchee/.docker/machine/machines/xhyve-test/server-key.pem\r\n"
+    ],
+    [
+      0.026606,
+      "shell: zsh\r\n"
+    ],
+    [
+      0.002357,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.057470,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000012,
+      "\u001b[K\u001b[219CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000076,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.020160,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[219CDocker: virtualbox  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000103,
+      "\u001b[?2004h"
+    ],
+    [
+      0.119501,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      1.116847,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.080650,
+      "\u0008\u001b[32md\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.163282,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.018094,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000017,
+      "\u001b[32mdi\u001b[39m\u001b[K\u001b[217CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[245D"
+    ],
+    [
+      0.000094,
+      "\r\r\n"
+    ],
+    [
+      0.107062,
+      "Error response from daemon: client is newer than server (client API version: 1.22, server API version: 1.21)\r\n"
+    ],
+    [
+      0.001480,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.053625,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000021,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000095,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.018737,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000119,
+      "\u001b[?2004h"
+    ],
+    [
+      0.119389,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.596843,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.078259,
+      "\u0008\u001b[33md\u001b[33mo\u001b[39m"
+    ],
+    [
+      0.153402,
+      "\u0008\u0008\u001b[1m\u001b[31md\u001b[1m\u001b[31mo\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.055756,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mk\u001b[0m\u001b[39m"
+    ],
+    [
+      0.057515,
+      "\u0008\u001b[1m\u001b[31mk\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.063056,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[46md\u001b[0m\u001b[39m\u001b[46mo\u001b[0m\u001b[39m\u001b[46mc\u001b[0m\u001b[39m\u001b[46mk\u001b[0m\u001b[39m\u001b[46me\u001b[46mr\u001b[49m"
+    ],
+    [
+      0.144282,
+      " "
+    ],
+    [
+      0.527205,
+      "\u0008"
+    ],
+    [
+      0.184867,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[49m\u001b[1m\u001b[31md\u001b[49m\u001b[1m\u001b[31mo\u001b[49m\u001b[1m\u001b[31mc\u001b[49m\u001b[1m\u001b[31mk\u001b[49m\u001b[1m\u001b[31me\u001b[49m\u001b[1m\u001b[31mr\u001b[1m\u001b[31m-\u001b[0m\u001b[39m"
+    ],
+    [
+      0.272271,
+      "\u0008\u001b[1m\u001b[31m-\u001b[1m\u001b[31ms\u001b[0m\u001b[39m"
+    ],
+    [
+      0.192094,
+      "\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.079737,
+      "\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.536396,
+      "\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31mb\u001b[0m\u001b[39m"
+    ],
+    [
+      0.208154,
+      "\u0008\u001b[1m\u001b[31mb\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.079349,
+      "\u001b[12D\u001b[0m\u001b[39m\u001b[46md\u001b[0m\u001b[39m\u001b[46mo\u001b[0m\u001b[39m\u001b[46mc\u001b[0m\u001b[39m\u001b[46mk\u001b[0m\u001b[39m\u001b[46me\u001b[0m\u001b[39m\u001b[46mr\u001b[0m\u001b[39m\u001b[46m-\u001b[0m\u001b[39m\u001b[46ms\u001b[0m\u001b[39m\u001b[46mt\u001b[0m\u001b[39m\u001b[46ma\u001b[0m\u001b[39m\u001b[46mb\u001b[0m\u001b[39m\u001b[46ml\u001b[46me\u001b[49m"
+    ],
+    [
+      0.199795,
+      " "
+    ],
+    [
+      1.880420,
+      "\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.239875,
+      "\u0008\u001b[4mv\u001b[4me\u001b[24m"
+    ],
+    [
+      0.064167,
+      "\u0008\u001b[4me\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.368233,
+      "\u0008\u001b[4mr\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.778344,
+      "\u0008\u001b[4ms\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.013003,
+      "\u0008\u001b[4mi\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.079583,
+      "\u0008\u001b[4mo\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.307011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.018364,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[46mdocker-stable\u001b[49m \u001b[4mversion\u001b[24m\u001b[K\u001b[198CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[226D"
+    ],
+    [
+      0.000074,
+      "\r\r\n"
+    ],
+    [
+      0.217364,
+      "Client:\r\n Version:      "
+    ],
+    [
+      0.000317,
+      "1.9.0\r\n API version:  "
+    ],
+    [
+      0.000009,
+      "1.21\r\n Go version:   go1.4.3\r\n Git commit:   76d6bc9\r\n Built:        Tue Nov  3 17:28:05 UTC 2015\r\n OS/Arch:      darwin"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000002,
+      "amd64"
+    ],
+    [
+      0.000016,
+      "\r\n\r\nServer:\r\n Version:      1.9.0"
+    ],
+    [
+      0.000007,
+      "\r\n API version:  1.21\r\n Go version:   go1.4.3\r\n Git commit:   "
+    ],
+    [
+      0.000014,
+      "76d6bc9\r\n Built:        "
+    ],
+    [
+      0.000004,
+      "Tue Nov  3 19:20:09 UTC 2015\r\n OS/Arch:      linux/"
+    ],
+    [
+      0.000002,
+      "amd64"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000961,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.052479,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000075,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.021483,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      0.000107,
+      "\u001b[?2004h"
+    ],
+    [
+      0.119572,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[219CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[247D"
+    ],
+    [
+      1.536157,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.231766,
+      "\u0008\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.223085,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.031578,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[46me\u001b[0m\u001b[39m\u001b[46mx\u001b[0m\u001b[39m\u001b[46mi\u001b[46mt\u001b[49m"
+    ],
+    [
+      0.234537,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.018286,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;037m~/go/src/github.com/zchee/docker-machine-xhyve\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[46mexit\u001b[49m\u001b[K\u001b[215CDocker: xhyve-test  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[243D"
+    ],
+    [
+      0.000072,
+      "\r\r\n"
+    ]
+  ]
+}

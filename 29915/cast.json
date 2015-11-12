@@ -1,0 +1,1230 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 58.091676,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.127306,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.168858,
+      "s"
+    ],
+    [
+      0.056911,
+      "h"
+    ],
+    [
+      0.182734,
+      " "
+    ],
+    [
+      0.402299,
+      "p"
+    ],
+    [
+      0.156324,
+      "i"
+    ],
+    [
+      0.299298,
+      "@"
+    ],
+    [
+      0.239238,
+      "1"
+    ],
+    [
+      0.110680,
+      "9"
+    ],
+    [
+      0.106959,
+      "2"
+    ],
+    [
+      0.155907,
+      "."
+    ],
+    [
+      0.565130,
+      "1"
+    ],
+    [
+      0.117760,
+      "6"
+    ],
+    [
+      0.246235,
+      "8"
+    ],
+    [
+      0.333183,
+      "."
+    ],
+    [
+      0.090968,
+      "1"
+    ],
+    [
+      0.100074,
+      "."
+    ],
+    [
+      0.911629,
+      "3"
+    ],
+    [
+      0.591583,
+      "6"
+    ],
+    [
+      0.775118,
+      "\r\n"
+    ],
+    [
+      0.687047,
+      "pi@192.168.1.36's password: "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.231304,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Thu Nov 12 13:54:35 2015 from 192.168.1.33\r\r\n"
+    ],
+    [
+      0.429428,
+      "\u001b]0;pi@raspberrypi2: ~\u0007\u001b[01;32mpi@raspberrypi2\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.636513,
+      "\u001b[H\u001b[2J\u001b]0;pi@raspberrypi2: ~\u0007\u001b[01;32mpi@raspberrypi2\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.101575,
+      "u"
+    ],
+    [
+      0.090504,
+      "d"
+    ],
+    [
+      0.438020,
+      "o"
+    ],
+    [
+      0.270172,
+      " "
+    ],
+    [
+      0.117182,
+      "a"
+    ],
+    [
+      0.111621,
+      "p"
+    ],
+    [
+      0.143280,
+      "t"
+    ],
+    [
+      0.129921,
+      " "
+    ],
+    [
+      0.163261,
+      "i"
+    ],
+    [
+      0.137672,
+      "n"
+    ],
+    [
+      0.094760,
+      "s"
+    ],
+    [
+      0.125469,
+      "t"
+    ],
+    [
+      0.112786,
+      "a"
+    ],
+    [
+      0.173119,
+      "l"
+    ],
+    [
+      0.155523,
+      "l"
+    ],
+    [
+      0.204077,
+      " "
+    ],
+    [
+      0.452072,
+      "m"
+    ],
+    [
+      0.183746,
+      "a"
+    ],
+    [
+      0.149981,
+      "r"
+    ],
+    [
+      0.591836,
+      "i"
+    ],
+    [
+      0.167337,
+      "a"
+    ],
+    [
+      0.852823,
+      "d"
+    ],
+    [
+      0.281302,
+      "b"
+    ],
+    [
+      0.255725,
+      "-"
+    ],
+    [
+      0.178234,
+      "s"
+    ],
+    [
+      0.291924,
+      "e"
+    ],
+    [
+      0.204796,
+      "r"
+    ],
+    [
+      0.284892,
+      "v"
+    ],
+    [
+      0.196812,
+      "e"
+    ],
+    [
+      0.164776,
+      "r"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.186301,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.102104,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r"
+    ],
+    [
+      0.000476,
+      "\r\n"
+    ],
+    [
+      0.105737,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000172,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.108935,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000039,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.500130,
+      "\rBuilding dependency tree... 76%\r"
+    ],
+    [
+      0.426550,
+      "\rBuilding dependency tree       \r\r\n"
+    ],
+    [
+      0.000539,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000422,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.020572,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      1.000000,
+      "The following extra packages will be installed:\r\n"
+    ],
+    [
+      0.000024,
+      "  libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl libmysqlclient18\r\n"
+    ],
+    [
+      0.000625,
+      "  libreadline5 libterm-readkey-perl mariadb-client-10.0\r\n"
+    ],
+    [
+      0.000298,
+      "  mariadb-client-core-10.0 mariadb-common mariadb-server-10.0\r\n"
+    ],
+    [
+      0.000389,
+      "  mariadb-server-core-10.0 mysql-common\r\n"
+    ],
+    [
+      0.017011,
+      "Suggested packages:\r\n"
+    ],
+    [
+      0.000312,
+      "  libclone-perl libmldbm-perl libnet-daemon-perl libsql-statement-perl\r\n"
+    ],
+    [
+      0.000393,
+      "  libipc-sharedcache-perl mailx mariadb-test tinyca\r\n"
+    ],
+    [
+      0.031610,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000264,
+      "  libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl libmysqlclient18\r\n"
+    ],
+    [
+      0.000368,
+      "  libreadline5 libterm-readkey-perl mariadb-client-10.0\r\n"
+    ],
+    [
+      0.000397,
+      "  mariadb-client-core-10.0 mariadb-common mariadb-server mariadb-server-10.0\r\n  mariadb-server-core-10.0 mysql-common\r\n"
+    ],
+    [
+      0.082753,
+      "0 upgraded, 14 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.039965,
+      "Need to get 0 B/11.2 MB of archives.\r\n"
+    ],
+    [
+      0.000105,
+      "After this operation, 120 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000736,
+      "Do you want to continue?"
+    ],
+    [
+      0.000335,
+      " [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.584647,
+      "\r\n"
+    ],
+    [
+      0.000554,
+      "\r\r"
+    ],
+    [
+      1.000000,
+      "Preconfiguring packages ...\r\n"
+    ],
+    [
+      0.250433,
+      "\u001b[?1049h\u001b[1;24r\u001b[4l\u001b[?25l\u001b(B\u001b[m\u001b[37m\u001b[40m\u001b[1;24r\u001b[H\u001b[2J\u001b[1;1H\u001b[97m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1;1H"
+    ],
+    [
+      0.006114,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\u001b[37mPackage configuration\u001b[6;3H\u001b[30m\u001b[47m┌───────────────────┤ \u001b[31mConfiguring mariadb-server-10.0\u001b[30m ├───────────────────┐\u001b[7;3H│ While not mandatory, it is highly recommended that you set a password   │\u001b[97m\u001b[40m \u001b[8;3H\u001b[30m\u001b[47m│ for the MariaDB administrative \"root\" user.                             │\u001b[97m\u001b[40m \u001b[9;3H\u001b[30m\u001b[47m│                                                                         │\u001b[97m\u001b[40m \u001b[10;3H\u001b[30m\u001b[47m│ If this field is left blank, the password will not be changed.          │\u001b[97m\u001b[40m \u001b[11;3H\u001b[30m\u001b[47m│                                                                         │\u001b[97m\u001b[40m \u001b[12;3H\u001b[30m\u001b[47m│ New password for the MariaDB \"root\" user:                               │\u001b[97m\u001b[40m \u001b[13;3H\u001b[30m\u001b[47m│                                                                         │\u001b[97m\u001b[40m \u001b[14;3H\u001b[30m\u001b[47m│ \u001b[37m\u001b[44m_______________________________________________________________________\u001b[30m\u001b[47m │\u001b[97m\u001b[40m \u001b[15;3H\u001b[30m\u001b[47m│                                                                         │\u001b[97m\u001b[40m \u001b[16;3H\u001b[30m\u001b[47m│                                 \u003cOk\u003e                                    │\u001b[97m\u001b[40m \u001b[17;3H\u001b[30m\u001b[47m│                                                                         │\u001b[97m\u001b[40m \u001b[18;3H\u001b[30m\u001b[47m└─────────────────────────────────────────────────────────────────────────┘\u001b[97m\u001b[40m \u001b[19;4H                                                                           \u001b[14;5H"
+    ],
+    [
+      1.000000,
+      "\u001b[37m\u001b[44m*"
+    ],
+    [
+      0.207771,
+      "*"
+    ],
+    [
+      0.207560,
+      "*"
+    ],
+    [
+      1.000000,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\u001b[24;1H\u001b[40m\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.046892,
+      "\u001b[?1049h\u001b[1;24r\u001b[4l\u001b[?25l\u001b(B\u001b[m\u001b[37m\u001b[40m\u001b[1;24r\u001b[H\u001b[2J\u001b[1;1H\u001b[97m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1;1H"
+    ],
+    [
+      0.005123,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\u001b[37mPackage configuration\u001b[8;16H\u001b[30m\u001b[47m┌──────┤ \u001b[31mConfiguring mariadb-server-10.0\u001b[30m ├──────┐\u001b[9;16H│                                               │\u001b[97m\u001b[40m \u001b[10;16H\u001b[30m\u001b[47m│                                               │\u001b[97m\u001b[40m \u001b[11;16H\u001b[30m\u001b[47m│ Repeat password for the MariaDB \"root\" user:  │\u001b[97m\u001b[40m \u001b[12;16H\u001b[30m\u001b[47m│                                               │\u001b[97m\u001b[40m \u001b[13;16H\u001b[30m\u001b[47m│ \u001b[37m\u001b[44m_____________________________________________\u001b[30m\u001b[47m │\u001b[97m\u001b[40m \u001b[14;16H\u001b[30m\u001b[47m│                                               │\u001b[97m\u001b[40m \u001b[15;16H\u001b[30m\u001b[47m│                    \u003cOk\u003e                       │\u001b[97m\u001b[40m \u001b[16;16H\u001b[30m\u001b[47m│                                               │\u001b[97m\u001b[40m \u001b[17;16H\u001b[30m\u001b[47m└───────────────────────────────────────────────┘\u001b[97m\u001b[40m \u001b[18;17H                                                 \u001b[13;18H"
+    ],
+    [
+      1.000000,
+      "\u001b[37m\u001b[44m*"
+    ],
+    [
+      0.230324,
+      "*"
+    ],
+    [
+      0.245513,
+      "*"
+    ],
+    [
+      0.404770,
+      "\u001b[?25l"
+    ],
+    [
+      0.000404,
+      "\u001b[?12l\u001b[?25h\u001b[24;1H"
+    ],
+    [
+      0.000570,
+      "\u001b[40m\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.783060,
+      "\n"
+    ],
+    [
+      0.000216,
+      "\u001b[s\u001b[0;23r\u001b[u\u001b[1A"
+    ],
+    [
+      0.605935,
+      "Selecting previously unselected package libaio1:armhf.\r\n"
+    ],
+    [
+      0.000025,
+      "(Reading database ... \r"
+    ],
+    [
+      0.025957,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000359,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000452,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000754,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000496,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000435,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000377,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000437,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000541,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000466,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000537,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.047922,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.015047,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.015205,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.011293,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.008387,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.012403,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.017519,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.066235,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.022802,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000308,
+      "(Reading database ... 105829 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.031270,
+      "Preparing to unpack .../libaio1_0.3.110-1_armhf.deb ...\r\n"
+    ],
+    [
+      0.000672,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  0%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000355,
+      " [..........................................................] \u001b[u"
+    ],
+    [
+      0.000859,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  1%]\u001b[49m\u001b[39m [#.........................................................] \u001b[u"
+    ],
+    [
+      0.023158,
+      "Unpacking libaio1:armhf (0.3.110-1) ...\r\n"
+    ],
+    [
+      0.149961,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  2%]\u001b[49m\u001b[39m [##........................................................] \u001b[u"
+    ],
+    [
+      0.021523,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  4%]\u001b[49m\u001b[39m [###.......................................................] \u001b[u"
+    ],
+    [
+      0.695960,
+      "Selecting previously unselected package mysql-common.\r\n"
+    ],
+    [
+      0.028843,
+      "Preparing to unpack .../mysql-common_5.5.44-0+deb8u1_all.deb ...\r\n"
+    ],
+    [
+      0.001748,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  5%]\u001b[49m\u001b[39m [####......................................................] \u001b[u"
+    ],
+    [
+      0.021961,
+      "Unpacking mysql-common (5.5.44-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.136375,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  7%]\u001b[49m\u001b[39m [#####.....................................................] \u001b[u"
+    ],
+    [
+      0.025290,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  8%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000011,
+      " [#####.....................................................] \u001b[u"
+    ],
+    [
+      0.146069,
+      "Selecting previously unselected package libmysqlclient18:armhf.\r\n"
+    ],
+    [
+      0.038031,
+      "Preparing to unpack .../libmysqlclient18_5.5.44-0+deb8u1_armhf.deb ...\r\n"
+    ],
+    [
+      0.001191,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [  9%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000520,
+      " [######....................................................] \u001b[u"
+    ],
+    [
+      0.021148,
+      "Unpacking libmysqlclient18:armhf (5.5.44-0+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 11%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000244,
+      " [#######...................................................] "
+    ],
+    [
+      0.000512,
+      "\u001b[u"
+    ],
+    [
+      0.025032,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 12%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000561,
+      " [########..................................................] \u001b[u"
+    ],
+    [
+      0.382344,
+      "Selecting previously unselected package mariadb-common.\r\n"
+    ],
+    [
+      0.038872,
+      "Preparing to unpack .../mariadb-common_10.0.22-0+deb8u1_all.deb ...\r\n"
+    ],
+    [
+      0.001246,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 14%]\u001b[49m\u001b[39m [#########.................................................] \u001b[u"
+    ],
+    [
+      0.023621,
+      "Unpacking mariadb-common (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.127032,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 15%]\u001b[49m\u001b[39m [#########.................................................] \u001b[u"
+    ],
+    [
+      0.022845,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 16%]\u001b[49m\u001b[39m [##########................................................] \u001b[u"
+    ],
+    [
+      0.258448,
+      "Selecting previously unselected package libdbi-perl.\r\n"
+    ],
+    [
+      0.037578,
+      "Preparing to unpack .../libdbi-perl_1.631-3+b1_armhf.deb ...\r\n"
+    ],
+    [
+      0.001385,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 18%]\u001b[49m\u001b[39m [###########...............................................] \u001b[u"
+    ],
+    [
+      0.040034,
+      "Unpacking libdbi-perl (1.631-3+b1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 19%]\u001b[49m\u001b[39m [############..............................................] \u001b[u"
+    ],
+    [
+      0.023983,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 21%]\u001b[49m\u001b[39m [#############.............................................] \u001b[u"
+    ],
+    [
+      0.095387,
+      "Selecting previously unselected package libterm-readkey-perl.\r\n"
+    ],
+    [
+      0.038897,
+      "Preparing to unpack .../libterm-readkey-perl_2.32-1+b2_armhf.deb ...\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 22%]\u001b[49m\u001b[39m [##############............................................] \u001b[u"
+    ],
+    [
+      0.021477,
+      "Unpacking libterm-readkey-perl (2.32-1+b2) ...\r\n"
+    ],
+    [
+      0.154677,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 23%]\u001b[49m\u001b[39m [##############............................................] \u001b[u"
+    ],
+    [
+      0.023658,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 25%]\u001b[49m\u001b[39m [###############...........................................] \u001b[u"
+    ],
+    [
+      0.132180,
+      "Selecting previously unselected package libreadline5:armhf.\r\n"
+    ],
+    [
+      0.039024,
+      "Preparing to unpack .../libreadline5_5.2+dfsg-2_armhf.deb ...\r\n"
+    ],
+    [
+      0.001009,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 26%]\u001b[49m\u001b[39m [################..........................................] \u001b[u"
+    ],
+    [
+      0.022502,
+      "Unpacking libreadline5:armhf (5.2+dfsg-2) ...\r\n"
+    ],
+    [
+      0.426954,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 28%]\u001b[49m\u001b[39m [#################.........................................] \u001b[u"
+    ],
+    [
+      0.024936,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 29%]\u001b[49m\u001b[39m [##################........................................] \u001b[u"
+    ],
+    [
+      0.257941,
+      "Selecting previously unselected package mariadb-client-core-10.0.\r\n"
+    ],
+    [
+      0.039646,
+      "Preparing to unpack .../mariadb-client-core-10.0_10.0.22-0+deb8u1_armhf.deb ...\r\n"
+    ],
+    [
+      0.000765,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 30%]\u001b[49m\u001b[39m [##################........................................] \u001b[u"
+    ],
+    [
+      0.023141,
+      "Unpacking mariadb-client-core-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 32%]\u001b[49m\u001b[39m [###################.......................................] \u001b[u"
+    ],
+    [
+      0.024852,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 33%]\u001b[49m\u001b[39m [####################......................................] \u001b[u"
+    ],
+    [
+      0.117658,
+      "Selecting previously unselected package mariadb-client-10.0.\r\n"
+    ],
+    [
+      0.038293,
+      "Preparing to unpack .../mariadb-client-10.0_10.0.22-0+deb8u1_armhf.deb ...\r\n"
+    ],
+    [
+      0.000566,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 35%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000422,
+      " [#####################.....................................] \u001b[u"
+    ],
+    [
+      0.025788,
+      "Unpacking mariadb-client-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 36%]\u001b[49m\u001b[39m [######################....................................] \u001b[u"
+    ],
+    [
+      0.036717,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 38%]\u001b[49m\u001b[39m [#######################...................................] \u001b[u"
+    ],
+    [
+      0.669390,
+      "Selecting previously unselected package mariadb-server-core-10.0.\r\n"
+    ],
+    [
+      0.039289,
+      "Preparing to unpack .../mariadb-server-core-10.0_10.0.22-0+deb8u1_armhf.deb ...\r\n"
+    ],
+    [
+      0.000611,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 39%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000410,
+      " [#######################...................................] \u001b[u"
+    ],
+    [
+      0.027068,
+      "Unpacking mariadb-server-core-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 40%]\u001b[49m\u001b[39m [########################..................................] \u001b[u"
+    ],
+    [
+      0.022454,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 42%]\u001b[49m\u001b[39m [#########################.................................] \u001b[u"
+    ],
+    [
+      0.034279,
+      "Processing triggers for man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up mysql-common (5.5.44-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.728320,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 43%]\u001b[49m\u001b[39m [##########################................................] \u001b[u"
+    ],
+    [
+      0.022694,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 45%]\u001b[49m\u001b[39m [###########################...............................] \u001b[u"
+    ],
+    [
+      0.024873,
+      "Setting up mariadb-common (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.056414,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 46%]\u001b[49m\u001b[39m [###########################...............................] \u001b[u"
+    ],
+    [
+      0.022945,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 47%]\u001b[49m\u001b[39m [############################..............................] \u001b[u"
+    ],
+    [
+      0.866266,
+      "Selecting previously unselected package mariadb-server-10.0.\r\n"
+    ],
+    [
+      0.000652,
+      "(Reading database ... \r"
+    ],
+    [
+      0.026492,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000091,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000452,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000543,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000336,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000350,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000386,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000395,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000385,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000254,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000440,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.044780,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.015584,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.014993,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.011571,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.008326,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.011754,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.019020,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.064853,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.023097,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000452,
+      "(Reading database ... 106165 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.029602,
+      "Preparing to unpack .../mariadb-server-10.0_10.0.22-0+deb8u1_armhf.deb ...\r\n"
+    ],
+    [
+      0.001425,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 49%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000298,
+      " [#############################.............................] "
+    ],
+    [
+      0.000543,
+      "\u001b[u"
+    ],
+    [
+      1.000000,
+      "Unpacking mariadb-server-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 50%]\u001b[49m\u001b[39m [##############################............................] \u001b[u"
+    ],
+    [
+      0.049371,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 52%]\u001b[49m\u001b[39m [###############################...........................] \u001b[u"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libdbd-mysql-perl.\r\n"
+    ],
+    [
+      0.052410,
+      "Preparing to unpack .../libdbd-mysql-perl_4.028-2+b1_armhf.deb ...\r\n"
+    ],
+    [
+      0.001464,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 53%]\u001b[49m\u001b[39m [################################..........................] \u001b[u"
+    ],
+    [
+      0.024534,
+      "Unpacking libdbd-mysql-perl (4.028-2+b1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 54%]\u001b[49m\u001b[39m [################################..........................] \u001b[u"
+    ],
+    [
+      0.022696,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 56%]\u001b[49m\u001b[39m [#################################.........................] \u001b[u"
+    ],
+    [
+      0.735328,
+      "Selecting previously unselected package libhtml-template-perl.\r\n"
+    ],
+    [
+      0.040022,
+      "Preparing to unpack .../libhtml-template-perl_2.95-1_all.deb ...\r\n"
+    ],
+    [
+      0.001093,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 57%]\u001b[49m\u001b[39m [##################################........................] \u001b[u"
+    ],
+    [
+      0.026117,
+      "Unpacking libhtml-template-perl (2.95-1) ...\r\n"
+    ],
+    [
+      0.196990,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 59%]\u001b[49m\u001b[39m [###################################.......................] \u001b[u"
+    ],
+    [
+      0.027485,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 60%]\u001b[49m\u001b[39m [####################################......................] \u001b[u"
+    ],
+    [
+      0.733401,
+      "Selecting previously unselected package mariadb-server.\r\n"
+    ],
+    [
+      0.038469,
+      "Preparing to unpack .../mariadb-server_10.0.22-0+deb8u1_all.deb ...\r\n"
+    ],
+    [
+      0.000807,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 61%]\u001b[49m\u001b[39m [####################################......................] \u001b[u"
+    ],
+    [
+      0.023407,
+      "Unpacking mariadb-server (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.147181,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 63%]\u001b[49m\u001b[39m [#####################################.....................] \u001b[u"
+    ],
+    [
+      0.025290,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 64%]\u001b[49m\u001b[39m [######################################....................] \u001b[u"
+    ],
+    [
+      0.035925,
+      "Processing triggers for systemd (215-17+deb8u2) ...\r\n"
+    ],
+    [
+      0.304402,
+      "Processing triggers for man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up libaio1:armhf (0.3.110-1) ...\r\n"
+    ],
+    [
+      0.250565,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 66%]\u001b[49m\u001b[39m [#######################################...................] \u001b[u"
+    ],
+    [
+      0.056917,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 67%]\u001b[49m\u001b[39m [########################################..................] \u001b[u"
+    ],
+    [
+      0.056747,
+      "Setting up libmysqlclient18:armhf (5.5.44-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.033087,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 69%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000201,
+      " [#########################################.................] \u001b[u"
+    ],
+    [
+      0.055755,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 70%]\u001b[49m\u001b[39m [#########################################.................] \u001b[u"
+    ],
+    [
+      0.032315,
+      "Setting up libdbi-perl (1.631-3+b1) ...\r\n"
+    ],
+    [
+      0.024253,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 71%]\u001b[49m\u001b[39m [##########################################................] \u001b[u"
+    ],
+    [
+      0.023055,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 73%]\u001b[49m\u001b[39m [###########################################...............] \u001b[u"
+    ],
+    [
+      0.023835,
+      "Setting up libterm-readkey-perl (2.32-1+b2) ...\r\n"
+    ],
+    [
+      0.025021,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 74%]\u001b[49m\u001b[39m [############################################..............] \u001b[u"
+    ],
+    [
+      0.024691,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 76%]\u001b[49m\u001b[39m [#############################################.............] \u001b[u"
+    ],
+    [
+      0.023578,
+      "Setting up libreadline5:armhf (5.2+dfsg-2) ...\r\n"
+    ],
+    [
+      0.025161,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 77%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000105,
+      " [#############################################.............] \u001b[u"
+    ],
+    [
+      0.056471,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 78%]\u001b[49m\u001b[39m [##############################################............] \u001b[u"
+    ],
+    [
+      0.033273,
+      "Setting up mariadb-client-core-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.023170,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 80%]\u001b[49m\u001b[39m [###############################################...........] \u001b[u"
+    ],
+    [
+      0.027104,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 81%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000018,
+      " [################################################..........] \u001b[u"
+    ],
+    [
+      0.013878,
+      "Setting up mariadb-client-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.015123,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 83%]\u001b[49m\u001b[39m [#################################################.........] \u001b[u"
+    ],
+    [
+      0.026451,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 84%]\u001b[49m\u001b[39m [##################################################........] \u001b[u"
+    ],
+    [
+      0.014810,
+      "Setting up mariadb-server-core-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.014899,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 85%]\u001b[49m\u001b[39m [##################################################........] \u001b[u"
+    ],
+    [
+      0.013207,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 87%]\u001b[49m\u001b[39m [###################################################.......] \u001b[u"
+    ],
+    [
+      0.014041,
+      "Setting up mariadb-server-10.0 (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.221148,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 88%]\u001b[49m\u001b[39m [####################################################......] \u001b[u"
+    ],
+    [
+      1.000000,
+      "151112 15:21:03 [Note] /usr/sbin/mysqld (mysqld 10.0.22-MariaDB-0+deb8u1) starting as process 29825 ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 90%]\u001b[49m\u001b[39m [#####################################################.....] \u001b[u"
+    ],
+    [
+      0.158807,
+      "Setting up libdbd-mysql-perl (4.028-2+b1) ...\r\n"
+    ],
+    [
+      0.149816,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 91%]\u001b[49m\u001b[39m [######################################################....] \u001b[u"
+    ],
+    [
+      0.028641,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 92%]\u001b[49m\u001b[39m [######################################################....] \u001b[u"
+    ],
+    [
+      0.028007,
+      "Setting up libhtml-template-perl (2.95-1) ...\r\n"
+    ],
+    [
+      0.048874,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 94%]\u001b[49m\u001b[39m [#######################################################...] \u001b[u"
+    ],
+    [
+      0.040141,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 95%]\u001b[49m\u001b[39m [########################################################..] \u001b[u"
+    ],
+    [
+      0.031884,
+      "Setting up mariadb-server (10.0.22-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.037651,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 97%]\u001b[49m\u001b[39m [#########################################################.] \u001b[u"
+    ],
+    [
+      0.030287,
+      "\u001b[s\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 98%]\u001b[49m\u001b[39m [##########################################################] \u001b[u"
+    ],
+    [
+      0.052098,
+      "Processing triggers for libc-bin (2.19-18+deb8u1) ...\r\n"
+    ],
+    [
+      0.913946,
+      "Processing triggers for systemd (215-17+deb8u2) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\n\u001b[s\u001b[0;24r\u001b[u\u001b[1A"
+    ],
+    [
+      1.000000,
+      "\u001b[J"
+    ],
+    [
+      0.021228,
+      "\u001b]0;pi@raspberrypi2: ~\u0007\u001b[01;32mpi@raspberrypi2\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "logout\r\n"
+    ],
+    [
+      0.007964,
+      "Connection to 192.168.1.36 closed.\r\r\n"
+    ],
+    [
+      0.002967,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      0.250886,
+      "exit\r\n"
+    ]
+  ]
+}

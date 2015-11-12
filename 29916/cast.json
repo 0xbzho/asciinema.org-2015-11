@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 20.196796,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.122897,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      1.000000,
+      "ssh pi@192.168.1.36"
+    ],
+    [
+      0.763992,
+      "\r\n"
+    ],
+    [
+      0.680166,
+      "pi@192.168.1.36's password: "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.253895,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Thu Nov 12 15:18:14 2015 from 192.168.1.33\r\r\n"
+    ],
+    [
+      0.455496,
+      "\u001b]0;pi@raspberrypi2: ~\u0007\u001b[01;32mpi@raspberrypi2\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "m"
+    ],
+    [
+      0.000487,
+      "y"
+    ],
+    [
+      0.000342,
+      "s"
+    ],
+    [
+      0.000392,
+      "q"
+    ],
+    [
+      0.000428,
+      "l"
+    ],
+    [
+      0.000586,
+      "_"
+    ],
+    [
+      0.000311,
+      "s"
+    ],
+    [
+      0.000372,
+      "e"
+    ],
+    [
+      0.000459,
+      "c"
+    ],
+    [
+      0.000399,
+      "u"
+    ],
+    [
+      0.000433,
+      "r"
+    ],
+    [
+      0.000308,
+      "e"
+    ],
+    [
+      0.000534,
+      "_i"
+    ],
+    [
+      0.000503,
+      "n"
+    ],
+    [
+      0.000402,
+      "s"
+    ],
+    [
+      0.000541,
+      "t"
+    ],
+    [
+      0.000359,
+      "a"
+    ],
+    [
+      0.000390,
+      "l"
+    ],
+    [
+      0.000461,
+      "l"
+    ],
+    [
+      0.000504,
+      "a"
+    ],
+    [
+      0.000339,
+      "t"
+    ],
+    [
+      0.000439,
+      "i"
+    ],
+    [
+      0.000411,
+      "o"
+    ],
+    [
+      0.000445,
+      "n"
+    ],
+    [
+      0.973786,
+      "\r\n"
+    ],
+    [
+      0.041904,
+      "\r\n"
+    ],
+    [
+      0.000236,
+      "NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB\r\n"
+    ],
+    [
+      0.000605,
+      "      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!\r\n"
+    ],
+    [
+      0.000427,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "In order to log into MariaDB to secure it, we'll need the current\r\n"
+    ],
+    [
+      0.000423,
+      "password for the root user.  If you've just installed MariaDB, and\r\n"
+    ],
+    [
+      0.000424,
+      "you haven't set the root password yet, the password will be blank,\r\n"
+    ],
+    [
+      0.000415,
+      "so you should just press enter here.\r\n"
+    ],
+    [
+      0.000410,
+      "\r\n"
+    ],
+    [
+      0.007161,
+      "Enter current password for root (enter for none): "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.060739,
+      "OK, successfully used password, moving on...\r\n\r\n"
+    ],
+    [
+      0.000584,
+      "Setting the root password ensures that nobody can log into the MariaDB\r\n"
+    ],
+    [
+      0.000339,
+      "root user without the proper authorisation.\r\n\r\n"
+    ],
+    [
+      0.000892,
+      "You already have a root password set, so you can safely answer 'n'.\r\n\r\nChange the root password? [Y/n] "
+    ],
+    [
+      1.000000,
+      "n"
+    ],
+    [
+      1.000000,
+      "\u0008 \u0008"
+    ],
+    [
+      0.302788,
+      "y"
+    ],
+    [
+      0.330223,
+      "\r\n"
+    ],
+    [
+      0.006423,
+      "New password: "
+    ],
+    [
+      1.000000,
+      "\r\nRe-enter new password: "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.064287,
+      "Password updated successfully!\r\nReloading privilege tables..\r\n"
+    ],
+    [
+      0.035131,
+      " ... Success!\r\n\r\n"
+    ],
+    [
+      0.010012,
+      "\r\nBy default, a MariaDB installation has an anonymous user, allowing anyone\r\nto log into MariaDB without having to have a user account created for\r\n"
+    ],
+    [
+      0.000019,
+      "them.  This is intended only for testing, and to make the installation\r\ngo a bit smoother.  You should remove them before moving into a\r\nproduction environment.\r\n\r\nRemove anonymous users? [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.560739,
+      "\r\n"
+    ],
+    [
+      0.044360,
+      " ... Success!\r\n\r\nNormally, root should only be allowed to connect from 'localhost'.  This\r\nensures that someone cannot guess at the root password from the network.\r\n\r\nDisallow root login remotely? [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.554110,
+      "\r\n"
+    ],
+    [
+      0.045657,
+      " ... Success!\r\n\r\nBy default, MariaDB comes with a database named 'test' that anyone can\r\naccess.  This is also intended only for testing, and should be removed\r\nbefore moving into a production environment.\r\n\r\nRemove test database and access to it? [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.478940,
+      "\r\n - Dropping test database...\r\n"
+    ],
+    [
+      0.040429,
+      "ERROR 1008 (HY000)"
+    ],
+    [
+      0.000262,
+      " at line 1: Can't drop database 'test'; database doesn't exist\r\n"
+    ],
+    [
+      0.002732,
+      " ... Failed!  Not critical, keep moving...\r\n"
+    ],
+    [
+      0.000493,
+      " - Removing privileges on test database...\r\n"
+    ],
+    [
+      0.041316,
+      " ... Success!\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000726,
+      "Reloading the privilege tables will ensure that all changes made so far\r\n"
+    ],
+    [
+      0.000216,
+      "will take effect immediately.\r\n\r\n"
+    ],
+    [
+      0.000380,
+      "Reload privilege tables now? [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.246806,
+      "\r\n"
+    ],
+    [
+      0.031986,
+      " ... Success!\r\n\r\nCleaning up...\r\n"
+    ],
+    [
+      0.004449,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "All done!  If you've completed all of the above steps, your MariaDB\r\n"
+    ],
+    [
+      0.000449,
+      "installation should now be secure.\r\n\r\n"
+    ],
+    [
+      0.000338,
+      "Thanks for using MariaDB!\r\n"
+    ],
+    [
+      0.002645,
+      "\u001b]0;pi@raspberrypi2: ~\u0007\u001b[01;32mpi@raspberrypi2\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "logout\r\n"
+    ],
+    [
+      0.012387,
+      "Connection to 192.168.1.36 closed.\r"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.001582,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      1.000000,
+      "exit\r\n"
+    ]
+  ]
+}

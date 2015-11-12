@@ -1,0 +1,2922 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 980.060414,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.376769,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000090,
+      "\u001b]2;gustavo@frozen: ~/Projects/vagrant-chef-rails\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;..nt-chef-rails\u0007"
+    ],
+    [
+      0.068514,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/vagrant-chef-rails \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[42m\u001b[31m\u001b[37m  master \u001b[49m\u001b[32m\u001b[39m\r\n$ \u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000023,
+      "\u001b[?2004h"
+    ],
+    [
+      0.325269,
+      "v"
+    ],
+    [
+      0.045179,
+      "\u0008va"
+    ],
+    [
+      0.210968,
+      "g"
+    ],
+    [
+      0.158266,
+      "r"
+    ],
+    [
+      0.050577,
+      "a"
+    ],
+    [
+      0.080193,
+      "n"
+    ],
+    [
+      0.141846,
+      "t"
+    ],
+    [
+      0.096018,
+      " "
+    ],
+    [
+      0.296984,
+      "u"
+    ],
+    [
+      0.062177,
+      "p"
+    ],
+    [
+      0.292797,
+      " "
+    ],
+    [
+      0.170856,
+      "d"
+    ],
+    [
+      0.078157,
+      "e"
+    ],
+    [
+      0.171620,
+      "v"
+    ],
+    [
+      0.117526,
+      "e"
+    ],
+    [
+      0.046162,
+      "l"
+    ],
+    [
+      0.171558,
+      "o"
+    ],
+    [
+      0.165045,
+      "p"
+    ],
+    [
+      0.096019,
+      "m"
+    ],
+    [
+      0.097275,
+      "e"
+    ],
+    [
+      0.077625,
+      "n"
+    ],
+    [
+      0.132129,
+      "t"
+    ],
+    [
+      0.480141,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000011,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000700,
+      "\u001b]2;vagrant up development\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      4.483454,
+      "\u001b[0mBringing machine 'development' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.130816,
+      "\u001b[1m==\u003e development: Importing base box 'ubuntu/trusty64'...\u001b[0m\r\n"
+    ],
+    [
+      25.987733,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      0.100489,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000091,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      3.650195,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000342,
+      "\u001b[1m==\u003e development: Matching MAC address for NAT networking...\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.155866,
+      "\u001b[1m==\u003e development: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      2.316881,
+      "\u001b[1m==\u003e development: Setting the name of the VM: vagrant-chef-rails_development_1447290456544_70684\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.135965,
+      "\u001b[1m==\u003e development: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.992276,
+      "\u001b[1m==\u003e development: Clearing any previously set network interfaces...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.193729,
+      "\u001b[1m==\u003e development: Preparing network interfaces based on configuration...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[0m    development: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.000223,
+      "\u001b[0m    development: Adapter 2: hostonly\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.074655,
+      "\u001b[1m==\u003e development: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.074959,
+      "\u001b[0m    development: 80 =\u003e 8080 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.000423,
+      "\u001b[0m    development: 3000 =\u003e 3000 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000226,
+      "\u001b[0m    development: 22 =\u003e 2222 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.230726,
+      "\u001b[1m==\u003e development: Running 'pre-boot' VM customizations...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.057201,
+      "\u001b[1m==\u003e development: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.372820,
+      "\u001b[1m==\u003e development: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.238035,
+      "\u001b[0m    development: SSH address: 127.0.0.1:2222\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[0m    development: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[0m    development: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      15.155894,
+      "\u001b[0m    development: Warning: Connection timeout. Retrying...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      4.987434,
+      "\u001b[0m    development: \r\n    development: Vagrant insecure key detected. Vagrant will automatically replace\r\n    development: this with a newly generated keypair for better security.\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      1.714157,
+      "\u001b[0m    development: \r\n    development: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.482994,
+      "\u001b[0m    development: Removing insecure key from the guest if its present...\u001b[0m\r\n"
+    ],
+    [
+      0.299801,
+      "\u001b[0m    development: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\n"
+    ],
+    [
+      1.124496,
+      "\u001b[1m==\u003e development: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000416,
+      "\u001b[1m==\u003e development: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.034858,
+      "\u001b[1m==\u003e development: Setting hostname...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.249834,
+      "\u001b[1m==\u003e development: Configuring and enabling network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.942399,
+      "\u001b[1m==\u003e development: Mounting shared folders...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "\u001b[0m    development: /vagrant =\u003e /home/gustavo/Projects/vagrant-chef-rails\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.939988,
+      "\u001b[0m    development: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks =\u003e /home/gustavo/Projects/vagrant-chef-rails/chef/cookbooks\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      15.882898,
+      "\u001b[1m==\u003e development: Installing Chef 12.5.1 Omnibus package...\u001b[0m\r\n"
+    ],
+    [
+      0.175734,
+      "\u001b[1m==\u003e development: Downloading Chef 12.5.1 for ubuntu...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.036719,
+      "\u001b[1m==\u003e development: downloading https://www.chef.io/chef/metadata?v=12.5.1\u0026prerelease=false\u0026nightlies=false\u0026p=ubuntu\u0026pv=14.04\u0026m=x86_64\u001b[0m\r\n"
+    ],
+    [
+      0.000483,
+      "\u001b[1m==\u003e development:   to file /tmp/install.sh.2285/metadata.txt\u001b[0m\r\n"
+    ],
+    [
+      0.000399,
+      "\u001b[1m==\u003e development: trying wget...\u001b[0m\r\n"
+    ],
+    [
+      1.248832,
+      "\u001b[1m==\u003e development: url\thttps://opscode-omnibus-packages.s3.amazonaws.com/ubuntu/14.04/x86_64/chef_12.5.1-1_amd64.deb\r\n"
+    ],
+    [
+      0.000012,
+      "==\u003e development: md5\td8fec2da288e94a7e2d649803a9d70f4\r\n==\u003e development: sha256\t656a4c4a8fd64d74d1d970fb0d07076d6f1d8230d37d751f2c3698a52d82c070\u001b[0m\r\n"
+    ],
+    [
+      0.002285,
+      "\u001b[1m==\u003e development: downloaded metadata file looks valid...\u001b[0m\r\n"
+    ],
+    [
+      0.006300,
+      "\u001b[1m==\u003e development: downloading https://opscode-omnibus-packages.s3.amazonaws.com/ubuntu/14.04/x86_64/chef_12.5.1-1_amd64.deb\u001b[0m\r\n"
+    ],
+    [
+      0.000575,
+      "\u001b[1m==\u003e development:   to file /tmp/install.sh.2285/chef_12.5.1-1_amd64.deb\u001b[0m"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000499,
+      "\u001b[1m==\u003e development: trying wget...\u001b[0m\r\n"
+    ],
+    [
+      87.252108,
+      "\u001b[1m==\u003e development: Comparing checksum with sha256sum...\u001b[0m\r\n"
+    ],
+    [
+      0.227164,
+      "\u001b[1m==\u003e development: Installing Chef 12.5.1\u001b[0m\r\n"
+    ],
+    [
+      0.037256,
+      "\u001b[1m==\u003e development: installing with dpkg...\u001b[0m\r\n"
+    ],
+    [
+      0.070139,
+      "\u001b[1m==\u003e development: (Reading database ... 61004 files and directories currently installed.)\u001b[0m\r\n"
+    ],
+    [
+      0.002261,
+      "\u001b[1m==\u003e development: Preparing to unpack .../chef_12.5.1-1_amd64.deb ...\u001b[0m\r\n"
+    ],
+    [
+      0.016594,
+      "\u001b[1m==\u003e development:  * Stopping chef-client chef-client\u001b[0m\r\n"
+    ],
+    [
+      0.027586,
+      "\u001b[1m==\u003e development:    ...done.\u001b[0m\r\n"
+    ],
+    [
+      0.003792,
+      "\u001b[1m==\u003e development: Unpacking chef (12.5.1-1) over (11.8.2-2) ...\u001b[0m\r\n"
+    ],
+    [
+      3.955235,
+      "\u001b[1m==\u003e development: dpkg: warning: unable to delete old directory '/var/log/chef': Directory not empty\u001b[0m\r\n"
+    ],
+    [
+      0.002438,
+      "\u001b[1m==\u003e development: dpkg: warning: unable to delete old directory '/etc/chef': Directory not empty\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.038141,
+      "\u001b[1m==\u003e development: Setting up chef (12.5.1-1) ...\u001b[0m\r\n"
+    ],
+    [
+      0.057058,
+      "\u001b[1m==\u003e development: Thank you for installing Chef!\u001b[0m\r\n"
+    ],
+    [
+      0.005500,
+      "\u001b[1m==\u003e development: Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\u001b[0m\r\n"
+    ],
+    [
+      0.269735,
+      "\u001b[1m==\u003e development: Running provisioner: chef_solo...\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.348266,
+      "\u001b[1m==\u003e development: Detected Chef (latest) is already installed\u001b[0m\r\n"
+    ],
+    [
+      1.109163,
+      "\u001b[0mGenerating chef JSON and uploading...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.546737,
+      "\u001b[1m==\u003e development: Running chef-solo...\u001b[0m\r\n"
+    ],
+    [
+      0.050980,
+      "\u001b[1;31m==\u003e development: stdin: is not a tty\u001b[0m\r\n"
+    ],
+    [
+      0.931153,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:58+00:00] INFO: Forking chef instance to converge...\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.004868,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:58+00:00] INFO: *** Chef 12.5.1 ***\u001b[0m\r\n"
+    ],
+    [
+      0.000562,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:58+00:00] INFO: Chef-client pid: 2888\u001b[0m\r\n"
+    ],
+    [
+      1.227522,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:59+00:00] INFO: Setting the run_list to [\"recipe[default]\"] from CLI options\u001b[0m\r\n"
+    ],
+    [
+      0.003730,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:59+00:00] INFO: Run List is [recipe[default]]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000505,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:59+00:00] INFO: Run List expands to [default]\u001b[0m\r\n"
+    ],
+    [
+      0.000373,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:59+00:00] INFO: Starting Chef Run for td\u001b[0m\r\n"
+    ],
+    [
+      0.000347,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:59+00:00] INFO: Running start handlers\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:09:59+00:00] INFO: Start handlers complete.\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.887999,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:00+00:00] WARN: WindowsPackage already exists!  Deprecation class overwrites LWRP resource windows_package from cookbook windows\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.012871,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:00+00:00] WARN: Cannot specify both default and name_property together on property timeout of resource windows_reboot. Only one (default) will be obeyed. In Chef 13, this will become an error. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/windows/resources/reboot.rb:23:in `class_from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.042151,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:00+00:00] WARN: node['build_essential'] has been changed to node['build-essential'] to match the\r\n==\u003e development: cookbook name and community standards. I have gracefully converted the attribute"
+    ],
+    [
+      0.000019,
+      "\r\n==\u003e development: for you, but this warning and conversion will be removed in the next major\r\n==\u003e development: release of the build-essential cookbook.\u001b[0m\r\n"
+    ],
+    [
+      0.000408,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:00+00:00] WARN: node['build-essential']['compiletime'] has been deprecated. Please use\r\n==\u003e development: node['build-essential']['compile_time'] instead. I have gracefully converted the"
+    ],
+    [
+      0.000010,
+      "\r\n==\u003e development: attribute for you, but this warning and converstion will be removed in the next\r\n==\u003e development: major release of the build-essential cookbook.\u001b[0m\r\n"
+    ],
+    [
+      7.302962,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:07+00:00] INFO: apt_package[autoconf] installed autoconf at 2.69-6\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      3.026834,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:10+00:00] INFO: apt_package[binutils-doc] installed binutils-doc at 2.24-5ubuntu14\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      3.477414,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:14+00:00] INFO: apt_package[bison] installed bison at 2:3.0.2.dfsg-2\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      35.043982,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:49+00:00] INFO: apt_package[build-essential] installed build-essential at 11.6ubuntu6\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      3.549918,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:10:52+00:00] INFO: apt_package[flex] installed flex at 2.5.35-10.1ubuntu2\u001b[0m\r\n"
+    ],
+    [
+      17.200505,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:09+00:00] INFO: apt_package[gettext] installed gettext at 0.18.3.1-1ubuntu3\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.054561,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:10+00:00] INFO: apt_package[ncurses-dev] is a virtual package, actually acting on package[libncurses5-dev]\u001b[0m\r\n"
+    ],
+    [
+      4.967918,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:14+00:00] INFO: apt_package[ncurses-dev] installed ncurses-dev at (none)\u001b[0m\r\n"
+    ],
+    [
+      0.000678,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:14+00:00] WARN: MissingCookbookDependency:\r\n==\u003e development: Recipe `locale` is not in the run_list, and cookbook 'locale'"
+    ],
+    [
+      0.000010,
+      "\r\n==\u003e development: is not a dependency of any cookbook in the run_list.  To load this recipe,\r\n==\u003e development: first add a dependency on cookbook 'locale' in the cookbook you're\r\n==\u003e development: including it from in that cookbook's metadata.\u001b[0m\r\n"
+    ],
+    [
+      0.005644,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:14+00:00] INFO: ohai plugins will be at: /etc/chef/ohai_plugins\u001b[0m\r\n"
+    ],
+    [
+      0.036986,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:14+00:00] INFO: remote_directory[/etc/chef/ohai_plugins for cookbook ohai] created directory /etc/chef/ohai_plugins\u001b[0m\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:14+00:00] INFO: remote_directory[/etc/chef/ohai_plugins for cookbook ohai] mode changed to 755\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000402,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:15+00:00] INFO: cookbook_file[/etc/chef/ohai_plugins/README] created file /etc/chef/ohai_plugins/README\u001b[0m\r\n"
+    ],
+    [
+      0.000364,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:15+00:00] INFO: cookbook_file[/etc/chef/ohai_plugins/README] updated file contents /etc/chef/ohai_plugins/README\u001b[0m\r\n"
+    ],
+    [
+      0.000353,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:15+00:00] INFO: cookbook_file[/etc/chef/ohai_plugins/README] mode changed to 644\u001b[0m\r\n"
+    ],
+    [
+      0.000365,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:15+00:00] WARN: Ohai::Config[:plugin_path] is set. Ohai::Config[:plugin_path] is deprecated and will be removed in future releases of ohai. Use ohai.plugin_path in your configuration file to configure :plugin_path for ohai.\u001b[0m\r\n"
+    ],
+    [
+      0.000370,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:15+00:00] WARN: Ohai::Config[:plugin_path] is set. Ohai::Config[:plugin_path] is deprecated and will be removed in future releases of ohai. Use ohai.plugin_path in your configuration file to configure :plugin_path for ohai.\u001b[0m\r\n"
+    ],
+    [
+      1.191968,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] INFO: ohai[custom_plugins] reloaded\u001b[0m\r\n"
+    ],
+    [
+      0.019489,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Cloning resource attributes for execute[apt-get-update] from prior resource (CHEF-3694)\u001b[0m\r\n"
+    ],
+    [
+      0.000396,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Previous execute[apt-get-update]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/apt/recipes/default.rb:29:in `from_file'\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Current  execute[apt-get-update]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/apt/recipes/default.rb:38:in `from_file'\u001b[0m\r\n"
+    ],
+    [
+      0.009910,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Cloning resource attributes for apt_package[ncurses-dev] from prior resource (CHEF-3694)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.004543,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Previous apt_package[ncurses-dev]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/build-essential/libraries/timing.rb:108:in `method_missing'\r\n==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Current  apt_package[ncurses-dev]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/rbenv/recipes/default.rb:69:in `from_file'\u001b[0m\r\n"
+    ],
+    [
+      0.006877,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Cloning resource attributes for service[unicorn] from prior resource (CHEF-3694)\u001b[0m\r\n"
+    ],
+    [
+      0.000380,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Previous service[unicorn]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/default/recipes/default.rb:33:in `from_file'\u001b[0m\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Current  service[unicorn]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/default/recipes/default.rb:38:in `from_file'\u001b[0m\r\n"
+    ],
+    [
+      0.029554,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Cloning resource attributes for service[nginx] from prior resource (CHEF-3694)\u001b[0m\r\n"
+    ],
+    [
+      0.000368,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Previous service[nginx]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx/recipes/package.rb:46:in `from_file'\u001b[0m\r\n"
+    ],
+    [
+      0.000344,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: Current  service[nginx]: /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx/recipes/default.rb:24:in `from_file'\u001b[0m\r\n"
+    ],
+    [
+      0.002535,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: block nil currently does not overwrite the value of block. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :block, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:45:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.000435,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: cookbook nil currently does not overwrite the value of cookbook. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :cookbook, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:46:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.000308,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: listen nil currently does not overwrite the value of listen. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :listen, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:47:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.000342,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: options nil currently does not overwrite the value of options. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :options, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:49:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: reload nil currently does not overwrite the value of reload. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :reload, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:51:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.041574,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: server_name nil currently does not overwrite the value of server_name. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :server_name, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:53:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.000475,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: socket nil currently does not overwrite the value of socket. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :socket, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:55:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.000444,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: template nil currently does not overwrite the value of template. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :template, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:56:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:16+00:00] WARN: ssl nil currently does not overwrite the value of ssl. This will change in Chef 13, and the value will be set to nil instead. Please change your code to explicitly accept nil using \"property :ssl, [MyType, nil]\", or stop setting this value to nil. at /tmp/vagrant-chef/4b2c9b63eb162b0f5f9422df905f6e53/cookbooks/nginx_conf/recipes/default.rb:58:in `block (3 levels) in from_file' at /opt/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.5.1/lib/chef/event_dispatch/dispatcher.rb:38:in `call'\u001b[0m\r\n"
+    ],
+    [
+      0.675233,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:17+00:00] INFO: bash[install pt_BR locale] ran successfully\u001b[0m\r\n"
+    ],
+    [
+      0.063353,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:17+00:00] INFO: cookbook_file[/var/chef/cache/preseed/runit/runit-2.1.1-6.2ubuntu3.seed] created file /var/chef/cache/preseed/runit/runit-2.1.1-6.2ubuntu3.seed\u001b[0m\r\n"
+    ],
+    [
+      0.001052,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:17+00:00] INFO: cookbook_file[/var/chef/cache/preseed/runit/runit-2.1.1-6.2ubuntu3.seed] updated file contents /var/chef/cache/preseed/runit/runit-2.1.1-6.2ubuntu3.seed\u001b[0m\r\n"
+    ],
+    [
+      0.001181,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:17+00:00] INFO: apt_package[runit] pre-seeding package installation instructions\u001b[0m\r\n"
+    ],
+    [
+      3.652032,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:20+00:00] INFO: apt_package[runit] installed runit at 2.1.1-6.2ubuntu3\r\n==\u003e development: [2015-11-12T01:11:20+00:00] INFO: apt_package[runit] sending nothing action to execute[start-runsvdir] (immediate)\r\n"
+    ],
+    [
+      0.000015,
+      "==\u003e development: [2015-11-12T01:11:20+00:00] INFO: apt_package[runit] sending nothing action to execute[runit-hup-init] (immediate)\u001b[0m\r\n"
+    ],
+    [
+      24.686589,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:45+00:00] INFO: apt_package[git] installed git at 1:1.9.1-1ubuntu0.1\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.722102,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:47+00:00] INFO: git[/var/chef/cache/ruby-build] cloning repo https://github.com/sstephenson/ruby-build.git to /var/chef/cache/ruby-build\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      5.455116,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: git[/var/chef/cache/ruby-build] checked out branch: master onto: deploy reference: 25371c6382b1fba783878e63028ff7db7b738a9a\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000493,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: git[/var/chef/cache/ruby-build] sending run action to execute[Install ruby-build] (immediate)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.033667,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: execute[Install ruby-build] ran successfully\u001b[0m\r\n"
+    ],
+    [
+      0.050030,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local] created directory /var/cache/local\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001038,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000479,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local] group changed to 0\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000512,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      0.001608,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local/preseeding] created directory /var/cache/local/preseeding\u001b[0m\r\n"
+    ],
+    [
+      0.000915,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local/preseeding] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000516,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local/preseeding] group changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000336,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:52+00:00] INFO: directory[/var/cache/local/preseeding] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      4.378228,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:57+00:00] INFO: apt_package[libtool] installed libtool at 2.4.2-1.7ubuntu1\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.645390,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:11:58+00:00] INFO: apt_package[libyaml-dev] installed libyaml-dev at 0.1.4-3ubuntu3.1\u001b[0m\r\n"
+    ],
+    [
+      2.510267,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:01+00:00] INFO: apt_package[zlib1g-dev] installed zlib1g-dev at 1:1.2.8.dfsg-1ubuntu1\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      21.185652,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:22+00:00] INFO: apt_package[libssl-dev] installed libssl-dev at 1.0.1f-1ubuntu2.15\u001b[0m\r\n"
+    ],
+    [
+      2.922028,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:25+00:00] INFO: apt_package[libreadline-dev] installed libreadline-dev at 6.3-4ubuntu2\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      5.717379,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:31+00:00] INFO: apt_package[libxml2-dev] installed libxml2-dev at 2.9.1+dfsg1-3ubuntu4.4\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      4.486732,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:35+00:00] INFO: apt_package[libxslt1-dev] installed libxslt1-dev at 1.1.28-2build1\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.064372,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:35+00:00] INFO: apt_package[ncurses-dev] is a virtual package, actually acting on package[libncurses5-dev]\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.331363,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:35+00:00] INFO: apt_package[ncurses-dev] installed ncurses-dev at (none)\u001b[0m"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      1.875804,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:37+00:00] INFO: apt_package[pkg-config] installed pkg-config at 0.26-1ubuntu4\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.049912,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:37+00:00] INFO: group[rbenv] created\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.039504,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:37+00:00] INFO: user[rbenv] created\r\n==\u003e development: [2015-11-12T01:12:37+00:00] INFO: directory[/opt/rbenv] created directory /opt/rbenv\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000702,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:37+00:00] INFO: directory[/opt/rbenv] owner changed to 1002\u001b[0m\r\n"
+    ],
+    [
+      0.000579,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:37+00:00] INFO: directory[/opt/rbenv] group changed to 1002\u001b[0m\r\n"
+    ],
+    [
+      0.000623,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:37+00:00] INFO: directory[/opt/rbenv] mode changed to 775\u001b[0m\r\n"
+    ],
+    [
+      0.786100,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:38+00:00] INFO: git[/opt/rbenv] cloning repo git://github.com/sstephenson/rbenv.git to /opt/rbenv\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      2.150289,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: git[/opt/rbenv] checked out branch: master onto: deploy reference: c18a3f9042af7cae59780dda066ef0d1b9447278\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: git[/opt/rbenv] sending create action to template[/etc/profile.d/rbenv.sh] (immediate)\u001b[0m\r\n"
+    ],
+    [
+      0.033688,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: template[/etc/profile.d/rbenv.sh] created file /etc/profile.d/rbenv.sh\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001064,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: template[/etc/profile.d/rbenv.sh] updated file contents /etc/profile.d/rbenv.sh\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001024,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: template[/etc/profile.d/rbenv.sh] mode changed to 644\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000555,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: template[/etc/profile.d/rbenv.sh] sending create action to ruby_block[initialize_rbenv] (immediate)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000563,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: ruby_block[initialize_rbenv] called\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.004939,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/shims] created directory /opt/rbenv/shims\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000824,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/shims] owner changed to 1002\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000524,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/shims] group changed to 1002\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000472,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/shims] mode changed to 775\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001454,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/versions] created directory /opt/rbenv/versions\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000838,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/versions] owner changed to 1002\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/versions] group changed to 1002\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000403,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/versions] mode changed to 775\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001436,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/plugins] created directory /opt/rbenv/plugins\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000878,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/plugins] owner changed to 1002\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000439,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/plugins] group changed to 1002\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: directory[/opt/rbenv/plugins] mode changed to 775\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.049473,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:12:40+00:00] INFO: rbenv_ruby[2.2.3] is building, this may take a while...\u001b[0m\r\n"
+    ],
+    [
+      373.898220,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:18:54+00:00] INFO: Setting 2.2.3 as the rbenv global version\u001b[0m\r\n"
+    ],
+    [
+      12.427524,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: rbenv_gem[bundler] installed bundler at 1.10.6\u001b[0m"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.008865,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: template[/etc/init.d/unicorn] created file /etc/init.d/unicorn\u001b[0m\r\n"
+    ],
+    [
+      0.036729,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: template[/etc/init.d/unicorn] updated file contents /etc/init.d/unicorn\u001b[0m\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: template[/etc/init.d/unicorn] owner changed to 0\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000366,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: template[/etc/init.d/unicorn] group changed to 0\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: template[/etc/init.d/unicorn] mode changed to 755\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.147885,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: service[unicorn] enabled\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.046541,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: service[unicorn] started\u001b[0m\r\n"
+    ],
+    [
+      0.003775,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa] created file /home/vagrant/.ssh/id_rsa\u001b[0m\r\n"
+    ],
+    [
+      0.001381,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa] updated file contents /home/vagrant/.ssh/id_rsa\u001b[0m\r\n"
+    ],
+    [
+      0.001302,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa] owner changed to 1000\u001b[0m\r\n"
+    ],
+    [
+      0.000657,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa] group changed to 1000\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa] mode changed to 400\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003874,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa.pub] created file /home/vagrant/.ssh/id_rsa.pub\u001b[0m\r\n"
+    ],
+    [
+      0.000701,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa.pub] updated file contents /home/vagrant/.ssh/id_rsa.pub\u001b[0m\r\n"
+    ],
+    [
+      0.003236,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa.pub] owner changed to 1000\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.002337,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa.pub] group changed to 1000\u001b[0m\r\n"
+    ],
+    [
+      0.000364,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:07+00:00] INFO: cookbook_file[id_rsa.pub] mode changed to 644\u001b[0m\r\n"
+    ],
+    [
+      1.455217,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:08+00:00] INFO: apt_package[keychain] installed keychain at 2.7.1-1\r\n==\u003e development: [2015-11-12T01:19:08+00:00] INFO: ruby_block[insert_line] called\u001b[0m\r\n"
+    ],
+    [
+      0.082018,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: template[/etc/chef/ohai_plugins/nginx.rb] created file /etc/chef/ohai_plugins/nginx.rb\u001b[0m\r\n"
+    ],
+    [
+      0.230742,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: template[/etc/chef/ohai_plugins/nginx.rb] updated file contents /etc/chef/ohai_plugins/nginx.rb\u001b[0m\r\n"
+    ],
+    [
+      0.000494,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: template[/etc/chef/ohai_plugins/nginx.rb] owner changed to 0\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: template[/etc/chef/ohai_plugins/nginx.rb] group changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000368,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: template[/etc/chef/ohai_plugins/nginx.rb] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: template[/etc/chef/ohai_plugins/nginx.rb] sending reload action to ohai[reload_nginx] (immediate)\u001b[0m\r\n"
+    ],
+    [
+      0.000408,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] WARN: Ohai::Config[:plugin_path] is set. Ohai::Config[:plugin_path] is deprecated and will be removed in future releases of ohai. Use ohai.plugin_path in your configuration file to configure :plugin_path for ohai.\u001b[0m\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] WARN: Ohai::Config[:plugin_path] is set. Ohai::Config[:plugin_path] is deprecated and will be removed in future releases of ohai. Use ohai.plugin_path in your configuration file to configure :plugin_path for ohai.\u001b[0m\r\n"
+    ],
+    [
+      0.000397,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] WARN: [DEPRECATION] Plugin at /etc/chef/ohai_plugins/nginx.rb is a version 6 plugin. Version 6 plugins will not be supported in future releases of Ohai. Please upgrade your plugin to version 7 plugin syntax. For more information visit here: docs.chef.io/ohai_custom.html\u001b[0m\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:09+00:00] INFO: ohai[reload_nginx] reloaded\u001b[0m\r\n"
+    ],
+    [
+      31.019192,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: apt_package[nginx] installed nginx at 1.4.6-1ubuntu3.3\r\n"
+    ],
+    [
+      0.000009,
+      "==\u003e development: [2015-11-12T01:19:40+00:00] INFO: apt_package[nginx] sending reload action to ohai[reload_nginx] (immediate)\r\n==\u003e development: [2015-11-12T01:19:40+00:00] WARN: Ohai::Config[:plugin_path] is set. Ohai::Config[:plugin_path] is deprecated and will be removed in future releases of ohai. Use ohai.plugin_path in your configuration file to configure :plugin_path for ohai.\r\n==\u003e development: [2015-11-12T01:19:40+00:00] WARN: Ohai::Config[:plugin_path] is set. Ohai::Config[:plugin_path] is deprecated and will be removed in future releases of ohai. Use ohai.plugin_path in your configuration file to configure :plugin_path for ohai.\r\n==\u003e development: [2015-11-12T01:19:40+00:00] WARN: [DEPRECATION] Plugin at /etc/chef/ohai_plugins/nginx.rb is a version 6 plugin. Version 6 plugins will not be supported in future releases of Ohai. Please upgrade your plugin to version 7 plugin syntax. For more information visit here: docs.chef.io/ohai_custom.html\u001b[0m\r\n"
+    ],
+    [
+      0.075781,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: ohai[reload_nginx] reloaded\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.049147,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: directory[/var/log/nginx] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      0.015097,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxensite] created file /usr/sbin/nxensite\u001b[0m\r\n"
+    ],
+    [
+      0.001570,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxensite] updated file contents /usr/sbin/nxensite\u001b[0m\r\n"
+    ],
+    [
+      0.001279,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxensite] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000605,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxensite] group changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000672,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxensite] mode changed to 755\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003697,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxdissite] created file /usr/sbin/nxdissite\u001b[0m\r\n"
+    ],
+    [
+      0.001404,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxdissite] updated file contents /usr/sbin/nxdissite\u001b[0m\r\n"
+    ],
+    [
+      0.001280,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxdissite] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000660,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxdissite] group changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000556,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/usr/sbin/nxdissite] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      0.006775,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[nginx.conf] backed up to /var/chef/backup/etc/nginx/nginx.conf.chef-20151112011940.464786\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000478,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[nginx.conf] updated file contents /etc/nginx/nginx.conf\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.007209,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/default] backed up to /var/chef/backup/etc/nginx/sites-available/default.chef-20151112011940.470850\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\r\n\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/default] updated file contents /etc/nginx/sites-available/default\u001b[0m\r\n"
+    ],
+    [
+      0.002165,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/default] not queuing delayed action reload on service[nginx] (delayed), as it's already been queued\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.017984,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: execute[nxdissite default] ran successfully\u001b[0m\r\n"
+    ],
+    [
+      0.000385,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: execute[nxdissite default] not queuing delayed action reload on service[nginx] (delayed), as it's already been queued\u001b[0m\r\n"
+    ],
+    [
+      0.058996,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/conf_default] created file /etc/nginx/sites-available/conf_default\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001022,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/conf_default] updated file contents /etc/nginx/sites-available/conf_default\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001066,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/conf_default] owner changed to 33\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000439,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/conf_default] group changed to 0\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000511,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: template[/etc/nginx/sites-available/conf_default] mode changed to 755\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001450,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: link[/etc/nginx/sites-enabled/conf_default] created\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000418,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:40+00:00] INFO: link[/etc/nginx/sites-enabled/conf_default] not queuing delayed action run on execute[test-nginx-conf-conf_default-create] (delayed), as it's already been queued\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      2.432510,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:42+00:00] INFO: apt_package[libsqlite3-dev] installed libsqlite3-dev at 3.8.2-1ubuntu2.1\r\n==\u003e development: [2015-11-12T01:19:42+00:00] INFO: template[nginx.conf] sending reload action to service[nginx] (delayed)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.081194,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:43+00:00] INFO: service[nginx] reloaded\r\n"
+    ],
+    [
+      0.000010,
+      "==\u003e development: [2015-11-12T01:19:43+00:00] INFO: template[/etc/nginx/sites-available/conf_default] sending run action to execute[test-nginx-conf-conf_default-create] (delayed)\u001b[0m\r\n"
+    ],
+    [
+      0.039247,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:43+00:00] INFO: execute[test-nginx-conf-conf_default-create] ran successfully\r\n"
+    ],
+    [
+      0.000013,
+      "==\u003e development: [2015-11-12T01:19:43+00:00] INFO: execute[test-nginx-conf-conf_default-create] sending restart action to service[nginx] (delayed)\u001b[0m\r\n"
+    ],
+    [
+      3.573454,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:46+00:00] INFO: service[nginx] restarted\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000526,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:46+00:00] INFO: Chef Run complete in 587.270020827 seconds\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000425,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:46+00:00] INFO: Skipping removal of unused files from the cache\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000428,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:46+00:00] INFO: Running report handlers\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000345,
+      "\u001b[1;32m==\u003e development: [2015-11-12T01:19:46+00:00] INFO: Report handlers complete\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.088618,
+      "\u001b[1m==\u003e development: Running provisioner: shell...\u001b[0m\r\n"
+    ],
+    [
+      0.478053,
+      "\u001b[0m    development: Running: /tmp/vagrant-shell20151111-8810-wnim3g.sh\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.096157,
+      "\u001b[1;31m==\u003e development: stdin: is not a tty\u001b[0m\r\n"
+    ],
+    [
+      0.037985,
+      "\u001b[1;32m==\u003e development: After script\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.139048,
+      "\u001b[1;32m==\u003e development: Don't run Bundler as root. Bundler can ask for sudo if it is needed, and\r\n==\u003e development: installing your bundle as root will break this application for all non-root"
+    ],
+    [
+      0.000010,
+      "\r\n==\u003e development: users on this machine.\u001b[0m\r\n"
+    ],
+    [
+      1.692546,
+      "\u001b[1;32m==\u003e development: Fetching gem metadata from https://rubygems.org/\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000657,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.501774,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.821113,
+      "\u001b[1;32m==\u003e development: .\u001b[0m\r\n"
+    ],
+    [
+      0.531887,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.222337,
+      "\u001b[1;32m==\u003e development: .\u001b[0m\r\n"
+    ],
+    [
+      0.224949,
+      "\u001b[1;32m==\u003e development: .\u001b[0m\r\n"
+    ],
+    [
+      0.213823,
+      "\u001b[1;32m==\u003e development: .\u001b[0m\r\n"
+    ],
+    [
+      0.201871,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.195324,
+      "\u001b[1;32m==\u003e development: .\u001b[0m\r\n"
+    ],
+    [
+      0.201088,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.212637,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.206895,
+      "\u001b[1;32m==\u003e development: .\u001b[0m\r\n"
+    ],
+    [
+      0.080907,
+      "\u001b[1;32m==\u003e development: Fetching version metadata from https://rubygems.org/.\u001b[0m\r\n"
+    ],
+    [
+      2.015082,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.193830,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.156566,
+      "\u001b[1;32m==\u003e development: Fetching dependency metadata from https://rubygems.org/\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000708,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.214939,
+      "\u001b[1;32m==\u003e development: .\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.131387,
+      "\u001b[1;32m==\u003e development: Resolving dependencies...\u001b[0m\r\n"
+    ],
+    [
+      0.319029,
+      "\u001b[1;32m==\u003e development: Using rake 10.4.2\u001b[0m\r\n"
+    ],
+    [
+      2.648348,
+      "\u001b[1;32m==\u003e development: Installing minitest 5.8.2\u001b[0m\r\n"
+    ],
+    [
+      0.163021,
+      "\u001b[1;32m==\u003e development: Installing json 1.8.3 with native extensions\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.616887,
+      "\u001b[1;32m==\u003e development: Installing i18n 0.7.0\u001b[0m\r\n"
+    ],
+    [
+      1.928555,
+      "\u001b[1;32m==\u003e development: Installing thread_safe 0.3.5\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.546503,
+      "\u001b[1;32m==\u003e development: Installing builder 3.2.2\u001b[0m\r\n"
+    ],
+    [
+      1.444888,
+      "\u001b[1;32m==\u003e development: Installing erubis 2.7.0\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.625106,
+      "\u001b[1;32m==\u003e development: Installing mini_portile 0.6.2\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.311095,
+      "\u001b[1;32m==\u003e development: Installing rack 1.6.4\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.311594,
+      "\u001b[1;32m==\u003e development: Installing arel 6.0.3\u001b[0m\r\n"
+    ],
+    [
+      0.145951,
+      "\u001b[1;32m==\u003e development: Installing mime-types 2.6.2\u001b[0m\r\n"
+    ],
+    [
+      1.643312,
+      "\u001b[1;32m==\u003e development: Installing addressable 2.3.8\u001b[0m\r\n"
+    ],
+    [
+      0.785200,
+      "\u001b[1;32m==\u003e development: Installing ast 2.1.0\u001b[0m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.096528,
+      "\u001b[1;32m==\u003e development: Installing execjs 2.6.0\u001b[0m\r"
+    ],
+    [
+      0.000015,
+      "\n"
+    ],
+    [
+      2.070137,
+      "\u001b[1;32m==\u003e development: Installing coderay 1.1.0\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.085985,
+      "\u001b[1;32m==\u003e development: Using bundler 1.10.6\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.005780,
+      "\u001b[1;32m==\u003e development: Installing debug_inspector 0.0.2 with native extensions\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.473972,
+      "\u001b[1;32m==\u003e development: Installing sass 3.4.19\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.519109,
+      "\u001b[1;32m==\u003e development: Installing byebug 8.1.0 with native extensions\u001b[0m\r\n"
+    ],
+    [
+      1.861428,
+      "\u001b[1;32m==\u003e development: Installing ffi 1.9.10 with native extensions\u001b[0m\r\n"
+    ],
+    [
+      1.310409,
+      "\u001b[1;32m==\u003e development: Installing coffee-script-source 1.9.1.1\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.746695,
+      "\u001b[1;32m==\u003e development: Installing thor 0.19.1\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      2.245653,
+      "\u001b[1;32m==\u003e development: Installing database_cleaner 1.5.1\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.859772,
+      "\u001b[1;32m==\u003e development: Installing diff-lcs 1.2.5\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      3.239258,
+      "\u001b[1;32m==\u003e development: Installing tilt 2.0.1\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.885838,
+      "\u001b[1;32m==\u003e development: Installing duktape 1.3.0.3 with native extensions\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      2.088121,
+      "\u001b[1;32m==\u003e development: Installing sexp_processor 4.6.0\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      3.223512,
+      "\u001b[1;32m==\u003e development: Installing interception 0.5 with native extensions\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      5.022217,
+      "\u001b[1;32m==\u003e development: Installing multi_json 1.11.2\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      3.310450,
+      "\u001b[1;32m==\u003e development: Installing kgio 2.10.0 with native extensions\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      4.345658,
+      "\u001b[1;32m==\u003e development: Installing method_source 0.8.2\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.033921,
+      "\u001b[1;32m==\u003e development: Installing powerpack 0.1.1\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      2.526124,
+      "\u001b[1;32m==\u003e development: Installing slop 3.6.0\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.211235,
+      "\u001b[1;32m==\u003e development: Installing rails_layout 1.0.28\u001b[0m"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      2.248469,
+      "\u001b[1;32m==\u003e development: Installing rainbow 2.0.0\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.631069,
+      "\u001b[1;32m==\u003e development: Installing raindrops 0.15.0 with native extensions\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      2.098032,
+      "\u001b[1;32m==\u003e development: Installing rspec-support 3.3.0\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      2.571725,
+      "\u001b[1;32m==\u003e development: Installing ruby-progressbar 1.7.5\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.589790,
+      "\u001b[1;32m==\u003e development: Installing tins 1.6.0\u001b[0m\r\n"
+    ],
+    [
+      1.095158,
+      "\u001b[1;32m==\u003e development: Installing websocket 1.2.2\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.385987,
+      "\u001b[1;32m==\u003e development: Installing rubyzip 1.1.7\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.860703,
+      "\u001b[1;32m==\u003e development: Installing spring 1.4.1\u001b[0m\r\n"
+    ],
+    [
+      1.383128,
+      "\u001b[1;32m==\u003e development: Installing sqlite3 1.3.11 with native extensions\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.193419,
+      "\u001b[1;32m==\u003e development: Installing faker 1.5.0\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.269709,
+      "\u001b[1;32m==\u003e development: Installing tzinfo 1.2.2\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      2.622789,
+      "\u001b[1;32m==\u003e development: Installing rack-test 0.6.3\u001b[0m\r\n"
+    ],
+    [
+      2.310776,
+      "\u001b[1;32m==\u003e development: Installing sprockets 3.4.0\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.476660,
+      "\u001b[1;32m==\u003e development: Installing mail 2.6.3\u001b[0m\r\n"
+    ],
+    [
+      1.510534,
+      "\u001b[1;32m==\u003e development: Installing launchy 2.4.3\u001b[0m\r\n"
+    ],
+    [
+      2.948202,
+      "\u001b[1;32m==\u003e development: Installing parser 2.2.3.0\u001b[0m\r\n"
+    ],
+    [
+      1.041710,
+      "\u001b[1;32m==\u003e development: Installing autoprefixer-rails 6.1.0.1\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      2.244317,
+      "\u001b[1;32m==\u003e development: Installing uglifier 2.7.2\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.609012,
+      "\u001b[1;32m==\u003e development: Installing better_errors 2.1.1\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      2.410591,
+      "\u001b[1;32m==\u003e development: Installing coffee-script 2.4.1\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.139457,
+      "\u001b[1;32m==\u003e development: Installing binding_of_caller 0.7.2 with native extensions\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      3.354526,
+      "\u001b[1;32m==\u003e development: Installing haml 4.0.7\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.161973,
+      "\u001b[1;32m==\u003e development: Installing ruby_parser 3.7.2\u001b[0m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      1.609502,
+      "\u001b[1;32m==\u003e development: Installing childprocess 0.5.7\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      1.638437,
+      "\u001b[1;32m==\u003e development: Installing pry 0.10.3\u001b[0m\r\n"
+    ],
+    [
+      1.759389,
+      "\u001b[1;32m==\u003e development: Installing rspec-core 3.3.2\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.164659,
+      "\u001b[1;32m==\u003e development: Installing rspec-expectations 3.3.1\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.304680,
+      "\u001b[1;32m==\u003e development: Installing nokogiri 1.6.6.2 with native extensions\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.171235,
+      "\u001b[1;32m==\u003e development: Installing rspec-mocks 3.3.2\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.662633,
+      "\u001b[1;32m==\u003e development: Installing unicorn 5.0.0 with native extensions\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.580590,
+      "\u001b[1;32m==\u003e development: Installing spring-commands-rspec 1.0.4\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      3.554885,
+      "\u001b[1;32m==\u003e development: Installing activesupport 4.2.4\u001b[0m\r\n"
+    ],
+    [
+      2.431742,
+      "\u001b[1;32m==\u003e development: Installing astrolabe 1.3.1\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      3.413168,
+      "\u001b[1;32m==\u003e development: Installing bootstrap-sass 3.3.5.1\u001b[0m\r\n"
+    ],
+    [
+      4.860038,
+      "\u001b[1;32m==\u003e development: Installing selenium-webdriver 2.48.1\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      3.340039,
+      "\u001b[1;32m==\u003e development: Installing pry-rails 0.3.4\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      2.613437,
+      "\u001b[1;32m==\u003e development: Installing pry-rescue 1.4.2\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      2.676729,
+      "\u001b[1;32m==\u003e development: Installing rails-deprecated_sanitizer 1.0.3\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      2.308758,
+      "\u001b[1;32m==\u003e development: Installing globalid 0.3.6\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      2.772031,
+      "\u001b[1;32m==\u003e development: Installing activemodel 4.2.4\u001b[0m\r\n"
+    ],
+    [
+      3.085736,
+      "\u001b[1;32m==\u003e development: Installing factory_girl 4.5.0\u001b[0m\r\n"
+    ],
+    [
+      2.942676,
+      "\u001b[1;32m==\u003e development: Installing jbuilder 2.3.2\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      4.034541,
+      "\u001b[1;32m==\u003e development: Installing rubocop 0.35.1\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      3.004996,
+      "\u001b[1;32m==\u003e development: Installing activejob 4.2.4\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      3.710277,
+      "\u001b[1;32m==\u003e development: Installing activerecord 4.2.4\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.904160,
+      "\u001b[1;32m==\u003e development: Installing rails-dom-testing 1.0.7\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      2.701827,
+      "\u001b[1;32m==\u003e development: Installing loofah 2.0.3\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.422149,
+      "\u001b[1;32m==\u003e development: Installing xpath 2.0.0\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.835815,
+      "\u001b[1;32m==\u003e development: Installing html2haml 2.0.0\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.543050,
+      "\u001b[1;32m==\u003e development: Installing unicorn-rails 2.2.0\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.748147,
+      "\u001b[1;32m==\u003e development: Installing rails-html-sanitizer 1.0.2\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      3.032609,
+      "\u001b[1;32m==\u003e development: Installing capybara 2.5.0\u001b[0m\r\n"
+    ],
+    [
+      0.820016,
+      "\u001b[1;32m==\u003e development: Installing actionview 4.2.4\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      4.271407,
+      "\u001b[1;32m==\u003e development: Installing actionpack 4.2.4\u001b[0m\r\n"
+    ],
+    [
+      3.180767,
+      "\u001b[1;32m==\u003e development: Installing sprockets-rails 2.3.3\u001b[0m\r\n"
+    ],
+    [
+      0.125658,
+      "\u001b[1;32m==\u003e development: Installing actionmailer 4.2.4\u001b[0m\r\n"
+    ],
+    [
+      0.780214,
+      "\u001b[1;32m==\u003e development: Installing railties 4.2.4\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      2.499706,
+      "\u001b[1;32m==\u003e development: Installing simple_form 3.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.381090,
+      "\u001b[1;32m==\u003e development: Installing coffee-rails 4.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.237657,
+      "\u001b[1;32m==\u003e development: Installing factory_girl_rails 4.5.0\u001b[0m\r\n"
+    ],
+    [
+      2.804154,
+      "\u001b[1;32m==\u003e development: Installing quiet_assets 1.1.0\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.291689,
+      "\u001b[1;32m==\u003e development: Installing jquery-rails 4.0.5\u001b[0m\r\n"
+    ],
+    [
+      2.437061,
+      "\u001b[1;32m==\u003e development: Installing rspec-rails 3.3.3\u001b[0m\r\n"
+    ],
+    [
+      1.070090,
+      "\u001b[1;32m==\u003e development: Installing rails 4.2.4\u001b[0m\r\n"
+    ],
+    [
+      1.765665,
+      "\u001b[1;32m==\u003e development: Installing web-console 2.2.1\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.977449,
+      "\u001b[1;32m==\u003e development: Installing turbolinks 2.5.3\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.210665,
+      "\u001b[1;32m==\u003e development: Installing sass-rails 5.0.4\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.090857,
+      "\u001b[1;32m==\u003e development: Bundle complete! 32 Gemfile dependencies, 101 gems now installed.\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000589,
+      "\u001b[1;32m==\u003e development: Use `bundle show [gemname]` to see where a bundled gem is installed.\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000459,
+      "\u001b[1;32m==\u003e development: Post-install message from haml:\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000448,
+      "\u001b[1;32m==\u003e development: "
+    ],
+    [
+      0.000007,
+      "\r\n==\u003e development: HEADS UP! Haml 4.0 has many improvements, but also has changes that may break\r\n==\u003e development: your application:\r\n==\u003e development: \r\n"
+    ],
+    [
+      0.000005,
+      "==\u003e development: * Support for Ruby 1.8.6 dropped\r\n==\u003e development: * Support for Rails 2 dropped"
+    ],
+    [
+      0.000005,
+      "\r\n==\u003e development: * Sass filter now always outputs \u003cstyle\u003e tags\r\n"
+    ],
+    [
+      0.000006,
+      "==\u003e development: * Data attributes are now hyphenated, not underscored\r\n"
+    ],
+    [
+      0.000004,
+      "==\u003e development: * html2haml utility moved to the html2haml gem\r\n"
+    ],
+    [
+      0.000010,
+      "==\u003e development: * Textile and Maruku filters moved to the haml-contrib gem\r\n==\u003e development: "
+    ],
+    [
+      0.000032,
+      "\r\n==\u003e development: For more info see:\r\n==\u003e development: \r\n"
+    ],
+    [
+      0.000017,
+      "==\u003e development: http://rubydoc.info/github/haml/haml/file/CHANGELOG.md\u001b[0m\r\n"
+    ],
+    [
+      0.197414,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000090,
+      "\u001b]2;gustavo@frozen: ~/Projects/vagrant-chef-rails\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;..nt-chef-rails\u0007"
+    ],
+    [
+      0.169989,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/vagrant-chef-rails \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[43m\u001b[31m\u001b[30m  master  \u001b[49m\u001b[33m\u001b[39m\r\n$ \u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000027,
+      "\u001b[?2004h"
+    ],
+    [
+      3.733841,
+      "#"
+    ],
+    [
+      0.434986,
+      "\u0008#A"
+    ],
+    [
+      0.370816,
+      "m"
+    ],
+    [
+      0.169538,
+      "b"
+    ],
+    [
+      0.121568,
+      "i"
+    ],
+    [
+      0.168323,
+      "e"
+    ],
+    [
+      0.154711,
+      "t"
+    ],
+    [
+      0.047058,
+      "n"
+    ],
+    [
+      0.385074,
+      "\u0008 \u0008"
+    ],
+    [
+      0.175009,
+      "\u0008 \u0008"
+    ],
+    [
+      0.185203,
+      "n"
+    ],
+    [
+      0.062028,
+      "t"
+    ],
+    [
+      0.071449,
+      "e"
+    ],
+    [
+      0.089136,
+      " "
+    ],
+    [
+      0.217987,
+      "p"
+    ],
+    [
+      0.113002,
+      "r"
+    ],
+    [
+      0.081875,
+      "o"
+    ],
+    [
+      0.080996,
+      "n"
+    ],
+    [
+      0.195828,
+      "t"
+    ],
+    [
+      0.058023,
+      "o"
+    ],
+    [
+      0.185277,
+      " "
+    ],
+    [
+      0.239346,
+      "p"
+    ],
+    [
+      0.096916,
+      "a"
+    ],
+    [
+      0.106794,
+      "r"
+    ],
+    [
+      0.096539,
+      "a"
+    ],
+    [
+      0.124534,
+      " "
+    ],
+    [
+      0.125111,
+      "d"
+    ],
+    [
+      0.067334,
+      "e"
+    ],
+    [
+      0.187098,
+      "s"
+    ],
+    [
+      0.085407,
+      "e"
+    ],
+    [
+      0.142152,
+      "n"
+    ],
+    [
+      0.141242,
+      "v"
+    ],
+    [
+      0.082857,
+      "o"
+    ],
+    [
+      0.161726,
+      "l"
+    ],
+    [
+      0.120150,
+      "v"
+    ],
+    [
+      0.066085,
+      "i"
+    ],
+    [
+      0.098195,
+      "m"
+    ],
+    [
+      0.119586,
+      "e"
+    ],
+    [
+      0.102973,
+      "n"
+    ],
+    [
+      0.061654,
+      "t"
+    ],
+    [
+      0.175218,
+      "o"
+    ],
+    [
+      0.267449,
+      "!"
+    ],
+    [
+      0.370271,
+      " "
+    ],
+    [
+      0.485053,
+      "\u0008"
+    ],
+    [
+      0.314198,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.023492,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000105,
+      "\u001b]2;gustavo@frozen: ~/Projects/vagrant-chef-rails\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..nt-chef-rails\u0007"
+    ],
+    [
+      0.056224,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/vagrant-chef-rails \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[43m\u001b[31m\u001b[30m  master  \u001b[49m\u001b[33m\u001b[39m\r\n$ \u001b[K"
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000052,
+      "\u001b[?2004h"
+    ],
+    [
+      0.520568,
+      "#"
+    ],
+    [
+      0.357890,
+      "\u0008#C"
+    ],
+    [
+      0.168262,
+      "o"
+    ],
+    [
+      0.063631,
+      "n"
+    ],
+    [
+      0.068159,
+      "f"
+    ],
+    [
+      0.123297,
+      "i"
+    ],
+    [
+      0.401351,
+      "r"
+    ],
+    [
+      0.082194,
+      "a"
+    ],
+    [
+      0.069063,
+      " "
+    ],
+    [
+      0.178194,
+      "n"
+    ],
+    [
+      0.055556,
+      "o"
+    ],
+    [
+      0.146911,
+      " "
+    ],
+    [
+      0.465830,
+      "ŕ"
+    ],
+    [
+      0.277508,
+      "\u0008 \u0008"
+    ],
+    [
+      0.323391,
+      "p"
+    ],
+    [
+      0.147275,
+      "r"
+    ],
+    [
+      0.282707,
+      "ó"
+    ],
+    [
+      0.198033,
+      "x"
+    ],
+    [
+      0.088391,
+      "i"
+    ],
+    [
+      0.197426,
+      "m"
+    ],
+    [
+      0.058937,
+      "o"
+    ],
+    [
+      0.173047,
+      " "
+    ],
+    [
+      0.105439,
+      "s"
+    ],
+    [
+      0.151614,
+      "c"
+    ],
+    [
+      0.179605,
+      "r"
+    ],
+    [
+      0.102883,
+      "e"
+    ],
+    [
+      0.141489,
+      "e"
+    ],
+    [
+      0.115234,
+      "n"
+    ],
+    [
+      0.170126,
+      "c"
+    ],
+    [
+      0.087495,
+      "a"
+    ],
+    [
+      0.177241,
+      "s"
+    ],
+    [
+      0.174973,
+      "t"
+    ],
+    [
+      0.178608,
+      " "
+    ],
+    [
+      0.189971,
+      "a"
+    ],
+    [
+      0.084177,
+      " "
+    ],
+    [
+      0.092121,
+      "e"
+    ],
+    [
+      0.196669,
+      "x"
+    ],
+    [
+      0.120504,
+      "e"
+    ],
+    [
+      0.164557,
+      "c"
+    ],
+    [
+      0.259794,
+      "u"
+    ],
+    [
+      0.329058,
+      "ç"
+    ],
+    [
+      0.281365,
+      "ã"
+    ],
+    [
+      0.105920,
+      "o"
+    ],
+    [
+      0.535890,
+      " "
+    ],
+    [
+      0.122728,
+      "d"
+    ],
+    [
+      0.096620,
+      "o"
+    ],
+    [
+      0.173278,
+      " "
+    ],
+    [
+      0.292946,
+      "r"
+    ],
+    [
+      0.116360,
+      "a"
+    ],
+    [
+      0.124998,
+      "i"
+    ],
+    [
+      0.070637,
+      "l"
+    ],
+    [
+      0.089971,
+      "s"
+    ],
+    [
+      0.148164,
+      " "
+    ],
+    [
+      0.164433,
+      "s"
+    ],
+    [
+      0.998173,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000079,
+      "\u001b]2;gustavo@frozen: ~/Projects/vagrant-chef-rails\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..nt-chef-rails\u0007"
+    ],
+    [
+      0.060440,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[40m\u001b[37m  /Projects/vagrant-chef-rails \u001b[41m\u001b[30m\u001b[37m  2.2.2 \u001b[43m\u001b[31m\u001b[30m  master  \u001b[49m\u001b[33m\u001b[39m\r\n$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000003,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000041,
+      "\u001b[?2004h"
+    ],
+    [
+      1.410695,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ]
+  ]
+}

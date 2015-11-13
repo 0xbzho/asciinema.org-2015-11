@@ -1,0 +1,2234 @@
+{
+  "version": 1,
+  "width": 138,
+  "height": 32,
+  "duration": 38.420288,
+  "command": "/usr/local/bin/fish",
+  "title": "Simple twitter semantical analysis",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.401769,
+      "Error running connection boilerplate: default is not running. Please start it in order to use the connection settings\r\n"
+    ],
+    [
+      0.045593,
+      "\u001b]0;f"
+    ],
+    [
+      0.000031,
+      "ish  /Users/Christopher/Development/Python/twitter/clas"
+    ],
+    [
+      0.000004,
+      "sify"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b[3"
+    ],
+    [
+      0.000003,
+      "0m\u001b("
+    ],
+    [
+      0.000003,
+      "B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.002263,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.032045,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000008,
+      "h  /Users/Christopher/Developme"
+    ],
+    [
+      0.000005,
+      "nt/Py"
+    ],
+    [
+      0.000004,
+      "thon"
+    ],
+    [
+      0.000003,
+      "/tw"
+    ],
+    [
+      0.000003,
+      "itt"
+    ],
+    [
+      0.000003,
+      "er/"
+    ],
+    [
+      0.000023,
+      "classify\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000003,
+      "B\u001b[m"
+    ],
+    [
+      0.000131,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                         \r \r"
+    ],
+    [
+      0.000087,
+      "\u001b[34mclassify:\u001b[32mmaster*\u001b[30m\u001b(B\u001b[m λ \u001b[K"
+    ],
+    [
+      0.463392,
+      "l"
+    ],
+    [
+      0.000240,
+      "\u0008\u001b[31m\u001b[1ml\u001b(B\u001b[m"
+    ],
+    [
+      0.000933,
+      "\u001b[38;5;240ms\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.062543,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000265,
+      "\u0008\u0008\u001b[38;5;26mls\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207401,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b"
+    ],
+    [
+      0.000003,
+      "[30"
+    ],
+    [
+      0.000005,
+      "m\u001b"
+    ],
+    [
+      0.000003,
+      "(B\u001b[m"
+    ],
+    [
+      0.000250,
+      "\u001b]0;"
+    ],
+    [
+      0.000030,
+      "ls  /Users/Christopher/Development/"
+    ],
+    [
+      0.000003,
+      "Pyth"
+    ],
+    [
+      0.000003,
+      "on/"
+    ],
+    [
+      0.000003,
+      "twi"
+    ],
+    [
+      0.000003,
+      "tt"
+    ],
+    [
+      0.000003,
+      "er/"
+    ],
+    [
+      0.000003,
+      "cla"
+    ],
+    [
+      0.000003,
+      "ss"
+    ],
+    [
+      0.000036,
+      "ify"
+    ],
+    [
+      0.000008,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.009388,
+      "classifier.p         \u001b[31mclassify.py\u001b[39;49m\u001b[0m          negative_tweets.json positive_tweets.json twitter\r\n"
+    ],
+    [
+      0.025139,
+      "\u001b]0;fish  /Users/Chr"
+    ],
+    [
+      0.000016,
+      "istopher/Development/Python/twitter/classify\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000131,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                         \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b[34mclassify:\u001b[32mmaster*\u001b[30m\u001b(B\u001b[m λ \u001b[K"
+    ],
+    [
+      0.525599,
+      "."
+    ],
+    [
+      0.000210,
+      "\u0008\u001b[38;5;26m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000741,
+      "\u001b[38;5;240m/classify.py -n ./negative_tweets.json -p ./positive_tweets.json \u001b[65D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.023187,
+      "\u001b[38;5;26m/\u001b[38;5;240mclassify.py -n ./negative_tweets.json -p ./positive_tweets.json \u001b[64D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.287955,
+      "\u001b[38;5;26mclassify.py -n ./negative_tweets.json -p ./positive_tweets.json \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001069,
+      "\u001b[53D \u001b[38;5;39m-n\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m./negative_tweets.json\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m-p\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m./positive_tweets.json\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      2.046529,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000384,
+      "\u001b]"
+    ],
+    [
+      0.000010,
+      "0;./classif"
+    ],
+    [
+      0.000005,
+      "y.p"
+    ],
+    [
+      0.000004,
+      "y "
+    ],
+    [
+      0.000004,
+      " /"
+    ],
+    [
+      0.000005,
+      "Use"
+    ],
+    [
+      0.000004,
+      "rs"
+    ],
+    [
+      0.000005,
+      "/Ch"
+    ],
+    [
+      0.000039,
+      "ristopher/Development/Py"
+    ],
+    [
+      0.000005,
+      "tho"
+    ],
+    [
+      0.000005,
+      "n/t"
+    ],
+    [
+      0.000004,
+      "wi"
+    ],
+    [
+      0.000005,
+      "tte"
+    ],
+    [
+      0.000004,
+      "r/"
+    ],
+    [
+      0.000005,
+      "cla"
+    ],
+    [
+      0.000004,
+      "ss"
+    ],
+    [
+      0.000005,
+      "ify"
+    ],
+    [
+      0.000004,
+      "\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.551552,
+      "\u001b[34mWelcome to Twitter analytics\u001b[0m\r\n"
+    ],
+    [
+      0.001149,
+      "\u001b[34mReading positive tweets\u001b[0m\r\n"
+    ],
+    [
+      0.318206,
+      "\u001b[34mReading negative tweets\u001b[0m\r\n"
+    ],
+    [
+      0.324322,
+      "\u001b[34mDumping memory to file...\u001b[0m\r\n"
+    ],
+    [
+      0.115586,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000008,
+      "sh  /Users/Christopher/Deve"
+    ],
+    [
+      0.000004,
+      "lopm"
+    ],
+    [
+      0.000003,
+      "ent"
+    ],
+    [
+      0.000003,
+      "/Py"
+    ],
+    [
+      0.000003,
+      "tho"
+    ],
+    [
+      0.000003,
+      "n/t"
+    ],
+    [
+      0.000003,
+      "wit"
+    ],
+    [
+      0.000003,
+      "te"
+    ],
+    [
+      0.000003,
+      "r/c"
+    ],
+    [
+      0.000003,
+      "las"
+    ],
+    [
+      0.000003,
+      "sif"
+    ],
+    [
+      0.000003,
+      "y\u0007"
+    ],
+    [
+      0.000138,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000213,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                         \r \r\u001b[34mclassify:\u001b[32mmaster*\u001b[30m\u001b(B\u001b[m λ \u001b[K"
+    ],
+    [
+      0.792743,
+      "."
+    ],
+    [
+      0.000239,
+      "\u0008\u001b[38;5;26m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000849,
+      "\u001b[38;5;240m/classify.py -n ./negative_tweets.json -p ./positive_tweets.json \u001b[65D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.024041,
+      "\u001b[38;5;26m/\u001b[38;5;240mclassify.py -n ./negative_tweets.json -p ./positive_tweets.json \u001b[64D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.254843,
+      "\u001b[38;5;26mclassify.py -n ./negative_tweets.json -p ./positive_tweets.json \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000593,
+      "\u001b[53D \u001b[38;5;39m-n\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m./negative_tweets.json\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m-p\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m./positive_tweets.json\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.215231,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.000576,
+      "\u001b[22D\u001b[38;5;39m\u001b[4m./positive_tweets.json\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.499438,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017859,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016875,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017799,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.019350,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017688,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016139,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016561,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016239,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016885,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016716,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017483,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.015833,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016741,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016492,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017874,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016546,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017625,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016832,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017815,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017304,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017822,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017064,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017816,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017196,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.000457,
+      "\u001b[22D\u001b[38;5;39m\u001b[4m./negative_tweets.json\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.017242,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017082,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017666,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017186,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017650,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017432,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.018029,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016823,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017842,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017285,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.018761,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016333,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016735,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017078,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017833,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017116,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017792,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016781,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017837,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017163,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017783,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.184280,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159973,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128055,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144076,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001256,
+      "\u001b[38;5;240m mallofscandinavia\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.422857,
+      "\u001b[38;5;39m \u001b[38;5;240mmallofscandinavia\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000340,
+      "\u0008 \u001b[38;5;240mmallofscandinavia\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.584870,
+      "M\u001b[38;5;240mallofscandinavia\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000412,
+      "\u0008\u001b[38;5;39mM\u001b[38;5;240mallofscandinavia\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000391,
+      "\u001b[38;5;39ma\u001b[38;5;240mllofscandinavia\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000486,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000307,
+      "\u001b[38;5;240meInTheAM\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000229,
+      "\u001b[38;5;39me\u001b[38;5;240mInTheAM\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000273,
+      "\u001b[38;5;39mI\u001b[38;5;240mnTheAM\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000273,
+      "\u001b[38;5;39mn\u001b[38;5;240mTheAM\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000266,
+      "\u001b[38;5;39mT\u001b[38;5;240mheAM\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u001b[38;5;39mh\u001b[38;5;240meAM\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000279,
+      "\u001b[38;5;39me\u001b[38;5;240mAM\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000231,
+      "\u001b[38;5;39mA\u001b[38;5;240mM\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000205,
+      "\u001b[38;5;39mM\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.074498,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000237,
+      "\u001b]0"
+    ],
+    [
+      0.000007,
+      ";./classify.py "
+    ],
+    [
+      0.000003,
+      " /U"
+    ],
+    [
+      0.000003,
+      "ser"
+    ],
+    [
+      0.000003,
+      "s/C"
+    ],
+    [
+      0.000003,
+      "hri"
+    ],
+    [
+      0.000003,
+      "sto"
+    ],
+    [
+      0.000003,
+      "ph"
+    ],
+    [
+      0.000003,
+      "er/"
+    ],
+    [
+      0.000003,
+      "Dev"
+    ],
+    [
+      0.000003,
+      "el"
+    ],
+    [
+      0.000002,
+      "opm"
+    ],
+    [
+      0.000002,
+      "en"
+    ],
+    [
+      0.000003,
+      "t/P"
+    ],
+    [
+      0.000003,
+      "yt"
+    ],
+    [
+      0.000003,
+      "hon"
+    ],
+    [
+      0.000002,
+      "/t"
+    ],
+    [
+      0.000003,
+      "wit"
+    ],
+    [
+      0.000003,
+      "ter"
+    ],
+    [
+      0.000002,
+      "/c"
+    ],
+    [
+      0.000003,
+      "las"
+    ],
+    [
+      0.000003,
+      "sif"
+    ],
+    [
+      0.000002,
+      "y\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b[3"
+    ],
+    [
+      0.000003,
+      "0m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.328739,
+      "\u001b[34mWelcome to Twitter analytics\u001b[0m\r\n"
+    ],
+    [
+      0.301253,
+      "\u001b[34mWill search for tweets with hashtag: #MadeInTheAM\u001b[0m\r\n"
+    ],
+    [
+      1.371491,
+      "\u001b[32m madeintheam   1d  1dharry  1dlouis  1dliam   1dniall my four favourite boys  i like you guys so much\u001b[0m: negative\r\n"
+    ],
+    [
+      0.145521,
+      "\u001b[32mlistening to  madeintheam on  siriusxmhits1  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.072829,
+      "\u001b[32mrt  thinkofyouzayn  letra de if i could fly   madeintheam https   t co kmfgoruiha\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079644,
+      "\u001b[32mrt  liamthejesuss   itunes   1d af  twitter   1d af  social media   1d af  beyonce   1d af  obama   1d af  the world   1d af the effect of  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.071253,
+      "\u001b[32mrt  1dafsanta  the one direction fandom today  madeintheam https   t co 3hsbmuchnz\u001b[0m: negative\r\n"
+    ],
+    [
+      0.087376,
+      "\u001b[32mwalking in the wind  https   t co uztkydc2bd    madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075382,
+      "\u001b[32mrt  nouisloud  to morrendo com hey angel  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.069963,
+      "\u001b[32mrt  fallawayharry  if this gets 10k retweets q102 will play mitam tomorrow pls retweet this wether you live in philly or not https   t co x \u001b[0m: positive\r\n"
+    ],
+    [
+      0.077337,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.084706,
+      "\u001b[32mrt  narrymydream  the fandom today be like  madeintheam https   t co 7zd3kaacrg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077599,
+      "\u001b[32mrt  onedirection  usa  head out to  target tomorrow for the exclusive  limited edition  madeintheam album covers  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075631,
+      "\u001b[32m madeintheam  1dniall  1dliam  1dharry  1dlouis    today is the day      \u001b[0m: positive\r\n"
+    ],
+    [
+      0.069963,
+      "\u001b[32mrt  harryondick  be mature guys okay music is music   purpose and  madeintheam  are both fucking amazing  congrats to both artists  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.080806,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069626,
+      "\u001b[32mrt  liamthejesuss  if i could fly touches the deepest parts of your soul and then it rips your heart leaving you breathless till the last t \u001b[0m: negative\r\n"
+    ],
+    [
+      0.079538,
+      "\u001b[32mi just can t get too much of you baby  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069353,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078431,
+      "\u001b[32mniall  https   t co rfljdhyr7w\u001b[0m: negative\r\n"
+    ],
+    [
+      0.083169,
+      "\u001b[32mif this is the luck we get from friday the 13th then i wouldn t mind if it would be friday the 13th everyday   madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074991,
+      "\u001b[32mrt  1dafsanta   hello ma am do you have a moment to chat about made in the a m       madeintheam https   t co t8ajo8x3ei\u001b[0m: positive\r\n"
+    ],
+    [
+      0.073040,
+      "\u001b[32mrt  godlarent  everybody tweeting about how fire the album is and you just watching them like       madeintheam https   t co ydetdqw20z\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075800,
+      "\u001b[32m harry_styles hiii harry  thank you for everything you do   madeintheam is amazing  mind following  i love you so much   14 983\u001b[0m: positive\r\n"
+    ],
+    [
+      0.078784,
+      "\u001b[32mrt  gma  tweeting  1d   1dharry   1dliam   1dlouis   1dniall and  madeintheam reveals awesome  twitter hashtag emojis  https   t co nry3bvy \u001b[0m: positive\r\n"
+    ],
+    [
+      0.077158,
+      "\u001b[32mrt  mayhew_jessica  liam walk over here bc i will get down on my knees  not for that    to propose to you  be my husband  madeintheam https \u001b[0m: positive\r\n"
+    ],
+    [
+      0.075464,
+      "\u001b[32m siriusxmhits1 is playing the whole album  angel is on right now   madeintheam  1d\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069424,
+      "\u001b[32mwait hejdjskdjwifuueudue  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.086314,
+      "\u001b[32mrt  louiswtnews   madeintheam is the number one trend worldwide \u001b[0m: positive\r\n"
+    ],
+    [
+      0.078304,
+      "\u001b[32mrt  siriusxmhits1  15 minutes until  onedirection takes over    they re playing   talking about every song from  madeintheam with us  https \u001b[0m: positive\r\n"
+    ],
+    [
+      0.074476,
+      "\u001b[32mrt  onedirection  love 1d  pre order your copy of  madeintheam before  fr1day13  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.074871,
+      "\u001b[32mi love you goodbye   madeintheam https   t co 4ctfsxmm0a\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078729,
+      "\u001b[32mrt  larrywhoran  im sooo excited oh my god  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081591,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075920,
+      "\u001b[32mrt  narrymydream  the fandom today be like  madeintheam https   t co 7zd3kaacrg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074169,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080808,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075004,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079270,
+      "\u001b[32momfg  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076463,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076703,
+      "\u001b[32mrt  onedirection  usa  head out to  target tomorrow for the exclusive  limited edition  madeintheam album covers  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.080689,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073652,
+      "\u001b[32mjust getting my demons out  wouldn t ever doubt     madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073179,
+      "\u001b[32mwhat would you rate  madeintheam   xb https   t co gbqzmyieek\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073682,
+      "\u001b[32mrt  daggertattooh  before and after  madeintheam https   t co cprk90ngct\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080476,
+      "\u001b[32mgreat great album  literally crying while streaming  so proud of the boys   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074161,
+      "\u001b[32mrt  1directsg  you can stream  madeintheam on spotify  https   t co mjyxayerhg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077284,
+      "\u001b[32mgente scrr  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.070947,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.082410,
+      "\u001b[32mrt  stylatorarmy  the album finally downloaded  madeintheam https   t co 9yjqc8mcya\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069428,
+      "\u001b[32mone direction bbc radio 1 live lounge full hd   youtube   12 11 15  madeintheam promo bbc radio1 live    https   t co efiqzh3ob8\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079987,
+      "\u001b[32mrt  siriusxmhits1  15 minutes until  onedirection takes over    they re playing   talking about every song from  madeintheam with us  https \u001b[0m: positive\r\n"
+    ],
+    [
+      0.070207,
+      "\u001b[32mrt  tomlinsonxsass_  this is dumb  but i want to meet they boys on sunday     madeintheam  1d https   t co d9uq3s3wlu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081142,
+      "\u001b[32mso beautiful      so amazing    best album yet      madeintheam https   t co s8ilmbka2c\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075006,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073185,
+      "\u001b[32mrt  1dupdatebra  letra de walking in the wind  madeintheam https   t co 4k30czlsgh\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074582,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.077683,
+      "\u001b[32mrt  hotlinestylik  it s still not available in the usa   madeintheam https   t co o17eiwi3hb\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076809,
+      "\u001b[32mim going to listen to the entire alvum again on repeat flr the rest of my life  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080483,
+      "\u001b[32mrt  siriusxmhits1  less than 1 hour until  onedirection play every song on  madeintheam at 8pet   https   t co wi3axf55f0     https   t co  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073106,
+      "\u001b[32mbuy made in the a m by one direction  madeintheam  1d\u001b[0m: positive\r\n"
+    ],
+    [
+      0.077206,
+      "\u001b[32mrt  ww1dupdates   madeintheam is trending first world wide with 1 5 million tweets   \u001b[0m: positive\r\n"
+    ],
+    [
+      0.079359,
+      "\u001b[32mrt  gma  tweeting  1d   1dharry   1dliam   1dlouis   1dniall and  madeintheam reveals awesome  twitter hashtag emojis  https   t co nry3bvy \u001b[0m: positive\r\n"
+    ],
+    [
+      0.074451,
+      "\u001b[32mhello harry     i love  madeintheam   my birthday is in ˏˋ17days ˎˊ mind following me as a gift  i love you so muchᵕ   harry_styles  83 134\u001b[0m: positive\r\n"
+    ],
+    [
+      0.073368,
+      "\u001b[32mrt  1dfamlly   madeintheam lyrics  https   t co qvhcnobueu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077226,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078138,
+      "\u001b[32mfollow  tidms they will gift  madeintheam sigan a  tidms regalaran  madeintheam  https   t co de1cvmfumg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075345,
+      "\u001b[32mrt  narryonce  that sad little red screen  every americans struggle atm  madeintheam https   t co cmbzkosbbg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.068708,
+      "\u001b[32m onedirection i m proud   amp  happy for mitam  is amazing thanks boys  1dniall  1dfollowsprees  fr1day13  niallofficial  madeintheam   x66o\u001b[0m: positive\r\n"
+    ],
+    [
+      0.075574,
+      "\u001b[32mrt  skytolouis  always made in the am  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074473,
+      "\u001b[32mrt  80smovienjh  everyone who doesn t have  madeintheam is sitting scrolling through their tl s like https   t co 8kcbxfgzza\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077941,
+      "\u001b[32mrt  cronos49  rt this      https   t co j0ohbnobsy\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079993,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.072941,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075899,
+      "\u001b[32mrt  1dupdategirls  i  just  finished  listening  to   madeintheam   i  have  no  words        h\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075122,
+      "\u001b[32mrt  gma  tweeting  1d   1dharry   1dliam   1dlouis   1dniall and  madeintheam reveals awesome  twitter hashtag emojis  https   t co nry3bvy \u001b[0m: positive\r\n"
+    ],
+    [
+      0.071679,
+      "\u001b[32mrt  johnlambe111  i ve got scars even though they can t all been seen i think thats hard but now your here and i dont feel a thing  madeint \u001b[0m: negative\r\n"
+    ],
+    [
+      0.076198,
+      "\u001b[32mcan t wait for  madeintheam tomorrow   \u001b[0m: positive\r\n"
+    ],
+    [
+      0.069024,
+      "\u001b[32mrt  crowninglirry  me listening to made in the a m for the first time    1d  madeintheam https   t co twhah5umwh\u001b[0m: negative\r\n"
+    ],
+    [
+      0.084061,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074212,
+      "\u001b[32mrt  onedrecti0nfans  when u re on the other side of the world and u see everyone talking about mitam but u still have 7hrs    madeintheam h \u001b[0m: positive\r\n"
+    ],
+    [
+      0.075567,
+      "\u001b[32mi m still crying  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074381,
+      "\u001b[32mrt  ayyeeeliam  retweet if you are made in the a m af   1d  madeintheam https   t co 9r9wpmyyih\u001b[0m: positive\r\n"
+    ],
+    [
+      0.079328,
+      "\u001b[32mrt  1dstream  how to stream  madeintheam worldwide  https   t co mrtzq4tocz\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074579,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.079928,
+      "\u001b[32mrt  vibetickets   1donchart weve made sure all 148 000 vibe users buy  madeintheam and weve been pushing hard to help get it to number1 rt  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.078597,
+      "\u001b[32mrt  choosezaynbr  letra de i want to write you a song   madeintheam https   t co 0d9lcuokmq\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081362,
+      "\u001b[32mrt  ayyeeeliam  retweet if you are made in the a m af   1d  madeintheam https   t co 9r9wpmyyih\u001b[0m: positive\r\n"
+    ],
+    [
+      0.073430,
+      "\u001b[32mrt  we1dupdate  in the middle of the night when the wolves come out  they head straight for your heart     madeintheam  s\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073662,
+      "\u001b[32mmy absolute favorite on mitam are definitely end of the day and temporary fix    madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.071713,
+      "\u001b[32mrt  deep1dlryics  her glasses nearly broke hahahaha i love redeat  madeintheam https   t co fogvn1ybpl\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080944,
+      "\u001b[32mrt  godlarent  everybody tweeting about how fire the album is and you just watching them like       madeintheam https   t co ydetdqw20z\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074809,
+      "\u001b[32mrt  teamdirection  i can t believe one direction have released the best album of their career so far and they are not going to do a tour fo \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073195,
+      "\u001b[32mrt  1dupdatebra  letra de walking in the wind  madeintheam https   t co 4k30czlsgh\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069964,
+      "\u001b[32mrt  1dfamlly   madeintheam lyrics  https   t co qvhcnobueu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078992,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.077629,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076456,
+      "\u001b[32mrt  dessystanchewa  i love these moments when the fandom comes together as a whole   i missed you fam     madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080665,
+      "\u001b[32mtemporary fix is a m a z i n g damn it     madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076348,
+      "\u001b[32mif you could fly je la trouve trop triste  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080796,
+      "\u001b[32mrt  godlarent  everybody tweeting about how fire the album is and you just watching them like       madeintheam https   t co ydetdqw20z\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074391,
+      "\u001b[32mthis song   omg   onedirection  madeintheam https   t co pujnwbr3b9\u001b[0m: negative\r\n"
+    ],
+    [
+      0.070041,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076229,
+      "\u001b[32mrt  gma  tweeting  1d   1dharry   1dliam   1dlouis   1dniall and  madeintheam reveals awesome  twitter hashtag emojis  https   t co nry3bvy \u001b[0m: positive\r\n"
+    ],
+    [
+      0.079273,
+      "\u001b[32mrt  narrymydream  listen to the album on spotify as well  it counts      madeintheam   1dharry   1dlouis  1dniall  1dliam  1d https   t co  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073923,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.071213,
+      "\u001b[32mcan t wait for  madeintheam tomorrow     \u001b[0m: positive\r\n"
+    ],
+    [
+      0.078345,
+      "\u001b[32mi hate time zones though    madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077679,
+      "\u001b[32mhi  harry_styles  my mother told me that i was  madeintheam  plz follow me cuz i m 100  legit          s have blessed me     u h 34 144\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074580,
+      "\u001b[32mwon t you stay till the a m       madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.069861,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.077245,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.081131,
+      "\u001b[32mthis album is just sooo good  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076438,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074182,
+      "\u001b[32mrt  gma  tweeting  1d   1dharry   1dliam   1dlouis   1dniall and  madeintheam reveals awesome  twitter hashtag emojis  https   t co nry3bvy \u001b[0m: positive\r\n"
+    ],
+    [
+      0.073511,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.074177,
+      "\u001b[32mrt  paulroberts09   madeintheam chuffing brilliant stuff \u001b[0m: positive\r\n"
+    ],
+    [
+      0.084985,
+      "\u001b[32mrt  officialwith1d  update    there is a contest behind these emoji hashtags     1dliam  1dniall  1dharry  1dlouis  1d  madeintheam https   \u001b[0m: positive\r\n"
+    ],
+    [
+      0.072541,
+      "\u001b[32mwalking on the wind parece ready to run  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.069441,
+      "\u001b[32m harryscabello  q102philly  fallawayharry  justinbieber  mynameisraph  because we are better and they already know  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077545,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076493,
+      "\u001b[32mrt  1dfamlly   madeintheam lyrics  https   t co qvhcnobueu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078958,
+      "\u001b[32mrt  onedirection  us fans  get excited  tune into  siriusxmhits1 tonight at 8pm et for 1d s  madeintheam album premiere \u001b[0m: negative\r\n"
+    ],
+    [
+      0.072903,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.076086,
+      "\u001b[32mrt  1dislife11111  me before  madeintheam and after it s release  1dlouis  1dharry  1dniaii  1dliam https   t co gwrajq7cnv\u001b[0m: negative\r\n"
+    ],
+    [
+      0.082694,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075081,
+      "\u001b[32mthis song is killing me ok imma stop tweeting and listen  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074297,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.070058,
+      "\u001b[32mrt  1dcostarica   tour favorito   madeintheam  1dcr  1dharry\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081438,
+      "\u001b[32min places that weve never been  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078545,
+      "\u001b[32mrt  1dupdategirls  i  just  finished  listening  to   madeintheam   i  have  no  words        h\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075306,
+      "\u001b[32mif i could fly aksknejwjw to chorando  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072269,
+      "\u001b[32mrt  1dmetro   madeintheam is still  1 in ph  let s keep it that way      https   t co 1g3amdxmbe\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072781,
+      "\u001b[32m madeintheam im so proud of all of u      onedirection\u001b[0m: negative\r\n"
+    ],
+    [
+      0.083245,
+      "\u001b[32m real_liam_payne i cant stop listening mitam  i m so proud  it s a perfect album  i love you boys   madeintheam https   t co xts7xbcask  292\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069522,
+      "\u001b[32mrt  1dafsanta  time to buy them all  madeintheam https   t co m2kagqg8yz\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078194,
+      "\u001b[32mif i could fly acabo c a vida de todo mundo  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069420,
+      "\u001b[32mrt  blameiton_narry  when everyone is listening to the album and you re still waiting because the album isn t out in the u s  madeintheam h \u001b[0m: negative\r\n"
+    ],
+    [
+      0.087475,
+      "\u001b[32mrt  otraupdates2015  finally      madeintheam https   t co mj6x7t3shi\u001b[0m: negative\r\n"
+    ],
+    [
+      0.071965,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074248,
+      "\u001b[32mrt  siriusxmhits1  less than 1 hour until  onedirection play every song on  madeintheam at 8pet   https   t co wi3axf55f0     https   t co  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.069103,
+      "\u001b[32mme because  madeintheam has been released in the uk but not in the us https   t co flyqmmlgci\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081827,
+      "\u001b[32m harry_styles hiii harry  thank you for everything you do   madeintheam is amazing  mind following  i love you so much   14 984\u001b[0m: positive\r\n"
+    ],
+    [
+      0.076147,
+      "\u001b[32mrt  onedirection  usa  head out to  target tomorrow for the exclusive  limited edition  madeintheam album covers  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075461,
+      "\u001b[32mrt  inotesof1d  itunes usa  10 love you goodbye  11 what a feeling  19 end of the day  22 perfect  25 history  28 drag me down  56 infinity \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073992,
+      "\u001b[32mrt  caaroo9  important  how to change your country on spotify to the us to stream the album  please share   madeintheam  amas1d  https   t  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.078273,
+      "\u001b[32mrt  planetlouis_  when made in the am finally released got me like    madeintheam https   t co wfolsslyy7\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074132,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077202,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074378,
+      "\u001b[32mrt  tomlinsonxsass_  olivia is literally my jam    madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074269,
+      "\u001b[32mrt  siriusxmhits1  15 minutes until  onedirection takes over    they re playing   talking about every song from  madeintheam with us  https \u001b[0m: positive\r\n"
+    ],
+    [
+      0.082705,
+      "\u001b[32mi know a lot of you already knew this but i didn t omg  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074934,
+      "\u001b[32mrt  1dfamlly   madeintheam lyrics  https   t co qvhcnobueu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078298,
+      "\u001b[32mrt  larryputiane   real_liam_payne congrats the album is so fancy i m proud of you  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072300,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078035,
+      "\u001b[32mwhen you re in america and still waiting    https   t co qjpvrqgit9\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078454,
+      "\u001b[32m real_liam_payne vote in the link for your favorite  justinbieber  purpose or  onedirection  madeintheam  https   t co 4pvtcfaoop\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074114,
+      "\u001b[32mkeep streaming guys  it s number 3 in the uk     buymadeintheam  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074335,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078718,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.071858,
+      "\u001b[32mthese are cute      1d  harry  niall  louis  liam  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.079378,
+      "\u001b[32mrt  ww1dupdates   madeintheam is trending first world wide with 1 5 million tweets   \u001b[0m: positive\r\n"
+    ],
+    [
+      0.072046,
+      "\u001b[32myes  i am home with  siriusxmhits1 patched through my surround sound waiting to hear  madeintheam  noshame\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079826,
+      "\u001b[32mrt  onedirection  usa  head out to  target tomorrow for the exclusive  limited edition  madeintheam album covers  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.076825,
+      "\u001b[32mbut guys sciatic jejd  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079552,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073950,
+      "\u001b[32myayyy    finally everyone has heard it already    just timezones ruin everything  well kind of   madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.073002,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.078622,
+      "\u001b[32mwalking in the wind is a sweet cool dessert you love to savour because it s one of your favorite  amazing sounds    madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.070886,
+      "\u001b[32mrt  unicornfthes  me listening to the album  madeintheam https   t co szxm2xvm96\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079079,
+      "\u001b[32mrt  gma  tweeting  1d   1dharry   1dliam   1dlouis   1dniall and  madeintheam reveals awesome  twitter hashtag emojis  https   t co nry3bvy \u001b[0m: positive\r\n"
+    ],
+    [
+      0.070232,
+      "\u001b[32mnow i have the album   my favorite song is  i want to write a song  omg    madeintheam  harry_styles  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.082833,
+      "\u001b[32mrt  1ddailyupdxtes  i ll be tweeting my reactions from 1d on sirius xm hits 1 starting now  feel free to tweet with me   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.068808,
+      "\u001b[32mrt  mariemck2  when half of the world tweets that the album is out  and i realize i live in america   madeintheam https   t co wnwi5av8k9\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077741,
+      "\u001b[32msoo excited cuz its finally  out      1d  madeintheam  onedirection\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074331,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079154,
+      "\u001b[32m harry_styles  madeintheam is absolutely incredible  thank you for being amazing over the past 5 years  any chance of a follow  x26 906\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074771,
+      "\u001b[32mrt  narryonce  when everyone is tweeting about the album but you still have some hours to go   madeintheam https   t co zjrgrdxn6j\u001b[0m: negative\r\n"
+    ],
+    [
+      0.082303,
+      "\u001b[32mi can gi back to sleep happily now hehehehe  madeintheam  1d\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073593,
+      "\u001b[32mgoodnight everyone pls try not to die while listening to this masterpiece of album    onedirection   madeintheam  1d https   t co pku3exdlsr\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072287,
+      "\u001b[32mrt  pop_ruth  the boys say boo  1d  1dliam  1dlouis  1dharry  1dniall  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077605,
+      "\u001b[32mrt  narrymydream  wolves is a jaaaam   madeintheam   1dharry   1dlouis  1dniall  1dliam  1d https   t co mx6asxfvjw\u001b[0m: negative\r\n"
+    ],
+    [
+      0.070887,
+      "\u001b[32mrt  teacupharry4   madeintheam most directioners friends will be like shut up stop talking about the songs already  we ll all be like https \u001b[0m: negative\r\n"
+    ],
+    [
+      0.079057,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072020,
+      "\u001b[32mrt  choosezaynbr  letra de i want to write you a song   madeintheam https   t co 0d9lcuokmq\u001b[0m: negative\r\n"
+    ],
+    [
+      0.082488,
+      "\u001b[32mrt  sadkidlarry  teacher  why are you absent  me  the album made me emotionally unstable   1dharry  1dlouis  1dliam  1dniall  1d  madeinthe \u001b[0m: negative\r\n"
+    ],
+    [
+      0.074397,
+      "\u001b[32mrt  smoladidaslou  im about to listen to the album oh my god ksbwkavsiav im not ready ohtngodhwisvwiwvaiavw help me okay i got this   madei \u001b[0m: negative\r\n"
+    ],
+    [
+      0.074252,
+      "\u001b[32mrt  officialwith1d  retweet if mitam album is not yet out in your country    like if mitam album is already out  in your country     madein \u001b[0m: negative\r\n"
+    ],
+    [
+      0.074454,
+      "\u001b[32m      make sure you listen to the album on spotify instead of your own copy because it helps with sales  1d  madeintheam  onedirection     \u001b[0m: positive\r\n"
+    ],
+    [
+      0.078574,
+      "\u001b[32mrt  1dfamlly   madeintheam lyrics  https   t co qvhcnobueu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073438,
+      "\u001b[32mwhen you live in the usa and still have to wait for  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.078726,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075659,
+      "\u001b[32mrt  daggertattooh  please stream it on spotify   and promote it as much as you can because this album seriously deserves all the recognitio \u001b[0m: negative\r\n"
+    ],
+    [
+      0.081135,
+      "\u001b[32mwhy i can t stop listening   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073578,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.072807,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077035,
+      "\u001b[32mrt  crowninglirry  me listening to made in the a m for the first time    1d  madeintheam https   t co twhah5umwh\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076792,
+      "\u001b[32mrt  zarryxoreo  the best album keep it no1 always this is my country proud of them it s no1 since it came out 3hrs ago  madeintheam https   \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073746,
+      "\u001b[32mrt  harryondick  be mature guys okay music is music   purpose and  madeintheam  are both fucking amazing  congrats to both artists  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.072300,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072684,
+      "\u001b[32meven if you have your own copy of the album  stream it on spotify instead if you have it  it helps a lot   madeintheam  1d\u001b[0m: positive\r\n"
+    ],
+    [
+      0.072390,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.084535,
+      "\u001b[32mrt  harrystylism  and then i cried like a baby when i heard if i could fly  1dharry   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072892,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075569,
+      "\u001b[32mrt  inevitablyshyy   chocolatequiff wolves is my most favorite  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.077019,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075413,
+      "\u001b[32mrt  h0tlikepayne  me because i have to wait another 7 hours for  madeintheam https   t co 2j2tf47lv0\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075901,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.070570,
+      "\u001b[32m7 emojis    i m so proud of you   amas1d  honduraslovesmitam  onedirection  madeintheam  1d  1dniall  1dlouis  1dliam  1dharry  1dhn\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081565,
+      "\u001b[32mbefore and after  madeintheam https   t co mh8la7s3ss\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079394,
+      "\u001b[32mrt  1dcostarica  empecemos ya because why not   1d  madeintheam  1dharry  1dliam  1dniall  1dlouis  onedirection\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073452,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.072702,
+      "\u001b[32mrt  sophiaamancio  end of the day  madeintheam  1d  https   t co rv0zcmd59n\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072910,
+      "\u001b[32mrt  stylatorarmy  the album finally downloaded  madeintheam https   t co 9yjqc8mcya\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077453,
+      "\u001b[32mrt  1dcrazymofo  play this at my funeral    1dniall  1dlouis  1dliam  1dharry  1d  madeintheam \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073658,
+      "\u001b[32mrt  choosezaynbr  letra de never enough   madeintheam https   t co zwvm9em4ng\u001b[0m: negative\r\n"
+    ],
+    [
+      0.071207,
+      "\u001b[32mless than four hours until  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.078641,
+      "\u001b[32mrt  grown1darg  letra traducida de walking in the wind   lyrics of walking in the wind     madeintheam https   t co k1pk3mbvio\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075751,
+      "\u001b[32molivia  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081020,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074278,
+      "\u001b[32mrt  niallxadore  when everyone is tweeting about how good the album is but you live in the usa and sit there like  madeintheam https   t co \u001b[0m: negative\r\n"
+    ],
+    [
+      0.071590,
+      "\u001b[32mgod  mitam is out  its so amazing i cri    madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.071351,
+      "\u001b[32mrt  boobearlrh  even though i cant listen right now i bet its their best album  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.079555,
+      "\u001b[32mhi  harry_styles i listened  madeintheam and it is a pure masterpiece  i couldn t be more proud  would you mind following me   78 750\u001b[0m: positive\r\n"
+    ],
+    [
+      0.075418,
+      "\u001b[32mrt  q102philly  my boss is gonna kill me  i need the power of  directioners around the world  help me out   mitamonq102  madeintheam https  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.074754,
+      "\u001b[32mrt  hlupdates  tweet us a screenshot of mitam on the charts in your country using  madeintheam  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.073765,
+      "\u001b[32mrt  harrystylism  and then i cried like a baby when i heard if i could fly  1dharry   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078477,
+      "\u001b[32mrt  1dneews  twitter reveals one direction emojis  launches contest to find world s biggest fans    https   t co 8uar5xf0lr  madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.072396,
+      "\u001b[32mrt  louiswpretty  cade o album no spotify     madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072656,
+      "\u001b[32mrt  1dgpsofficial  my favs on  madeintheam   hey angel  end of the day  never enough  what a feeling  history  temporary fix and wolves  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.072251,
+      "\u001b[32mrt  harrystylism  temporary fix is no control 2 0 af i love it  1dharry   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.085524,
+      "\u001b[32mhello harry     i love  madeintheam   my birthday is in ˏˋ17days ˎˊ mind following me as a gift  i love you so muchᵕ   harry_styles  83 135\u001b[0m: positive\r\n"
+    ],
+    [
+      0.076400,
+      "\u001b[32mrt  siriusxmhits1  don t have hits 1 but wanna listen to  madeintheam premiere   we got you       free trial  https   t co wi3axf55f0 https \u001b[0m: negative\r\n"
+    ],
+    [
+      0.068768,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078337,
+      "\u001b[32mrt  onedirection  us fans  get excited  tune into  siriusxmhits1 tonight at 8pm et for 1d s  madeintheam album premiere \u001b[0m: negative\r\n"
+    ],
+    [
+      0.069958,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.084455,
+      "\u001b[32mrt  1dmetro   madeintheam is still  1 in ph  let s keep it that way      https   t co 1g3amdxmbe\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077383,
+      "\u001b[32mrt  1d_dailynews  that was the entire album  wow  so proud   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075654,
+      "\u001b[32mwhy you dare to talk about  madeintheam when i can t listened it yet     1dharry  1dmx\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073554,
+      "\u001b[32mnever enough https   t co 40iygbdo7p\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081818,
+      "\u001b[32mrt  mrstouchthesky  they took my money  my sleep and my heart   onedirection  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075525,
+      "\u001b[32mrt  _1d_upallnight_  i m going to give some dms away tomorrow  how would you like me to do it   b  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073894,
+      "\u001b[32m harry_styles thank you so much   for  madeintheam it s the best thing that i ever heard      1dharry  1d  please follow me      152\u001b[0m: positive\r\n"
+    ],
+    [
+      0.073240,
+      "\u001b[32mrt  zaynbaabe  itunes is 1d af twitter is 1d af emojis are 1d af earth is 1d af  retweet if your 1d af   1dharry  madeintheam https   t co  \u001b[0m: positive\r\n"
+    ],
+    [
+      0.086925,
+      "\u001b[32mrt  narryonce  that sad little red screen  every americans struggle atm  madeintheam https   t co cmbzkosbbg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073588,
+      "\u001b[32mrt  1d_hasnocontrol  keep  madeintheam trending number one\u001b[0m: positive\r\n"
+    ],
+    [
+      0.074335,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076022,
+      "\u001b[32mi feel like everyone has  madeintheam except the usa     why can t it be the 13th     1dlouis  1dniall  1dharry  1d https   t co cgtumk0ex3\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080290,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.081053,
+      "\u001b[32mrt  1d_dailynews   madeintheam summed up  chill and emotional   sugarscape  onedirection  yesboys\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081858,
+      "\u001b[32mwell all the songs are so good    madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.075048,
+      "\u001b[32mrt  goupdates1d  claps for the fandom for not leaking the whole album and having everyone listen to it before the release     madeintheam   \u001b[0m: negative\r\n"
+    ],
+    [
+      0.079628,
+      "\u001b[32mrt  sierra_chiasson  i ll be a fan for infinity  onedirection     madeintheam  1d https   t co k2ejlcwp3a\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077454,
+      "\u001b[32mrt  sophiaamancio  end of the day  madeintheam  1d  https   t co rv0zcmd59n\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076773,
+      "\u001b[32mrt  harrystylism  temporary fix is no control 2 0 af i love it  1dharry   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074286,
+      "\u001b[32mrt  ania_96  me after listening to if i could fly  madeintheam https   t co eizvfiagrw\u001b[0m: negative\r\n"
+    ],
+    [
+      0.075702,
+      "\u001b[32mtemporary fix sounds like a song that could fit in the rocky horror picture show movie     madeintheam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.087072,
+      "\u001b[32m radio1direction weve made sure all 148 000 vibe users buy  madeintheam and weve been pushing hard to help get it to number1 rt  forthefans\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076476,
+      "\u001b[32mrt  vibetickets   1donchart weve made sure all 148 000 vibe users buy  madeintheam and weve been pushing hard to help get it to number1 rt  \u001b[0m: negative\r\n"
+    ],
+    [
+      0.075400,
+      "\u001b[32mrt  1dfamlly   madeintheam lyrics  https   t co qvhcnobueu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074986,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.082566,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.077398,
+      "\u001b[32mrt  onedrecti0nfans  for once lets listen to justin xd   madeintheam https   t co gzed4rz3n0\u001b[0m: positive\r\n"
+    ],
+    [
+      0.075049,
+      "\u001b[32mrt  larrywhoran  im sooo excited oh my god  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.073664,
+      "\u001b[32mthis is hands down the best thing to ever wake up to   madeintheam https   t co 9u5qnwq7yu\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078494,
+      "\u001b[32mrt  marveihes  everyone   listens to full  madeintheam  me   shuffles between dmd  infinity  perfect  lyg  eotd  waf and history \u001b[0m: positive\r\n"
+    ],
+    [
+      0.073657,
+      "\u001b[32mrt  onedrecti0nfans  for once lets listen to justin xd   madeintheam https   t co gzed4rz3n0\u001b[0m: positive\r\n"
+    ],
+    [
+      0.077200,
+      "\u001b[32mrt  snowlessnarry  these are so cute    1dharry  1dniail   1dlouis   1dliam   madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072958,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078939,
+      "\u001b[32mhi  harry_styles  my mother told me that i was  madeintheam  plz follow me cuz i m 100  legit          s have blessed me     u h 34 145\u001b[0m: positive\r\n"
+    ],
+    [
+      0.079718,
+      "\u001b[32mi want to write you a song is so dreamy     madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074109,
+      "\u001b[32m niallofficial  so excited and proud of my favorite irish  1dniall  fr1day13  madeintheam    mitam\u001b[0m: positive\r\n"
+    ],
+    [
+      0.075697,
+      "\u001b[32mrt  onedrecti0nfans  me when i finally get to hear the album  madeintheam   \u001b[0m: negative\r\n"
+    ],
+    [
+      0.078426,
+      "\u001b[32mhello harry     i love  madeintheam   my birthday is in ˏˋ17days ˎˊ mind following me as a gift  i love you so muchᵕ   harry_styles  83 136\u001b[0m: positive\r\n"
+    ],
+    [
+      0.073622,
+      "\u001b[32monly thing making me feel better is knowing  madeintheam is coming out in 4 hours  im so excited\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078648,
+      "\u001b[32mrt  curlyxstyls  rt for 4 4 1d solo dm    mbf me   turn my notifs on  post proofs   spam for better change    madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.078886,
+      "\u001b[32mlong way down is so amazing it makes me cry i m so gone bye bye   madeintheam  1d  1dliam  1dlouis  1dharry  1dniall https   t co 3pzm8ldrky\u001b[0m: negative\r\n"
+    ],
+    [
+      0.093918,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.072730,
+      "\u001b[32mrt  stylinsonphones  i absolutely love these emojis haha   claire  1dharry  1dlouis  1dniall  1dliam  1d  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.076613,
+      "\u001b[32mrt  daggertattooh  please stream it on spotify   and promote it as much as you can because this album seriously deserves all the recognitio \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073706,
+      "\u001b[32mrt  cityburnstyles  harry is the only one who hasn t tweeted this  1dharry  madeintheam\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072416,
+      "\u001b[32mrt  real_liam_payne  the day is finally here   our new album  madeintheam is out now   https   t co zao7vhjirg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.083618,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.085910,
+      "\u001b[32mrt  siriusxmhits1  its on           madeintheam album premiere hosted by  onedirection   every song is getting played  get pumped      http \u001b[0m: negative\r\n"
+    ],
+    [
+      0.073476,
+      "\u001b[32momg hey angel is first       madeintheam  siriusxmhits1  onedirection https   t co ezhzisx1h8\u001b[0m: negative\r\n"
+    ],
+    [
+      0.069409,
+      "\u001b[32mrt  cityburnstyles  louder please    madeintheam https   t co ws3ppjczva\u001b[0m: negative\r\n"
+    ],
+    [
+      0.080976,
+      "\u001b[32m real_liam_payne i cant stop listening mitam  i m so proud  it s a perfect album  i love you boys   madeintheam https   t co xts7xbcask  293\u001b[0m: negative\r\n"
+    ],
+    [
+      0.071515,
+      "\u001b[32m  bestdailyharry  lyrics of if i could fly    madeintheam https   t co 3ezktvtzmb  una delle mie preferite  dio \u001b[0m: negative\r\n"
+    ],
+    [
+      0.076329,
+      "\u001b[32mrt  1directionerpro  when the album hasn t been released in your country yet  madeintheam https   t co qh13bukbuy\u001b[0m: negative\r\n"
+    ],
+    [
+      0.161296,
+      "\u001b[32m harry_styles hiii harry  thank you for everything you do   madeintheam is amazing  mind following  i love you so much   14 985\u001b[0m: positive\r\n"
+    ],
+    [
+      0.075444,
+      "\u001b[32m hey angel very much felt like this albums clouds  harry on  siriusxmhits1  madeintheam  a\u001b[0m: positive\r\n"
+    ],
+    [
+      0.093729,
+      "\u001b[32mrt  stylatorarmy  the album finally downloaded  madeintheam https   t co 9yjqc8mcya\u001b[0m: negative\r\n"
+    ],
+    [
+      0.072173,
+      "\u001b[32mrt  hlupdates  how to stream  madeintheam from any country   https   t co 178a17tjw2\u001b[0m: negative\r\n"
+    ],
+    [
+      0.085369,
+      "\u001b[32mrt  urnotniallzx   you know i am always coming back to this place   madeintheam https   t co mb8uiygj3u\u001b[0m: negative\r\n"
+    ],
+    [
+      0.081097,
+      "\u001b[32mrt  merij156  insane self control  i know i should sleep so i m going to bed and listenin to  madeintheam in the    am  good night\u001b[0m: negative\r\n"
+    ],
+    [
+      0.074059,
+      "\u001b[32mrt  ww1dupdates   madeintheam is trending first world wide with 1 5 million tweets   \u001b[0m: positive\r\n"
+    ],
+    [
+      0.074058,
+      "\u001b[32m madeintheam  which your fav   \u001b[0m: positive\r\n"
+    ],
+    [
+      0.079088,
+      "\u001b[32mrt  choosezaynbr  letra de long way down   madeintheam https   t co dl9ysa8wyg\u001b[0m: negative\r\n"
+    ],
+    [
+      0.010274,
+      "^C"
+    ],
+    [
+      0.000142,
+      "Traceback (most recent call last):\r\n"
+    ],
+    [
+      0.000026,
+      "  File \"./classify.py\", line 120, in \u003cmodule\u003e\r\n"
+    ],
+    [
+      0.000302,
+      "    main(tweets, classifier, hashtag)\r\n"
+    ],
+    [
+      0.000012,
+      "  File \"./classify.py\", line 82, in main\r\n"
+    ],
+    [
+      0.000174,
+      "    res = classifier.classify(f(tweet.split()))\r\n"
+    ],
+    [
+      0.000004,
+      "  File \"./classify.py\", line 31, in extract_features\r\n"
+    ],
+    [
+      0.000127,
+      "    features['contains(%s)' % word] = (word in document_words)\r\n"
+    ],
+    [
+      0.000016,
+      "KeyboardInterrupt\r\n"
+    ],
+    [
+      0.234599,
+      "\u001b]0;fish  /Users/Christopher"
+    ],
+    [
+      0.000008,
+      "/Development/Python/twitter/class"
+    ],
+    [
+      0.000003,
+      "ify\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b[30m"
+    ],
+    [
+      0.000038,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.000037,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                         \r \r"
+    ],
+    [
+      0.000092,
+      "\u001b[34mclassify:\u001b[32mmaster*\u001b[30m\u001b(B\u001b[m λ \u001b[K"
+    ],
+    [
+      1.590751,
+      "e"
+    ],
+    [
+      0.000280,
+      "\u001b[38;5;240mxit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000145,
+      "\u0008\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240mxit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.190903,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000288,
+      "\u0008\u0008\u001b[38;5;26mex\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.151651,
+      "\u001b[38;5;26mi\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000277,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1mexi\u001b(B\u001b[m\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191840,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m"
+    ],
+    [
+      0.000253,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mexit\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.647837,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000307,
+      "\u001b]0;e"
+    ],
+    [
+      0.000008,
+      "xit  /Users/Ch"
+    ],
+    [
+      0.000005,
+      "rist"
+    ],
+    [
+      0.000006,
+      "oph"
+    ],
+    [
+      0.000003,
+      "er/"
+    ],
+    [
+      0.000003,
+      "De"
+    ],
+    [
+      0.000003,
+      "ve"
+    ],
+    [
+      0.000004,
+      "lo"
+    ],
+    [
+      0.000004,
+      "pm"
+    ],
+    [
+      0.000005,
+      "en"
+    ],
+    [
+      0.000005,
+      "t/P"
+    ],
+    [
+      0.000005,
+      "yt"
+    ],
+    [
+      0.000004,
+      "hon"
+    ],
+    [
+      0.000003,
+      "/t"
+    ],
+    [
+      0.000004,
+      "wi"
+    ],
+    [
+      0.000004,
+      "tt"
+    ],
+    [
+      0.000004,
+      "er"
+    ],
+    [
+      0.000004,
+      "/c"
+    ],
+    [
+      0.000005,
+      "la"
+    ],
+    [
+      0.000005,
+      "ssi"
+    ],
+    [
+      0.000003,
+      "fy"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b[30"
+    ],
+    [
+      0.000007,
+      "m\u001b(B\u001b[m"
+    ],
+    [
+      0.000251,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b"
+    ],
+    [
+      0.000004,
+      "[m"
+    ]
+  ]
+}

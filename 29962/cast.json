@@ -1,0 +1,1254 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 33,
+  "duration": 140.001715,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.865322,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000258,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.075892,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.691194,
+      "c"
+    ],
+    [
+      0.222974,
+      "\u0008ca"
+    ],
+    [
+      0.232381,
+      "t"
+    ],
+    [
+      0.119634,
+      " "
+    ],
+    [
+      0.392397,
+      "i"
+    ],
+    [
+      0.119934,
+      "n"
+    ],
+    [
+      0.151761,
+      "v"
+    ],
+    [
+      0.679962,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000071,
+      "\r\r\n"
+    ],
+    [
+      0.009358,
+      "\u001b]2;cat inv\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.003117,
+      "[vagrant]\r\n#127.0.0.1 ansible_ssh_port=2222\r\n#104.155.86.123\r\n\r\n[ec2]\r\nec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com ansible_ssh_user=ec2-user\r\n"
+    ],
+    [
+      0.000501,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000133,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.050780,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000061,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.880637,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000065,
+      "\r\r\n"
+    ],
+    [
+      0.001095,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000083,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.038581,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% \u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.111791,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000071,
+      "\r\r\n"
+    ],
+    [
+      0.000715,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000138,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000047,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.038980,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% \u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.088037,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000058,
+      "\r\r\n"
+    ],
+    [
+      0.000480,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000082,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.039640,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.071797,
+      "c"
+    ],
+    [
+      0.192052,
+      "\u0008ca"
+    ],
+    [
+      0.103567,
+      "t"
+    ],
+    [
+      0.056310,
+      " "
+    ],
+    [
+      0.263724,
+      "t"
+    ],
+    [
+      0.392486,
+      "e"
+    ],
+    [
+      0.199515,
+      "s"
+    ],
+    [
+      0.128176,
+      "t"
+    ],
+    [
+      0.144191,
+      "."
+    ],
+    [
+      0.352315,
+      "y"
+    ],
+    [
+      0.159762,
+      "m"
+    ],
+    [
+      0.095957,
+      "l"
+    ],
+    [
+      0.255653,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r\r\n"
+    ],
+    [
+      0.008232,
+      "\u001b]2;cat test.yml\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.002951,
+      "- hosts: all\r\n  #sudo: True\r\n  become: yes\r\n  become_method: sudo\r\n  tasks:\r\n    - include: 'tasks/main.yml'\r\n  vars_files:\r\n    - 'defaults/main.yml'\r\n\r\n  vars:\r\n    #java_version: 8\r\n    #java_subversion: 60\r\n"
+    ],
+    [
+      0.000610,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000073,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.054353,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000014,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.605883,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.000523,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000082,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.045198,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% \u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.098485,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000073,
+      "\r\r\n"
+    ],
+    [
+      0.000687,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000117,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000046,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.040418,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.110406,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000789,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000085,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000048,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.041727,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.469089,
+      "a"
+    ],
+    [
+      0.104298,
+      "\u0008an"
+    ],
+    [
+      0.240028,
+      "s"
+    ],
+    [
+      0.167611,
+      "i"
+    ],
+    [
+      1.000140,
+      "ble-playbook -i inv --private-key=ec2_key.pem  test.yml\u001b[K"
+    ],
+    [
+      1.232293,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000067,
+      "\r\r\n"
+    ],
+    [
+      0.008655,
+      "\u001b]2;ansible-playbook -i inv --private-key=ec2_key.pem test.yml\u0007\u001b]1;ansible-playbook\u0007"
+    ],
+    [
+      0.601031,
+      "\r\nPLAY [all] ******************************************************************** \r\n"
+    ],
+    [
+      0.000053,
+      "\r\nGATHERING FACTS *************************************************************** \r\n"
+    ],
+    [
+      5.030630,
+      "\u001b[0;32mok: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000428,
+      "\r\nTASK: [precondition - java_version] ******************************************* \r\n"
+    ],
+    [
+      0.023643,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000332,
+      "\r\nTASK: [precondition - java_subversion] **************************************** \r\n"
+    ],
+    [
+      0.016203,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000364,
+      "\r\nTASK: [set internal vars for 1.8.0_65] **************************************** \r\n"
+    ],
+    [
+      0.019407,
+      "\u001b[0;32mok: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000097,
+      "\r\nTASK: [set internal vars for 1.8.0_60] **************************************** \r\n"
+    ],
+    [
+      0.013889,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000372,
+      "\r\nTASK: [set internal vars for 1.8.0_51] **************************************** \r\n"
+    ],
+    [
+      0.016595,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000338,
+      "\r\nTASK: [set internal vars for 1.8.0_45] **************************************** \r\n"
+    ],
+    [
+      0.017195,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000350,
+      "\r\nTASK: [set internal vars for 1.8.0_31] **************************************** \r\n"
+    ],
+    [
+      0.013928,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000400,
+      "\r\nTASK: [set internal vars for 1.7.0_80] **************************************** \r\n"
+    ],
+    [
+      0.017154,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000333,
+      "\r\nTASK: [set internal vars for 1.7.0_75] **************************************** \r\n"
+    ],
+    [
+      0.017524,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000296,
+      "\r\nTASK: [install curl] ********************************************************** \r\n"
+    ],
+    [
+      1.412566,
+      "\u001b[0;32mok: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000183,
+      "\r\nTASK: [copy scripts to server] ************************************************ \r\n"
+    ],
+    [
+      0.024829,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000347,
+      "\r\nTASK: [check if specific version of Oracle JDK is installed?] ***************** \r\n"
+    ],
+    [
+      0.017870,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.001133,
+      "\r\nTASK: [get JDK tarball (as tar.gz file)] ************************************** \r\n"
+    ],
+    [
+      0.015392,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000394,
+      "\r\nTASK: [mkdir for Java] ******************************************************** \r\n"
+    ],
+    [
+      0.013332,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000392,
+      "\r\nTASK: [install JDK] *********************************************************** \r\n"
+    ],
+    [
+      0.016984,
+      "\u001b[0;36mskipping: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000367,
+      "\r\nTASK: [check if specific version of Oracle JDK is installed?] ***************** \r\n"
+    ],
+    [
+      1.575019,
+      "\u001b[0;32mok: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000273,
+      "\r\nTASK: [uninstall messy packages to avoid blocking conditions] ***************** \r\n"
+    ],
+    [
+      1.357429,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000323,
+      "\r\nTASK: [delete messy .rpm files to avoid blocking conditions] ****************** \r\n"
+    ],
+    [
+      1.255761,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000538,
+      "\r\nTASK: [get JDK tarball (as RPM file)] ***************************************** \r\n"
+    ],
+    [
+      71.628485,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK: [install JDK] *********************************************************** \r\n"
+    ],
+    [
+      6.658203,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000287,
+      "\r\nTASK: [clean up - uninstall messy packages] *********************************** \r\n"
+    ],
+    [
+      1.370221,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000387,
+      "\r\nTASK: [clean up - delete messy .rpm files] ************************************ \r\n"
+    ],
+    [
+      1.298646,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000302,
+      "\r\nTASK: [link /usr/java/default] ************************************************ \r\n"
+    ],
+    [
+      1.102228,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000311,
+      "\r\nTASK: [alternatives link for \"java\"] ****************************************** \r\n"
+    ],
+    [
+      1.023585,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000522,
+      "\r\nTASK: [alternatives link for \"javac\"] ***************************************** \r\n"
+    ],
+    [
+      1.064363,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000344,
+      "\r\nTASK: [alternatives link for \"jar\"] ******************************************* \r\n"
+    ],
+    [
+      1.007954,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000384,
+      "\r\nTASK: [alternatives link for \"java_sdk\"] ************************************** \r\n"
+    ],
+    [
+      1.014439,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com]\u001b[0m\r\n"
+    ],
+    [
+      0.000453,
+      "\r\nTASK: [remove temporary downloaded files, if requested] *********************** \r\n"
+    ],
+    [
+      1.092981,
+      "\u001b[0;33mchanged: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com] =\u003e (item=/tmp/jdk-8u65-linux-x64.rpm)\u001b[0m\r\n"
+    ],
+    [
+      1.043478,
+      "\u001b[0;32mok: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com] =\u003e (item=/tmp/jdk-8u65-linux-x64.tar.gz)\u001b[0m\r\n"
+    ],
+    [
+      1.061066,
+      "\u001b[0;32mok: [ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com] =\u003e (item=/tmp/check-tarball-installed.sh)\u001b[0m\r\n"
+    ],
+    [
+      0.000382,
+      "\r\nPLAY RECAP ******************************************************************** \r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0;33mec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com\u001b[0m : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m16\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m12\u001b[0m   unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.022514,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000140,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.076860,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.899119,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.008104,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000182,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.042712,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      0.000077,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.092969,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.000501,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000102,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.061741,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.088686,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.000497,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000106,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.041341,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% \u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.094094,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.000501,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000082,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.040476,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.055509,
+      "s"
+    ],
+    [
+      0.191384,
+      "\u0008ss"
+    ],
+    [
+      0.152066,
+      "h"
+    ],
+    [
+      0.239907,
+      " "
+    ],
+    [
+      0.432172,
+      "e"
+    ],
+    [
+      0.232299,
+      "c"
+    ],
+    [
+      0.271990,
+      "2"
+    ],
+    [
+      1.015745,
+      "-"
+    ],
+    [
+      0.312604,
+      "u"
+    ],
+    [
+      0.263362,
+      "s"
+    ],
+    [
+      0.136396,
+      "e"
+    ],
+    [
+      0.095655,
+      "r"
+    ],
+    [
+      0.319965,
+      "@"
+    ],
+    [
+      0.561381,
+      "e"
+    ],
+    [
+      0.000080,
+      "c"
+    ],
+    [
+      0.000152,
+      "2"
+    ],
+    [
+      0.000088,
+      "-"
+    ],
+    [
+      0.000088,
+      "5"
+    ],
+    [
+      0.000127,
+      "2"
+    ],
+    [
+      0.000111,
+      "-"
+    ],
+    [
+      0.000122,
+      "1"
+    ],
+    [
+      0.000074,
+      "9"
+    ],
+    [
+      0.000073,
+      "2"
+    ],
+    [
+      0.000078,
+      "-"
+    ],
+    [
+      0.000084,
+      "1"
+    ],
+    [
+      0.000110,
+      "8"
+    ],
+    [
+      0.000126,
+      "6"
+    ],
+    [
+      0.000065,
+      "-"
+    ],
+    [
+      0.000112,
+      "1"
+    ],
+    [
+      0.000096,
+      "9"
+    ],
+    [
+      0.000084,
+      "6"
+    ],
+    [
+      0.000087,
+      "."
+    ],
+    [
+      0.000097,
+      "a"
+    ],
+    [
+      0.000085,
+      "p"
+    ],
+    [
+      0.000084,
+      "-"
+    ],
+    [
+      0.000109,
+      "n"
+    ],
+    [
+      0.000102,
+      "o"
+    ],
+    [
+      0.000090,
+      "r"
+    ],
+    [
+      0.000095,
+      "t"
+    ],
+    [
+      0.000081,
+      "h"
+    ],
+    [
+      0.000108,
+      "e"
+    ],
+    [
+      0.000112,
+      "a"
+    ],
+    [
+      0.000066,
+      "s"
+    ],
+    [
+      0.000106,
+      "t"
+    ],
+    [
+      0.000101,
+      "-"
+    ],
+    [
+      0.000083,
+      "1"
+    ],
+    [
+      0.000081,
+      ". \r\u001b[K"
+    ],
+    [
+      0.000070,
+      "c"
+    ],
+    [
+      0.000082,
+      "\rco"
+    ],
+    [
+      0.000074,
+      "m"
+    ],
+    [
+      0.000103,
+      "p"
+    ],
+    [
+      0.000088,
+      "u"
+    ],
+    [
+      0.000070,
+      "t"
+    ],
+    [
+      0.000094,
+      "e"
+    ],
+    [
+      0.000111,
+      "."
+    ],
+    [
+      0.000068,
+      "a"
+    ],
+    [
+      0.000111,
+      "m"
+    ],
+    [
+      0.000070,
+      "a"
+    ],
+    [
+      0.000100,
+      "z"
+    ],
+    [
+      0.000099,
+      "o"
+    ],
+    [
+      0.000085,
+      "n"
+    ],
+    [
+      0.000066,
+      "a"
+    ],
+    [
+      0.000090,
+      "w"
+    ],
+    [
+      0.000103,
+      "s"
+    ],
+    [
+      0.000081,
+      "."
+    ],
+    [
+      0.000104,
+      "c"
+    ],
+    [
+      0.000113,
+      "o"
+    ],
+    [
+      0.000109,
+      "m"
+    ],
+    [
+      1.033740,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000077,
+      "\r\r\n"
+    ],
+    [
+      0.008792,
+      "\u001b]2;ssh ec2-user@ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com\u0007\u001b]1;ec2-user@ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com\u0007"
+    ],
+    [
+      1.505977,
+      "Last login: Fri Nov 13 09:08:19 2015 from ip-10-0-31-146.ap-northeast-1.compute.internal\r\r\n\r\n       __|  __|_  )\r\n       _|  (     /   Amazon Linux AMI\r\n      ___|\\___|___|\r\n\r\nhttps://aws.amazon.com/amazon-linux-ami/2015.09-release-notes/\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007\u001b[?1034h[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.723162,
+      "\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.159264,
+      "\r\n"
+    ],
+    [
+      0.050636,
+      "\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.636588,
+      "u"
+    ],
+    [
+      0.361229,
+      "n"
+    ],
+    [
+      0.167093,
+      "a"
+    ],
+    [
+      0.072406,
+      "m"
+    ],
+    [
+      0.135986,
+      "e"
+    ],
+    [
+      0.127497,
+      " "
+    ],
+    [
+      0.104968,
+      "-"
+    ],
+    [
+      0.198939,
+      "a"
+    ],
+    [
+      0.199391,
+      "\r\n"
+    ],
+    [
+      0.050037,
+      "Linux ip-10-0-49-22 4.1.10-17.31.amzn1.x86_64 #1 SMP Sat Oct 24 01:31:37 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      4.631012,
+      "\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.135854,
+      "\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.137091,
+      "\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.519265,
+      "j"
+    ],
+    [
+      0.072204,
+      "a"
+    ],
+    [
+      0.152105,
+      "v"
+    ],
+    [
+      0.167168,
+      "a"
+    ],
+    [
+      0.119985,
+      " "
+    ],
+    [
+      0.459229,
+      "-"
+    ],
+    [
+      0.316277,
+      "v"
+    ],
+    [
+      0.192838,
+      "e"
+    ],
+    [
+      0.097433,
+      "r"
+    ],
+    [
+      0.192625,
+      "s"
+    ],
+    [
+      0.101921,
+      "i"
+    ],
+    [
+      0.054920,
+      "o"
+    ],
+    [
+      0.098138,
+      "n"
+    ],
+    [
+      0.230138,
+      "\r\n"
+    ],
+    [
+      0.048975,
+      "java version \"1.8.0_65\"\r\nJava(TM) SE Runtime Environment (build 1.8.0_65-b17)\r\nJava HotSpot(TM) 64-Bit Server VM (build 25.65-b01, mixed mode)\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      1.365976,
+      "\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      0.138709,
+      "\r\n\u001b]0;ec2-user@ip-10-0-49-22:~\u0007[ec2-user@ip-10-0-49-22 ~]$ "
+    ],
+    [
+      1.505853,
+      "logout\r\n"
+    ],
+    [
+      0.050185,
+      "Connection to ec2-52-192-186-196.ap-northeast-1.compute.amazonaws.com closed.\r\r\n"
+    ],
+    [
+      0.000755,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000214,
+      "\u001b]2;william@Gogolook-MacBook-Pro: ~/Documents/AtWork/github/ansible/ansible-oracle-java\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;..e-oracle-java\u0007"
+    ],
+    [
+      0.061921,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[35mansible-oracle-java\u001b[1m\u001b[32m [master\u001b[33m●\u001b[1m\u001b[31m●\u001b[32m]\u001b[1m\u001b[35m \u001b[00m% "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.480199,
+      "\r\r\n"
+    ]
+  ]
+}

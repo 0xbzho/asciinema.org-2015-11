@@ -1,0 +1,6894 @@
+{
+  "version": 1,
+  "width": 104,
+  "height": 35,
+  "duration": 86.411009,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.125062,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.015289,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mjacques \u001b[37mat \u001b[32mjab.dev \u001b[37min \u001b[1m\u001b[33m~/Sites/mage-ansible\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[31mx\u001b[00m \u001b[37m[22:16:18]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000131,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.859811,
+      "c"
+    ],
+    [
+      0.087450,
+      "\u0008co"
+    ],
+    [
+      0.152226,
+      "m"
+    ],
+    [
+      0.151702,
+      "p"
+    ],
+    [
+      0.072199,
+      "o"
+    ],
+    [
+      0.080078,
+      "s"
+    ],
+    [
+      0.175787,
+      "e"
+    ],
+    [
+      0.104316,
+      "r"
+    ],
+    [
+      0.143834,
+      " "
+    ],
+    [
+      0.711968,
+      "c"
+    ],
+    [
+      0.167988,
+      "r"
+    ],
+    [
+      0.080064,
+      "e"
+    ],
+    [
+      0.207937,
+      "a"
+    ],
+    [
+      0.175733,
+      "t"
+    ],
+    [
+      0.072351,
+      "e"
+    ],
+    [
+      0.143620,
+      "-"
+    ],
+    [
+      0.247951,
+      "p"
+    ],
+    [
+      0.096286,
+      "r"
+    ],
+    [
+      0.095789,
+      "o"
+    ],
+    [
+      0.280167,
+      "j"
+    ],
+    [
+      0.111831,
+      "e"
+    ],
+    [
+      0.176220,
+      "c"
+    ],
+    [
+      0.168083,
+      "t"
+    ],
+    [
+      1.807387,
+      " "
+    ],
+    [
+      0.760418,
+      "-"
+    ],
+    [
+      0.151984,
+      "-"
+    ],
+    [
+      0.247945,
+      "i"
+    ],
+    [
+      0.176145,
+      "g"
+    ],
+    [
+      0.056145,
+      "n"
+    ],
+    [
+      0.127683,
+      "o"
+    ],
+    [
+      0.080116,
+      "r"
+    ],
+    [
+      0.080116,
+      "e"
+    ],
+    [
+      0.151564,
+      "-"
+    ],
+    [
+      0.280195,
+      "p"
+    ],
+    [
+      0.071993,
+      "l"
+    ],
+    [
+      0.095970,
+      "a"
+    ],
+    [
+      0.175986,
+      "t"
+    ],
+    [
+      0.159988,
+      "f"
+    ],
+    [
+      0.096064,
+      "o"
+    ],
+    [
+      0.072001,
+      "r"
+    ],
+    [
+      0.080094,
+      "m"
+    ],
+    [
+      0.151947,
+      "-"
+    ],
+    [
+      0.159972,
+      "r"
+    ],
+    [
+      0.072005,
+      "e"
+    ],
+    [
+      0.319992,
+      "q"
+    ],
+    [
+      0.416084,
+      "s"
+    ],
+    [
+      0.415731,
+      " "
+    ],
+    [
+      0.216105,
+      "m"
+    ],
+    [
+      0.039893,
+      "a"
+    ],
+    [
+      0.167896,
+      "g"
+    ],
+    [
+      0.072624,
+      "e"
+    ],
+    [
+      0.047618,
+      "n"
+    ],
+    [
+      0.063402,
+      "t"
+    ],
+    [
+      0.072595,
+      "o"
+    ],
+    [
+      0.808876,
+      "-"
+    ],
+    [
+      0.286861,
+      "h"
+    ],
+    [
+      0.072273,
+      "a"
+    ],
+    [
+      0.135948,
+      "c"
+    ],
+    [
+      0.088012,
+      "k"
+    ],
+    [
+      0.072072,
+      "a"
+    ],
+    [
+      0.167927,
+      "t"
+    ],
+    [
+      0.136033,
+      "h"
+    ],
+    [
+      0.112040,
+      "o"
+    ],
+    [
+      0.079663,
+      "n"
+    ],
+    [
+      0.311992,
+      "/"
+    ],
+    [
+      0.576405,
+      "m"
+    ],
+    [
+      0.087943,
+      "a"
+    ],
+    [
+      0.160048,
+      "g"
+    ],
+    [
+      0.055684,
+      "e"
+    ],
+    [
+      0.056004,
+      "n"
+    ],
+    [
+      0.088157,
+      "t"
+    ],
+    [
+      0.080072,
+      "o"
+    ],
+    [
+      0.224038,
+      "2"
+    ],
+    [
+      0.327859,
+      "-"
+    ],
+    [
+      0.487965,
+      "s"
+    ],
+    [
+      0.136009,
+      "t"
+    ],
+    [
+      0.120079,
+      "a"
+    ],
+    [
+      0.175934,
+      "n"
+    ],
+    [
+      0.104164,
+      "d"
+    ],
+    [
+      0.080024,
+      "a"
+    ],
+    [
+      0.143274,
+      "r"
+    ],
+    [
+      0.144653,
+      "d"
+    ],
+    [
+      0.127728,
+      " "
+    ],
+    [
+      0.272154,
+      "m"
+    ],
+    [
+      0.071882,
+      "a"
+    ],
+    [
+      0.136155,
+      "g"
+    ],
+    [
+      0.071886,
+      "e"
+    ],
+    [
+      0.056101,
+      "n"
+    ],
+    [
+      0.055766,
+      "t"
+    ],
+    [
+      0.072231,
+      "o"
+    ],
+    [
+      1.943812,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000058,
+      "\r\r\n"
+    ],
+    [
+      2.804751,
+      "Reading composer.json of \u001b[32mmagento-hackathon/magento2-standard\u001b[39m (\u001b[33m1.0.0\u001b[39m)"
+    ],
+    [
+      0.002107,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000006,
+      "                                                                    \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000104,
+      "Reading composer.json of \u001b[32mmagento-hackathon/magento2-standard\u001b[39m (\u001b[33mmaster\u001b[39m)"
+    ],
+    [
+      0.000243,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000005,
+      "                                                                     \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.949364,
+      "\u001b[32mInstalling magento-hackathon/magento2-standard (1.0.0)\u001b[39m\r\n"
+    ],
+    [
+      0.004440,
+      "  - Installing \u001b[32mmagento-hackathon/magento2-standard\u001b[39m (\u001b[33m1.0.0\u001b[39m)\r\n"
+    ],
+    [
+      0.002831,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.024318,
+      "\r\n"
+    ],
+    [
+      0.000646,
+      "\u001b[32mCreated project in magento\u001b[39m\r\n"
+    ],
+    [
+      0.130896,
+      "\u001b[32mLoading composer repositories with package information\u001b[39m\r\n"
+    ],
+    [
+      6.707667,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000114,
+      "Reading composer.json of \u001b[32mmagento-hackathon/magento2-standard\u001b[39m (\u001b[33m1.0.0\u001b[39m)"
+    ],
+    [
+      0.000401,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000026,
+      "                                                                    "
+    ],
+    [
+      0.000004,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000186,
+      "Reading composer.json of \u001b[32mmagento-hackathon/magento2-standard\u001b[39m (\u001b[33mmaster\u001b[39m)"
+    ],
+    [
+      0.000258,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000009,
+      "                                                                     "
+    ],
+    [
+      0.000024,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.148009,
+      "\u001b[32mInstalling dependencies (including require-dev)\u001b[39m\r\n"
+    ],
+    [
+      4.139980,
+      "  - Installing \u001b[32mmagento/magento-composer-installer\u001b[39m (\u001b[33m0.1.5\u001b[39m)\r\n"
+    ],
+    [
+      0.000702,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.047287,
+      "\r\n"
+    ],
+    [
+      0.004362,
+      "  - Installing \u001b[32mzendframework/zend-stdlib\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000583,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.027032,
+      "\r\n"
+    ],
+    [
+      0.000919,
+      "  - Installing \u001b[32mzendframework/zend-loader\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000420,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015790,
+      "\r\n"
+    ],
+    [
+      0.000889,
+      "  - Installing \u001b[32mzendframework/zend-eventmanager\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000448,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017099,
+      "\r\n"
+    ],
+    [
+      0.001042,
+      "  - Installing \u001b[32mzendframework/zend-view\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000594,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.026236,
+      "\r\n"
+    ],
+    [
+      0.001355,
+      "  - Installing \u001b[32mzendframework/zend-validator\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000809,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030434,
+      "\r\n"
+    ],
+    [
+      0.001394,
+      "  - Installing \u001b[32mzendframework/zend-escaper\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000412,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014686,
+      "\r\n"
+    ],
+    [
+      0.001664,
+      "  - Installing \u001b[32mzendframework/zend-uri\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000502,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014352,
+      "\r\n"
+    ],
+    [
+      0.001411,
+      "  - Installing \u001b[32mzendframework/zend-servicemanager\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000418,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017635,
+      "\r\n"
+    ],
+    [
+      0.001563,
+      "  - Installing \u001b[32mzendframework/zend-text\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000486,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017459,
+      "\r\n"
+    ],
+    [
+      0.001773,
+      "  - Installing \u001b[32mzendframework/zend-code\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000766,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.025240,
+      "\r\n"
+    ],
+    [
+      0.001770,
+      "  - Installing \u001b[32mzendframework/zend-server\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000585,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017908,
+      "\r\n"
+    ],
+    [
+      0.001823,
+      "  - Installing \u001b[32mzendframework/zend-soap\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000473,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017254,
+      "\r\n"
+    ],
+    [
+      0.001670,
+      "  - Installing \u001b[32mzendframework/zend-math\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000455,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015144,
+      "\r\n"
+    ],
+    [
+      0.001845,
+      "  - Installing \u001b[32mzendframework/zend-json\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000467,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018204,
+      "\r\n"
+    ],
+    [
+      0.001993,
+      "  - Installing \u001b[32mzendframework/zend-serializer\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000437,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014192,
+      "\r\n"
+    ],
+    [
+      0.001989,
+      "  - Installing \u001b[32mzendframework/zend-filter\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000490,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.023814,
+      "\r\n"
+    ],
+    [
+      0.002553,
+      "  - Installing \u001b[32mzendframework/zend-inputfilter\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000479,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014981,
+      "\r\n"
+    ],
+    [
+      0.001787,
+      "  - Installing \u001b[32mzendframework/zend-form\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000581,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.029349,
+      "\r\n"
+    ],
+    [
+      0.002200,
+      "  - Installing \u001b[32mzendframework/zend-mvc\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000584,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030906,
+      "\r\n"
+    ],
+    [
+      0.002391,
+      "  - Installing \u001b[32mzendframework/zend-modulemanager\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000531,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019666,
+      "\r\n"
+    ],
+    [
+      0.002646,
+      "  - Installing \u001b[32mzendframework/zend-log\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000660,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019886,
+      "\r\n"
+    ],
+    [
+      0.002625,
+      "  - Installing \u001b[32mzendframework/zend-i18n\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000703,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.047034,
+      "\r\n"
+    ],
+    [
+      0.003172,
+      "  - Installing \u001b[32mzendframework/zend-http\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000671,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.028235,
+      "\r\n"
+    ],
+    [
+      0.003124,
+      "  - Installing \u001b[32mzendframework/zend-di\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000681,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019807,
+      "\r\n"
+    ],
+    [
+      0.002756,
+      "  - Installing \u001b[32mzendframework/zend-crypt\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000448,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018631,
+      "\r\n"
+    ],
+    [
+      0.003132,
+      "  - Installing \u001b[32mzendframework/zend-console\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000626,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018997,
+      "\r\n"
+    ],
+    [
+      0.002612,
+      "  - Installing \u001b[32mzendframework/zend-config\u001b[39m (\u001b[33m2.4.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000425,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017010,
+      "\r\n"
+    ],
+    [
+      0.003256,
+      "  - Installing \u001b[32mtubalmartin/cssmin\u001b[39m (\u001b[33mv2.4.8-p4\u001b[39m)\r\n"
+    ],
+    [
+      0.001052,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.058372,
+      "\r\n"
+    ],
+    [
+      0.003880,
+      "  - Installing \u001b[32mtedivm/jshrink\u001b[39m (\u001b[33mv1.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000511,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.021475,
+      "\r\n"
+    ],
+    [
+      0.003370,
+      "  - Installing \u001b[32msymfony/event-dispatcher\u001b[39m (\u001b[33mv2.7.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000656,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017106,
+      "\r\n"
+    ],
+    [
+      0.003463,
+      "  - Installing \u001b[32msymfony/console\u001b[39m (\u001b[33mv2.6.11\u001b[39m)\r\n"
+    ],
+    [
+      0.000739,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.038505,
+      "\r\n"
+    ],
+    [
+      0.003911,
+      "  - Installing \u001b[32mphpseclib/phpseclib\u001b[39m (\u001b[33m0.3.10\u001b[39m)\r\n"
+    ],
+    [
+      0.000893,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030637,
+      "\r\n"
+    ],
+    [
+      0.004084,
+      "  - Installing \u001b[32mpelago/emogrifier\u001b[39m (\u001b[33mv0.1.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000507,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015186,
+      "\r\n"
+    ],
+    [
+      0.003502,
+      "  - Installing \u001b[32moyejorge/less.php\u001b[39m (\u001b[33mv1.7.0.3\u001b[39m)\r\n"
+    ],
+    [
+      0.001847,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.166690,
+      "\r\n"
+    ],
+    [
+      0.004355,
+      "  - Installing \u001b[32mpsr/log\u001b[39m (\u001b[33m1.0.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000622,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015477,
+      "\r\n"
+    ],
+    [
+      0.004220,
+      "  - Installing \u001b[32mmonolog/monolog\u001b[39m (\u001b[33m1.16.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000736,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.038426,
+      "\r\n"
+    ],
+    [
+      0.004452,
+      "  - Installing \u001b[32mmagento/zendframework1\u001b[39m (\u001b[33m1.12.16\u001b[39m)\r\n"
+    ],
+    [
+      0.018556,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.640970,
+      "\r\n"
+    ],
+    [
+      0.004864,
+      "  - Installing \u001b[32mmagento/framework\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.008894,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.426506,
+      "\r\n"
+    ],
+    [
+      0.005350,
+      "  - Installing \u001b[32mmagento/theme-frontend-blank\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001163,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.040989,
+      "\r\n"
+    ],
+    [
+      0.004431,
+      "  - Installing \u001b[32mmagento/theme-frontend-luma\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001249,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.040923,
+      "\r\n"
+    ],
+    [
+      0.004835,
+      "  - Installing \u001b[32mmagento/theme-adminhtml-backend\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001522,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.058527,
+      "\r\n"
+    ],
+    [
+      0.005390,
+      "  - Installing \u001b[32mmagento/module-ui\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001535,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.064900,
+      "\r\n"
+    ],
+    [
+      0.006327,
+      "  - Installing \u001b[32mmagento/module-store\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000866,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.033475,
+      "\r\n"
+    ],
+    [
+      0.007605,
+      "  - Installing \u001b[32mmagento/module-media-storage\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000875,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.026548,
+      "\r\n"
+    ],
+    [
+      0.006243,
+      "  - Installing \u001b[32mmagento/module-email\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000918,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.029991,
+      "\r\n"
+    ],
+    [
+      0.006865,
+      "  - Installing \u001b[32mmagento/module-user\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000972,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.033645,
+      "\r\n"
+    ],
+    [
+      0.005860,
+      "  - Installing \u001b[32mmagento/module-wishlist\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001126,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.043174,
+      "\r\n"
+    ],
+    [
+      0.009243,
+      "  - Installing \u001b[32mmagento/module-variable\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000819,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019733,
+      "\r\n"
+    ],
+    [
+      0.006361,
+      "  - Installing \u001b[32mmagento/module-theme\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001424,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.061536,
+      "\r\n"
+    ],
+    [
+      0.006706,
+      "  - Installing \u001b[32mmagento/module-widget\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000884,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.032817,
+      "\r\n"
+    ],
+    [
+      0.006305,
+      "  - Installing \u001b[32mmagento/module-url-rewrite\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000708,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.025734,
+      "\r\n"
+    ],
+    [
+      0.006932,
+      "  - Installing \u001b[32mmagento/module-cms\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001207,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.052339,
+      "\r\n"
+    ],
+    [
+      0.006310,
+      "  - Installing \u001b[32mmagento/module-cms-url-rewrite\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000503,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.016408,
+      "\r\n"
+    ],
+    [
+      0.006542,
+      "  - Installing \u001b[32mmagento/module-eav\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001420,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.051613,
+      "\r\n"
+    ],
+    [
+      0.006781,
+      "  - Installing \u001b[32mmagento/module-backend\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.002123,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.090543,
+      "\r\n"
+    ],
+    [
+      0.008256,
+      "  - Installing \u001b[32mmagento/module-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001235,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.041165,
+      "\r\n"
+    ],
+    [
+      0.010353,
+      "  - Installing \u001b[32mmagento/module-tax\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.002411,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.066563,
+      "\r\n"
+    ],
+    [
+      0.007416,
+      "  - Installing \u001b[32mmagento/module-shipping\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001073,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.039273,
+      "\r\n"
+    ],
+    [
+      0.008691,
+      "  - Installing \u001b[32mmagento/module-sales-sequence\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000720,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017554,
+      "\r\n"
+    ],
+    [
+      0.007962,
+      "  - Installing \u001b[32mmagento/module-sales\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.004571,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.198831,
+      "\r\n"
+    ],
+    [
+      0.006665,
+      "  - Installing \u001b[32mmagento/module-catalog\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.005156,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.220124,
+      "\r\n"
+    ],
+    [
+      0.007536,
+      "  - Installing \u001b[32mmagento/module-rule\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000724,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019473,
+      "\r\n"
+    ],
+    [
+      0.007464,
+      "  - Installing \u001b[32mmagento/module-sales-rule\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001269,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.044890,
+      "\r\n"
+    ],
+    [
+      0.007881,
+      "  - Installing \u001b[32mmagento/module-require-js\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000560,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015341,
+      "\r\n"
+    ],
+    [
+      0.007368,
+      "  - Installing \u001b[32mmagento/module-customer\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.003148,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.113143,
+      "\r\n"
+    ],
+    [
+      0.007744,
+      "  - Installing \u001b[32mmagento/module-cron\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000677,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.023224,
+      "\r\n"
+    ],
+    [
+      0.008320,
+      "  - Installing \u001b[32mmagento/module-newsletter\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001136,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.038982,
+      "\r\n"
+    ],
+    [
+      0.008360,
+      "  - Installing \u001b[32mmagento/module-review\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001162,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.042540,
+      "\r\n"
+    ],
+    [
+      0.009069,
+      "  - Installing \u001b[32mmagento/module-quote\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001517,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.052330,
+      "\r\n"
+    ],
+    [
+      0.008816,
+      "  - Installing \u001b[32mmagento/module-config\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001267,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.049927,
+      "\r\n"
+    ],
+    [
+      0.008355,
+      "  - Installing \u001b[32mmagento/module-directory\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000846,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030800,
+      "\r\n"
+    ],
+    [
+      0.007699,
+      "  - Installing \u001b[32mmagento/module-payment\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001215,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.051708,
+      "\r\n"
+    ],
+    [
+      0.011061,
+      "  - Installing \u001b[32mmagento/module-page-cache\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001162,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.029265,
+      "\r\n"
+    ],
+    [
+      0.008608,
+      "  - Installing \u001b[32mmagento/module-msrp\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000680,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.027895,
+      "\r\n"
+    ],
+    [
+      0.009085,
+      "  - Installing \u001b[32mmagento/module-checkout\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001727,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.069171,
+      "\r\n"
+    ],
+    [
+      0.008579,
+      "  - Installing \u001b[32mmagento/module-catalog-inventory\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001114,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.040428,
+      "\r\n"
+    ],
+    [
+      0.010473,
+      "  - Installing \u001b[32mmagento/module-grouped-product\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000833,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.035991,
+      "\r\n"
+    ],
+    [
+      0.010432,
+      "  - Installing \u001b[32mmagento/module-gift-message\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000830,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031343,
+      "\r\n"
+    ],
+    [
+      0.009099,
+      "  - Installing \u001b[32mmagento/module-downloadable\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001491,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.059163,
+      "\r\n"
+    ],
+    [
+      0.008828,
+      "  - Installing \u001b[32mmagento/module-authorization\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000693,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018561,
+      "\r\n"
+    ],
+    [
+      0.010224,
+      "  - Installing \u001b[32mmagento/module-reports\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001538,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.065326,
+      "\r\n"
+    ],
+    [
+      0.011197,
+      "  - Installing \u001b[32mmagento/module-catalog-rule\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000898,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030540,
+      "\r\n"
+    ],
+    [
+      0.010338,
+      "  - Installing \u001b[32mmagento/module-contact\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000637,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018524,
+      "\r\n"
+    ],
+    [
+      0.011703,
+      "  - Installing \u001b[32mmagento/module-catalog-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001022,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.028949,
+      "\r\n"
+    ],
+    [
+      0.010522,
+      "  - Installing \u001b[32mmagento/module-catalog-url-rewrite\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000946,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.026233,
+      "\r\n"
+    ],
+    [
+      0.010582,
+      "  - Installing \u001b[32mmagento/module-product-alert\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000673,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022072,
+      "\r\n"
+    ],
+    [
+      0.009466,
+      "  - Installing \u001b[32mmagento/module-indexer\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000987,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030702,
+      "\r\n"
+    ],
+    [
+      0.009820,
+      "  - Installing \u001b[32mmagento/module-configurable-product\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001378,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.053564,
+      "\r\n"
+    ],
+    [
+      0.009538,
+      "  - Installing \u001b[32mmagento/module-integration\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001201,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.042864,
+      "\r\n"
+    ],
+    [
+      0.010120,
+      "  - Installing \u001b[32mmagento/module-developer\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000740,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.023232,
+      "\r\n"
+    ],
+    [
+      0.009486,
+      "  - Installing \u001b[32mmagento/module-translation\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000792,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.026999,
+      "\r\n"
+    ],
+    [
+      0.013937,
+      "  - Installing \u001b[32mmagento/module-backup\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000715,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022587,
+      "\r\n"
+    ],
+    [
+      0.010861,
+      "  - Installing \u001b[32mmagento/module-rss\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000570,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.021675,
+      "\r\n"
+    ],
+    [
+      0.011351,
+      "  - Installing \u001b[32mmagento/module-weee\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001990,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.044255,
+      "\r\n"
+    ],
+    [
+      0.011980,
+      "  - Installing \u001b[32mmagento/module-webapi\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000827,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.028020,
+      "\r\n"
+    ],
+    [
+      0.011842,
+      "  - Installing \u001b[32mmagento/module-version\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000573,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015794,
+      "\r\n"
+    ],
+    [
+      0.010473,
+      "  - Installing \u001b[32mmagento/module-usps\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000893,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.021855,
+      "\r\n"
+    ],
+    [
+      0.012171,
+      "  - Installing \u001b[32mmagento/module-ups\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000619,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020463,
+      "\r\n"
+    ],
+    [
+      0.011852,
+      "  - Installing \u001b[32mmagento/module-tax-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000663,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017550,
+      "\r\n"
+    ],
+    [
+      0.011848,
+      "  - Installing \u001b[32mmagento/module-swatches\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000958,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031517,
+      "\r\n"
+    ],
+    [
+      0.010692,
+      "  - Installing \u001b[32mmagento/module-swagger\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.003429,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.048856,
+      "\r\n"
+    ],
+    [
+      0.011698,
+      "  - Installing \u001b[32mmagento/module-sitemap\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000811,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.024371,
+      "\r\n"
+    ],
+    [
+      0.011066,
+      "  - Installing \u001b[32mmagento/module-send-friend\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001028,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020623,
+      "\r\n"
+    ],
+    [
+      0.011770,
+      "  - Installing \u001b[32mmagento/module-search\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000811,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030252,
+      "\r\n"
+    ],
+    [
+      0.012621,
+      "  - Installing \u001b[32mmagento/module-catalog-search\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001058,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.035541,
+      "\r\n"
+    ],
+    [
+      0.014216,
+      "  - Installing \u001b[32mmagento/module-sample-data\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000594,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014500,
+      "\r\n"
+    ],
+    [
+      0.011534,
+      "  - Installing \u001b[32mjustinrainbow/json-schema\u001b[39m (\u001b[33m1.5.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000666,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.025140,
+      "\r\n"
+    ],
+    [
+      0.012744,
+      "  - Installing \u001b[32mmagento/module-product-video\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000880,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.027416,
+      "\r\n"
+    ],
+    [
+      0.011120,
+      "  - Installing \u001b[32mmagento/module-persistent\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000897,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.029274,
+      "\r\n"
+    ],
+    [
+      0.011950,
+      "  - Installing \u001b[32mmagento/module-paypal\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.002652,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.095407,
+      "\r\n"
+    ],
+    [
+      0.011515,
+      "  - Installing \u001b[32mmagento/module-offline-shipping\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000721,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.025357,
+      "\r\n"
+    ],
+    [
+      0.012835,
+      "  - Installing \u001b[32mmagento/module-offline-payments\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000704,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022310,
+      "\r\n"
+    ],
+    [
+      0.012692,
+      "  - Installing \u001b[32mmagento/module-new-relic-reporting\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000968,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.026147,
+      "\r\n"
+    ],
+    [
+      0.012633,
+      "  - Installing \u001b[32mmagento/module-multishipping\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000897,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.033249,
+      "\r\n"
+    ],
+    [
+      0.015256,
+      "  - Installing \u001b[32mmagento/module-marketplace\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000935,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019159,
+      "\r\n"
+    ],
+    [
+      0.011899,
+      "  - Installing \u001b[32mmagento/module-layered-navigation\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000603,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020064,
+      "\r\n"
+    ],
+    [
+      0.011430,
+      "  - Installing \u001b[32mmagento/module-grouped-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000596,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017872,
+      "\r\n"
+    ],
+    [
+      0.012789,
+      "  - Installing \u001b[32mmagento/module-cookie\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000669,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020869,
+      "\r\n"
+    ],
+    [
+      0.011928,
+      "  - Installing \u001b[32mmagento/module-google-analytics\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000606,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018308,
+      "\r\n"
+    ],
+    [
+      0.012054,
+      "  - Installing \u001b[32mmagento/module-google-optimizer\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000631,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.023969,
+      "\r\n"
+    ],
+    [
+      0.015658,
+      "  - Installing \u001b[32mmagento/module-google-adwords\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000684,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019796,
+      "\r\n"
+    ],
+    [
+      0.012266,
+      "  - Installing \u001b[32mmagento/module-fedex\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001155,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.025753,
+      "\r\n"
+    ],
+    [
+      0.012667,
+      "  - Installing \u001b[32mmagento/module-encryption-key\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000598,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018033,
+      "\r\n"
+    ],
+    [
+      0.013980,
+      "  - Installing \u001b[32mmagento/module-downloadable-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000621,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017156,
+      "\r\n"
+    ],
+    [
+      0.014716,
+      "  - Installing \u001b[32mmagento/module-dhl\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001064,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022631,
+      "\r\n"
+    ],
+    [
+      0.015424,
+      "  - Installing \u001b[32mmagento/module-deploy\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000754,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017595,
+      "\r\n"
+    ],
+    [
+      0.014587,
+      "  - Installing \u001b[32mmagento/module-customer-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000850,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.024060,
+      "\r\n"
+    ],
+    [
+      0.013533,
+      "  - Installing \u001b[32mmagento/module-currency-symbol\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000643,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.021974,
+      "\r\n"
+    ],
+    [
+      0.014524,
+      "  - Installing \u001b[32mmagento/module-configurable-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000602,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017097,
+      "\r\n"
+    ],
+    [
+      0.014425,
+      "  - Installing \u001b[32mmagento/module-checkout-agreements\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000762,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.024401,
+      "\r\n"
+    ],
+    [
+      0.015434,
+      "  - Installing \u001b[32mmagento/module-catalog-widget\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000695,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019471,
+      "\r\n"
+    ],
+    [
+      0.015242,
+      "  - Installing \u001b[32mmagento/module-catalog-rule-configurable\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000721,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.016141,
+      "\r\n"
+    ],
+    [
+      0.012878,
+      "  - Installing \u001b[32mmagento/module-captcha\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000996,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.029686,
+      "\r\n"
+    ],
+    [
+      0.013974,
+      "  - Installing \u001b[32mmagento/module-cache-invalidate\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000669,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.016238,
+      "\r\n"
+    ],
+    [
+      0.016585,
+      "  - Installing \u001b[32mmagento/module-bundle\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001507,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.067798,
+      "\r\n"
+    ],
+    [
+      0.015356,
+      "  - Installing \u001b[32mmagento/module-bundle-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000651,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017138,
+      "\r\n"
+    ],
+    [
+      0.014293,
+      "  - Installing \u001b[32mbraintree/braintree_php\u001b[39m (\u001b[33m2.39.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000826,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.040908,
+      "\r\n"
+    ],
+    [
+      0.013894,
+      "  - Installing \u001b[32mmagento/module-braintree\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001380,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.039928,
+      "\r\n"
+    ],
+    [
+      0.016696,
+      "  - Installing \u001b[32mmagento/module-authorizenet\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000869,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031100,
+      "\r\n"
+    ],
+    [
+      0.016458,
+      "  - Installing \u001b[32mmagento/module-advanced-pricing-import-export\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000722,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019423,
+      "\r\n"
+    ],
+    [
+      0.016799,
+      "  - Installing \u001b[32mmagento/module-admin-notification\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000831,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.028194,
+      "\r\n"
+    ],
+    [
+      0.018067,
+      "  - Installing \u001b[32msymfony/process\u001b[39m (\u001b[33mv2.7.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000693,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020244,
+      "\r\n"
+    ],
+    [
+      0.016848,
+      "  - Installing \u001b[32msymfony/finder\u001b[39m (\u001b[33mv2.7.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000642,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.027183,
+      "\r\n"
+    ],
+    [
+      0.017679,
+      "  - Installing \u001b[32mseld/jsonlint\u001b[39m (\u001b[33m1.3.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000548,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017061,
+      "\r\n"
+    ],
+    [
+      0.017838,
+      "  - Installing \u001b[32mcomposer/composer\u001b[39m (\u001b[33m1.0.0-alpha10\u001b[39m)\r\n"
+    ],
+    [
+      0.001244,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.098284,
+      "\r\n"
+    ],
+    [
+      0.013975,
+      "  - Installing \u001b[32mmagento/composer\u001b[39m (\u001b[33m1.0.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000645,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.015921,
+      "\r\n"
+    ],
+    [
+      0.014090,
+      "  - Installing \u001b[32mmagento/magento2-base\u001b[39m (\u001b[33m2.0.0-rc2\u001b[39m)\r\n"
+    ],
+    [
+      0.057261,
+      "    Loading from cache\r\n"
+    ],
+    [
+      1.892936,
+      "\r\n"
+    ],
+    [
+      0.015832,
+      "  - Installing \u001b[32mmagento/language-zh_hans_cn\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000810,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018190,
+      "\r\n"
+    ],
+    [
+      0.018112,
+      "  - Installing \u001b[32mmagento/language-pt_br\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001226,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017480,
+      "\r\n"
+    ],
+    [
+      0.015161,
+      "  - Installing \u001b[32mmagento/language-nl_nl\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000709,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018098,
+      "\r\n"
+    ],
+    [
+      0.015139,
+      "  - Installing \u001b[32mmagento/language-fr_fr\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000719,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.013365,
+      "\r\n"
+    ],
+    [
+      0.010605,
+      "  - Installing \u001b[32mmagento/language-es_es\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000524,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014926,
+      "\r\n"
+    ],
+    [
+      0.011257,
+      "  - Installing \u001b[32mmagento/language-en_us\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000478,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.014108,
+      "\r\n"
+    ],
+    [
+      0.011472,
+      "  - Installing \u001b[32mmagento/language-de_de\u001b[39m (\u001b[33m100.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000661,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.012919,
+      "\r\n"
+    ],
+    [
+      0.220817,
+      "zendframework/zend-view suggests installing zendframework/zend-authentication (Zend\\Authentication component)\r\n"
+    ],
+    [
+      0.000655,
+      "zendframework/zend-view suggests installing zendframework/zend-feed (Zend\\Feed component)\r\n"
+    ],
+    [
+      0.000870,
+      "zendframework/zend-view suggests installing zendframework/zend-navigation (Zend\\Navigation component)\r\n"
+    ],
+    [
+      0.000449,
+      "zendframework/zend-view suggests installing zendframework/zend-paginator (Zend\\Paginator component)\r\n"
+    ],
+    [
+      0.000403,
+      "zendframework/zend-view suggests installing zendframework/zend-permissions-acl (Zend\\Permissions\\Acl component)\r\n"
+    ],
+    [
+      0.000461,
+      "zendframework/zend-validator suggests installing zendframework/zend-db (Zend\\Db component)\r\n"
+    ],
+    [
+      0.000537,
+      "zendframework/zend-validator suggests installing zendframework/zend-resources (Translations of validator messages)\r\n"
+    ],
+    [
+      0.000416,
+      "zendframework/zend-validator suggests installing zendframework/zend-session (Zend\\Session component)\r\n"
+    ],
+    [
+      0.000404,
+      "zendframework/zend-servicemanager suggests installing ocramius/proxy-manager (ProxyManager 0.5.* to handle lazy initialization of services)\r\n"
+    ],
+    [
+      0.000372,
+      "zendframework/zend-code suggests installing doctrine/common (Doctrine\\Common \u003e=2.1 for annotation features)\r\n"
+    ],
+    [
+      0.000638,
+      "zendframework/zend-math suggests installing ext-gmp (If using the gmp functionality)\r\n"
+    ],
+    [
+      0.000333,
+      "zendframework/zend-math suggests installing ircmaxell/random-lib (Fallback random byte generator for Zend\\Math\\Rand if OpenSSL/Mcrypt extensions are unavailable)\r\n"
+    ],
+    [
+      0.000482,
+      "zendframework/zend-json suggests installing zendframework/zendxml (To support Zend\\Json\\Json::fromXml() usage)\r\n"
+    ],
+    [
+      0.000540,
+      "zendframework/zend-form suggests installing zendframework/zend-captcha (Zend\\Captcha component)\r\n"
+    ],
+    [
+      0.000538,
+      "zendframework/zend-form suggests installing zendframework/zendservice-recaptcha (ZendService\\ReCaptcha component)\r\n"
+    ],
+    [
+      0.000329,
+      "zendframework/zend-mvc suggests installing zendframework/zend-authentication (Zend\\Authentication component for Identity plugin)\r\n"
+    ],
+    [
+      0.000897,
+      "zendframework/zend-mvc suggests installing zendframework/zend-session (Zend\\Session component for FlashMessenger, PRG, and FPRG plugins)\r\n"
+    ],
+    [
+      0.000419,
+      "zendframework/zend-mvc suggests installing zendframework/zend-version (Zend\\Version component)\r\n"
+    ],
+    [
+      0.000514,
+      "zendframework/zend-log suggests installing ext-mongo (*)\r\n"
+    ],
+    [
+      0.000376,
+      "zendframework/zend-log suggests installing zendframework/zend-db (Zend\\Db component)\r\n"
+    ],
+    [
+      0.000337,
+      "zendframework/zend-log suggests installing zendframework/zend-mail (Zend\\Mail component)\r\n"
+    ],
+    [
+      0.000316,
+      "zendframework/zend-i18n suggests installing ext-intl (Required for most features of Zend\\I18n; included in default builds of PHP)\r\n"
+    ],
+    [
+      0.000314,
+      "zendframework/zend-i18n suggests installing zendframework/zend-cache (Zend\\Cache component)\r\n"
+    ],
+    [
+      0.000503,
+      "zendframework/zend-i18n suggests installing zendframework/zend-resources (Translation resources)\r\n"
+    ],
+    [
+      0.000337,
+      "zendframework/zend-crypt suggests installing ext-mcrypt (Required for most features of Zend\\Crypt)\r\n"
+    ],
+    [
+      0.000542,
+      "symfony/event-dispatcher suggests installing symfony/dependency-injection ()\r\n"
+    ],
+    [
+      0.000326,
+      "symfony/event-dispatcher suggests installing symfony/http-kernel ()\r\n"
+    ],
+    [
+      0.000627,
+      "phpseclib/phpseclib suggests installing ext-mcrypt (Install the Mcrypt extension in order to speed up a wide variety of cryptographic operations.)\r\n"
+    ],
+    [
+      0.000317,
+      "phpseclib/phpseclib suggests installing ext-gmp (Install the GMP (GNU Multiple Precision) extension in order to speed up arbitrary precision integer arithmetic operations.)\r\n"
+    ],
+    [
+      0.000350,
+      "phpseclib/phpseclib suggests installing pear-pear/PHP_Compat (Install PHP_Compat to get phpseclib working on PHP \u003c 4.3.3.)\r\n"
+    ],
+    [
+      0.000374,
+      "monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)\r\n"
+    ],
+    [
+      0.000325,
+      "monolog/monolog suggests installing raven/raven (Allow sending log messages to a Sentry server)\r\n"
+    ],
+    [
+      0.000295,
+      "monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)\r\n"
+    ],
+    [
+      0.000290,
+      "monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)\r\n"
+    ],
+    [
+      0.000295,
+      "monolog/monolog suggests installing videlalvaro/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)\r\n"
+    ],
+    [
+      0.000318,
+      "monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))\r\n"
+    ],
+    [
+      0.000287,
+      "monolog/monolog suggests installing ext-mongo (Allow sending log messages to a MongoDB server)\r\n"
+    ],
+    [
+      0.000282,
+      "monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)\r\n"
+    ],
+    [
+      0.000278,
+      "monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)\r\n"
+    ],
+    [
+      0.000273,
+      "monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)\r\n"
+    ],
+    [
+      0.000286,
+      "magento/framework suggests installing ext-imagick (Use Image Magick \u003e=3.0.0 as an optional alternative image processing library)\r\n"
+    ],
+    [
+      0.000839,
+      "magento/module-wishlist suggests installing magento/module-wishlist-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000345,
+      "magento/module-theme suggests installing magento/module-theme-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000429,
+      "magento/module-widget suggests installing magento/module-widget-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000301,
+      "magento/module-cms suggests installing magento/module-cms-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000294,
+      "magento/module-tax suggests installing magento/module-tax-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000584,
+      "magento/module-sales suggests installing magento/module-sales-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000290,
+      "magento/module-catalog suggests installing magento/module-catalog-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000442,
+      "magento/module-sales-rule suggests installing magento/module-sales-rule-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000442,
+      "magento/module-customer suggests installing magento/module-customer-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000551,
+      "magento/module-review suggests installing magento/module-review-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000460,
+      "magento/module-msrp suggests installing magento/module-msrp-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000436,
+      "magento/module-grouped-product suggests installing magento/module-grouped-product-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000467,
+      "magento/module-downloadable suggests installing magento/module-downloadable-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000280,
+      "magento/module-catalog-rule suggests installing magento/module-catalog-rule-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000362,
+      "magento/module-configurable-product suggests installing magento/module-configurable-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000281,
+      "magento/module-configurable-product suggests installing magento/module-product-links-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000709,
+      "magento/module-swatches suggests installing magento/module-swatches-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000278,
+      "magento/module-sample-data suggests installing magento/sample-data-media (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000541,
+      "magento/module-offline-shipping suggests installing magento/module-offline-shipping-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.000572,
+      "magento/module-bundle suggests installing magento/module-bundle-sample-data (Sample Data version:100.0.*)\r\n"
+    ],
+    [
+      0.062187,
+      "\u001b[32mWriting lock file\u001b[39m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[32mGenerating autoload files\u001b[39m\r\n"
+    ],
+    [
+      2.038266,
+      "\u003e chmod ug+x bin/magento\r\n"
+    ],
+    [
+      0.374192,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.019435,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mjacques \u001b[37mat \u001b[32mjab.dev \u001b[37min \u001b[1m\u001b[33m~/Sites/mage-ansible\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[31mx\u001b[00m \u001b[37m[22:17:07]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.799341,
+      "v"
+    ],
+    [
+      0.152447,
+      "\u0008va"
+    ],
+    [
+      0.207755,
+      "g"
+    ],
+    [
+      0.031990,
+      "r"
+    ],
+    [
+      0.072046,
+      "a"
+    ],
+    [
+      0.063971,
+      "n"
+    ],
+    [
+      0.095636,
+      "t"
+    ],
+    [
+      0.066714,
+      " "
+    ],
+    [
+      0.189418,
+      "s"
+    ],
+    [
+      0.096224,
+      "s"
+    ],
+    [
+      0.080005,
+      "h"
+    ],
+    [
+      0.152129,
+      " "
+    ],
+    [
+      0.415531,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\r\r\n"
+    ],
+    [
+      2.223660,
+      "Linux mage 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u5 x86_64"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "Welcome to your Vagrant-built virtual machine."
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "You have new mail."
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "Last login: Sun Nov 15 21:15:51 2015 from 172.16.76.1\r"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.183332,
+      "\u001b]0;vagrant@mage: ~\u0007vagrant@mage:~$ "
+    ],
+    [
+      1.313100,
+      "c"
+    ],
+    [
+      0.087308,
+      "d"
+    ],
+    [
+      0.064110,
+      " "
+    ],
+    [
+      0.143936,
+      "/"
+    ],
+    [
+      0.096065,
+      "v"
+    ],
+    [
+      0.151949,
+      "a"
+    ],
+    [
+      0.263794,
+      "g"
+    ],
+    [
+      0.043394,
+      "r"
+    ],
+    [
+      0.145047,
+      "ant/"
+    ],
+    [
+      0.259691,
+      "m"
+    ],
+    [
+      0.104065,
+      "a"
+    ],
+    [
+      0.117207,
+      "\u0007"
+    ],
+    [
+      0.000049,
+      "gento"
+    ],
+    [
+      0.362799,
+      "\r\n"
+    ],
+    [
+      0.016868,
+      "\u001b]0;vagrant@mage: /vagrant/magento\u0007vagrant@mage:/vagrant/magento$ "
+    ],
+    [
+      0.847532,
+      "\r\u001b[9P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.191773,
+      "\u0008\u0008\u0008b': bin/magento setup:install --backend-frontname=admin --db-user=vagrant --db-passwor\rrd=vagrant-password --db-name=magento --admin-user=admin --admin-password=test123 --admin-email=admin@mbi\riz.io --admin-firstname=J --admin-lastname=BH\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.119794,
+      "\u001b[A\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Ci': bin/magento setup:install --backend-frontname=admin --db-user=vagrant --db-password=vagrant-password --db-name=magento --admin-user=admin --admin-password=test123 --admin-email=admin@mb\u001b[1@i\r"
+    ],
+    [
+      0.080174,
+      "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cn': bin/magento setup:install --backend-frontname=admin --db-user=vagrant --db-password=vagrant-password --db-name=magento --admin-user=admin --admin-password=test123 --admin-email=admin@m\u001b[1@b\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.911961,
+      "\r\u001b]0;vagrant@mage: /vagrant/magento\u0007vagrant@mage:/vagrant/magento$ bin/magento setup:install --backend-frontname=admin --db-user=vagrant --db-password=vagrant-password --db-name=magento --admin-user=admin --admin-password=test123 --admin-email=a\u001b[6@dmin@m\u001b[A\u001b[A\r\u001b]0;vagrant@mage: /vagrant/magento\u0007vagrant@mage:/vagrant/magento$ "
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\r"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      1.019402,
+      "\u001b[34mStarting Magento installation:\u001b[39m"
+    ],
+    [
+      0.000115,
+      "\r\n\u001b[34mFile permissions check...\u001b[39m"
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.011225,
+      "\u001b[36m[Progress: 1 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[34mEnabling Maintenance Mode...\u001b[39m\r\n"
+    ],
+    [
+      0.000833,
+      "\u001b[36m[Progress: 2 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[34mInstalling deployment configuration...\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.003973,
+      "\u001b[36m[Progress: 3 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[34mInstalling database schema:\u001b[39m\r\n"
+    ],
+    [
+      1.552010,
+      "\u001b[34mSchema creation/updates:\u001b[39m\r\n"
+    ],
+    [
+      0.008924,
+      "\u001b[34mModule 'Magento_Store':\u001b[39m\r\n"
+    ],
+    [
+      0.028340,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.061216,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[36m[Progress: 4 / 305]\u001b[39m"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[34mModule 'Magento_AdvancedPricingImportExport':\u001b[39m"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.001592,
+      "\u001b[36m[Progress: 5 / 305]\u001b[39m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[34mModule 'Magento_Directory':\u001b[39m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.001048,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.119014,
+      "\r\n\u001b[36m[Progress: 6 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Theme':\u001b[39m\r\n"
+    ],
+    [
+      0.001015,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.013521,
+      "\r\n\u001b[36m[Progress: 7 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Backend':\u001b[39m\r\n"
+    ],
+    [
+      0.001192,
+      "\u001b[36m[Progress: 8 / 305]\u001b[39m"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[34mModule 'Magento_Backup':\u001b[39m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000919,
+      "\u001b[36m[Progress: 9 / 305]\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[34mModule 'Magento_Eav':\u001b[39m"
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.004432,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.418988,
+      "\r\n\u001b[36m[Progress: 10 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Customer':\u001b[39m\r\n"
+    ],
+    [
+      0.002523,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.369901,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.062426,
+      "\r\n\u001b[36m[Progress: 11 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_BundleImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000697,
+      "\u001b[36m[Progress: 12 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CacheInvalidate':\u001b[39m\r\n"
+    ],
+    [
+      0.000508,
+      "\u001b[36m[Progress: 13 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_AdminNotification':\u001b[39m\r\n"
+    ],
+    [
+      0.000821,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.124009,
+      "\r\n\u001b[36m[Progress: 14 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Indexer':\u001b[39m\r\n"
+    ],
+    [
+      0.000852,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.016702,
+      "\r\n\u001b[36m[Progress: 15 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000424,
+      "\u001b[36m[Progress: 16 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Cms':\u001b[39m\r\n"
+    ],
+    [
+      0.000982,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.890637,
+      "\r\n\u001b[36m[Progress: 17 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Rule':\u001b[39m\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b[36m[Progress: 18 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Catalog':\u001b[39m\r\n"
+    ],
+    [
+      0.007134,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.832349,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.188050,
+      "\r\n\u001b[36m[Progress: 19 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Search':\u001b[39m\r\n"
+    ],
+    [
+      0.001143,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.037620,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.011754,
+      "\r\n\u001b[36m[Progress: 20 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogUrlRewrite':\u001b[39m\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.008505,
+      "\r\n\u001b[36m[Progress: 21 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Widget':\u001b[39m\r\n"
+    ],
+    [
+      0.001543,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.029489,
+      "\r\n\u001b[36m[Progress: 22 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Quote':\u001b[39m\r\n"
+    ],
+    [
+      0.003951,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.203801,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.012844,
+      "\r\n\u001b[36m[Progress: 23 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CheckoutAgreements':\u001b[39m\r\n"
+    ],
+    [
+      0.001146,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.008468,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.014156,
+      "\r\n\u001b[36m[Progress: 24 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_SalesSequence':\u001b[39m\r\n"
+    ],
+    [
+      0.001005,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.050069,
+      "\r\n\u001b[36m[Progress: 25 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CmsUrlRewrite':\u001b[39m\r\n"
+    ],
+    [
+      0.000803,
+      "\u001b[36m[Progress: 26 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Config':\u001b[39m\r\n"
+    ],
+    [
+      0.000953,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.026539,
+      "\r\n\u001b[36m[Progress: 27 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_ConfigurableImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000590,
+      "\u001b[36m[Progress: 28 / 305]\u001b[39m"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[34mModule 'Magento_Msrp':\u001b[39m"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.001199,
+      "\u001b[36m[Progress: 29 / 305]\u001b[39m"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "\u001b[34mModule 'Magento_Contact':\u001b[39m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000706,
+      "\u001b[36m[Progress: 30 / 305]\u001b[39m"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[34mModule 'Magento_Cookie':\u001b[39m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000609,
+      "\u001b[36m[Progress: 31 / 305]\u001b[39m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "\u001b[34mModule 'Magento_Cron':\u001b[39m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.001091,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.059212,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[36m[Progress: 32 / 305]\u001b[39m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[34mModule 'Magento_CurrencySymbol':\u001b[39m"
+    ],
+    [
+      0.000095,
+      "\r\n"
+    ],
+    [
+      0.000761,
+      "\u001b[36m[Progress: 33 / 305]\u001b[39m"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000180,
+      "\u001b[34mModule 'Magento_Bundle':\u001b[39m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.002340,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.080528,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.004476,
+      "\r\n\u001b[36m[Progress: 34 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CustomerImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000607,
+      "\u001b[36m[Progress: 35 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Deploy':\u001b[39m\r\n"
+    ],
+    [
+      0.000527,
+      "\u001b[36m[Progress: 36 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Developer':\u001b[39m\r\n"
+    ],
+    [
+      0.000391,
+      "\u001b[36m[Progress: 37 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Dhl':\u001b[39m\r\n"
+    ],
+    [
+      0.000798,
+      "\u001b[36m[Progress: 38 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Authorization':\u001b[39m\r\n"
+    ],
+    [
+      0.000987,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.010754,
+      "\r\n\u001b[36m[Progress: 39 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Downloadable':\u001b[39m\r\n"
+    ],
+    [
+      0.002088,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.076290,
+      "\r\n\u001b[36m[Progress: 40 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_ImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000788,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.007531,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.014247,
+      "\r\n\u001b[36m[Progress: 41 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Payment':\u001b[39m\r\n"
+    ],
+    [
+      0.000681,
+      "\u001b[36m[Progress: 42 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Email':\u001b[39m\r\n"
+    ],
+    [
+      0.001217,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.036596,
+      "\r\n\u001b[36m[Progress: 43 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_User':\u001b[39m\r\n"
+    ],
+    [
+      0.000790,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.061616,
+      "\u001b[34mUpgrading schema.. \u001b[39m"
+    ],
+    [
+      0.149413,
+      "\r\n\u001b[36m[Progress: 44 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Fedex':\u001b[39m\r\n"
+    ],
+    [
+      0.000969,
+      "\u001b[36m[Progress: 45 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Sales':\u001b[39m\r\n"
+    ],
+    [
+      0.010417,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      3.481341,
+      "\r\n\u001b[36m[Progress: 46 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogInventory':\u001b[39m\r\n"
+    ],
+    [
+      0.001397,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.021151,
+      "\r\n\u001b[36m[Progress: 47 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GoogleAnalytics':\u001b[39m\r\n"
+    ],
+    [
+      0.000671,
+      "\u001b[36m[Progress: 48 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GoogleOptimizer':\u001b[39m\r\n"
+    ],
+    [
+      0.000801,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.005725,
+      "\r\n\u001b[36m[Progress: 49 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GroupedImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000429,
+      "\u001b[36m[Progress: 50 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GroupedProduct':\u001b[39m\r\n"
+    ],
+    [
+      0.000686,
+      "\u001b[36m[Progress: 51 / 305]\u001b[39m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[34mModule 'Magento_DownloadableImportExport':\u001b[39m"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000576,
+      "\u001b[36m[Progress: 52 / 305]\u001b[39m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[34mModule 'Magento_Checkout':\u001b[39m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000841,
+      "\u001b[36m[Progress: 53 / 305]\u001b[39m"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[34mModule 'Magento_Integration':\u001b[39m"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.001291,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.130233,
+      "\r\n\u001b[36m[Progress: 54 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_LayeredNavigation':\u001b[39m\r\n"
+    ],
+    [
+      0.000766,
+      "\u001b[36m[Progress: 55 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Marketplace':\u001b[39m\r\n"
+    ],
+    [
+      0.000705,
+      "\u001b[36m[Progress: 56 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_MediaStorage':\u001b[39m\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[36m[Progress: 57 / 305]\u001b[39m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "\u001b[34mModule 'Magento_CatalogRule':\u001b[39m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.001640,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.250715,
+      "\r\n\u001b[36m[Progress: 58 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Multishipping':\u001b[39m\r\n"
+    ],
+    [
+      0.000443,
+      "\u001b[36m[Progress: 59 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_ConfigurableProduct':\u001b[39m\r\n"
+    ],
+    [
+      0.000908,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.017916,
+      "\r\n\u001b[36m[Progress: 60 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Newsletter':\u001b[39m\r\n"
+    ],
+    [
+      0.001376,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.037580,
+      "\r\n\u001b[36m[Progress: 61 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_OfflinePayments':\u001b[39m\r\n"
+    ],
+    [
+      0.000465,
+      "\u001b[36m[Progress: 62 / 305]\u001b[39m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[34mModule 'Magento_SalesRule':\u001b[39m"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.003015,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.119267,
+      "\r\n\u001b[36m[Progress: 63 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_PageCache':\u001b[39m\r\n"
+    ],
+    [
+      0.000454,
+      "\u001b[36m[Progress: 64 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Captcha':\u001b[39m\r\n"
+    ],
+    [
+      0.000766,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.004683,
+      "\r\n\u001b[36m[Progress: 65 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Paypal':\u001b[39m\r\n"
+    ],
+    [
+      0.001106,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.024739,
+      "\r\n\u001b[36m[Progress: 66 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Persistent':\u001b[39m\r\n"
+    ],
+    [
+      0.000902,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.026829,
+      "\r\n\u001b[36m[Progress: 67 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_ProductAlert':\u001b[39m\r\n"
+    ],
+    [
+      0.000842,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.103494,
+      "\r\n\u001b[36m[Progress: 68 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_ProductVideo':\u001b[39m\r\n"
+    ],
+    [
+      0.000962,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.006066,
+      "\r\n\u001b[36m[Progress: 69 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Authorizenet':\u001b[39m\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b[36m[Progress: 70 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Reports':\u001b[39m\r\n"
+    ],
+    [
+      0.001762,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.292852,
+      "\r\n\u001b[36m[Progress: 71 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_RequireJs':\u001b[39m\r\n"
+    ],
+    [
+      0.000516,
+      "\u001b[36m[Progress: 72 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Review':\u001b[39m\r\n"
+    ],
+    [
+      0.002226,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.091664,
+      "\r\n\u001b[36m[Progress: 73 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Rss':\u001b[39m\r\n"
+    ],
+    [
+      0.000864,
+      "\u001b[36m[Progress: 74 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogRuleConfigurable':\u001b[39m\r\n"
+    ],
+    [
+      0.000400,
+      "\u001b[36m[Progress: 75 / 305]\u001b[39m"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[34mModule 'Magento_Braintree':\u001b[39m"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000850,
+      "\u001b[36m[Progress: 76 / 305]\u001b[39m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[34mModule 'Magento_OfflineShipping':\u001b[39m"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.001153,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.104086,
+      "\r\n\u001b[36m[Progress: 77 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GoogleAdwords':\u001b[39m\r\n"
+    ],
+    [
+      0.000384,
+      "\u001b[36m[Progress: 78 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_SampleData':\u001b[39m\r\n"
+    ],
+    [
+      0.000852,
+      "\u001b[36m[Progress: 79 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogSearch':\u001b[39m\r\n"
+    ],
+    [
+      0.000670,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.070191,
+      "\r\n\u001b[36m[Progress: 80 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_SendFriend':\u001b[39m\r\n"
+    ],
+    [
+      0.000759,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.078996,
+      "\r\n\u001b[36m[Progress: 81 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Ui':\u001b[39m\r\n"
+    ],
+    [
+      0.000773,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.014620,
+      "\r\n\u001b[36m[Progress: 82 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Sitemap':\u001b[39m\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.005946,
+      "\r\n\u001b[36m[Progress: 83 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_NewRelicReporting':\u001b[39m\r\n"
+    ],
+    [
+      0.000981,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.016629,
+      "\r\n\u001b[36m[Progress: 84 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Swagger':\u001b[39m\r\n"
+    ],
+    [
+      0.000370,
+      "\u001b[36m[Progress: 85 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Swatches':\u001b[39m\r\n"
+    ],
+    [
+      0.000792,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.016904,
+      "\r\n\u001b[36m[Progress: 86 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Tax':\u001b[39m\r\n"
+    ],
+    [
+      0.001211,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.125251,
+      "\r\n\u001b[36m[Progress: 87 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_TaxImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000534,
+      "\u001b[36m[Progress: 88 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GiftMessage':\u001b[39m\r\n"
+    ],
+    [
+      0.000858,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.005151,
+      "\r\n\u001b[36m[Progress: 89 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Translation':\u001b[39m\r\n"
+    ],
+    [
+      0.000750,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.005810,
+      "\r\n\u001b[36m[Progress: 90 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Shipping':\u001b[39m\r\n"
+    ],
+    [
+      0.000551,
+      "\u001b[36m[Progress: 91 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Ups':\u001b[39m\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[36m[Progress: 92 / 305]\u001b[39m"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[34mModule 'Magento_UrlRewrite':\u001b[39m"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000975,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.006684,
+      "\r\n\u001b[36m[Progress: 93 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_EncryptionKey':\u001b[39m\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[36m[Progress: 94 / 305]\u001b[39m"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[34mModule 'Magento_Usps':\u001b[39m"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000864,
+      "\u001b[36m[Progress: 95 / 305]\u001b[39m"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[34mModule 'Magento_Variable':\u001b[39m"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000919,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.085437,
+      "\r\n\u001b[36m[Progress: 96 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Version':\u001b[39m\r\n"
+    ],
+    [
+      0.000851,
+      "\u001b[36m[Progress: 97 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Webapi':\u001b[39m\r\n"
+    ],
+    [
+      0.000503,
+      "\u001b[36m[Progress: 98 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Weee':\u001b[39m\r\n"
+    ],
+    [
+      0.000966,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.092415,
+      "\r\n\u001b[36m[Progress: 99 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogWidget':\u001b[39m\r\n"
+    ],
+    [
+      0.000536,
+      "\u001b[36m[Progress: 100 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Wishlist':\u001b[39m\r\n"
+    ],
+    [
+      0.001164,
+      "\u001b[34mInstalling schema.. \u001b[39m"
+    ],
+    [
+      0.176087,
+      "\r\n\u001b[36m[Progress: 101 / 305]\u001b[39m\r\n\u001b[34mSchema post-updates:\u001b[39m\r\n\u001b[34mModule 'Magento_Store':\u001b[39m\r\n"
+    ],
+    [
+      0.000799,
+      "\u001b[36m[Progress: 102 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_AdvancedPricingImportExport':\u001b[39m\r\n\u001b[36m[Progress: 103 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Directory':\u001b[39m\r\n\u001b[36m[Progress: 104 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Theme':\u001b[39m\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[36m[Progress: 105 / 305]\u001b[39m"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[34mModule 'Magento_Backend':\u001b[39m"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000391,
+      "\u001b[36m[Progress: 106 / 305]\u001b[39m"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[34mModule 'Magento_Backup':\u001b[39m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[36m[Progress: 107 / 305]\u001b[39m"
+    ],
+    [
+      0.000094,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[34mModule 'Magento_Eav':\u001b[39m"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000344,
+      "\u001b[36m[Progress: 108 / 305]\u001b[39m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[34mModule 'Magento_Customer':\u001b[39m"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000365,
+      "\u001b[36m[Progress: 109 / 305]\u001b[39m"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[34mModule 'Magento_BundleImportExport':\u001b[39m"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[36m[Progress: 110 / 305]\u001b[39m"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[34mModule 'Magento_CacheInvalidate':\u001b[39m"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[36m[Progress: 111 / 305]\u001b[39m"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[34mModule 'Magento_AdminNotification':\u001b[39m"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000324,
+      "\u001b[36m[Progress: 112 / 305]\u001b[39m"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "\u001b[34mModule 'Magento_Indexer':\u001b[39m"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.073500,
+      "\u001b[34mRunning recurring.. \u001b[39m"
+    ],
+    [
+      0.823200,
+      "\r\n\u001b[36m[Progress: 113 / 305]\u001b[39m"
+    ],
+    [
+      0.000068,
+      "\r\n\u001b[34mModule 'Magento_CatalogImportExport':\u001b[39m"
+    ],
+    [
+      0.000391,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m[Progress: 114 / 305]\u001b[39m"
+    ],
+    [
+      0.000173,
+      "\r\n\u001b[34mModule 'Magento_Cms':\u001b[39m"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000272,
+      "\u001b[36m[Progress: 115 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000212,
+      "\u001b[34mModule 'Magento_Rule':\u001b[39m\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b[36m[Progress: 116 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[34mModule 'Magento_Catalog':\u001b[39m"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000535,
+      "\u001b[36m[Progress: 117 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[34mModule 'Magento_Search':\u001b[39m"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000390,
+      "\u001b[36m[Progress: 118 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "\u001b[34mModule 'Magento_CatalogUrlRewrite':\u001b[39m\r\n"
+    ],
+    [
+      0.000523,
+      "\u001b[36m[Progress: 119 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[34mModule 'Magento_Widget':\u001b[39m"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000387,
+      "\u001b[36m[Progress: 120 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[34mModule 'Magento_Quote':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000518,
+      "\u001b[36m[Progress: 121 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000204,
+      "\u001b[34mModule 'Magento_CheckoutAgreements':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000381,
+      "\u001b[36m[Progress: 122 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000218,
+      "\u001b[34mModule 'Magento_SalesSequence':\u001b[39m\r\n"
+    ],
+    [
+      0.000393,
+      "\u001b[36m[Progress: 123 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[34mModule 'Magento_CmsUrlRewrite':\u001b[39m"
+    ],
+    [
+      0.000224,
+      "\r\n\u001b[36m[Progress: 124 / 305]\u001b[39m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[34mModule 'Magento_Config':\u001b[39m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000483,
+      "\u001b[36m[Progress: 125 / 305]\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[34mModule 'Magento_ConfigurableImportExport':\u001b[39m"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36m[Progress: 126 / 305]\u001b[39m"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[34mModule 'Magento_Msrp':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000478,
+      "\u001b[36m[Progress: 127 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[34mModule 'Magento_Contact':\u001b[39m"
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m[Progress: 128 / 305]\u001b[39m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[34mModule 'Magento_Cookie':\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\u001b[36m[Progress: 129 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "\u001b[34mModule 'Magento_Cron':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000465,
+      "\u001b[36m[Progress: 130 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[34mModule 'Magento_CurrencySymbol':\u001b[39m"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m[Progress: 131 / 305]\u001b[39m"
+    ],
+    [
+      0.000387,
+      "\r\n\u001b[34mModule 'Magento_Bundle':\u001b[39m\r\n"
+    ],
+    [
+      0.000434,
+      "\u001b[36m[Progress: 132 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b[34mModule 'Magento_CustomerImportExport':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000264,
+      "\u001b[36m[Progress: 133 / 305]\u001b[39m"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_Deploy':\u001b[39m"
+    ],
+    [
+      0.000346,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m[Progress: 134 / 305]\u001b[39m"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_Developer':\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000325,
+      "\u001b[36m[Progress: 135 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "\u001b[34mModule 'Magento_Dhl':\u001b[39m\r\n"
+    ],
+    [
+      0.000511,
+      "\u001b[36m[Progress: 136 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000216,
+      "\u001b[34mModule 'Magento_Authorization':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000432,
+      "\u001b[36m[Progress: 137 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[34mModule 'Magento_Downloadable':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[36m[Progress: 138 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[34mModule 'Magento_ImportExport':\u001b[39m"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b[36m[Progress: 139 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[34mModule 'Magento_Payment':\u001b[39m"
+    ],
+    [
+      0.000223,
+      "\r\n\u001b[36m[Progress: 140 / 305]\u001b[39m"
+    ],
+    [
+      0.000139,
+      "\r\n\u001b[34mModule 'Magento_Email':\u001b[39m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b[36m[Progress: 141 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[34mModule 'Magento_User':\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000292,
+      "\u001b[36m[Progress: 142 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[34mModule 'Magento_Fedex':\u001b[39m"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "\u001b[36m[Progress: 143 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[34mModule 'Magento_Sales':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b[36m[Progress: 144 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[34mModule 'Magento_CatalogInventory':\u001b[39m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000377,
+      "\u001b[36m[Progress: 145 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "\u001b[34mModule 'Magento_GoogleAnalytics':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000383,
+      "\u001b[36m[Progress: 146 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[34mModule 'Magento_GoogleOptimizer':\u001b[39m"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\u001b[36m[Progress: 147 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "\u001b[34mModule 'Magento_GroupedImportExport':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[36m[Progress: 148 / 305]\u001b[39m"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_GroupedProduct':\u001b[39m"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000385,
+      "\u001b[36m[Progress: 149 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[34mModule 'Magento_DownloadableImportExport':\u001b[39m"
+    ],
+    [
+      0.000341,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m[Progress: 150 / 305]\u001b[39m"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_Checkout':\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000521,
+      "\u001b[36m[Progress: 151 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[34mModule 'Magento_Integration':\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b[36m[Progress: 152 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[34mModule 'Magento_LayeredNavigation':\u001b[39m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000255,
+      "\u001b[36m[Progress: 153 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[34mModule 'Magento_Marketplace':\u001b[39m"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m[Progress: 154 / 305]\u001b[39m"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[34mModule 'Magento_MediaStorage':\u001b[39m\r\n"
+    ],
+    [
+      0.000438,
+      "\u001b[36m[Progress: 155 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[34mModule 'Magento_CatalogRule':\u001b[39m"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000236,
+      "\u001b[36m[Progress: 156 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "\u001b[34mModule 'Magento_Multishipping':\u001b[39m\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[36m[Progress: 157 / 305]\u001b[39m"
+    ],
+    [
+      0.000122,
+      "\r\n\u001b[34mModule 'Magento_ConfigurableProduct':\u001b[39m"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[36m[Progress: 158 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[34mModule 'Magento_Newsletter':\u001b[39m"
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000364,
+      "\u001b[36m[Progress: 159 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[34mModule 'Magento_OfflinePayments':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000335,
+      "\u001b[36m[Progress: 160 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[34mModule 'Magento_SalesRule':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000464,
+      "\u001b[36m[Progress: 161 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[34mModule 'Magento_PageCache':\u001b[39m"
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m[Progress: 162 / 305]\u001b[39m"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_Captcha':\u001b[39m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[36m[Progress: 163 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[34mModule 'Magento_Paypal':\u001b[39m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "\u001b[36m[Progress: 164 / 305]\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[34mModule 'Magento_Persistent':\u001b[39m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000383,
+      "\u001b[36m[Progress: 165 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[34mModule 'Magento_ProductAlert':\u001b[39m"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "\u001b[36m[Progress: 166 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[34mModule 'Magento_ProductVideo':\u001b[39m"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b[36m[Progress: 167 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000217,
+      "\u001b[34mModule 'Magento_Authorizenet':\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000385,
+      "\u001b[36m[Progress: 168 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[34mModule 'Magento_Reports':\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000428,
+      "\u001b[36m[Progress: 169 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[34mModule 'Magento_RequireJs':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000396,
+      "\u001b[36m[Progress: 170 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000240,
+      "\u001b[34mModule 'Magento_Review':\u001b[39m\r\n"
+    ],
+    [
+      0.000564,
+      "\u001b[36m[Progress: 171 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "\u001b[34mModule 'Magento_Rss':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "\u001b[36m[Progress: 172 / 305]\u001b[39m"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_CatalogRuleConfigurable':\u001b[39m"
+    ],
+    [
+      0.000445,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m[Progress: 173 / 305]\u001b[39m"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "\u001b[34mModule 'Magento_Braintree':\u001b[39m\r\n"
+    ],
+    [
+      0.000498,
+      "\u001b[36m[Progress: 174 / 305]\u001b[39m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "\u001b[34mModule 'Magento_OfflineShipping':\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000431,
+      "\u001b[36m[Progress: 175 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[34mModule 'Magento_GoogleAdwords':\u001b[39m"
+    ],
+    [
+      0.000275,
+      "\r\n\u001b[36m[Progress: 176 / 305]\u001b[39m"
+    ],
+    [
+      0.000173,
+      "\r\n\u001b[34mModule 'Magento_SampleData':\u001b[39m"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000416,
+      "\u001b[36m[Progress: 177 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[34mModule 'Magento_CatalogSearch':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b[36m[Progress: 178 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[34mModule 'Magento_SendFriend':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000443,
+      "\u001b[36m[Progress: 179 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[34mModule 'Magento_Ui':\u001b[39m"
+    ],
+    [
+      0.000137,
+      "\r\n"
+    ],
+    [
+      0.000394,
+      "\u001b[36m[Progress: 180 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[34mModule 'Magento_Sitemap':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000516,
+      "\u001b[36m[Progress: 181 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "\u001b[34mModule 'Magento_NewRelicReporting':\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000505,
+      "\u001b[36m[Progress: 182 / 305]\u001b[39m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "\u001b[34mModule 'Magento_Swagger':\u001b[39m\r\n"
+    ],
+    [
+      0.000272,
+      "\u001b[36m[Progress: 183 / 305]\u001b[39m"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_Swatches':\u001b[39m"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000463,
+      "\u001b[36m[Progress: 184 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000210,
+      "\u001b[34mModule 'Magento_Tax':\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000455,
+      "\u001b[36m[Progress: 185 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.008051,
+      "\u001b[34mModule 'Magento_TaxImportExport':\u001b[39m"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[36m[Progress: 186 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_GiftMessage':\u001b[39m\r\n\u001b[36m[Progress: 187 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Translation':\u001b[39m\r\n\u001b[36m[Progress: 188 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Shipping':\u001b[39m\r\n\u001b[36m[Progress: 189 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Ups':\u001b[39m"
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[36m[Progress: 190 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_UrlRewrite':\u001b[39m\r\n\u001b[36m[Progress: 191 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_EncryptionKey':\u001b[39m\r\n\u001b[36m[Progress: 192 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Usps':\u001b[39m\r\n\u001b[36m[Progress: 193 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Variable':\u001b[39m\r\n\u001b[36m[Progress: 194 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Version':\u001b[39m\r\n\u001b[36m[Progress: 195 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Webapi':\u001b[39m\r\n\u001b[36m[Progress: 196 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Weee':\u001b[39m\r\n\u001b[36m[Progress: 197 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogWidget':\u001b[39m"
+    ],
+    [
+      0.000056,
+      "\r\n\u001b[36m[Progress: 198 / 305]\u001b[39m"
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mModule 'Magento_Wishlist':\u001b[39m"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000471,
+      "\u001b[36m[Progress: 199 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000562,
+      "\u001b[36m[Progress: 200 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[34mInstalling user configuration...\u001b[39m"
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.002079,
+      "\u001b[36m[Progress: 201 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[34mEnabling caches:\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.106379,
+      "\u001b[34mCurrent status:\u001b[39m\r\n"
+    ],
+    [
+      0.000317,
+      "\u001b[34mArray"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "("
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    [config] =\u003e 1"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    [layout] =\u003e 1"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    [block_html] =\u003e 1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "    [collections] =\u003e 1\r\n"
+    ],
+    [
+      0.000134,
+      "    [reflection] =\u003e 1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    [db_ddl] =\u003e 1"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    [eav] =\u003e 1"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    [config_integration] =\u003e 1"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "    [config_integration_api] =\u003e 1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "    [full_page] =\u003e 1\r\n"
+    ],
+    [
+      0.000062,
+      "    [translate] =\u003e 1"
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    [config_webservice] =\u003e 1"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      ")"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "\u001b[36m[Progress: 202 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[34mInstalling data...\u001b[39m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.004533,
+      "\u001b[34mData install/update:\u001b[39m"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.004614,
+      "\u001b[34mModule 'Magento_Store':\u001b[39m\r\n"
+    ],
+    [
+      0.001750,
+      "\u001b[36m[Progress: 203 / 305]\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[34mModule 'Magento_AdvancedPricingImportExport':\u001b[39m"
+    ],
+    [
+      0.000772,
+      "\r\n"
+    ],
+    [
+      0.000480,
+      "\u001b[36m[Progress: 204 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[34mModule 'Magento_Directory':\u001b[39m\r\n"
+    ],
+    [
+      0.039393,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.412739,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[36m[Progress: 205 / 305]\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "\u001b[34mModule 'Magento_Theme':\u001b[39m"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.009076,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.245937,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[36m[Progress: 206 / 305]\u001b[39m"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[34mModule 'Magento_Backend':\u001b[39m"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.001361,
+      "\u001b[36m[Progress: 207 / 305]\u001b[39m"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[34mModule 'Magento_Backup':\u001b[39m"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000860,
+      "\u001b[36m[Progress: 208 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000170,
+      "\u001b[34mModule 'Magento_Eav':\u001b[39m"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.004262,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.016084,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[36m[Progress: 209 / 305]\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "\u001b[34mModule 'Magento_Customer':\u001b[39m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.005853,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.381424,
+      "\u001b[34mUpgrading data.. \u001b[39m"
+    ],
+    [
+      1.802850,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[36m[Progress: 210 / 305]\u001b[39m"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "\u001b[34mModule 'Magento_BundleImportExport':\u001b[39m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000861,
+      "\u001b[36m[Progress: 211 / 305]\u001b[39m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[34mModule 'Magento_CacheInvalidate':\u001b[39m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.001057,
+      "\u001b[36m[Progress: 212 / 305]\u001b[39m"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[34mModule 'Magento_AdminNotification':\u001b[39m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.002293,
+      "\u001b[36m[Progress: 213 / 305]\u001b[39m"
+    ],
+    [
+      0.000094,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[34mModule 'Magento_Indexer':\u001b[39m"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.001236,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.014308,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[36m[Progress: 214 / 305]\u001b[39m"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[34mModule 'Magento_CatalogImportExport':\u001b[39m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.001014,
+      "\u001b[36m[Progress: 215 / 305]\u001b[39m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[34mModule 'Magento_Cms':\u001b[39m"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.011789,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.067607,
+      "\r\n\u001b[36m[Progress: 216 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[34mModule 'Magento_Rule':\u001b[39m\r\n"
+    ],
+    [
+      0.000657,
+      "\u001b[36m[Progress: 217 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[34mModule 'Magento_Catalog':\u001b[39m"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.009330,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.800565,
+      "\u001b[34mUpgrading data.. \u001b[39m"
+    ],
+    [
+      0.006168,
+      "\r\n\u001b[36m[Progress: 218 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Search':\u001b[39m\r\n"
+    ],
+    [
+      0.001027,
+      "\u001b[36m[Progress: 219 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CatalogUrlRewrite':\u001b[39m\r\n"
+    ],
+    [
+      0.000873,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.018669,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[36m[Progress: 220 / 305]\u001b[39m"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[34mModule 'Magento_Widget':\u001b[39m"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000906,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.002125,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[36m[Progress: 221 / 305]\u001b[39m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "\u001b[34mModule 'Magento_Quote':\u001b[39m"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.004872,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.202588,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[36m[Progress: 222 / 305]\u001b[39m"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[34mModule 'Magento_CheckoutAgreements':\u001b[39m"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.001402,
+      "\u001b[36m[Progress: 223 / 305]\u001b[39m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[34mModule 'Magento_SalesSequence':\u001b[39m"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.016800,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.090332,
+      "\r\n\u001b[36m[Progress: 224 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_CmsUrlRewrite':\u001b[39m\r\n"
+    ],
+    [
+      0.000570,
+      "\u001b[36m[Progress: 225 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Config':\u001b[39m\r\n"
+    ],
+    [
+      0.000719,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.002461,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[36m[Progress: 226 / 305]\u001b[39m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[34mModule 'Magento_ConfigurableImportExport':\u001b[39m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000711,
+      "\u001b[36m[Progress: 227 / 305]\u001b[39m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[34mModule 'Magento_Msrp':\u001b[39m"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000748,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.031137,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[36m[Progress: 228 / 305]\u001b[39m"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[34mModule 'Magento_Contact':\u001b[39m"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000793,
+      "\u001b[36m[Progress: 229 / 305]\u001b[39m"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[34mModule 'Magento_Cookie':\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000600,
+      "\u001b[36m[Progress: 230 / 305]\u001b[39m"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[34mModule 'Magento_Cron':\u001b[39m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000802,
+      "\u001b[36m[Progress: 231 / 305]\u001b[39m"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[34mModule 'Magento_CurrencySymbol':\u001b[39m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000536,
+      "\u001b[36m[Progress: 232 / 305]\u001b[39m"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[34mModule 'Magento_Bundle':\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.001021,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.036693,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[36m[Progress: 233 / 305]\u001b[39m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[34mModule 'Magento_CustomerImportExport':\u001b[39m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000837,
+      "\u001b[36m[Progress: 234 / 305]\u001b[39m"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[34mModule 'Magento_Deploy':\u001b[39m"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000642,
+      "\u001b[36m[Progress: 235 / 305]\u001b[39m"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[34mModule 'Magento_Developer':\u001b[39m"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000596,
+      "\u001b[36m[Progress: 236 / 305]\u001b[39m"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[34mModule 'Magento_Dhl':\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000935,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.001740,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[36m[Progress: 237 / 305]\u001b[39m"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "\u001b[34mModule 'Magento_Authorization':\u001b[39m"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.013296,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.081631,
+      "\r\n\u001b[36m[Progress: 238 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Downloadable':\u001b[39m\r\n"
+    ],
+    [
+      0.002142,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.027105,
+      "\r\n\u001b[36m[Progress: 239 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_ImportExport':\u001b[39m\r\n"
+    ],
+    [
+      0.000803,
+      "\u001b[36m[Progress: 240 / 305]\u001b[39m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[34mModule 'Magento_Payment':\u001b[39m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000755,
+      "\u001b[36m[Progress: 241 / 305]\u001b[39m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[34mModule 'Magento_Email':\u001b[39m"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.000881,
+      "\u001b[36m[Progress: 242 / 305]\u001b[39m"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[34mModule 'Magento_User':\u001b[39m"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000903,
+      "\u001b[34mUpgrading data.. \u001b[39m"
+    ],
+    [
+      0.001132,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[36m[Progress: 243 / 305]\u001b[39m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[34mModule 'Magento_Fedex':\u001b[39m"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000851,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.001308,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[36m[Progress: 244 / 305]\u001b[39m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[34mModule 'Magento_Sales':\u001b[39m"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.010631,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.252905,
+      "\u001b[34mUpgrading data.. \u001b[39m"
+    ],
+    [
+      0.016629,
+      "\r\n\u001b[36m[Progress: 245 / 305]\u001b[39m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[34mModule 'Magento_CatalogInventory':\u001b[39m\r\n"
+    ],
+    [
+      0.001044,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.004778,
+      "\r\n\u001b[36m[Progress: 246 / 305]\u001b[39m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[34mModule 'Magento_GoogleAnalytics':\u001b[39m\r\n"
+    ],
+    [
+      0.000687,
+      "\u001b[36m[Progress: 247 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[34mModule 'Magento_GoogleOptimizer':\u001b[39m"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.001034,
+      "\u001b[36m[Progress: 248 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[34mModule 'Magento_GroupedImportExport':\u001b[39m"
+    ],
+    [
+      0.000454,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "\u001b[36m[Progress: 249 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[34mModule 'Magento_GroupedProduct':\u001b[39m"
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.000707,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.002939,
+      "\r\n\u001b[36m[Progress: 250 / 305]\u001b[39m"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[34mModule 'Magento_DownloadableImportExport':\u001b[39m"
+    ],
+    [
+      0.000588,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36m[Progress: 251 / 305]\u001b[39m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[34mModule 'Magento_Checkout':\u001b[39m"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.037462,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.018204,
+      "\r\n\u001b[36m[Progress: 252 / 305]\u001b[39m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[34mModule 'Magento_Integration':\u001b[39m\r\n"
+    ],
+    [
+      0.000907,
+      "\u001b[36m[Progress: 253 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[34mModule 'Magento_LayeredNavigation':\u001b[39m"
+    ],
+    [
+      0.000644,
+      "\r\n\u001b[36m[Progress: 254 / 305]\u001b[39m"
+    ],
+    [
+      0.000165,
+      "\r\n\u001b[34mModule 'Magento_Marketplace':\u001b[39m"
+    ],
+    [
+      0.000641,
+      "\r\n\u001b[36m[Progress: 255 / 305]\u001b[39m"
+    ],
+    [
+      0.000205,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[34mModule 'Magento_MediaStorage':\u001b[39m"
+    ],
+    [
+      0.000732,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[36m[Progress: 256 / 305]\u001b[39m"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[34mModule 'Magento_CatalogRule':\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000895,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.002054,
+      "\r\n\u001b[36m[Progress: 257 / 305]\u001b[39m"
+    ],
+    [
+      0.000176,
+      "\r\n\u001b[34mModule 'Magento_Multishipping':\u001b[39m"
+    ],
+    [
+      0.000487,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "\u001b[36m[Progress: 258 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[34mModule 'Magento_ConfigurableProduct':\u001b[39m\r\n"
+    ],
+    [
+      0.000714,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.013821,
+      "\r\n\u001b[36m[Progress: 259 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_Newsletter':\u001b[39m\r\n"
+    ],
+    [
+      0.001230,
+      "\u001b[36m[Progress: 260 / 305]\u001b[39m\r\n\u001b[34mModule 'Magento_OfflinePayments':\u001b[39m\r\n"
+    ],
+    [
+      0.000256,
+      "\u001b[36m[Progress: 261 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[34mModule 'Magento_SalesRule':\u001b[39m"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000861,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.001976,
+      "\r\n\u001b[36m[Progress: 262 / 305]\u001b[39m"
+    ],
+    [
+      0.000207,
+      "\r\n\u001b[34mModule 'Magento_PageCache':\u001b[39m"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000669,
+      "\u001b[36m[Progress: 263 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000183,
+      "\u001b[34mModule 'Magento_Captcha':\u001b[39m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000878,
+      "\u001b[36m[Progress: 264 / 305]\u001b[39m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[34mModule 'Magento_Paypal':\u001b[39m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000905,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.182234,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[36m[Progress: 265 / 305]\u001b[39m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[34mModule 'Magento_Persistent':\u001b[39m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.001332,
+      "\u001b[36m[Progress: 266 / 305]\u001b[39m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[34mModule 'Magento_ProductAlert':\u001b[39m"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.001138,
+      "\u001b[36m[Progress: 267 / 305]\u001b[39m"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[34mModule 'Magento_ProductVideo':\u001b[39m"
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.001324,
+      "\u001b[34mUpgrading data.. \u001b[39m"
+    ],
+    [
+      0.002686,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[36m[Progress: 268 / 305]\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[34mModule 'Magento_Authorizenet':\u001b[39m"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000741,
+      "\u001b[36m[Progress: 269 / 305]\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[34mModule 'Magento_Reports':\u001b[39m"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000900,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.013561,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "\u001b[36m[Progress: 270 / 305]\u001b[39m"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[34mModule 'Magento_RequireJs':\u001b[39m"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.002166,
+      "\u001b[36m[Progress: 271 / 305]\u001b[39m"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000317,
+      "\u001b[34mModule 'Magento_Review':\u001b[39m"
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.001084,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.010269,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[36m[Progress: 272 / 305]\u001b[39m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[34mModule 'Magento_Rss':\u001b[39m"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000819,
+      "\u001b[36m[Progress: 273 / 305]\u001b[39m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[34mModule 'Magento_CatalogRuleConfigurable':\u001b[39m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000539,
+      "\u001b[36m[Progress: 274 / 305]\u001b[39m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "\u001b[34mModule 'Magento_Braintree':\u001b[39m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000612,
+      "\u001b[36m[Progress: 275 / 305]\u001b[39m"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[34mModule 'Magento_OfflineShipping':\u001b[39m"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.001278,
+      "\u001b[36m[Progress: 276 / 305]\u001b[39m"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[34mModule 'Magento_GoogleAdwords':\u001b[39m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.001298,
+      "\u001b[36m[Progress: 277 / 305]\u001b[39m"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[34mModule 'Magento_SampleData':\u001b[39m"
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.001429,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.000735,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[36m[Progress: 278 / 305]\u001b[39m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[34mModule 'Magento_CatalogSearch':\u001b[39m"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.009053,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.760034,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[36m[Progress: 279 / 305]\u001b[39m"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[34mModule 'Magento_SendFriend':\u001b[39m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.001131,
+      "\u001b[36m[Progress: 280 / 305]\u001b[39m"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[34mModule 'Magento_Ui':\u001b[39m"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.001212,
+      "\u001b[36m[Progress: 281 / 305]\u001b[39m"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[34mModule 'Magento_Sitemap':\u001b[39m"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000948,
+      "\u001b[36m[Progress: 282 / 305]\u001b[39m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[34mModule 'Magento_NewRelicReporting':\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000953,
+      "\u001b[36m[Progress: 283 / 305]\u001b[39m"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[34mModule 'Magento_Swagger':\u001b[39m"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000796,
+      "\u001b[36m[Progress: 284 / 305]\u001b[39m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[34mModule 'Magento_Swatches':\u001b[39m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000776,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.004837,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[36m[Progress: 285 / 305]\u001b[39m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b[34mModule 'Magento_Tax':\u001b[39m"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.010324,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.010852,
+      "\u001b[34mUpgrading data.. \u001b[39m"
+    ],
+    [
+      0.002796,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[36m[Progress: 286 / 305]\u001b[39m"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[34mModule 'Magento_TaxImportExport':\u001b[39m"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000698,
+      "\u001b[36m[Progress: 287 / 305]\u001b[39m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[34mModule 'Magento_GiftMessage':\u001b[39m"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000919,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.493605,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[36m[Progress: 288 / 305]\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[34mModule 'Magento_Translation':\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.001370,
+      "\u001b[36m[Progress: 289 / 305]\u001b[39m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[34mModule 'Magento_Shipping':\u001b[39m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.001282,
+      "\u001b[36m[Progress: 290 / 305]\u001b[39m"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[34mModule 'Magento_Ups':\u001b[39m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.001037,
+      "\u001b[36m[Progress: 291 / 305]\u001b[39m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[34mModule 'Magento_UrlRewrite':\u001b[39m"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.001447,
+      "\u001b[36m[Progress: 292 / 305]\u001b[39m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[34mModule 'Magento_EncryptionKey':\u001b[39m"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.001062,
+      "\u001b[36m[Progress: 293 / 305]\u001b[39m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[34mModule 'Magento_Usps':\u001b[39m"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000867,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      0.001122,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[36m[Progress: 294 / 305]\u001b[39m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[34mModule 'Magento_Variable':\u001b[39m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000899,
+      "\u001b[36m[Progress: 295 / 305]\u001b[39m"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[34mModule 'Magento_Version':\u001b[39m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000777,
+      "\u001b[36m[Progress: 296 / 305]\u001b[39m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[34mModule 'Magento_Webapi':\u001b[39m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000884,
+      "\u001b[36m[Progress: 297 / 305]\u001b[39m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[34mModule 'Magento_Weee':\u001b[39m"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000874,
+      "\u001b[34mInstalling data.. \u001b[39m"
+    ],
+    [
+      1.107907,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[36m[Progress: 298 / 305]\u001b[39m"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[34mModule 'Magento_CatalogWidget':\u001b[39m"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.001469,
+      "\u001b[36m[Progress: 299 / 305]\u001b[39m"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[34mModule 'Magento_Wishlist':\u001b[39m"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.001547,
+      "\u001b[36m[Progress: 300 / 305]\u001b[39m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.001553,
+      "\u001b[36m[Progress: 301 / 305]\u001b[39m"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b[34mInstalling admin user...\u001b[39m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.004642,
+      "\u001b[36m[Progress: 302 / 305]\u001b[39m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[34mCaches clearing:\u001b[39m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.037085,
+      "\u001b[34mCache cleared successfully\u001b[39m\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[36m[Progress: 303 / 305]\u001b[39m\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[34mDisabling Maintenance Mode:\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000462,
+      "\u001b[36m[Progress: 304 / 305]\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[34mPost installation file permissions check...\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[34mFor security, remove write permissions from these directories: '/vagrant/magento/app/etc'\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[36m[Progress: 305 / 305]\u001b[39m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[32m[SUCCESS]: Magento installation complete.\u001b[39m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[32m[SUCCESS]: Magento Admin URI: /admin\u001b[39m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.103288,
+      "\u001b]0;vagrant@mage: /vagrant/magento\u0007vagrant@mage:/vagrant/magento$ "
+    ],
+    [
+      2.132847,
+      "#"
+    ],
+    [
+      0.160290,
+      " "
+    ],
+    [
+      0.183720,
+      "d"
+    ],
+    [
+      0.104146,
+      "o"
+    ],
+    [
+      0.071899,
+      "n"
+    ],
+    [
+      0.063642,
+      "e"
+    ],
+    [
+      0.063693,
+      " "
+    ],
+    [
+      0.200746,
+      "!"
+    ],
+    [
+      0.223946,
+      " "
+    ],
+    [
+      0.175816,
+      ":"
+    ],
+    [
+      0.064026,
+      "D"
+    ],
+    [
+      0.335228,
+      "\r\n"
+    ],
+    [
+      0.003885,
+      "\u001b]0;vagrant@mage: /vagrant/magento\u0007vagrant@mage:/vagrant/magento$ "
+    ],
+    [
+      1.133173,
+      "logout\r\n"
+    ],
+    [
+      0.008168,
+      "Connection to 172.16.76.137 closed.\r\r\n"
+    ],
+    [
+      0.001216,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.015975,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mjacques \u001b[37mat \u001b[32mjab.dev \u001b[37min \u001b[1m\u001b[33m~/Sites/mage-ansible\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[31mx\u001b[00m \u001b[37m[22:17:44]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.389366,
+      "\r\r\n"
+    ]
+  ]
+}

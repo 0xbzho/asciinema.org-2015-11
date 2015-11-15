@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 32.745603,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.080616,
+      "\u001b]0;thefox@imac.local#81058\u0007"
+    ],
+    [
+      0.000259,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000023,
+      "\u001b[0;31m~\u001b[m\u001b[32m\u001b[m$ "
+    ],
+    [
+      1.472207,
+      "i"
+    ],
+    [
+      0.127750,
+      "d"
+    ],
+    [
+      0.624087,
+      "3"
+    ],
+    [
+      0.241046,
+      "\u0007"
+    ],
+    [
+      0.470884,
+      "d"
+    ],
+    [
+      0.232802,
+      "it "
+    ],
+    [
+      0.759208,
+      "-"
+    ],
+    [
+      0.783909,
+      "h"
+    ],
+    [
+      0.128116,
+      " "
+    ],
+    [
+      0.391938,
+      "|"
+    ],
+    [
+      0.183894,
+      " "
+    ],
+    [
+      0.304062,
+      "l"
+    ],
+    [
+      0.103924,
+      "e"
+    ],
+    [
+      0.207981,
+      "s"
+    ],
+    [
+      0.143976,
+      "s"
+    ],
+    [
+      0.287972,
+      "\r\n"
+    ],
+    [
+      0.002587,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.240851,
+      "ID3dit 1.0.0-rc.2\r\nUsage: id3dit [OPTIONS...] FILES...\r\n\r\nOptions:\r\n        --title STRING               Set new value for 'title' tag.\r\n        --artist STRING              Set new value for 'artist' tag.\r\n        --composer STRING            Set new value for 'composer' tag.\r\n        --year STRING                Set new value for 'year' tag.\r\n        --genre STRING               Set new value for 'genre' tag.\r\n        --bpm STRING                 Set new value for 'bpm' tag.\r\n        --grouping STRING            Set new value for 'grouping' tag.\r\n        --comment STRING             Set new value for 'comment' tag.\r\n        --album STRING               Set new value for 'album' tag.\r\n        --band STRING                Set new value for 'band' tag.\r\n        --disc STRING                Set new value for 'disc' tag.\r\n        --track STRING               Set new value for 'track' tag.\r\n        --remove-all                 Remove all tags.\r\n        --remove-title               Remove 'title' tag.\r\n        --r"
+    ],
+    [
+      0.000032,
+      "emove-artist     "
+    ],
+    [
+      0.000029,
+      "         Remove 'artist' tag.\r\n        --remove-composer            Remove 'composer' tag.\r\n        --remove-year                Remove 'year' tag.\r\n        --remove-genre               Remove 'genre' tag.\r\n        --remove-bpm                 Remove 'bpm' tag.\r\n:\u001b[K"
+    ],
+    [
+      1.508561,
+      "\r\u001b[K"
+    ],
+    [
+      0.000008,
+      "        --remove-grouping            Remove 'grouping' tag.\r\n:\u001b[K"
+    ],
+    [
+      0.416040,
+      "\r\u001b[K"
+    ],
+    [
+      0.000023,
+      "        --remove-comment             Remove 'comment' tag.\r\n:\u001b[K"
+    ],
+    [
+      0.175845,
+      "\r\u001b[K"
+    ],
+    [
+      0.000045,
+      "        --remove-album               Remove 'album' tag.\r\n        --remove-band                Remove 'band' tag.\r\n        --remove-disc                Remove 'disc' tag.\r\n        --remove-track               Remove 'track' tag.\r\n        --version                    Show version.\r\n    -h, --help                       Show this message.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      1.495972,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000461,
+      "\u001b]0;thefox@imac.local#81058\u0007"
+    ],
+    [
+      0.000061,
+      "\u001b[0;31m~\u001b[m\u001b[32m\u001b[m$ "
+    ],
+    [
+      1.439519,
+      "c"
+    ],
+    [
+      0.095863,
+      "d"
+    ],
+    [
+      0.040149,
+      " "
+    ],
+    [
+      0.591788,
+      "~"
+    ],
+    [
+      0.184160,
+      "/"
+    ],
+    [
+      0.311936,
+      "M"
+    ],
+    [
+      0.328176,
+      "\u0007"
+    ],
+    [
+      0.719867,
+      "u"
+    ],
+    [
+      0.120065,
+      "sic/"
+    ],
+    [
+      0.471919,
+      "A"
+    ],
+    [
+      0.223857,
+      "r"
+    ],
+    [
+      0.248141,
+      "tists/"
+    ],
+    [
+      0.895835,
+      "A"
+    ],
+    [
+      0.248027,
+      "B"
+    ],
+    [
+      0.151914,
+      "B"
+    ],
+    [
+      0.288109,
+      "A"
+    ],
+    [
+      0.847926,
+      "\r\n"
+    ],
+    [
+      0.000234,
+      "\u001b]0;thefox@imac.local#81058\u0007"
+    ],
+    [
+      0.000063,
+      "\u001b[0;31m~/Music/Artists/ABBA\u001b[m\u001b[32m\u001b[m$ "
+    ],
+    [
+      0.863801,
+      "i"
+    ],
+    [
+      0.135846,
+      "d"
+    ],
+    [
+      0.696075,
+      "3"
+    ],
+    [
+      0.528886,
+      "\u0007"
+    ],
+    [
+      0.335090,
+      "d"
+    ],
+    [
+      0.201002,
+      "it "
+    ],
+    [
+      1.839066,
+      "A"
+    ],
+    [
+      0.319841,
+      "B"
+    ],
+    [
+      0.175849,
+      "B"
+    ],
+    [
+      0.248351,
+      "\u0007"
+    ],
+    [
+      0.000005,
+      "A\\ -\\ "
+    ],
+    [
+      0.727816,
+      "A"
+    ],
+    [
+      0.239919,
+      "r"
+    ],
+    [
+      0.184097,
+      "rival.mp3 "
+    ],
+    [
+      0.775853,
+      "\r\n"
+    ],
+    [
+      0.235370,
+      "ID3dit 1.0.0-rc.2\r\n"
+    ],
+    [
+      0.004565,
+      "\r\nFile 'ABBA - Arrival.mp3'.\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "          title    "
+    ],
+    [
+      0.000104,
+      "'\u001b[1mArrival\u001b[0m'\r\n"
+    ],
+    [
+      0.000004,
+      "         artist    '\u001b[1mABBA\u001b[0m'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "       composer    "
+    ],
+    [
+      0.000005,
+      "'\u001b[1mBenny Andersson/Björn Ulvaeus\u001b[0m'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           year    "
+    ],
+    [
+      0.000009,
+      "'\u001b[1m1996\u001b[0m'\r\n"
+    ],
+    [
+      0.000012,
+      "          album    "
+    ],
+    [
+      0.000021,
+      "'\u001b[1mMusic Still Goes On\u001b[0m'\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "[ierxwq?] "
+    ],
+    [
+      2.423947,
+      "?\n"
+    ],
+    [
+      0.004424,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\ni - show all tags.\r\ne - edit all tags.\r\nr - remove tags.\r\nx - same as wq."
+    ],
+    [
+      0.000006,
+      "\r\nw - write - after edit, apply changes to the files."
+    ],
+    [
+      0.000005,
+      "\r\nq - quit without saving.\r\n"
+    ],
+    [
+      0.000004,
+      "? - print help.\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000317,
+      "[ierxwq?] "
+    ],
+    [
+      4.099269,
+      "q\n"
+    ],
+    [
+      0.004357,
+      "\rQuitting.\r\n"
+    ],
+    [
+      0.018787,
+      "\u001b]0;thefox@imac.local#81058\u0007"
+    ],
+    [
+      0.000061,
+      "\u001b[0;31m~/Music/Artists/ABBA\u001b[m\u001b[32m\u001b[m$ "
+    ],
+    [
+      1.088357,
+      "exit\r\n"
+    ]
+  ]
+}

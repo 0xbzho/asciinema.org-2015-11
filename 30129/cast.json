@@ -1,0 +1,1038 @@
+{
+  "version": 1,
+  "width": 267,
+  "height": 85,
+  "duration": 29.114400,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.598395,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.203448,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000023,
+      "\u001b[K\u001b[251C \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000094,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.018201,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000024,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000052,
+      "\u001b[?2004h"
+    ],
+    [
+      0.966307,
+      "\u001b[46masciinema\u001b[49m rec"
+    ],
+    [
+      0.918767,
+      "\u001b[13D\u001b[46mt\u001b[46mr\u001b[46mu\u001b[46me\u001b[49m\u001b[49m \u001b[49m \u001b[49m \u001b[49m \u001b[49m     \u001b[9D"
+    ],
+    [
+      0.442726,
+      "\u0008\u0008\u0008\u0008\u001b[46m.\u001b[46m/\u001b[46mx\u001b[46mg\u001b[46mo\u001b[49m -x -v -image zchee/gxc -targets darwin/amd64 github.com/zchee/xhyve-bindings/main"
+    ],
+    [
+      1.154064,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.018546,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000018,
+      "\u001b[46m./xgo\u001b[49m -x -v -image zchee/gxc -targets darwin/amd64 github.com/zchee/xhyve-bindings/main\u001b[K\u001b[149CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[177D"
+    ],
+    [
+      0.000116,
+      "\r\r\n"
+    ],
+    [
+      0.008290,
+      "Checking docker installation...\r\n"
+    ],
+    [
+      0.029677,
+      "Client:\r\n Version:      "
+    ],
+    [
+      0.000006,
+      "1.10.0-dev\r\n API version:  1.22\r\n Go version:   go1.5.1\r\n Git commit:   6c31b17\r\n Built:        Thu Nov 12 02:08:39 UTC 2015\r\n OS/Arch:      "
+    ],
+    [
+      0.000026,
+      "darwin/amd64\r\n\r\nServer:\r\n Version:      1.10.0-dev\r\n API version:  1.22\r\n Go version:   go1.5.1\r\n Git commit:   0cdc96c\r\n Built:        Wed Nov  4 20:01:30 UTC 2015\r\n OS/Arch:      linux/amd64"
+    ],
+    [
+      0.000003,
+      "\r\n Experimental: "
+    ],
+    [
+      0.000003,
+      "true\r\n"
+    ],
+    [
+      0.002549,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "Checking for required docker image zchee/gxc... "
+    ],
+    [
+      0.043730,
+      "found.\r\n"
+    ],
+    [
+      0.000004,
+      "Cross compiling github.com/zchee/xhyve-bindings/main...\r\n"
+    ],
+    [
+      0.260909,
+      "Fetching main repository github.com/zchee/xhyve-bindings/main...\r\n"
+    ],
+    [
+      0.017020,
+      "github.com/zchee/xhyve-bindings (download)\r\n"
+    ],
+    [
+      6.159721,
+      "Compiling for darwin-/amd64...\r\n"
+    ],
+    [
+      0.099117,
+      "WORK=/tmp/go-build143146208\r\n"
+    ],
+    [
+      0.027902,
+      "runtime\r\nmkdir -p $WORK/runtime/_obj/\r\n"
+    ],
+    [
+      0.000149,
+      "mkdir -p $WORK/\r\n"
+    ],
+    [
+      0.000214,
+      "cd /usr/local/go/src/runtime\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/runtime.a -trimpath $WORK -p runtime -+ -buildid e51bc3ada034ab2dfe8a04d8b50e93d971fe099b -D _/usr/local/go/src/runtime -I $WORK -pack -asmhdr $WORK/runtime/_obj/go_asm.h ./alg.go ./arch1_amd64.go ./arch_amd64.go ./atomic_amd64x.go ./atomic_pointer.go ./cgo.go ./cgocall.go ./cgocallback.go ./chan.go ./compiler.go ./complex.go ./cpuprof.go ./cputicks.go ./debug.go ./defs_darwin_amd64.go ./env_posix.go ./error.go ./extern.go ./hash64.go ./hashmap.go ./hashmap_fast.go ./heapdump.go ./iface.go ./lfstack.go ./lfstack_amd64.go ./lock_sema.go ./malloc.go ./mbarrier.go ./mbitmap.go ./mcache.go ./mcentral.go ./mem_darwin.go ./mfinal.go ./mfixalloc.go ./mgc.go ./mgcmark.go ./mgcsweep.go ./mgcwork.go ./mheap.go ./mprof.go ./msize.go ./mstats.go ./netpoll.go ./netpoll_kqueue.go ./os1_darwin.go ./os2_darwin.go ./os_darwin.go ./panic.go ./panic1.go ./parfor.go ./print1.go ./print1_write.go ./proc.go ./proc1.go ./race0.go ./rdebug.go ./rune.go"
+    ],
+    [
+      0.000025,
+      " ./runtime.go ./runtime1.go ./runtime2.go ./select.go ./sema.go ./signal1_unix.go ./signal_amd64x.go ./signal_darwin.go ./signal_darwin_amd64.go ./signal_unix.go ./sigpanic_unix.go ./sigqueue.go ./slice.go ./softfloat64.go ./sqrt.go ./stack1.go ./stack2.go ./string.go ./string1.go ./stubs.go ./stubs2.go ./symtab.go ./sys_x86.go ./time.go ./trace.go ./traceback.go ./type.go ./typekind.go ./typekind1.go ./unaligned1.go ./vdso_none.go ./wbfat.go ./zgoarch_amd64.go ./zgoos_darwin.go ./zversion.go\r\n"
+    ],
+    [
+      1.168220,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/asm.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm.s\r\n"
+    ],
+    [
+      0.003315,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/asm_amd64.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm_amd64.s\r\n"
+    ],
+    [
+      0.013051,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/duff_amd64.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./duff_amd64.s\r\n"
+    ],
+    [
+      0.005491,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/memclr_amd64.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./memclr_amd64.s\r\n"
+    ],
+    [
+      0.003637,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/memmove_amd64.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./memmove_amd64.s\r\n"
+    ],
+    [
+      0.003457,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/rt0_darwin_amd64.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./rt0_darwin_amd64.s\r\n"
+    ],
+    [
+      0.002416,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/_obj/sys_darwin_amd64.o -trimpath $WORK -I $WORK/runtime/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./sys_darwin_amd64.s\r\n"
+    ],
+    [
+      0.005432,
+      "pack r $WORK/runtime.a $WORK/runtime/_obj/asm.o $WORK/runtime/_obj/asm_amd64.o $WORK/runtime/_obj/duff_amd64.o $WORK/runtime/_obj/memclr_amd64.o $WORK/runtime/_obj/memmove_amd64.o $WORK/runtime/_obj/rt0_darwin_amd64.o $WORK/runtime/_obj/sys_darwin_amd64.o # internal\r\n"
+    ],
+    [
+      0.000239,
+      "errors\r\nmkdir -p $WORK/errors/_obj/\r\n"
+    ],
+    [
+      0.000146,
+      "cd /usr/local/go/src/errors\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/errors.a -trimpath $WORK -p errors -complete -buildid 0381f474681f55e5eb8f59dc27d7d236c93b0d5c -D _/usr/local/go/src/errors -I $WORK -pack ./errors.go\r\n"
+    ],
+    [
+      0.000612,
+      "sync/atomic\r\n"
+    ],
+    [
+      0.000211,
+      "mkdir -p $WORK/sync/atomic/_obj/\r\nmkdir -p $WORK/sync/\r\n"
+    ],
+    [
+      0.000100,
+      "cd /usr/local/go/src/sync/atomic\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/sync/atomic.a -trimpath $WORK -p sync/atomic -buildid 663f86853818f06e40862fd0a2c3c1b816741803 -D _/usr/local/go/src/sync/atomic -I $WORK -pack -asmhdr $WORK/sync/atomic/_obj/go_asm.h ./doc.go ./value.go\r\n"
+    ],
+    [
+      0.000917,
+      "math\r\nmkdir -p $WORK/math/_obj/\r\n"
+    ],
+    [
+      0.000419,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/math.a -trimpath $WORK -p math -buildid d9d145936e5b6c3584e6cbb2f4a7a32018bea6ee -D _/usr/local/go/src/math -I $WORK -pack -asmhdr $WORK/math/_obj/go_asm.h ./abs.go ./acosh.go ./asin.go ./asinh.go ./atan.go ./atan2.go ./atanh.go ./bits.go ./cbrt.go ./const.go ./copysign.go ./dim.go ./erf.go ./exp.go ./expm1.go ./floor.go ./frexp.go ./gamma.go ./hypot.go ./j0.go ./j1.go ./jn.go ./ldexp.go ./lgamma.go ./log.go ./log10.go ./log1p.go ./logb.go ./mod.go ./modf.go ./nextafter.go ./pow.go ./pow10.go ./remainder.go ./signbit.go ./sin.go ./sincos.go ./sinh.go ./sqrt.go ./tan.go ./tanh.go ./unsafe.go\r\n"
+    ],
+    [
+      0.000787,
+      "unicode/utf8\r\n"
+    ],
+    [
+      0.000192,
+      "mkdir -p $WORK/unicode/utf8/_obj/\r\nmkdir -p $WORK/unicode/\r\n"
+    ],
+    [
+      0.000355,
+      "cd /usr/local/go/src/unicode/utf8\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/unicode/utf8.a -trimpath $WORK -p unicode/utf8 -complete -buildid 829cf1797fdf4f2313f42c59b1cb84b09c39245d -D _/usr/local/go/src/unicode/utf8 -I $WORK -pack ./utf8.go\r\nsort\r\n"
+    ],
+    [
+      0.000206,
+      "mkdir -p $WORK/sort/_obj/\r\n"
+    ],
+    [
+      0.000867,
+      "cd /usr/local/go/src/sort\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/sort.a -trimpath $WORK -p sort -complete -buildid 3f2f6ed627f752c506a05b32766da23e65e8f7d0 -D _/usr/local/go/src/sort -I $WORK -pack ./search.go ./sort.go\r\n"
+    ],
+    [
+      0.006192,
+      "runtime/cgo\r\n"
+    ],
+    [
+      0.000234,
+      "mkdir -p $WORK/runtime/cgo/_obj/\r\nmkdir -p $WORK/runtime/\r\n"
+    ],
+    [
+      0.000009,
+      "unicode\r\nmkdir -p $WORK/unicode/_obj/\r\ncd /usr/local/go/src/runtime/cgo\r\nCGO_LDFLAGS=\"-g\" \"-O2\" \"-lpthread\" /usr/local/go/pkg/tool/linux_amd64/cgo -objdir $WORK/runtime/cgo/_obj/ -importpath runtime/cgo -import_runtime_cgo=false -import_syscall=false -- -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror cgo.go\r\n"
+    ],
+    [
+      0.000692,
+      "cd /usr/local/go/src/unicode\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/unicode.a -trimpath $WORK -p unicode -complete -buildid cc0ddfe543bfe243b957299bf81d522e8df7cebf -D _/usr/local/go/src/unicode -I $WORK -pack ./casetables.go ./digit.go ./graphic.go ./letter.go ./tables.go\r\n"
+    ],
+    [
+      0.003559,
+      "cd /usr/local/go/src/sync/atomic\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/sync/atomic/_obj/asm_amd64.o -trimpath $WORK -I $WORK/sync/atomic/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm_amd64.s\r\n"
+    ],
+    [
+      0.004754,
+      "pack r $WORK/sync/atomic.a $WORK/sync/atomic/_obj/asm_amd64.o # internal\r\n"
+    ],
+    [
+      0.000363,
+      "sync\r\nmkdir -p $WORK/sync/_obj/\r\ncd /usr/local/go/src/sync\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/sync.a -trimpath $WORK -p sync -buildid b3ec94d53b27da06658ccca751c015967732ef23 -D _/usr/local/go/src/sync -I $WORK -pack ./cond.go ./mutex.go ./once.go ./pool.go ./race0.go ./runtime.go ./rwmutex.go ./waitgroup.go\r\n"
+    ],
+    [
+      0.017512,
+      "cd /usr/local/go/src/runtime/cgo\r\nx86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -print-libgcc-file-name\r\n"
+    ],
+    [
+      0.012887,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/_cgo_main.o -c $WORK/runtime/cgo/_obj/_cgo_main.c\r\n"
+    ],
+    [
+      0.035964,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/_cgo_export.o -c $WORK/runtime/cgo/_obj/_cgo_export.c\r\n"
+    ],
+    [
+      0.020006,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/cgo.cgo2.o -c $WORK/runtime/cgo/_obj/cgo.cgo2.c\r\n"
+    ],
+    [
+      0.015048,
+      "io\r\nmkdir -p $WORK/io/_obj/\r\ncd /usr/local/go/src/io\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/io.a -trimpath $WORK -p io -complete -buildid 412e9c7e5c8bf466548f9659f5edfb460a2d1cd4 -D _/usr/local/go/src/io -I $WORK -pack ./io.go ./multi.go ./pipe.go\r\n"
+    ],
+    [
+      0.000123,
+      "syscall\r\nmkdir -p $WORK/syscall/_obj/\r\n"
+    ],
+    [
+      0.000914,
+      "cd /usr/local/go/src/syscall\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/syscall.a -trimpath $WORK -p syscall -buildid 16caac3678fec0d41969c86dcfd384e585fec6d2 -D _/usr/local/go/src/syscall -I $WORK -pack -asmhdr $WORK/syscall/_obj/go_asm.h ./bpf_bsd.go ./env_unix.go ./exec_bsd.go ./exec_unix.go ./flock.go ./race0.go ./route_bsd.go ./route_darwin.go ./sockcmsg_unix.go ./str.go ./syscall.go ./syscall_bsd.go ./syscall_darwin.go ./syscall_darwin_amd64.go ./syscall_unix.go ./zerrors_darwin_amd64.go ./zsyscall_darwin_amd64.go ./zsysnum_darwin_amd64.go ./ztypes_darwin_amd64.go\r\n"
+    ],
+    [
+      0.023953,
+      "cd /usr/local/go/src/runtime/cgo\r\nx86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/gcc_darwin_amd64.o -c ./gcc_darwin_amd64.c\r\n"
+    ],
+    [
+      0.050595,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/gcc_libinit.o -c ./gcc_libinit.c\r\n"
+    ],
+    [
+      0.054335,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/gcc_setenv.o -c ./gcc_setenv.c\r\n"
+    ],
+    [
+      0.036717,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/gcc_util.o -c ./gcc_util.c\r\n"
+    ],
+    [
+      0.058568,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/runtime/cgo/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -Wall -Werror -o $WORK/runtime/cgo/_obj/gcc_amd64.o -c ./gcc_amd64.S\r\n"
+    ],
+    [
+      0.023573,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -o $WORK/runtime/cgo/_obj/_cgo_.o $WORK/runtime/cgo/_obj/_cgo_main.o $WORK/runtime/cgo/_obj/_cgo_export.o $WORK/runtime/cgo/_obj/cgo.cgo2.o $WORK/runtime/cgo/_obj/gcc_darwin_amd64.o $WORK/runtime/cgo/_obj/gcc_libinit.o $WORK/runtime/cgo/_obj/gcc_setenv.o $WORK/runtime/cgo/_obj/gcc_util.o $WORK/runtime/cgo/_obj/gcc_amd64.o -g -O2 -lpthread\r\n"
+    ],
+    [
+      0.008021,
+      "bytes\r\nmkdir -p $WORK/bytes/_obj/\r\ncd /usr/local/go/src/bytes\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/bytes.a -trimpath $WORK -p bytes -buildid 4e086d64e3932acd2333757275e911ee3ce1bff5 -D _/usr/local/go/src/bytes -I $WORK -pack ./buffer.go ./bytes.go ./bytes_decl.go ./reader.go\r\n"
+    ],
+    [
+      0.000344,
+      "strings\r\nmkdir -p $WORK/strings/_obj/\r\n"
+    ],
+    [
+      0.000411,
+      "cd /usr/local/go/src/strings\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/strings.a -trimpath $WORK -p strings -buildid 30af4fa059a9de1cee7012a9088c8d30f86e5a5b -D _/usr/local/go/src/strings -I $WORK -pack -asmhdr $WORK/strings/_obj/go_asm.h ./compare.go ./reader.go ./replace.go ./search.go ./strings.go ./strings_decl.go\r\n"
+    ],
+    [
+      0.022666,
+      "cd /usr/local/go/src/runtime/cgo\r\n/usr/local/go/pkg/tool/linux_amd64/cgo -objdir $WORK/runtime/cgo/_obj/ -dynpackage cgo -dynimport $WORK/runtime/cgo/_obj/_cgo_.o -dynout $WORK/runtime/cgo/_obj/_cgo_import.go -dynlinker\r\n"
+    ],
+    [
+      0.008428,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -o $WORK/runtime/cgo/_obj/_all.o $WORK/runtime/cgo/_obj/_cgo_export.o $WORK/runtime/cgo/_obj/cgo.cgo2.o $WORK/runtime/cgo/_obj/gcc_darwin_amd64.o $WORK/runtime/cgo/_obj/gcc_libinit.o $WORK/runtime/cgo/_obj/gcc_setenv.o $WORK/runtime/cgo/_obj/gcc_util.o $WORK/runtime/cgo/_obj/gcc_amd64.o -g -O2 -Wl,-r -nostdlib\r\n"
+    ],
+    [
+      0.008728,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/abs_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./abs_amd64.s\r\n"
+    ],
+    [
+      0.019491,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/asin_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asin_amd64.s\r\n"
+    ],
+    [
+      0.004581,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/atan2_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./atan2_amd64.s\r\n"
+    ],
+    [
+      0.003942,
+      "cd /usr/local/go/src/runtime/cgo\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/runtime/cgo.a -trimpath $WORK -p runtime/cgo -buildid efee60df222fe19514fddb0d3c216d08c3e56186 -D _/usr/local/go/src/runtime/cgo -I $WORK -pack -asmhdr $WORK/runtime/cgo/_obj/go_asm.h ./callbacks.go ./iscgo.go ./setenv.go $WORK/runtime/cgo/_obj/_cgo_gotypes.go $WORK/runtime/cgo/_obj/cgo.cgo1.go $WORK/runtime/cgo/_obj/_cgo_import.go\r\n"
+    ],
+    [
+      0.002565,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/atan_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./atan_amd64.s\r\n"
+    ],
+    [
+      0.010065,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/dim_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./dim_amd64.s\r\n"
+    ],
+    [
+      0.027843,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/exp2_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./exp2_amd64.s\r\n"
+    ],
+    [
+      0.004391,
+      "cd /usr/local/go/src/runtime/cgo\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/runtime/cgo/_obj/asm_amd64.o -trimpath $WORK -I $WORK/runtime/cgo/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm_amd64.s\r\n"
+    ],
+    [
+      0.005093,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/exp_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./exp_amd64.s\r\n"
+    ],
+    [
+      0.004512,
+      "cd /usr/local/go/src/runtime/cgo\r\npack r $WORK/runtime/cgo.a $WORK/runtime/cgo/_obj/asm_amd64.o $WORK/runtime/cgo/_obj/_all.o # internal\r\n"
+    ],
+    [
+      0.004807,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/expm1_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./expm1_amd64.s\r\n"
+    ],
+    [
+      0.003013,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/floor_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./floor_amd64.s\r\n"
+    ],
+    [
+      0.007396,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/frexp_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./frexp_amd64.s\r\n"
+    ],
+    [
+      0.009918,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/hypot_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./hypot_amd64.s\r\n"
+    ],
+    [
+      0.008100,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/ldexp_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./ldexp_amd64.s\r\n"
+    ],
+    [
+      0.003258,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/log10_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./log10_amd64.s\r\n"
+    ],
+    [
+      0.004652,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/log1p_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./log1p_amd64.s\r\n"
+    ],
+    [
+      0.003007,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/log_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./log_amd64.s\r\n"
+    ],
+    [
+      0.002756,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/mod_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./mod_amd64.s\r\n"
+    ],
+    [
+      0.003112,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/modf_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./modf_amd64.s\r\n"
+    ],
+    [
+      0.004321,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/remainder_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./remainder_amd64.s\r\n"
+    ],
+    [
+      0.003598,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/sin_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./sin_amd64.s\r\n"
+    ],
+    [
+      0.002638,
+      "cd /usr/local/go/src/strings\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/strings/_obj/strings.o -trimpath $WORK -I $WORK/strings/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./strings.s\r\n"
+    ],
+    [
+      0.001078,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/sincos_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./sincos_amd64.s\r\n"
+    ],
+    [
+      0.001961,
+      "cd /usr/local/go/src/strings\r\npack r $WORK/strings.a $WORK/strings/_obj/strings.o # internal\r\n"
+    ],
+    [
+      0.000878,
+      "cd /usr/local/go/src/math\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/sqrt_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./sqrt_amd64.s\r\n"
+    ],
+    [
+      0.002702,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/math/_obj/tan_amd64.o -trimpath $WORK -I $WORK/math/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./tan_amd64.s\r\n"
+    ],
+    [
+      0.005031,
+      "pack r $WORK/math.a $WORK/math/_obj/abs_amd64.o $WORK/math/_obj/asin_amd64.o $WORK/math/_obj/atan2_amd64.o $WORK/math/_obj/atan_amd64.o $WORK/math/_obj/dim_amd64.o $WORK/math/_obj/exp2_amd64.o $WORK/math/_obj/exp_amd64.o $WORK/math/_obj/expm1_amd64.o $WORK/math/_obj/floor_amd64.o $WORK/math/_obj/frexp_amd64.o $WORK/math/_obj/hypot_amd64.o $WORK/math/_obj/ldexp_amd64.o $WORK/math/_obj/log10_amd64.o $WORK/math/_obj/log1p_amd64.o $WORK/math/_obj/log_amd64.o $WORK/math/_obj/mod_amd64.o $WORK/math/_obj/modf_amd64.o $WORK/math/_obj/remainder_amd64.o $WORK/math/_obj/sin_amd64.o $WORK/math/_obj/sincos_amd64.o $WORK/math/_obj/sqrt_amd64.o $WORK/math/_obj/tan_amd64.o # internal\r\n"
+    ],
+    [
+      0.000006,
+      "strconv\r\nmkdir -p $WORK/strconv/_obj/\r\n"
+    ],
+    [
+      0.000022,
+      "cd /usr/local/go/src/strconv\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/strconv.a -trimpath $WORK -p strconv -complete -buildid 4f8db803ed4c2eeaa6a2966570292348f2678bdb -D _/usr/local/go/src/strconv -I $WORK -pack ./atob.go ./atof.go ./atoi.go ./decimal.go ./doc.go ./extfloat.go ./ftoa.go ./isprint.go ./itoa.go ./quote.go\r\n"
+    ],
+    [
+      0.034687,
+      "cd /usr/local/go/src/syscall\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/syscall/_obj/asm.o -trimpath $WORK -I $WORK/syscall/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm.s\r\n"
+    ],
+    [
+      0.003357,
+      "/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/syscall/_obj/asm_darwin_amd64.o -trimpath $WORK -I $WORK/syscall/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm_darwin_amd64.s\r\n"
+    ],
+    [
+      0.005837,
+      "pack r $WORK/syscall.a $WORK/syscall/_obj/asm.o $WORK/syscall/_obj/asm_darwin_amd64.o # internal\r\n"
+    ],
+    [
+      0.000187,
+      "time\r\nmkdir -p $WORK/time/_obj/\r\n"
+    ],
+    [
+      0.000410,
+      "cd /usr/local/go/src/time\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/time.a -trimpath $WORK -p time -buildid 97aa228c36dba3a8db09d462eb7b3c00aaebdd63 -D _/usr/local/go/src/time -I $WORK -pack ./format.go ./sleep.go ./sys_unix.go ./tick.go ./time.go ./zoneinfo.go ./zoneinfo_read.go ./zoneinfo_unix.go\r\n"
+    ],
+    [
+      0.153336,
+      "reflect\r\n"
+    ],
+    [
+      0.000435,
+      "mkdir -p $WORK/reflect/_obj/\r\n"
+    ],
+    [
+      0.000260,
+      "cd /usr/local/go/src/reflect\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/reflect.a -trimpath $WORK -p reflect -buildid 579a6d710d78ee014d4a0d86213f8cfa350e4f38 -D _/usr/local/go/src/reflect -I $WORK -pack -asmhdr $WORK/reflect/_obj/go_asm.h ./deepequal.go ./makefunc.go ./type.go ./value.go\r\n"
+    ],
+    [
+      0.142063,
+      "os\r\nmkdir -p $WORK/os/_obj/\r\n"
+    ],
+    [
+      0.000180,
+      "cd /usr/local/go/src/os\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/os.a -trimpath $WORK -p os -buildid 92253aabd641b9110820396e3ec3ee50d6c2bdea -D _/usr/local/go/src/os -I $WORK -pack ./dir_unix.go ./doc.go ./env.go ./error.go ./error_unix.go ./exec.go ./exec_posix.go ./exec_unix.go ./file.go ./file_posix.go ./file_unix.go ./getwd.go ./getwd_darwin.go ./path.go ./path_unix.go ./pipe_bsd.go ./proc.go ./stat_darwin.go ./sticky_bsd.go ./str.go ./sys_bsd.go ./sys_darwin.go ./types.go ./types_notwin.go\r\n"
+    ],
+    [
+      0.263075,
+      "path/filepath\r\nmkdir -p $WORK/path/filepath/_obj/\r\n"
+    ],
+    [
+      0.000154,
+      "mkdir -p $WORK/path/\r\ncd /usr/local/go/src/path/filepath\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/path/filepath.a -trimpath $WORK -p path/filepath -complete -buildid 4bb56ed5f73dd8ba7c985b3655e581dbe6fba12f -D _/usr/local/go/src/path/filepath -I $WORK -pack ./match.go ./path.go ./path_unix.go ./symlink.go ./symlink_unix.go\r\n"
+    ],
+    [
+      0.048087,
+      "cd /usr/local/go/src/reflect\r\n/usr/local/go/pkg/tool/linux_amd64/asm -o $WORK/reflect/_obj/asm_amd64.o -trimpath $WORK -I $WORK/reflect/_obj/ -I /usr/local/go/pkg/include -D GOOS_darwin -D GOARCH_amd64 ./asm_amd64.s\r\n"
+    ],
+    [
+      0.012392,
+      "pack r $WORK/reflect.a $WORK/reflect/_obj/asm_amd64.o # internal\r\n"
+    ],
+    [
+      0.000228,
+      "fmt\r\nmkdir -p $WORK/fmt/_obj/\r\n"
+    ],
+    [
+      0.000176,
+      "cd /usr/local/go/src/fmt\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/fmt.a -trimpath $WORK -p fmt -complete -buildid 5ab713b0ad795e008651bf5d70aa697604d375ed -D _/usr/local/go/src/fmt -I $WORK -pack ./doc.go ./format.go ./print.go ./scan.go\r\n"
+    ],
+    [
+      0.039117,
+      "os/exec\r\n"
+    ],
+    [
+      0.000040,
+      "mkdir -p $WORK/os/exec/_obj/\r\nmkdir -p $WORK/os/\r\n"
+    ],
+    [
+      0.000265,
+      "cd /usr/local/go/src/os/exec\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/os/exec.a -trimpath $WORK -p os/exec -complete -buildid d83aba0830c5643051587751ba4b44090eb6f4df -D _/usr/local/go/src/os/exec -I $WORK -pack ./exec.go ./exec_posix.go ./lp_unix.go\r\n"
+    ],
+    [
+      0.219617,
+      "flag\r\nmkdir -p $WORK/flag/_obj/\r\ngithub.com/zchee/xhyve-bindings\r\n"
+    ],
+    [
+      0.000240,
+      "cd /usr/local/go/src/flag\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/flag.a -trimpath $WORK -p flag -complete -buildid 93eb9128a5fb7f3c84446b57b7ff97432f0f97c4 -D _/usr/local/go/src/flag -I $WORK -pack ./flag.go\r\n"
+    ],
+    [
+      0.000857,
+      "mkdir -p $WORK/github.com/zchee/xhyve-bindings/_obj/\r\n"
+    ],
+    [
+      0.000228,
+      "mkdir -p $WORK/github.com/zchee/\r\n"
+    ],
+    [
+      0.000309,
+      "cd /go/src/github.com/zchee/xhyve-bindings\r\nCGO_LDFLAGS=\"-g\" \"-O2\" \"-framework\" \"Hypervisor\" \"-framework\" \"vmnet\" /usr/local/go/pkg/tool/linux_amd64/cgo -objdir $WORK/github.com/zchee/xhyve-bindings/_obj/ -importpath github.com/zchee/xhyve-bindings -- -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main xhyve.go\r\n"
+    ],
+    [
+      0.096359,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_main.o -c $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_main.c\r\n"
+    ],
+    [
+      0.015885,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_export.o -c $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_export.c\r\n"
+    ],
+    [
+      0.014780,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.cgo2.o -c $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.cgo2.c\r\n"
+    ],
+    [
+      0.030529,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/acpitbl.o -c ./acpitbl.c\r\n"
+    ],
+    [
+      0.051466,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/atkbdc.o -c ./atkbdc.c\r\n"
+    ],
+    [
+      0.031861,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/block_if.o -c ./block_if.c\r\n"
+    ],
+    [
+      0.055836,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/consport.o -c ./consport.c\r\n"
+    ],
+    [
+      0.032923,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/dbgport.o -c ./dbgport.c\r\n"
+    ],
+    [
+      0.036838,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/fbsd.o -c ./fbsd.c\r\n"
+    ],
+    [
+      0.061620,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/inout.o -c ./inout.c\r\n"
+    ],
+    [
+      0.039013,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/ioapic.o -c ./ioapic.c\r\n"
+    ],
+    [
+      0.028227,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/kexec.o -c ./kexec.c\r\n"
+    ],
+    [
+      0.036671,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/md5c.o -c ./md5c.c\r\n"
+    ],
+    [
+      0.034297,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/mem.o -c ./mem.c\r\n"
+    ],
+    [
+      0.052706,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/mevent.o -c ./mevent.c\r\n"
+    ],
+    [
+      0.040315,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/mptbl.o -c ./mptbl.c\r\n"
+    ],
+    [
+      0.037051,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_ahci.o -c ./pci_ahci.c\r\n"
+    ],
+    [
+      0.085877,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_emul.o -c ./pci_emul.c\r\n"
+    ],
+    [
+      0.073061,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_hostbridge.o -c ./pci_hostbridge.c\r\n"
+    ],
+    [
+      0.032014,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_irq.o -c ./pci_irq.c\r\n"
+    ],
+    [
+      0.044469,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_lpc.o -c ./pci_lpc.c\r\n"
+    ],
+    [
+      0.044153,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_uart.o -c ./pci_uart.c\r\n"
+    ],
+    [
+      0.033369,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_block.o -c ./pci_virtio_block.c\r\n"
+    ],
+    [
+      0.046145,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_net_tap.o -c ./pci_virtio_net_tap.c\r\n"
+    ],
+    [
+      0.052674,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_net_vmnet.o -c ./pci_virtio_net_vmnet.c\r\n"
+    ],
+    [
+      0.079988,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_rnd.o -c ./pci_virtio_rnd.c\r\n"
+    ],
+    [
+      0.039651,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/pm.o -c ./pm.c\r\n"
+    ],
+    [
+      0.038077,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/post.o -c ./post.c\r\n"
+    ],
+    [
+      0.029792,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/rtc.o -c ./rtc.c\r\n"
+    ],
+    [
+      0.028644,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/smbiostbl.o -c ./smbiostbl.c\r\n"
+    ],
+    [
+      0.040867,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/task_switch.o -c ./task_switch.c\r\n"
+    ],
+    [
+      0.046517,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/uart_emul.o -c ./uart_emul.c\r\n"
+    ],
+    [
+      0.043500,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vatpic.o -c ./vatpic.c\r\n"
+    ],
+    [
+      0.047149,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vatpit.o -c ./vatpit.c\r\n"
+    ],
+    [
+      0.039369,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vhpet.o -c ./vhpet.c\r\n"
+    ],
+    [
+      0.056732,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vioapic.o -c ./vioapic.c\r\n"
+    ],
+    [
+      0.040731,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/virtio.o -c ./virtio.c\r\n"
+    ],
+    [
+      0.050335,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vlapic.o -c ./vlapic.c\r\n"
+    ],
+    [
+      0.080066,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmcs.o -c ./vmcs.c\r\n"
+    ],
+    [
+      0.038071,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm.o -c ./vmm.c\r\n"
+    ],
+    [
+      0.088173,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_api.o -c ./vmm_api.c\r\n"
+    ],
+    [
+      0.067599,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_callout.o -c ./vmm_callout.c\r\n"
+    ],
+    [
+      0.055485,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_host.o -c ./vmm_host.c\r\n"
+    ],
+    [
+      0.037719,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_instruction_emul.o -c ./vmm_instruction_emul.c\r\n"
+    ],
+    [
+      0.075446,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_ioport.o -c ./vmm_ioport.c\r\n"
+    ],
+    [
+      0.036861,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_lapic.o -c ./vmm_lapic.c\r\n"
+    ],
+    [
+      0.039839,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_mem.o -c ./vmm_mem.c\r\n"
+    ],
+    [
+      0.030157,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_stat.o -c ./vmm_stat.c\r\n"
+    ],
+    [
+      0.034239,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_util.o -c ./vmm_util.c\r\n"
+    ],
+    [
+      0.026796,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmx.o -c ./vmx.c\r\n"
+    ],
+    [
+      0.089043,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vmx_msr.o -c ./vmx_msr.c\r\n"
+    ],
+    [
+      0.047405,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vpmtmr.o -c ./vpmtmr.c\r\n"
+    ],
+    [
+      0.036941,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/vrtc.o -c ./vrtc.c\r\n"
+    ],
+    [
+      0.072647,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/x86.o -c ./x86.c\r\n"
+    ],
+    [
+      0.047480,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.o -c ./xhyve.c\r\n"
+    ],
+    [
+      0.064775,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -I $WORK/github.com/zchee/xhyve-bindings/_obj/ -F/osxcross/target/bin/../SDK/MacOSX10.11.sdk/System/Library/Frameworks -I/osxcross/target/bin/../SDK/MacOSX10.11.sdk/usr/include -I upstream/include/ -DMAIN=xhyve_main -o $WORK/github.com/zchee/xhyve-bindings/_obj/xmsr.o -c ./xmsr.c\r\n"
+    ],
+    [
+      0.034376,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -o $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_.o $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_main.o $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_export.o $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.cgo2.o $WORK/github.com/zchee/xhyve-bindings/_obj/acpitbl.o $WORK/github.com/zchee/xhyve-bindings/_obj/atkbdc.o $WORK/github.com/zchee/xhyve-bindings/_obj/block_if.o $WORK/github.com/zchee/xhyve-bindings/_obj/consport.o $WORK/github.com/zchee/xhyve-bindings/_obj/dbgport.o $WORK/github.com/zchee/xhyve-bindings/_obj/fbsd.o $WORK/github.com/zchee/xhyve-bindings/_obj/inout.o $WORK/github.com/zchee/xhyve-bindings/_obj/ioapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/kexec.o $WORK/github.com/zchee/xhyve-bindings/_obj/md5c.o $WORK/github.com/zchee/xhyve-bindings/_obj/mem.o $WORK/github.com/zchee/xhyve-bindings/_obj/mevent.o $WORK/github.com/zchee/xhyve-bindings/_obj/mptbl.o $WOR"
+    ],
+    [
+      0.000040,
+      "K/github.com/zchee/xhyve-bindings/_obj/pci_ahci.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_emul.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_hostbridge.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_irq.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_lpc.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_uart.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_block.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_net_tap.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_net_vmnet.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_rnd.o $WORK/github.com/zchee/xhyve-bindings/_obj/pm.o $WORK/github.com/zchee/xhyve-bindings/_obj/post.o $WORK/github.com/zchee/xhyve-bindings/_obj/rtc.o $WORK/github.com/zchee/xhyve-bindings/_obj/smbiostbl.o $WORK/github.com/zchee/xhyve-bindings/_obj/task_switch.o $WORK/github.com/zchee/xhyve-bindings/_obj/uart_emul.o $WORK/github.com/zchee/xhyve-bindings/_obj/vatpic.o $WORK/github.com/zchee/xhyve-bindings/_obj/vatpit.o $WORK/github.com/zchee/xhyve-b"
+    ],
+    [
+      0.000915,
+      "indings/_obj/vhpet.o $WORK/github.com/zchee/xhyve-bindings/_obj/vioapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/virtio.o $WORK/github.com/zchee/xhyve-bindings/_obj/vlapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmcs.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_api.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_callout.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_host.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_instruction_emul.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_ioport.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_lapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_mem.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_stat.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_util.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmx.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmx_msr.o $WORK/github.com/zchee/xhyve-bindings/_obj/vpmtmr.o $WORK/github.com/zchee/xhyve-bindings/_obj/vrtc.o $WORK/github.com/zchee/xhyve-bindings/_ob"
+    ],
+    [
+      0.000905,
+      "j/x86.o $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.o $WORK/github.com/zchee/xhyve-bindings/_obj/xmsr.o -g -O2 -framework Hypervisor -framework vmnet\r\n"
+    ],
+    [
+      0.028656,
+      "/usr/local/go/pkg/tool/linux_amd64/cgo -objdir $WORK/github.com/zchee/xhyve-bindings/_obj/ -dynpackage xhyve -dynimport $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_.o -dynout $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_import.go\r\n"
+    ],
+    [
+      0.005416,
+      "x86_64-apple-darwin15-clang -I . -fPIC -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fno-common -o $WORK/github.com/zchee/xhyve-bindings/_obj/_all.o $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_export.o $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.cgo2.o $WORK/github.com/zchee/xhyve-bindings/_obj/acpitbl.o $WORK/github.com/zchee/xhyve-bindings/_obj/atkbdc.o $WORK/github.com/zchee/xhyve-bindings/_obj/block_if.o $WORK/github.com/zchee/xhyve-bindings/_obj/consport.o $WORK/github.com/zchee/xhyve-bindings/_obj/dbgport.o $WORK/github.com/zchee/xhyve-bindings/_obj/fbsd.o $WORK/github.com/zchee/xhyve-bindings/_obj/inout.o $WORK/github.com/zchee/xhyve-bindings/_obj/ioapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/kexec.o $WORK/github.com/zchee/xhyve-bindings/_obj/md5c.o $WORK/github.com/zchee/xhyve-bindings/_obj/mem.o $WORK/github.com/zchee/xhyve-bindings/_obj/mevent.o $WORK/github.com/zchee/xhyve-bindings/_obj/mptbl.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_ahci.o $WORK/"
+    ],
+    [
+      0.000027,
+      "github.com/zchee/xhyve-bindings/_obj/pci_emul.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_hostbridge.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_irq.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_lpc.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_uart.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_block.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_net_tap.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_net_vmnet.o $WORK/github.com/zchee/xhyve-bindings/_obj/pci_virtio_rnd.o $WORK/github.com/zchee/xhyve-bindings/_obj/pm.o $WORK/github.com/zchee/xhyve-bindings/_obj/post.o $WORK/github.com/zchee/xhyve-bindings/_obj/rtc.o $WORK/github.com/zchee/xhyve-bindings/_obj/smbiostbl.o $WORK/github.com/zchee/xhyve-bindings/_obj/task_switch.o $WORK/github.com/zchee/xhyve-bindings/_obj/uart_emul.o $WORK/github.com/zchee/xhyve-bindings/_obj/vatpic.o $WORK/github.com/zchee/xhyve-bindings/_obj/vatpit.o $WORK/github.com/zchee/xhyve-bindings/_obj/vhpet.o $WORK/github.com/zchee/xhyve-bindin"
+    ],
+    [
+      0.000522,
+      "gs/_obj/vioapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/virtio.o $WORK/github.com/zchee/xhyve-bindings/_obj/vlapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmcs.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_api.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_callout.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_host.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_instruction_emul.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_ioport.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_lapic.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_mem.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_stat.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmm_util.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmx.o $WORK/github.com/zchee/xhyve-bindings/_obj/vmx_msr.o $WORK/github.com/zchee/xhyve-bindings/_obj/vpmtmr.o $WORK/github.com/zchee/xhyve-bindings/_obj/vrtc.o $WORK/github.com/zchee/xhyve-bindings/_obj/x86.o $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve"
+    ],
+    [
+      0.000483,
+      ".o $WORK/github.com/zchee/xhyve-bindings/_obj/xmsr.o -g -O2 -Wl,-r -nostdlib\r\n"
+    ],
+    [
+      0.027116,
+      "/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/github.com/zchee/xhyve-bindings.a -trimpath $WORK -p github.com/zchee/xhyve-bindings -buildid 3e6c097e213b9eec75d90265e6048d4a9b8bc4a7 -D _/go/src/github.com/zchee/xhyve-bindings -I $WORK -pack $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_gotypes.go $WORK/github.com/zchee/xhyve-bindings/_obj/xhyve.cgo1.go $WORK/github.com/zchee/xhyve-bindings/_obj/_cgo_import.go\r\n"
+    ],
+    [
+      0.037535,
+      "pack r $WORK/github.com/zchee/xhyve-bindings.a $WORK/github.com/zchee/xhyve-bindings/_obj/_all.o # internal\r\n"
+    ],
+    [
+      0.001073,
+      "github.com/zchee/xhyve-bindings/main\r\n"
+    ],
+    [
+      0.000206,
+      "mkdir -p $WORK/github.com/zchee/xhyve-bindings/main/_obj/\r\n"
+    ],
+    [
+      0.000486,
+      "mkdir -p $WORK/github.com/zchee/xhyve-bindings/main/_obj/exe/\r\n"
+    ],
+    [
+      0.000396,
+      "cd /go/src/github.com/zchee/xhyve-bindings/main\r\n/usr/local/go/pkg/tool/linux_amd64/compile -o $WORK/github.com/zchee/xhyve-bindings/main.a -trimpath $WORK -p main -complete -buildid 54ade956576891f2444820729fe828b2126fd521 -D _/go/src/github.com/zchee/xhyve-bindings/main -I $WORK -I /go/pkg/darwin_amd64 -pack ./main.go\r\n"
+    ],
+    [
+      0.038570,
+      "cd .\r\n/usr/local/go/pkg/tool/linux_amd64/link -o $WORK/github.com/zchee/xhyve-bindings/main/_obj/exe/a.out -L $WORK -L /go/pkg/darwin_amd64 -extld=x86_64-apple-darwin15-clang -buildmode=exe -buildid=54ade956576891f2444820729fe828b2126fd521 -s $WORK/github.com/zchee/xhyve-bindings/main.a\r\n"
+    ],
+    [
+      0.425074,
+      "mkdir -p /build/\r\n"
+    ],
+    [
+      0.000655,
+      "cp $WORK/github.com/zchee/xhyve-bindings/main/_obj/exe/a.out /build/main-darwin-amd64\r\n"
+    ],
+    [
+      0.464426,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.047670,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000097,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.018126,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000066,
+      "\u001b[?2004h"
+    ],
+    [
+      0.125835,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      1.498287,
+      "\u001b[46m.\u001b[49m"
+    ],
+    [
+      0.014219,
+      "\u0008\u001b[49m\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.608743,
+      "\u0008\u0008\u001b[4m.\u001b[4m/\u001b[4mm\u001b[24m"
+    ],
+    [
+      0.056161,
+      "\u0008\u001b[4mm\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.423993,
+      "\u0008\u001b[4ma\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.071239,
+      "\u0008\u001b[4mi\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.278126,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[46m./main-darwin-amd64\u001b[49m\u001b[1m \u001b[0m\u001b[K\u001b[216CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[244D"
+    ],
+    [
+      0.834358,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000050,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.018026,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[46m./main-darwin-amd64\u001b[49m\u001b[K\u001b[217CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[245D"
+    ],
+    [
+      0.000085,
+      "\r\r\n"
+    ],
+    [
+      0.009514,
+      "Usage: ./main \u003cuuid\u003e \u003ciso\u003e \u003cimg\u003e \u003cuserdata\u003e \u003cvmlinuz\u003e \u003cinitrd\u003e\r\n"
+    ],
+    [
+      0.001188,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.048223,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000129,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.019203,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000095,
+      "\u001b[?2004h"
+    ],
+    [
+      0.109344,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      4.416750,
+      "\r\r\n"
+    ],
+    [
+      0.000035,
+      "\u0007"
+    ],
+    [
+      0.037898,
+      "zsh: use 'exit' to exit.\r\u001b[A\u001b[?2004l"
+    ],
+    [
+      0.019647,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[0m\u001b[27m\u001b[24m\u001b[264D"
+    ],
+    [
+      0.000140,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.021543,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      0.000164,
+      "\u001b[?2004h"
+    ],
+    [
+      0.114485,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[236CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[264D"
+    ],
+    [
+      2.160607,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.231539,
+      "\u0008\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.271545,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.029967,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[46me\u001b[0m\u001b[39m\u001b[46mx\u001b[0m\u001b[39m\u001b[46mi\u001b[46mt\u001b[49m"
+    ],
+    [
+      0.140178,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.019520,
+      "\u001b[?2004l\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;073m~/go/src/github.com/zchee/xgo\u001b[0m\u001b[00m \u001b[38;5;160m\u001b[1m!\u001b[0m\u001b[00m \u001b[38;5;061m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000016,
+      "\u001b[46mexit\u001b[49m\u001b[K\u001b[232CDocker: vmware  \u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;160m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;136m\u001b[1m-\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[38;5;061m\u001b[1m(\u001b[0m\u001b[00m\u001b[38;5;125m\u001b[1mmaster\u001b[0m\u001b[38;5;061m\u001b[1m)\u001b[0m\u001b[00m\u001b[260D"
+    ],
+    [
+      0.000110,
+      "\r\r\n"
+    ]
+  ]
+}

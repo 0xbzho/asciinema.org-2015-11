@@ -1,0 +1,2586 @@
+{
+  "version": 1,
+  "width": 173,
+  "height": 82,
+  "duration": 147.893680,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008862,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000011,
+      "bash-3.2$ "
+    ],
+    [
+      0.951219,
+      "s"
+    ],
+    [
+      0.231984,
+      "w"
+    ],
+    [
+      0.376057,
+      "_"
+    ],
+    [
+      0.255992,
+      "v"
+    ],
+    [
+      0.279996,
+      "e"
+    ],
+    [
+      0.087897,
+      "r"
+    ],
+    [
+      0.280077,
+      "s"
+    ],
+    [
+      0.119927,
+      "\r\n"
+    ],
+    [
+      0.008576,
+      "ProductName:\tMac OS X\r\nProductVersion:\t10.10.5\r\nBuildVersion:\t14F27\r\n"
+    ],
+    [
+      0.000388,
+      "bash-3.2$ "
+    ],
+    [
+      1.087224,
+      "d"
+    ],
+    [
+      0.000011,
+      "oc"
+    ],
+    [
+      0.000005,
+      "ke"
+    ],
+    [
+      0.000014,
+      "r"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000083,
+      "machine cr"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.000006,
+      "e "
+    ],
+    [
+      0.000030,
+      "-"
+    ],
+    [
+      0.000005,
+      "-d"
+    ],
+    [
+      0.000027,
+      "r"
+    ],
+    [
+      0.000004,
+      "iv"
+    ],
+    [
+      0.000027,
+      "e"
+    ],
+    [
+      0.000026,
+      "r x"
+    ],
+    [
+      0.000016,
+      "h"
+    ],
+    [
+      0.000016,
+      "y"
+    ],
+    [
+      0.000004,
+      "v"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000034,
+      " -"
+    ],
+    [
+      0.000013,
+      "-"
+    ],
+    [
+      0.000041,
+      "x"
+    ],
+    [
+      0.000020,
+      "hy"
+    ],
+    [
+      0.000023,
+      "ve"
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      0.000032,
+      "d"
+    ],
+    [
+      0.000037,
+      "i"
+    ],
+    [
+      0.000007,
+      "s"
+    ],
+    [
+      0.000002,
+      "k"
+    ],
+    [
+      0.000023,
+      "-"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000021,
+      "i"
+    ],
+    [
+      0.000002,
+      "z"
+    ],
+    [
+      0.000012,
+      "e"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000017,
+      "2"
+    ],
+    [
+      0.000004,
+      "0"
+    ],
+    [
+      0.000015,
+      "0"
+    ],
+    [
+      0.000003,
+      "0"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000005,
+      "x"
+    ],
+    [
+      0.000032,
+      "h"
+    ],
+    [
+      0.000027,
+      "y"
+    ],
+    [
+      0.000016,
+      "v"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.903153,
+      "\r\n"
+    ],
+    [
+      0.009792,
+      "Docker Machine Version: 0.5.0 (d8d57b8)\r\n"
+    ],
+    [
+      0.000287,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000057,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.012034,
+      "Plugin server listening at address 127.0.0.1:50706\r\n"
+    ],
+    [
+      0.000635,
+      "() Calling RPCServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000696,
+      "Using API Version 1\r\n"
+    ],
+    [
+      0.000012,
+      "() Calling RPCServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000236,
+      "() Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000150,
+      "(flag-lookup) Calling RPCServerDriver.GetCreateFlags\r\n"
+    ],
+    [
+      0.204932,
+      "Making call to close connection to plugin binary\r\n"
+    ],
+    [
+      0.000009,
+      "Making call to close driver server\r\n(flag-lookup) Calling RPCServerDriver.Close\r\n"
+    ],
+    [
+      0.000359,
+      "Successfully made call to close driver server"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000365,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000040,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.014451,
+      "Plugin server listening at address 127.0.0.1:50710\r\n"
+    ],
+    [
+      0.000416,
+      "() Calling RPCServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000492,
+      "Using API Version 1\r\n() Calling RPCServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000318,
+      "() Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000143,
+      "(xhyve) Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000114,
+      "(xhyve) Calling RPCServerDriver.DriverName\r\n"
+    ],
+    [
+      0.000114,
+      "(xhyve) Calling RPCServerDriver.GetCreateFlags\r\n"
+    ],
+    [
+      0.000376,
+      "(xhyve) Calling RPCServerDriver.SetConfigFromFlags\r\n"
+    ],
+    [
+      0.000411,
+      "Running pre-create checks...\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve) Calling RPCServerDriver.PreCreateCheck\r\n"
+    ],
+    [
+      0.000130,
+      "(xhyve) DBG | ===== Docker Machine xhyve Driver Version 0.0.1-dev (9c4f221) ====="
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000019,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000332,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000370,
+      "Creating machine...\r\n(xhyve) Calling RPCServerDriver.Create\r\n"
+    ],
+    [
+      0.754210,
+      "(xhyve) OUT | Creating SSH key...\r\n"
+    ],
+    [
+      0.436030,
+      "(xhyve) OUT | Creating VM...\r\n(xhyve) OUT | Extracting vmlinuz64 and initrd.img from boot2docker.iso...\r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve) DBG | Mounting boot2docker.iso\r\n"
+    ],
+    [
+      0.000085,
+      "(xhyve) DBG | executing: \u0026{/usr/bin/hdiutil [hdiutil attach /Users/zchee/.docker/machine/machines/xhyve/boot2docker.iso] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e} attach /Users/zchee/.docker/machine/machines/xhyve/boot2docker.iso\r\n"
+    ],
+    [
+      1.304502,
+      "(xhyve) DBG | Getting Boot2docker version ...\r\n"
+    ],
+    [
+      0.000425,
+      "(xhyve) DBG | Boot2docker version: v1.9\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve) DBG | Extracting vmlinuz64 into /Users/zchee/.docker/machine/machines/xhyve\r\n"
+    ],
+    [
+      0.006140,
+      "(xhyve) DBG | Extracting initrd.img into /Users/zchee/.docker/machine/machines/xhyve\r\n"
+    ],
+    [
+      0.117603,
+      "(xhyve) DBG | Unmounting boot2docker.iso\r\n"
+    ],
+    [
+      0.000074,
+      "(xhyve) DBG | executing: \u0026{/usr/bin/hdiutil [hdiutil detach /Volumes/Boot2Docker-v1.9] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e} detach /Volumes/Boot2Docker-v1.9\r\n"
+    ],
+    [
+      0.053297,
+      "(xhyve) OUT | Make a boot2docker userdata.tar key bundle...\r\n"
+    ],
+    [
+      0.000230,
+      "(xhyve) OUT | Fix file permission...\r\n"
+    ],
+    [
+      0.000110,
+      "(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/boot2docker.iso\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/config.json\r\n(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/id_rsa\r\n"
+    ],
+    [
+      0.000031,
+      "(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/id_rsa.pub\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/initrd.img\r\n"
+    ],
+    [
+      0.000021,
+      "(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/userdata.tar\r\n"
+    ],
+    [
+      0.000056,
+      "(xhyve) OUT | Creating blank ext4 filesystem disk image...\r\n"
+    ],
+    [
+      0.000068,
+      "(xhyve) DBG | /Users/zchee/.docker/machine/machines/xhyve/vmlinuz64\r\n"
+    ],
+    [
+      0.000174,
+      "(xhyve) DBG | libguestfs: trace: disk_create \"/Users/zchee/.docker/machine/machines/xhyve/xhyve.img\" \"raw\" 2097152000\r\n"
+    ],
+    [
+      19.816596,
+      "(xhyve) DBG | libguestfs: trace: disk_create = 0\r\n"
+    ],
+    [
+      0.000011,
+      "(xhyve) DBG | libguestfs: trace: add_drive \"/Users/zchee/.docker/machine/machines/xhyve/xhyve.img\" \"readonly:false\" \"format:raw\"\r\n(xhyve) DBG | libguestfs: trace: add_drive = 0\r\n(xhyve) DBG | libguestfs: trace: launch\r\n(xhyve) DBG | libguestfs: trace: get_tmpdir"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) DBG | libguestfs: trace: get_tmpdir = \"/private/var/folders/m5/p4f5txds77b8035zrnqf_rc80000gn/T\"\r\n"
+    ],
+    [
+      0.000303,
+      "(xhyve) DBG | libguestfs: trace: get_backend_setting \"force_tcg\"\r\n"
+    ],
+    [
+      0.000250,
+      "(xhyve) DBG | libguestfs: trace: get_backend_setting = NULL (error)\r\n"
+    ],
+    [
+      0.115263,
+      "(xhyve) DBG | libguestfs: trace: get_backend_setting \"gdb\"\r\n"
+    ],
+    [
+      0.000013,
+      "(xhyve) DBG | libguestfs: trace: get_backend_setting = NULL (error)\r\n"
+    ],
+    [
+      8.511422,
+      "(xhyve) DBG | libguestfs: trace: launch = 0\r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve) DBG | libguestfs: trace: list_devices\r\n"
+    ],
+    [
+      0.007147,
+      "(xhyve) DBG | libguestfs: trace: list_devices = [\"/dev/sda\"]\r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve) DBG | libguestfs: trace: part_disk \"/dev/sda\" \"mbr\"\r\n"
+    ],
+    [
+      0.555614,
+      "(xhyve) DBG | libguestfs: trace: part_disk = 0\r\n(xhyve) DBG | libguestfs: trace: list_partitions"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002579,
+      "(xhyve) DBG | libguestfs: trace: list_partitions = [\"/dev/sda1\"]\r\n(xhyve) DBG | libguestfs: trace: mkfs \"ext4\" \"/dev/sda1\"\r\n"
+    ],
+    [
+      1.272076,
+      "(xhyve) DBG | libguestfs: trace: mkfs = 0\r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve) DBG | libguestfs: trace: mount \"/dev/sda1\" \"/\"\r\n"
+    ],
+    [
+      0.102908,
+      "(xhyve) DBG | libguestfs: trace: mount = 0\r\n"
+    ],
+    [
+      0.000007,
+      "(xhyve) DBG | libguestfs: trace: mkdir_p \"/var/lib/boot2docker\"\r\n"
+    ],
+    [
+      0.012220,
+      "(xhyve) DBG | libguestfs: trace: mkdir_p = 0\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve) DBG | libguestfs: trace: upload \"/Users/zchee/.docker/machine/machines/xhyve/userdata.tar\" \"/var/lib/boot2docker/userdata.tar\"\r\n"
+    ],
+    [
+      0.006887,
+      "(xhyve) DBG | libguestfs: trace: upload = 0\r\n(xhyve) DBG | libguestfs: trace: shutdown\r\n(xhyve) DBG | libguestfs: trace: internal_autosync\r\n"
+    ],
+    [
+      0.096665,
+      "(xhyve) DBG | libguestfs: trace: internal_autosync = 0\r\n"
+    ],
+    [
+      0.028556,
+      "(xhyve) DBG | libguestfs: trace: shutdown = 0\r\n"
+    ],
+    [
+      0.000045,
+      "(xhyve) DBG | libguestfs: trace: close\r\n"
+    ],
+    [
+      0.004406,
+      "(xhyve) OUT | Generate UUID...\r\n(xhyve) DBG | Created disk size: 2000MB\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve) DBG | executing: \u0026{/usr/bin/uuidgen [uuidgen] []  \u003cnil\u003e  \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e}\r\n"
+    ],
+    [
+      0.003128,
+      "(xhyve) DBG | uuidgen generated UUID: B307A686-800C-4E5E-9121-D63970CD1769\r\n"
+    ],
+    [
+      0.000140,
+      "(xhyve) OUT | Convert UUID to MAC address...\r\n"
+    ],
+    [
+      0.071056,
+      "(xhyve) OUT | Starting xhyve..."
+    ],
+    [
+      0.000009,
+      "\r\n(xhyve) DBG | uuid2mac output MAC address: c6:4b:f:2e:cf:32\r\n(xhyve) DBG | \u0026{/Users/zchee/go/bin/goxhyve [goxhyve B307A686-800C-4E5E-9121-D63970CD1769 1 1024 /Users/zchee/.docker/machine/machines/xhyve/boot2docker.iso /Users/zchee/.docker/machine/machines/xhyve/xhyve.img kexec,/Users/zchee/.docker/machine/machines/xhyve/vmlinuz64,/Users/zchee/.docker/machine/machines/xhyve/initrd.img,loglevel=3 user=docker console=ttyS0 console=tty0 noembed nomodeset norestore waitusb=10:LABEL=boot2docker-data base host=boot2docker -d] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e}"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve) OUT | Waiting for VM to come online...\r\n"
+    ],
+    [
+      0.000038,
+      "(xhyve) DBG | "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve) DBG | Not there yet 1/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      2.004066,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000082,
+      "(xhyve) DBG | Not there yet 2/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.003818,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000067,
+      "(xhyve) DBG | Not there yet 3/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.005113,
+      "(xhyve) DBG | \r\n(xhyve) DBG | Not there yet 4/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.004697,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000009,
+      "(xhyve) DBG | Not there yet 5/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.005491,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve) DBG | Not there yet 6/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.003740,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000096,
+      "(xhyve) DBG | Not there yet 7/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.002356,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000061,
+      "(xhyve) DBG | Not there yet 8/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.001633,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000064,
+      "(xhyve) DBG | Not there yet 9/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.005157,
+      "(xhyve) DBG | \r\n"
+    ],
+    [
+      0.000055,
+      "(xhyve) DBG | Not there yet 10/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases\r\n"
+    ],
+    [
+      2.005126,
+      "(xhyve) DBG | \r\n(xhyve) DBG | Not there yet 11/60, error: IP not found for MAC c6:4b:f:2e:cf:32 in DHCP leases"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      2.004835,
+      "(xhyve) DBG | 192.168.64.8\r\n"
+    ],
+    [
+      0.000009,
+      "(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n(xhyve) DBG | Got an ip: 192.168.64.8\r\n"
+    ],
+    [
+      0.000126,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000337,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000597,
+      "(xhyve) Calling RPCServerDriver.DriverName\r\n"
+    ],
+    [
+      0.000231,
+      "Waiting for machine to be running, this may take a few minutes...\r\n"
+    ],
+    [
+      0.000006,
+      "(xhyve) Calling RPCServerDriver.GetState"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000232,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n"
+    ],
+    [
+      0.000045,
+      "(xhyve) DBG | Using SSH client type: external\r\n"
+    ],
+    [
+      0.000007,
+      "(xhyve) DBG | About to run SSH command:\r\n(xhyve) DBG | exit 0"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.064920,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: \r\n"
+    ],
+    [
+      0.000085,
+      "Machine is running, waiting for SSH to be available...\r\n"
+    ],
+    [
+      0.000004,
+      "Getting to WaitForSSH function...\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000162,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000126,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000105,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000129,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000003,
+      "About to run SSH command:\r\nexit 0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.061589,
+      "SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000008,
+      "\r\nDetecting operating system of created instance...\r\n"
+    ],
+    [
+      0.000028,
+      "Detecting the provisioner..."
+    ],
+    [
+      0.000009,
+      "\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000210,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000133,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000119,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000153,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000007,
+      "About to run SSH command:\r\ncat /etc/os-release"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.057786,
+      "SSH cmd err, output: \u003cnil\u003e: NAME=Boot2Docker\r\nVERSION=1.9.0\r\nID=boot2docker\r\nID_LIKE=tcl\r\nVERSION_ID=1.9.0\r\nPRETTY_NAME=\"Boot2Docker 1.9.0 (TCL 6.4); master : 16e4a2a - Tue Nov  3 19:49:22 UTC 2015\"\r\nANSI_COLOR=\"1;34\"\r\nHOME_URL=\"http://boot2docker.io\"\r\nSUPPORT_URL=\"https://github.com/boot2docker/boot2docker\"\r\nBUG_REPORT_URL=\"https://github.com/boot2docker/boot2docker/issues\"\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "found compatible host: boot2docker\r\n"
+    ],
+    [
+      0.000005,
+      "Provisioning created instance...\r\n(xhyve) Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000261,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000124,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000124,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000112,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000128,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000005,
+      "About to run SSH command:\r\nsudo /usr/bin/sethostname xhyve \u0026\u0026 echo \"xhyve\" | sudo tee /var/lib/boot2docker/etc/hostname\r\n"
+    ],
+    [
+      0.067635,
+      "SSH cmd err, output: \u003cnil\u003e: \u001b[1;32mSetting hostname to \u001b[1;35mboot2docker\u001b[0;39m \u001b[1;32mDone.\u001b[0;39m\r\nxhyve\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000191,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000123,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000132,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000156,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000015,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      0.189763,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       36      0 192.168.64.8:ssh        192.168.64.1:50717      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16399 /var/run/acpid.socket\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14286 /run/udev/control\r\nunix  3      [ ]         DGRAM                     14295 \r\nunix  3      [ ]         STREAM     CONNECTED      16678 \r\nunix  3      [ ]         STREAM     CONNECTED      16677 \r\nunix  3      [ ]         DGRAM                     14296 \r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      3.000409,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000081,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000112,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000102,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000131,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000004,
+      "About to run SSH command:\r\nnetstat -a"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.054990,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp        0      0 192.168.64.8:ssh        192.168.64.1:50725      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16399 /var/run/acpid.socket\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14286 /run/udev/control\r\nunix  3      [ ]         DGRAM                     14295 \r\nunix  3      [ ]         STREAM     CONNECTED      16765 \r\nunix  3      [ ]         STREAM     CONNECTED      16764 \r\nunix  3      [ ]         DGRAM                     14296 \r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      3.004398,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000383,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000232,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000180,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000174,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000005,
+      "About to run SSH command:\r\nnetstat -a"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.069357,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       36      0 192.168.64.8:ssh        192.168.64.1:50730      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\ntcp        0      0 :::2376                 :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16399 /var/run/acpid.socket\r\nunix  2      [ ACC ]     STREAM     LISTENING      16939 /var/lib/docker/network/files/0f278e01a0c69bffc853a2c7ce88b6beb324d108fe280d36e3c86a27e5d43e0c.sock\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14286 /run/udev/control\r\nunix  2      [ ACC ]     STREAM     LISTENING      16857 /var/run/docker.sock\r\nunix  3      [ ]     "
+    ],
+    [
+      0.000031,
+      "    STREAM     CONNECTED      17117 \r\nunix  3      [ ]         DGRAM                     14295 \r\nunix  3      [ ]         STREAM     CONNECTED      17116 \r\nunix  3      [ ]         DGRAM                     14296 \r\n\r\n"
+    ],
+    [
+      0.000130,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000179,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000086,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000150,
+      "Using SSH client type: external"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "About to run SSH command:\r\nsudo mkdir -p /var/lib/boot2docker"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.067953,
+      "SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000008,
+      "\r\n(xhyve) Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000227,
+      "(xhyve) Calling RPCServerDriver.GetIP\r\n"
+    ],
+    [
+      0.000095,
+      "Copying certs to the local machine directory...\r\n"
+    ],
+    [
+      0.000419,
+      "generating server cert: /Users/zchee/.docker/machine/machines/xhyve/server.pem ca-key=/Users/zchee/.docker/machine/certs/ca.pem private-key=/Users/zchee/.docker/machine/certs/ca-key.pem org=zchee.xhyve\r\n"
+    ],
+    [
+      0.309805,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000124,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000113,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000093,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000138,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000013,
+      "About to run SSH command:\r\nsudo /etc/init.d/docker stop\r\n"
+    ],
+    [
+      0.071042,
+      "SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "Copying certs to the remote machine...\r\n"
+    ],
+    [
+      0.000017,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000223,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000109,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000143,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000128,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000021,
+      "About to run SSH command:\r\nprintf '%s' '-----BEGIN CERTIFICATE-----\r\nMIICzTCCAbWgAwIBAgIQcvJN+Xi9CyQR63Cj8DKL0zANBgkqhkiG9w0BAQsFADAQ\r\nMQ4wDAYDVQQKEwV6Y2hlZTAeFw0xNTExMTYwNTMzMDBaFw0xODEwMzEwNTMzMDBa\r\nMBAxDjAMBgNVBAoTBXpjaGVlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC\r\nAQEAzaf584MovjD2xXPiyx0SBgZ+LoaXnmCaROWnU6kmOZYddTCaeDJbHGk0PnqR\r\nKNI4IJ9rQataFCC/gYjpxflRCVq8gmh2za3Gbfna9k+yOAqurPO++OmKaxMxfnU5\r\nOqNKvP3qYqpV5aohYy8NZxK5QNMOARAG2HLvNbiTkNoCglWhTgl+0s4xHXDRH2RG\r\n6QfqFqZtRiZOKuU0YJXA2fxX5Xa+CvdLb5utbxXdPVHfCR7JBs11o/KLeGXGCQJx\r\nMF2M3VrG0x1rhyM+eNuY9yMBb28hJnT7bZwOBEqmjcICaSuyxYNJbw2OuUQWXUFP\r\nSaonqZo1SRscABgRnNqRncuTgwIDAQABoyMwITAOBgNVHQ8BAf8EBAMCAqwwDwYD\r\nVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAuBBxKT8XYe/LQ7DS27l/\r\nePlb+PToojOg6QeYXMDjg9ckUy3eUuypBn59GZRJ5M/4VyrxXs2zxNHYf/xJ3amG\r\ngJa1DA6tDUQzhqsST3W7DgUbslldXSaE5jGAxpwA8+ytV01vmyra4zqNh8mVG5mU\r\nXIB5UzCkHDVYRj+44HGfz1j85o/RNDRVs35ebVPRmFpIHqmnby7e1ZDeiAnwWTxG\r\nx2GzFTGlq9c5WYoeEJL3jEz+Ed0LVkniJPAY2iraFHad8UMiujnYoGN3XuvgH0Lr\r\npAbXERXBzXVZKL/xtViljvGSwmFZGjx"
+    ],
+    [
+      0.000003,
+      "bfztVgfRUtnbPzOVWaVs+nP+hxt8LEZff\r\naA==\r\n-----END CERTIFICATE-----\r\n' | sudo tee /var/lib/boot2docker/ca.pem\r\n"
+    ],
+    [
+      0.067262,
+      "SSH cmd err, output: \u003cnil\u003e: -----BEGIN CERTIFICATE-----\r\nMIICzTCCAbWgAwIBAgIQcvJN+Xi9CyQR63Cj8DKL0zANBgkqhkiG9w0BAQsFADAQ\r\nMQ4wDAYDVQQKEwV6Y2hlZTAeFw0xNTExMTYwNTMzMDBaFw0xODEwMzEwNTMzMDBa\r\nMBAxDjAMBgNVBAoTBXpjaGVlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC\r\nAQEAzaf584MovjD2xXPiyx0SBgZ+LoaXnmCaROWnU6kmOZYddTCaeDJbHGk0PnqR\r\nKNI4IJ9rQataFCC/gYjpxflRCVq8gmh2za3Gbfna9k+yOAqurPO++OmKaxMxfnU5\r\nOqNKvP3qYqpV5aohYy8NZxK5QNMOARAG2HLvNbiTkNoCglWhTgl+0s4xHXDRH2RG\r\n6QfqFqZtRiZOKuU0YJXA2fxX5Xa+CvdLb5utbxXdPVHfCR7JBs11o/KLeGXGCQJx\r\nMF2M3VrG0x1rhyM+eNuY9yMBb28hJnT7bZwOBEqmjcICaSuyxYNJbw2OuUQWXUFP\r\nSaonqZo1SRscABgRnNqRncuTgwIDAQABoyMwITAOBgNVHQ8BAf8EBAMCAqwwDwYD\r\nVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAuBBxKT8XYe/LQ7DS27l/\r\nePlb+PToojOg6QeYXMDjg9ckUy3eUuypBn59GZRJ5M/4VyrxXs2zxNHYf/xJ3amG\r\ngJa1DA6tDUQzhqsST3W7DgUbslldXSaE5jGAxpwA8+ytV01vmyra4zqNh8mVG5mU\r\nXIB5UzCkHDVYRj+44HGfz1j85o/RNDRVs35ebVPRmFpIHqmnby7e1ZDeiAnwWTxG\r\nx2GzFTGlq9c5WYoeEJL3jEz+Ed0LVkniJPAY2iraFHad8UMiujnYoGN3XuvgH0Lr\r\npAbXERXBzXVZKL/xtViljvGSwmFZGjxbfztVgfRUtnb"
+    ],
+    [
+      0.000045,
+      "PzOVWaVs+nP+hxt8LEZff\r\naA==\r\n-----END CERTIFICATE-----\r\n\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000188,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000089,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000075,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.008568,
+      "About to run SSH command:\r\nprintf '%s' '-----BEGIN CERTIFICATE-----\r\nMIIDDDCCAfSgAwIBAgIRANfhcRcIN7UP91+2v/vB2vQwDQYJKoZIhvcNAQELBQAw\r\nEDEOMAwGA1UEChMFemNoZWUwHhcNMTUxMTE2MDYwMTAwWhcNMTgxMDMxMDYwMTAw\r\nWjAWMRQwEgYDVQQKEwt6Y2hlZS54aHl2ZTCCASIwDQYJKoZIhvcNAQEBBQADggEP\r\nADCCAQoCggEBALOlbQ89shqBs0T2/h6WEnhL9SHM36XQpgo+oLG7aQGkN49X0Pp1\r\nZsq2jBzl2Sina+tftYn/RO+3sMnZlEX8GUrrw0/wHoZxudRZf3toME2fwVYecQB6\r\n2DHWNAEBxzihTEsPEQgpQllxNWm6Lx4Pi3dBRbbGSsgPwGiPYk6jo0CU++8otfq4\r\nm9CEm7MWfq3tVD6we4kZEdEDEZFtgeZJRMGVuyTcKkxNOYTH6jc3byUjPWd/6GRw\r\nhy3EDj1FX2GUJ0sA8YMHwINabum34V9tfgyO89iUqAtP82+OnqPP2DrF2lN/4evg\r\nt6jA0WQuRo2/BPJt5+OdLMFqye4ByoSarvUCAwEAAaNbMFkwDgYDVR0PAQH/BAQD\r\nAgOoMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATAMBgNVHRMBAf8EAjAA\r\nMBoGA1UdEQQTMBGCCWxvY2FsaG9zdIcEwKhACDANBgkqhkiG9w0BAQsFAAOCAQEA\r\nDyuIwvXIgAFIIIwkeg3E6vy2pgE/g/yrY3sqb0+/v59bE+oiWa4ERQCre9BV4F6b\r\nloX/Hu0kdLuY1o4aioGhBeUrdJEOBeapQecjKyA9+GRIxAK2NaXFkb5JtHl1r1x8\r\nsjSE87G8xsuwlmCesXRnSz59wQn0vHDDs7UKX6o9iryelRjjUTrD2MAuktynu7yh\r\nw0BvAVQ1iPv6c6JMuE84CqXMarXktBk"
+    ],
+    [
+      0.000012,
+      "VQljEbMakay8v/XwWjcuM5Rb26DAMAunR\r\naDizvc2wsAACmfjuUhN2DjG02ng9lHwv/vHT4alROEBO9xlryY+bY4MJ8TzDfpiz\r\nU1A5Gch1FLsgbkmFl/epng==\r\n-----END CERTIFICATE-----\r\n' | sudo tee /var/lib/boot2docker/server.pem\r\n"
+    ],
+    [
+      0.060259,
+      "SSH cmd err, output: \u003cnil\u003e: -----BEGIN CERTIFICATE-----\r\nMIIDDDCCAfSgAwIBAgIRANfhcRcIN7UP91+2v/vB2vQwDQYJKoZIhvcNAQELBQAw\r\nEDEOMAwGA1UEChMFemNoZWUwHhcNMTUxMTE2MDYwMTAwWhcNMTgxMDMxMDYwMTAw\r\nWjAWMRQwEgYDVQQKEwt6Y2hlZS54aHl2ZTCCASIwDQYJKoZIhvcNAQEBBQADggEP\r\nADCCAQoCggEBALOlbQ89shqBs0T2/h6WEnhL9SHM36XQpgo+oLG7aQGkN49X0Pp1\r\nZsq2jBzl2Sina+tftYn/RO+3sMnZlEX8GUrrw0/wHoZxudRZf3toME2fwVYecQB6\r\n2DHWNAEBxzihTEsPEQgpQllxNWm6Lx4Pi3dBRbbGSsgPwGiPYk6jo0CU++8otfq4\r\nm9CEm7MWfq3tVD6we4kZEdEDEZFtgeZJRMGVuyTcKkxNOYTH6jc3byUjPWd/6GRw\r\nhy3EDj1FX2GUJ0sA8YMHwINabum34V9tfgyO89iUqAtP82+OnqPP2DrF2lN/4evg\r\nt6jA0WQuRo2/BPJt5+OdLMFqye4ByoSarvUCAwEAAaNbMFkwDgYDVR0PAQH/BAQD\r\nAgOoMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATAMBgNVHRMBAf8EAjAA\r\nMBoGA1UdEQQTMBGCCWxvY2FsaG9zdIcEwKhACDANBgkqhkiG9w0BAQsFAAOCAQEA\r\nDyuIwvXIgAFIIIwkeg3E6vy2pgE/g/yrY3sqb0+/v59bE+oiWa4ERQCre9BV4F6b\r\nloX/Hu0kdLuY1o4aioGhBeUrdJEOBeapQecjKyA9+GRIxAK2NaXFkb5JtHl1r1x8\r\nsjSE87G8xsuwlmCesXRnSz59wQn0vHDDs7UKX6o9iryelRjjUTrD2MAuktynu7yh\r\nw0BvAVQ1iPv6c6JMuE84CqXMarXktBkVQljEbMakay8"
+    ],
+    [
+      0.000035,
+      "v/XwWjcuM5Rb26DAMAunR\r\naDizvc2wsAACmfjuUhN2DjG02ng9lHwv/vHT4alROEBO9xlryY+bY4MJ8TzDfpiz\r\nU1A5Gch1FLsgbkmFl/epng==\r\n-----END CERTIFICATE-----\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000204,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000113,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000121,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000130,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.008549,
+      "About to run SSH command:\r\nprintf '%s' '-----BEGIN RSA PRIVATE KEY-----\r\nMIIEpQIBAAKCAQEAs6VtDz2yGoGzRPb+HpYSeEv1IczfpdCmCj6gsbtpAaQ3j1fQ\r\n+nVmyraMHOXZKKdr61+1if9E77ewydmURfwZSuvDT/AehnG51Fl/e2gwTZ/BVh5x\r\nAHrYMdY0AQHHOKFMSw8RCClCWXE1abovHg+Ld0FFtsZKyA/AaI9iTqOjQJT77yi1\r\n+rib0ISbsxZ+re1UPrB7iRkR0QMRkW2B5klEwZW7JNwqTE05hMfqNzdvJSM9Z3/o\r\nZHCHLcQOPUVfYZQnSwDxgwfAg1pu6bfhX21+DI7z2JSoC0/zb46eo8/YOsXaU3/h\r\n6+C3qMDRZC5Gjb8E8m3n450swWrJ7gHKhJqu9QIDAQABAoIBAQCUiBA168LYW6iH\r\nOtg9HcPDprnU6nl3tZ2zFrjyeouFietOH0Nv8aW9sVUDh58XF+YIxCdrI54xvWT0\r\nX2tSue+HnIruCxCSBHGq+xyGQky9wXqu45h21xrtibeRpZC8Z9CWtqxUXRi4rvuE\r\noSXX6u5a+aLUTfsCktN5ICQd9PpDqAf/FAdR41SRuW4ERHJ4GvPfomMri5BuRwIW\r\nOAG4vEVy61OruI+n2eZPnOnb8ntpNfAtzjgRgb5luLt7CpD5DutXH5PwdcIDacnM\r\nRQKy/Ft0CiHBII8qovrpuzSbCpgCFopupwV656Bul3ax5fmiLtfrK09Y+4HZOT99\r\niTJSGxwBAoGBAM2w10TD4f6zR2dYC/jVXBBaZOR0Wo0imgJNVFsVwkcxE4VA6rHg\r\nn1oelzFjiB0NJI+p7XiZrqX7fxpo3z5pfAqmFROMD12Vo0EiOg3M9QpWOWS/aW1P\r\nBmPS4CaCXqx0bfziOiK+xBbwtKuDWfty3hMUi5WYmEN2CvFZhoG1y7OBAoGBAN+V\r\n0xlBJOCJbeyolhlZxmC1UF4V2xB"
+    ],
+    [
+      0.000009,
+      "KQRuZu8cLzO49/MeAxCC99ALmsKdSylG+3blC\r\njfCI+YjLbmY1yfTrgjsiv5zXrUPiH2UVZ1LvMoceVMaTlnk0yfb2DIqQeIlEziAb\r\nx/PV4iueBCESXetZRvbnKDjklrRW0kKCIOWFkCV1AoGBAI+V1CAvsXIwSjcNEoZo\r\nwnSz9Vw5EQEW13Wl764J2W4DB0JtF6iGShcJ5bdXaKwHAa+8Coa2mWFK1+ZisPyL\r\nfEieuXXEvvEwRR9xuh7qJWBK4pO+vuTMVoSWr1ySg25VdHYkojqg+pec/jIAZm8O\r\nN5IQNISAWkI1g9wJB8lCU+mBAoGBAJkoC5PoIPfCjE8p6K/y5EZIzYW1mPseslzS\r\nwWOG/NlSEv8igLchB66ZEfd8aeT3RvDp20siuTRwje5r+CzSysHxeqpYv3KZygG3\r\nWLDh843FRDNG1DOw6oxGXa7pafg17rDl9uFb6PMR6igxaa6W2Fq3W8ElLOrZ8mvm\r\nsdwn0uclAoGAYXxN7HbgVX7WYotobWIqiGUASXkT/Dbf0H24Ynzp5Aw2sKK1ncvn\r\n4jWZfn/GYS5ysf1o05TcVDay+m2hs20QsghFWmgS0Sdig2Msd0Qb/nP9j5ZYFmpE\r\n5aV6wXJgGMmfuTe6vWPxgUfq6jfEQWZyYX2FAXqBga1OdPwteRzqGgQ=\r\n-----END RSA PRIVATE KEY-----\r\n' | sudo tee /var/lib/boot2docker/server-key.pem\r\n"
+    ],
+    [
+      0.061589,
+      "SSH cmd err, output: \u003cnil\u003e: -----BEGIN RSA PRIVATE KEY-----\r\nMIIEpQIBAAKCAQEAs6VtDz2yGoGzRPb+HpYSeEv1IczfpdCmCj6gsbtpAaQ3j1fQ\r\n+nVmyraMHOXZKKdr61+1if9E77ewydmURfwZSuvDT/AehnG51Fl/e2gwTZ/BVh5x\r\nAHrYMdY0AQHHOKFMSw8RCClCWXE1abovHg+Ld0FFtsZKyA/AaI9iTqOjQJT77yi1\r\n+rib0ISbsxZ+re1UPrB7iRkR0QMRkW2B5klEwZW7JNwqTE05hMfqNzdvJSM9Z3/o\r\nZHCHLcQOPUVfYZQnSwDxgwfAg1pu6bfhX21+DI7z2JSoC0/zb46eo8/YOsXaU3/h\r\n6+C3qMDRZC5Gjb8E8m3n450swWrJ7gHKhJqu9QIDAQABAoIBAQCUiBA168LYW6iH\r\nOtg9HcPDprnU6nl3tZ2zFrjyeouFietOH0Nv8aW9sVUDh58XF+YIxCdrI54xvWT0\r\nX2tSue+HnIruCxCSBHGq+xyGQky9wXqu45h21xrtibeRpZC8Z9CWtqxUXRi4rvuE\r\noSXX6u5a+aLUTfsCktN5ICQd9PpDqAf/FAdR41SRuW4ERHJ4GvPfomMri5BuRwIW\r\nOAG4vEVy61OruI+n2eZPnOnb8ntpNfAtzjgRgb5luLt7CpD5DutXH5PwdcIDacnM\r\nRQKy/Ft0CiHBII8qovrpuzSbCpgCFopupwV656Bul3ax5fmiLtfrK09Y+4HZOT99\r\niTJSGxwBAoGBAM2w10TD4f6zR2dYC/jVXBBaZOR0Wo0imgJNVFsVwkcxE4VA6rHg\r\nn1oelzFjiB0NJI+p7XiZrqX7fxpo3z5pfAqmFROMD12Vo0EiOg3M9QpWOWS/aW1P\r\nBmPS4CaCXqx0bfziOiK+xBbwtKuDWfty3hMUi5WYmEN2CvFZhoG1y7OBAoGBAN+V\r\n0xlBJOCJbeyolhlZxmC1UF4V2xBKQRuZu8cLzO4"
+    ],
+    [
+      0.000046,
+      "9/MeAxCC99ALmsKdSylG+3blC\r\njfCI+YjLbmY1yfTrgjsiv5zXrUPiH2UVZ1LvMoceVMaTlnk0yfb2DIqQeIlEziAb\r\nx/PV4iueBCESXetZRvbnKDjklrRW0kKCIOWFkCV1AoGBAI+V1CAvsXIwSjcNEoZo\r\nwnSz9Vw5EQEW13Wl764J2W4DB0JtF6iGShcJ5bdXaKwHAa+8Coa2mWFK1+ZisPyL\r\nfEieuXXEvvEwRR9xuh7qJWBK4pO+vuTMVoSWr1ySg25VdHYkojqg+pec/jIAZm8O\r\nN5IQNISAWkI1g9wJB8lCU+mBAoGBAJkoC5PoIPfCjE8p6K/y5EZIzYW1mPseslzS\r\nwWOG/NlSEv8igLchB66ZEfd8aeT3RvDp20siuTRwje5r+CzSysHxeqpYv3KZygG3\r\nWLDh843FRDNG1DOw6oxGXa7pafg17rDl9uFb6PMR6igxaa6W2Fq3W8ElLOrZ8mvm\r\nsdwn0uclAoGAYXxN7HbgVX7WYotobWIqiGUASXkT/Dbf0H24Ynzp5Aw2sKK1ncvn\r\n4jWZfn/GYS5ysf1o05TcVDay+m2hs20QsghFWmgS0Sdig2Msd0Qb/nP9j5ZYFmpE\r\n5aV6wXJgGMmfuTe6vWPxgUfq6jfEQWZyYX2FAXqBga1OdPwteRzqGgQ=\r\n-----END RSA PRIVATE KEY-----\r\n\r\n(xhyve) Calling RPCServerDriver.GetURL\r\n"
+    ],
+    [
+      0.000247,
+      "(xhyve) Calling RPCServerDriver.DriverName\r\n"
+    ],
+    [
+      0.000327,
+      "Setting Docker configuration on the remote daemon..."
+    ],
+    [
+      0.000004,
+      "\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000126,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000103,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000120,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000118,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000041,
+      "About to run SSH command:\r\nprintf %s \"\r\nEXTRA_ARGS='\r\n--label provider=xhyve\r\n\r\n'\r\nCACERT=/var/lib/boot2docker/ca.pem\r\nDOCKER_HOST='-H tcp://0.0.0.0:2376'\r\nDOCKER_STORAGE=aufs\r\nDOCKER_TLS=auto\r\nSERVERKEY=/var/lib/boot2docker/server-key.pem\r\nSERVERCERT=/var/lib/boot2docker/server.pem\r\n\r\n\r\n\" | sudo tee /var/lib/boot2docker/profile\r\n"
+    ],
+    [
+      0.068764,
+      "SSH cmd err, output: \u003cnil\u003e: \r\nEXTRA_ARGS='\r\n--label provider=xhyve\r\n\r\n'\r\nCACERT=/var/lib/boot2docker/ca.pem\r\nDOCKER_HOST='-H tcp://0.0.0.0:2376'\r\nDOCKER_STORAGE=aufs\r\nDOCKER_TLS=auto\r\nSERVERKEY=/var/lib/boot2docker/server-key.pem\r\nSERVERCERT=/var/lib/boot2docker/server.pem\r\n\r\n\r\n"
+    ],
+    [
+      0.000022,
+      "\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000203,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000117,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000142,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000132,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000003,
+      "About to run SSH command:\r\nsudo /etc/init.d/docker start"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.079565,
+      "SSH cmd err, output: \u003cnil\u003e: Device \"eth1\" does not exist.\r\nNeed TLS certs for boot2docker,127.0.0.1,192.168.64.8\r\n-------------------\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000208,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000090,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000103,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000143,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000003,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      0.065999,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       36      0 192.168.64.8:ssh        192.168.64.1:50742      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16399 /var/run/acpid.socket\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14286 /run/udev/control\r\nunix  3      [ ]         STREAM     CONNECTED      17597 \r\nunix  3      [ ]         DGRAM                     14295 \r\nunix  3      [ ]         STREAM     CONNECTED      17596 \r\nunix  3      [ ]         DGRAM                     14296 \r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      3.003144,
+      "(xhyve) Calling RPCServerDriver.GetSSHHostname\r\n"
+    ],
+    [
+      0.000366,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000178,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000281,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000011,
+      "About to run SSH command:\r\nnetstat -a\r\n"
+    ],
+    [
+      0.066730,
+      "SSH cmd err, output: \u003cnil\u003e: Active Internet connections (servers and established)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       \r\ntcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN      \r\ntcp       36      0 192.168.64.8:ssh        192.168.64.1:50747      ESTABLISHED \r\ntcp        0      0 :::ssh                  :::*                    LISTEN      \r\ntcp        0      0 :::2376                 :::*                    LISTEN      \r\nActive UNIX domain sockets (servers and established)\r\nProto RefCnt Flags       Type       State         I-Node Path\r\nunix  2      [ ACC ]     STREAM     LISTENING      16399 /var/run/acpid.socket\r\nunix  2      [ ACC ]     STREAM     LISTENING      17689 /var/lib/docker/network/files/1222944c39c9846506d1db73ae1b67dd9f0e0f4ee56dc2b5924c0770f1a03ce2.sock\r\nunix  2      [ ACC ]     SEQPACKET  LISTENING      14286 /run/udev/control\r\nunix  2      [ ACC ]     STREAM     LISTENING      17622 /var/run/docker.sock\r\nunix  3      [ ]     "
+    ],
+    [
+      0.000042,
+      "    STREAM     CONNECTED      17802 \r\nunix  3      [ ]         DGRAM                     14295 \r\nunix  3      [ ]         STREAM     CONNECTED      17801 \r\nunix  3      [ ]         DGRAM                     14296 \r\n\r\n"
+    ],
+    [
+      0.000253,
+      "(xhyve) Calling RPCServerDriver.GetIP\r\n"
+    ],
+    [
+      0.000465,
+      "Reticulating splines...\r\n"
+    ],
+    [
+      0.000016,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000163,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000419,
+      "To see how to connect Docker to this machine, run: docker-machine env xhyve\r\n"
+    ],
+    [
+      0.001759,
+      "bash-3.2$ "
+    ],
+    [
+      1.533787,
+      "d"
+    ],
+    [
+      0.000011,
+      "ocke"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000009,
+      "m"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000013,
+      "c"
+    ],
+    [
+      0.000003,
+      "h"
+    ],
+    [
+      0.000027,
+      "i"
+    ],
+    [
+      0.000015,
+      "ne"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000031,
+      "l"
+    ],
+    [
+      0.000007,
+      "s"
+    ],
+    [
+      0.775763,
+      "\r\n"
+    ],
+    [
+      0.009649,
+      "Docker Machine Version: 0.5.0 (d8d57b8)\r\n"
+    ],
+    [
+      0.000596,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000066,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.012330,
+      "Plugin server listening at address 127.0.0.1:50757\r\n"
+    ],
+    [
+      0.000501,
+      "() Calling RPCServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000714,
+      "Using API Version 1\r\n() Calling RPCServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000311,
+      "() Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000167,
+      "(xhyve) Calling RPCServerDriver.GetURL\r\n"
+    ],
+    [
+      0.000022,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000170,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n(xhyve) DBG | Using SSH client type: external\r\n(xhyve) DBG | About to run SSH command:\r\n"
+    ],
+    [
+      0.000058,
+      "(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      0.058957,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: \r\n"
+    ],
+    [
+      0.000090,
+      "(xhyve) Calling RPCServerDriver.DriverName"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "NAME    ACTIVE   DRIVER"
+    ],
+    [
+      0.000005,
+      "   STATE     URL                       SWARM\r\nxhyve   "
+    ],
+    [
+      0.000005,
+      "-        xhyve    "
+    ],
+    [
+      0.000003,
+      "Running   tcp://192.168.64.8:2376   \r\n"
+    ],
+    [
+      0.001508,
+      "bash-3.2$ "
+    ],
+    [
+      0.938838,
+      "docker-machine ls"
+    ],
+    [
+      0.247862,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127859,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.296157,
+      "s"
+    ],
+    [
+      0.183981,
+      "t"
+    ],
+    [
+      0.063851,
+      "o"
+    ],
+    [
+      0.080097,
+      "p"
+    ],
+    [
+      0.192070,
+      " "
+    ],
+    [
+      0.304019,
+      "x"
+    ],
+    [
+      0.207994,
+      "h"
+    ],
+    [
+      0.080035,
+      "y"
+    ],
+    [
+      0.167950,
+      "v"
+    ],
+    [
+      0.039994,
+      "e"
+    ],
+    [
+      0.143767,
+      "\r\n"
+    ],
+    [
+      0.010157,
+      "Docker Machine Version: 0.5.0 (d8d57b8)\r\n"
+    ],
+    [
+      0.000717,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000055,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.012743,
+      "Plugin server listening at address 127.0.0.1:50764\r\n"
+    ],
+    [
+      0.000542,
+      "() Calling RPCServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000728,
+      "Using API Version 1\r\n() Calling RPCServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000319,
+      "() Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000156,
+      "command=stop machine=xhyve\r\n"
+    ],
+    [
+      0.000011,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000141,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n(xhyve) DBG | Using SSH client type: external\r\n(xhyve) DBG | About to run SSH command:\r\n"
+    ],
+    [
+      0.000081,
+      "(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      0.063414,
+      "(xhyve) Calling RPCServerDriver.Stop\r\n"
+    ],
+    [
+      0.000008,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: \r\n"
+    ],
+    [
+      0.000171,
+      "(xhyve) OUT | Stopping xhyve use send ACPI signals poweroff ...\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve) DBG | Using SSH client type: external\r\n"
+    ],
+    [
+      0.000002,
+      "(xhyve) DBG | About to run SSH command:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "(xhyve) DBG | sudo poweroff\r\n"
+    ],
+    [
+      0.070658,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: \r\n"
+    ],
+    [
+      0.000012,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n(xhyve) DBG | Using SSH client type: external\r\n"
+    ],
+    [
+      0.000049,
+      "(xhyve) DBG | About to run SSH command:\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      0.019264,
+      "(xhyve) DBG | SSH cmd err, output: exit status 255: \r\n"
+    ],
+    [
+      0.000008,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000188,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n"
+    ],
+    [
+      0.000049,
+      "(xhyve) DBG | 192.168.64.8\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n"
+    ],
+    [
+      0.000034,
+      "(xhyve) DBG | Using SSH client type: external\r\n(xhyve) DBG | About to run SSH command:"
+    ],
+    [
+      0.000005,
+      "\r\n(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      2.018567,
+      "(xhyve) DBG | SSH cmd err, output: exit status 255: \r\n"
+    ],
+    [
+      0.000009,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000546,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.002752,
+      "bash-3.2$ "
+    ],
+    [
+      0.902969,
+      "docker-machine stop xhyve"
+    ],
+    [
+      0.304004,
+      "\u0008"
+    ],
+    [
+      0.112005,
+      "\u0008"
+    ],
+    [
+      0.087904,
+      "\u0008"
+    ],
+    [
+      0.104088,
+      "\u0008"
+    ],
+    [
+      0.120023,
+      "\u0008"
+    ],
+    [
+      0.127882,
+      "\u0008"
+    ],
+    [
+      0.311228,
+      "\u0008\u001b[1P xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.128849,
+      "\u0008\u001b[1P xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.479878,
+      "a xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.080151,
+      "r xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.208031,
+      "t xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.095932,
+      "\r\n"
+    ],
+    [
+      0.009468,
+      "Docker Machine Version: 0.5.0 (d8d57b8)\r\n"
+    ],
+    [
+      0.000576,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000071,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.011680,
+      "Plugin server listening at address 127.0.0.1:50776\r\n"
+    ],
+    [
+      0.000503,
+      "() Calling RPCServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000702,
+      "Using API Version 1\r\n() Calling RPCServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000323,
+      "() Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000158,
+      "command=start machine=xhyve\r\n(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000192,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n"
+    ],
+    [
+      0.000003,
+      "(xhyve) DBG | 192.168.64.8\r\n(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n"
+    ],
+    [
+      0.000031,
+      "(xhyve) DBG | Using SSH client type: external\r\n"
+    ],
+    [
+      0.000004,
+      "(xhyve) DBG | About to run SSH command:\r\n"
+    ],
+    [
+      0.000007,
+      "(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      22.021608,
+      "(xhyve) DBG | SSH cmd err, output: exit status 255: \r\n"
+    ],
+    [
+      0.000066,
+      "(xhyve) Calling RPCServerDriver.Start\r\n"
+    ],
+    [
+      0.000452,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000053,
+      "(xhyve) DBG | \u0026{/Users/zchee/go/bin/goxhyve [goxhyve B307A686-800C-4E5E-9121-D63970CD1769 1 1024 /Users/zchee/.docker/machine/machines/xhyve/boot2docker.iso /Users/zchee/.docker/machine/machines/xhyve/xhyve.img kexec,/Users/zchee/.docker/machine/machines/xhyve/vmlinuz64,/Users/zchee/.docker/machine/machines/xhyve/initrd.img,loglevel=3 user=docker console=ttyS0 console=tty0 noembed nomodeset norestore waitusb=10:LABEL=boot2docker-data base host=boot2docker -d] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e}"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002297,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n"
+    ],
+    [
+      0.000171,
+      "(xhyve) DBG | 192.168.64.8"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve) DBG | Using SSH client type: external"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "(xhyve) DBG | About to run SSH command:\r\n(xhyve) DBG | exit 0"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      12.022969,
+      "(xhyve) DBG | SSH cmd err, output: exit status 255: \r\n"
+    ],
+    [
+      3.001645,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000371,
+      "(xhyve) DBG | Getting to VM SSH status..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "(xhyve) DBG | 192.168.64.8\r\n"
+    ],
+    [
+      0.000009,
+      "(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n(xhyve) DBG | Using SSH client type: external\r\n"
+    ],
+    [
+      0.000108,
+      "(xhyve) DBG | About to run SSH command:\r\n"
+    ],
+    [
+      0.000005,
+      "(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      2.019023,
+      "(xhyve) DBG | SSH cmd err, output: exit status 255: \r\n"
+    ],
+    [
+      3.003290,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000315,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n"
+    ],
+    [
+      0.000064,
+      "(xhyve) DBG | 192.168.64.8\r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n(xhyve) DBG | Using SSH client type: external"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "(xhyve) DBG | About to run SSH command:"
+    ],
+    [
+      0.000007,
+      "\r\n(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      1.067525,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: \r\n"
+    ],
+    [
+      0.000010,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000332,
+      "(xhyve) Calling RPCServerDriver.GetConfigRaw\r\n"
+    ],
+    [
+      0.000394,
+      "Started machines may have new IP addresses. You may need to re-run the `docker-machine env` command.\r\n"
+    ],
+    [
+      0.001391,
+      "bash-3.2$ "
+    ],
+    [
+      2.275234,
+      "docker-machine start xhyve"
+    ],
+    [
+      0.663558,
+      "\u0008"
+    ],
+    [
+      0.136437,
+      "\u0008"
+    ],
+    [
+      0.104083,
+      "\u0008"
+    ],
+    [
+      0.127993,
+      "\u0008"
+    ],
+    [
+      0.112025,
+      "\u0008"
+    ],
+    [
+      0.112017,
+      "\u0008"
+    ],
+    [
+      0.287941,
+      "\u0008\u001b[1P xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.247987,
+      "\u0008\u001b[1P xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.096016,
+      "\u0008\u001b[1P xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.215887,
+      "\u0008\u001b[1P xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.328102,
+      "s xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.048081,
+      "h xhyve\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.295838,
+      "\r\n"
+    ],
+    [
+      0.009564,
+      "Docker Machine Version: 0.5.0 (d8d57b8)\r\n"
+    ],
+    [
+      0.000542,
+      "Found binary path at /Users/zchee/go/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000056,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.011630,
+      "Plugin server listening at address 127.0.0.1:50795\r\n"
+    ],
+    [
+      0.000609,
+      "() Calling RPCServerDriver.GetVersion\r\n"
+    ],
+    [
+      0.000787,
+      "Using API Version 1\r\n() Calling RPCServerDriver.SetConfigRaw\r\n"
+    ],
+    [
+      0.000353,
+      "() Calling RPCServerDriver.GetMachineName\r\n"
+    ],
+    [
+      0.000116,
+      "(xhyve) Calling RPCServerDriver.GetState\r\n"
+    ],
+    [
+      0.000171,
+      "(xhyve) DBG | Getting to VM SSH status...\r\n(xhyve) DBG | 192.168.64.8\r\n(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n"
+    ],
+    [
+      0.000026,
+      "(xhyve) DBG | Using SSH client type: external\r\n(xhyve) DBG | About to run SSH command:\r\n(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      0.065563,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: "
+    ],
+    [
+      0.000008,
+      "\r\n(xhyve) Calling RPCServerDriver.GetSSHHostname"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "(xhyve) Calling RPCServerDriver.GetSSHPort\r\n"
+    ],
+    [
+      0.000020,
+      "(xhyve) DBG | 192.168.64.8\r\n"
+    ],
+    [
+      0.000013,
+      "(xhyve) DBG | IP found in DHCP lease table: 192.168.64.8\r\n"
+    ],
+    [
+      0.000094,
+      "(xhyve) Calling RPCServerDriver.GetSSHKeyPath\r\n"
+    ],
+    [
+      0.000105,
+      "(xhyve) Calling RPCServerDriver.GetSSHUsername\r\n"
+    ],
+    [
+      0.000177,
+      "Using SSH client type: external\r\n"
+    ],
+    [
+      0.000061,
+      "\u0026{/usr/bin/ssh [/usr/bin/ssh -o PasswordAuthentication=no -o IdentitiesOnly=yes -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o LogLevel=quiet -o ConnectionAttempts=3 -o ConnectTimeout=10 -o ControlMaster=no -o ControlPath=no docker@192.168.64.8 -i /Users/zchee/.docker/machine/machines/xhyve/id_rsa -p 22] []  \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e [] \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e false [] [] [] [] \u003cnil\u003e}\r\n"
+    ],
+    [
+      0.069774,
+      "                        ##         .\r\n                  ## ## ##        ==\r\n               ## ## ## ## ##    ===\r\n           /\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\\___/ ===\r\n      ~~~ {~~ ~~~~ ~~~ ~~~~ ~~~ ~ /  ===- ~~~\r\n           \\______ o           __/\r\n             \\    \\         __/\r\n              \\____\\_______/\r\n _                 _   ____     _            _\r\n| |__   ___   ___ | |_|___ \\ __| | ___   ___| | _____ _ __\r\n| '_ \\ / _ \\ / _ \\| __| __) / _` |/ _ \\ / __| |/ / _ \\ '__|\r\n| |_) | (_) | (_) | |_ / __/ (_| | (_) | (__|   \u003c  __/ |\r\n|_.__/ \\___/ \\___/ \\__|_____\\__,_|\\___/ \\___|_|\\_\\___|_|\r\nBoot2Docker version 1.9.0, build master : 16e4a2a - Tue Nov  3 19:49:22 UTC 2015\r\n"
+    ],
+    [
+      0.018155,
+      "Docker version 1.9.0, build 76d6bc9"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.008357,
+      "docker@boot2docker:~$ "
+    ],
+    [
+      2.750298,
+      "d"
+    ],
+    [
+      0.064005,
+      "o"
+    ],
+    [
+      0.143859,
+      "c"
+    ],
+    [
+      0.104114,
+      "k"
+    ],
+    [
+      0.072082,
+      "e"
+    ],
+    [
+      0.039908,
+      "r"
+    ],
+    [
+      0.455908,
+      " "
+    ],
+    [
+      0.896162,
+      "n"
+    ],
+    [
+      0.047951,
+      "i"
+    ],
+    [
+      0.479901,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.119983,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.176155,
+      "i"
+    ],
+    [
+      0.024877,
+      "n"
+    ],
+    [
+      0.239177,
+      "f"
+    ],
+    [
+      0.031906,
+      "o"
+    ],
+    [
+      0.168150,
+      "\r\n"
+    ],
+    [
+      0.033464,
+      "Containers: 0"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "Images: 0"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "Server Version: 1.9.0"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "Storage Driver: aufs"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      " Root Dir: /mnt/vda1/var/lib/docker/aufs"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      " Backing Filesystem: extfs"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      " Dirs: 0"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      " Dirperm1 Supported: true"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "Execution Driver: native-0.2"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "Logging Driver: json-file"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "Kernel Version: 4.1.12-boot2docker"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "Operating System: Boot2Docker 1.9.0 (TCL 6.4); master : 16e4a2a - Tue Nov  3 19:49:22 UTC 2015"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "CPUs: 1"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "Total Memory: 996.3 MiB"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "Name: boot2docker"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "ID: PIXD:U6KI:NYQS:CHYZ:A4VK:7JGJ:J5RK:EFYR:RLJ4:T6ZC:IDE7:DV7L"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "Debug mode (server): true"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      " File Descriptors: 12"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      " Goroutines: 18"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      " System Time: 2015-11-16T06:07:21.158360076Z"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      " EventsListeners: 0"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      " Init SHA1: "
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      " Init Path: /usr/local/bin/docker"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      " Docker Root Dir: /mnt/vda1/var/lib/docker"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "Labels:"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      " provider=xhyve"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000868,
+      "docker@boot2docker:~$ "
+    ],
+    [
+      1.081992,
+      "\rdocker@boot2docker:~$ "
+    ],
+    [
+      0.000012,
+      "docker info\u001b[J"
+    ],
+    [
+      0.543765,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.128561,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.135568,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.079892,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.256179,
+      "v"
+    ],
+    [
+      0.352020,
+      "e"
+    ],
+    [
+      0.063882,
+      "r"
+    ],
+    [
+      0.343987,
+      "s"
+    ],
+    [
+      0.160128,
+      "i"
+    ],
+    [
+      0.055969,
+      "n"
+    ],
+    [
+      0.007931,
+      "o"
+    ],
+    [
+      0.134372,
+      "\r\n"
+    ],
+    [
+      0.020718,
+      "docker: 'versino' is not a docker command."
+    ],
+    [
+      0.000007,
+      "\r\nSee 'docker --help'.\r\n"
+    ],
+    [
+      0.000597,
+      "docker@boot2docker:~$ "
+    ],
+    [
+      0.788493,
+      "\rdocker@boot2docker:~$ "
+    ],
+    [
+      0.000127,
+      "docker versino\u001b[J"
+    ],
+    [
+      0.175746,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.136003,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.135842,
+      "o"
+    ],
+    [
+      0.056223,
+      "n"
+    ],
+    [
+      0.079885,
+      "\r\n"
+    ],
+    [
+      0.026852,
+      "Client:"
+    ],
+    [
+      0.000006,
+      "\r\n Version:      "
+    ],
+    [
+      0.000082,
+      "1.9.0"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      " API version:  "
+    ],
+    [
+      0.000091,
+      "1.21"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      " Go version:   "
+    ],
+    [
+      0.000050,
+      "go1.4.3"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      " Git commit:   "
+    ],
+    [
+      0.000075,
+      "76d6bc9"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      " Built:        "
+    ],
+    [
+      0.000109,
+      "Tue Nov  3 19:20:09 UTC 2015"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      " OS/Arch:      "
+    ],
+    [
+      0.000100,
+      "linux"
+    ],
+    [
+      0.000056,
+      "/"
+    ],
+    [
+      0.000032,
+      "amd64"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "Server:"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      " Version:      "
+    ],
+    [
+      0.000080,
+      "1.9.0"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      " API version:  "
+    ],
+    [
+      0.000105,
+      "1.21"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      " Go version:   "
+    ],
+    [
+      0.000059,
+      "go1.4.3"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      " Git commit:   "
+    ],
+    [
+      0.000089,
+      "76d6bc9"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      " Built:        "
+    ],
+    [
+      0.000052,
+      "Tue Nov  3 19:20:09 UTC 2015"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      " OS/Arch:      "
+    ],
+    [
+      0.000156,
+      "linux"
+    ],
+    [
+      0.000071,
+      "/"
+    ],
+    [
+      0.000107,
+      "amd64"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000614,
+      "docker@boot2docker:~$ "
+    ],
+    [
+      2.501101,
+      "bash-3.2$ "
+    ],
+    [
+      4.940609,
+      "exit\r\n"
+    ]
+  ]
+}

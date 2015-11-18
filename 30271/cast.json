@@ -1,0 +1,698 @@
+{
+  "version": 1,
+  "width": 103,
+  "height": 25,
+  "duration": 30.125614,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.147716,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b]2;synther@synther-UX31E: ~\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.104069,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000062,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.295415,
+      "c"
+    ],
+    [
+      0.038976,
+      "\u0008cd"
+    ],
+    [
+      0.403010,
+      " "
+    ],
+    [
+      0.155651,
+      "."
+    ],
+    [
+      0.172841,
+      "c"
+    ],
+    [
+      0.084578,
+      "o"
+    ],
+    [
+      0.063772,
+      "n"
+    ],
+    [
+      0.147248,
+      "fig"
+    ],
+    [
+      0.059008,
+      "-"
+    ],
+    [
+      0.116349,
+      "repo\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.129683,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000090,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000200,
+      "\r\r\n"
+    ],
+    [
+      0.001339,
+      "\u001b]2;cd .config-repo\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000384,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r"
+    ],
+    [
+      0.000163,
+      "\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007"
+    ],
+    [
+      0.000888,
+      "\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.171310,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.976433,
+      "r"
+    ],
+    [
+      0.095641,
+      "\u0008ro"
+    ],
+    [
+      0.063825,
+      "u"
+    ],
+    [
+      0.095431,
+      "c"
+    ],
+    [
+      0.111134,
+      "h"
+    ],
+    [
+      0.105541,
+      " "
+    ],
+    [
+      0.111322,
+      "1"
+    ],
+    [
+      0.685691,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.170498,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.122370,
+      "t"
+    ],
+    [
+      0.115991,
+      "\u0008to"
+    ],
+    [
+      0.057900,
+      "u"
+    ],
+    [
+      0.095881,
+      "c"
+    ],
+    [
+      0.111417,
+      "h"
+    ],
+    [
+      0.110976,
+      " "
+    ],
+    [
+      0.488185,
+      "1"
+    ],
+    [
+      0.074386,
+      "2"
+    ],
+    [
+      0.047680,
+      "3"
+    ],
+    [
+      0.083595,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;touch 123\u0007\u001b]1;touch\u0007"
+    ],
+    [
+      0.002566,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r"
+    ],
+    [
+      0.000277,
+      "\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007"
+    ],
+    [
+      0.000078,
+      "\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.160434,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m  master \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.789822,
+      "r"
+    ],
+    [
+      0.095130,
+      "\u0008rm"
+    ],
+    [
+      0.100746,
+      " "
+    ],
+    [
+      0.215080,
+      "1"
+    ],
+    [
+      0.127190,
+      "2"
+    ],
+    [
+      0.068215,
+      "3"
+    ],
+    [
+      0.113598,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;rm 123\u0007\u001b]1;rm\u0007"
+    ],
+    [
+      0.002459,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r"
+    ],
+    [
+      0.000337,
+      "\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007"
+    ],
+    [
+      0.000094,
+      "\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.156326,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.602491,
+      "v"
+    ],
+    [
+      0.084640,
+      "\u0008vi"
+    ],
+    [
+      0.105777,
+      " "
+    ],
+    [
+      0.492710,
+      "i"
+    ],
+    [
+      0.042141,
+      "n"
+    ],
+    [
+      0.084961,
+      "stall.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.272375,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;vi install.sh\u0007\u001b]1;vi\u0007"
+    ],
+    [
+      0.055811,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000014,
+      "\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.001332,
+      "\u001b[1;25r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[25;1H\"install.sh\""
+    ],
+    [
+      0.000103,
+      " 24L, 579C"
+    ],
+    [
+      0.007029,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.004200,
+      "\u001b[1;1H\u001b[34m#!/bin/bash\u001b[m\r\n\r\n\u001b[33mcd\u001b[m \u001b[35m`dirname $0`\u001b[m\r\n\u001b[36mSCRIPT_FOLDER\u001b[m=\u001b[35m`\u001b[m\u001b[33mpwd\u001b[m\u001b[35m`\u001b[m\r\n\u001b[36mFILES\u001b[m=\u001b[35m`git \u001b[m\u001b[33mls\u001b[m\u001b[35m-tree -r --name-only HEAD`\u001b[m\r\n\u001b[36mBACKUP_FOLDER\u001b[m=\u001b[33m\"\u001b[m\u001b[35m$SCRIPT_FOLDER\u001b[m\u001b[31m/backup\u001b[m\u001b[33m\"\r\nmkdir\u001b[m \u001b[35m-p\u001b[m \u001b[35m-v\u001b[m \u001b[35m$BACKUP_FOLDER\u001b[m\r\n\r\n\u001b[33mecho\u001b[m\u001b[31m \u001b[m\u001b[33m\"\u001b[m\u001b[31minstalling to \u001b[m\u001b[35m$HOME\u001b[m\u001b[33m\"\r\ncd\u001b[m \u001b[35m$HOME\u001b[m\r\n\u001b[33mfor\u001b[m FILE \u001b[33min\u001b[m \u001b[35m$FILES\u001b[m; \u001b[33mdo\r\n\u001b[m  \u001b[33m[\u001b[m \u001b[35m$FILE\u001b[m \u001b[33m=\u001b[m \u001b[31m\"install.sh\"\u001b[m \u001b[33m]\u001b[m \u0026\u0026 \u001b[33mcontinue\r\n\u001b[m  \u001b[33m[\u001b[m \u001b[35m$FILE\u001b[m \u001b[33m=\u001b[m \u001b[31m\"add-to-repo.sh\"\u001b[m \u001b[33m]\u001b[m \u0026\u0026 \u001b[33mcontinue\r\n\u001b[m  \u001b[33m[\u001b[m \u001b[35m$FILE\u001b[m \u001b[33m=\u001b[m \u001b[31m\".gitignore\"\u001b[m \u001b[33m]\u001b[m \u0026\u0026 \u001b[33mcontinue\r\n\r\n\u001b[m  \u001b[33mif [\u001b[m \u001b[33m-f\u001b[m \u001b[35m$FILE\u001b[m \u001b[33m-a\u001b[m \u001b[33m!\u001b[m \u001b[33m-h\u001b[m \u001b[35m$FILE\u001b[m \u001b[33m]\u001b[m; \u001b[33mthen\r\n\u001b[m    \u001b[33mecho\u001b[m\u001b[31m -n \u001b[m\u001b[33m\"\u001b[m\u001b[31mbackup: \u001b[m\u001b[33m\"\r\n\u001b[m    \u001b[33mmkdir\u001b[m \u001b[35m-pv\u001b[m \u001b[35m$BACKUP_FOLDER\u001b[m/\u001b[35m`dirname $FILE`\u001b[m\r\n    \u001b[33mmv\u001b[m \u001b[35m-iv\u001b[m \u001b[33m-t\u001b[m \u001b[35m$BACKUP_FOLDER\u001b[m/\u001b[35m`dirname $FILE`\u001b[m \u001b[35m$FILE\u001b[m\r\n  \u001b[33mfi\r\n\r\n\u001b[m  \u001b[33mecho\u001b[m\u001b[31m -n \u001b[m\u001b[33m\"\u001b[m\u001b[31msymlink: \u001b[m\u001b[33m\"\u001b[m\r\n  ln \u001b[35m-siv\u001b[m \u001b[33m-t\u001b[m \u001b[35m`dirname $FILE`\u001b[m \u001b[35m$SCRIPT_FOLDER\u001b[m/\u001b[35m$FILE\u001b[m\r\n\u001b[33mdone\u001b[m\u001b[25;86H5,1\u001b[11CAll\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034884,
+      "\u001b[?1000l\u001b[?1006h\u001b[?1002h\u001b[?1006l\u001b[?1002l\u001b[?1006h\u001b[?1002h\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.479522,
+      "\u001b[?25l\u001b[25;76Ho\u001b[5;1H"
+    ],
+    [
+      0.000731,
+      "\u001b[25;76H \u001b[6;1H"
+    ],
+    [
+      0.000011,
+      "\u001b[25;1H\u001b[1m-- INSERT --\u001b[m\u001b[25;14H\u001b[K\u001b[25;86H6,1\u001b[11CTop"
+    ],
+    [
+      0.000354,
+      "\u001b[6;24r\u001b[6;1H\u001b[L\u001b[1;25r"
+    ],
+    [
+      0.000199,
+      "\u001b[25;86H\u001b[K\u001b[25;86H6,1\u001b[11CTop\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.272696,
+      "\u001b[25;1H\u001b[K\u001b[6;1H\u001b[?25l\u001b[25;76H^[\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.992131,
+      "\u001b[?25l\u001b[25;76H  \u001b[6;1H\u001b[25;86H6,0-1\u001b[9CTop\u001b[6;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[25;76H:\u001b[6;1H\u001b[25;76H\u001b[K\u001b[25;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143709,
+      "x\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096377,
+      "\r\u001b[?25l\u001b[?1006l\u001b[?1002l\"install.sh\""
+    ],
+    [
+      0.014060,
+      " 25L, 580C written\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000852,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.155158,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.718922,
+      "g"
+    ],
+    [
+      0.068878,
+      "\u0008ga"
+    ],
+    [
+      0.116483,
+      " "
+    ],
+    [
+      0.116964,
+      "i"
+    ],
+    [
+      0.079405,
+      "n"
+    ],
+    [
+      0.211033,
+      "stall.sh"
+    ],
+    [
+      0.317420,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git add install.sh\u0007\u001b]1;ga\u0007"
+    ],
+    [
+      0.007233,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.150598,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m  master ✚ \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.601713,
+      "g"
+    ],
+    [
+      0.111351,
+      "\u0008gr"
+    ],
+    [
+      0.105889,
+      "h"
+    ],
+    [
+      0.095488,
+      " "
+    ],
+    [
+      0.153839,
+      "i"
+    ],
+    [
+      0.079717,
+      "n"
+    ],
+    [
+      0.178019,
+      "stall.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.624161,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001582,
+      "\u001b]2;git reset HEAD install.sh\u0007\u001b]1;grh\u0007"
+    ],
+    [
+      0.005877,
+      "Unstaged changes after reset:\r\nM\u0009install.sh\r\n"
+    ],
+    [
+      0.002002,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.165228,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.175238,
+      "g"
+    ],
+    [
+      0.199042,
+      "\u0008gc"
+    ],
+    [
+      0.101852,
+      "o"
+    ],
+    [
+      0.231432,
+      " "
+    ],
+    [
+      0.282415,
+      "i"
+    ],
+    [
+      0.052859,
+      "n"
+    ],
+    [
+      0.196276,
+      "stall.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.325694,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000108,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000195,
+      "\r\r\n"
+    ],
+    [
+      0.001370,
+      "\u001b]2;git checkout install.sh\u0007"
+    ],
+    [
+      0.000037,
+      "\u001b]1;gco\u0007"
+    ],
+    [
+      0.006940,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r"
+    ],
+    [
+      0.000156,
+      "\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.149351,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m  master \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.070882,
+      "g"
+    ],
+    [
+      0.591738,
+      "\u0008gc"
+    ],
+    [
+      0.073629,
+      "o"
+    ],
+    [
+      0.255111,
+      " "
+    ],
+    [
+      0.415833,
+      "H"
+    ],
+    [
+      0.069368,
+      "E"
+    ],
+    [
+      0.174932,
+      "A"
+    ],
+    [
+      0.147845,
+      "D"
+    ],
+    [
+      0.229141,
+      "~"
+    ],
+    [
+      0.334020,
+      "1"
+    ],
+    [
+      0.189199,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git checkout HEAD~1\u0007\u001b]1;gco\u0007"
+    ],
+    [
+      0.007289,
+      "Note: checking out 'HEAD~1'.\r\n\r\nYou are in 'detached HEAD' state. You can look around, make experimental\r\nchanges and commit them, and you can discard any commits you make in this\r\nstate without impacting any branches by performing another checkout.\r\n\r\n"
+    ],
+    [
+      0.000020,
+      "If you want to create a new branch to retain commits you create, you may\r\ndo so (now or later) by using -b with the checkout command again. Example:\r\n\r\n  git checkout -b new_branch_name\r\n\r\n"
+    ],
+    [
+      0.000389,
+      "HEAD is now at dc4f066... upd\r\n"
+    ],
+    [
+      0.001572,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.161425,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m ➦ dc4f066 \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000111,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.040638,
+      "g"
+    ],
+    [
+      0.119395,
+      "\u0008gc"
+    ],
+    [
+      0.095799,
+      "o"
+    ],
+    [
+      0.110589,
+      " "
+    ],
+    [
+      0.492115,
+      "m"
+    ],
+    [
+      0.100992,
+      "a"
+    ],
+    [
+      0.132036,
+      "s"
+    ],
+    [
+      0.184191,
+      "t"
+    ],
+    [
+      0.084540,
+      "e"
+    ],
+    [
+      0.163866,
+      "r"
+    ],
+    [
+      0.107614,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git checkout master\u0007\u001b]1;gco\u0007"
+    ],
+    [
+      0.007268,
+      "Previous HEAD position was dc4f066... upd\r\n"
+    ],
+    [
+      0.000948,
+      "Switched to branch 'master'\r\n"
+    ],
+    [
+      0.000590,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.001402,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~/.config-repo\u0007\u001b]1;~/.config-repo\u0007"
+    ],
+    [
+      0.158606,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~/.config-repo \u001b[43m\u001b[34m\u001b[30m  master \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.930996,
+      "c"
+    ],
+    [
+      0.095147,
+      "\u0008cd"
+    ],
+    [
+      0.058024,
+      " "
+    ],
+    [
+      0.337654,
+      "-"
+    ],
+    [
+      0.275265,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd -\u0007\u001b]1;cd\u0007~\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r\u001b]2;synther@synther-UX31E: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.140154,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m synther@synther-UX31E \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.533918,
+      "\r\r\n"
+    ]
+  ]
+}

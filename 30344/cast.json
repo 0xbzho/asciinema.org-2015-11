@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "width": 105,
+  "height": 27,
+  "duration": 16.742841,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.539679,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r"
+    ],
+    [
+      0.000041,
+      "\u001b]2;totu@totu: ~\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.010332,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mtotu\u001b[00m ~ \u001b[00m\u001b[1m»\u001b[0m "
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.824789,
+      "i"
+    ],
+    [
+      0.310751,
+      "\u0008if"
+    ],
+    [
+      0.343965,
+      "c"
+    ],
+    [
+      0.159859,
+      "o"
+    ],
+    [
+      0.279799,
+      "nfig\u001b[1m \u001b[0m"
+    ],
+    [
+      0.760337,
+      "\u0008\u001b[0m e"
+    ],
+    [
+      0.127868,
+      "n"
+    ],
+    [
+      0.591947,
+      "0"
+    ],
+    [
+      0.720012,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000087,
+      "\r\r\n"
+    ],
+    [
+      0.000904,
+      "\u001b]2;ifconfig en0\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;ifconfig\u0007"
+    ],
+    [
+      0.003032,
+      "en0: flags=8863\u003cUP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST\u003e mtu 1500\r\n\tether a4:5e:60:dc:08:f5 \r\n"
+    ],
+    [
+      0.001173,
+      "\tinet6 fe80::a65e:60ff:fedc:8f5%en0 prefixlen 64 scopeid 0x4 \r\n"
+    ],
+    [
+      0.000092,
+      "\tinet6 2001:999:20:74b:a65e:60ff:fedc:8f5 prefixlen 64 autoconf \r\n"
+    ],
+    [
+      0.000037,
+      "\tinet6 2001:999:20:74b:58a2:6276:fdf2:f2f5 prefixlen 64 autoconf temporary \r\n"
+    ],
+    [
+      0.000004,
+      "\tinet 192.168.1.6 netmask 0xffffff00 broadcast 192.168.1.255\r\n"
+    ],
+    [
+      0.000037,
+      "\tinet6 2001:999:20:74b::2 prefixlen 64 dynamic \r\n"
+    ],
+    [
+      0.000037,
+      "\tnd6 options=1\u003cPERFORMNUD\u003e\r\n"
+    ],
+    [
+      0.000030,
+      "\tmedia: autoselect\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.000511,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r"
+    ],
+    [
+      0.000152,
+      "\u001b]2;totu@totu: ~\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.011582,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mtotu\u001b[00m ~ \u001b[00m\u001b[1m»\u001b[0m \u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.398656,
+      "i"
+    ],
+    [
+      0.111567,
+      "\u0008if"
+    ],
+    [
+      0.456107,
+      "c"
+    ],
+    [
+      0.143964,
+      "o"
+    ],
+    [
+      0.346391,
+      "nfig\u001b[1m \u001b[0m"
+    ],
+    [
+      0.685514,
+      "\u0008\u001b[0m e"
+    ],
+    [
+      0.151935,
+      "n"
+    ],
+    [
+      0.464050,
+      "0"
+    ],
+    [
+      0.271919,
+      " "
+    ],
+    [
+      1.656515,
+      "|"
+    ],
+    [
+      0.631398,
+      " "
+    ],
+    [
+      0.496067,
+      "m"
+    ],
+    [
+      0.095951,
+      "a"
+    ],
+    [
+      0.112013,
+      "c"
+    ],
+    [
+      0.352004,
+      "2"
+    ],
+    [
+      0.463905,
+      "h"
+    ],
+    [
+      0.128319,
+      "e"
+    ],
+    [
+      0.378137,
+      "x\u001b[1m \u001b[0m"
+    ],
+    [
+      0.789469,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000055,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000065,
+      "\r\r\n"
+    ],
+    [
+      0.000817,
+      "\u001b]2;ifconfig en0 | python3 ~/Code/emoji/emoji.py\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;ifconfig\u0007"
+    ],
+    [
+      0.028176,
+      "en0: flags=8863\u003cUP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST\u003e mtu 1500\r\n"
+    ],
+    [
+      0.000188,
+      "\tether 💤:👞:👠:📜:🐈:📵 \r\n\tinet6 fe80::a65e:60ff:fedc:8f5%en0 prefixlen 64 scopeid 0x4 \r\n"
+    ],
+    [
+      0.000004,
+      "\tinet6 2001:999:20:74b:a65e:60ff:fedc:8f5 prefixlen 64 autoconf \r\n\tinet6 2001:999:20:74b:58a2:6276:fdf2:f2f5 prefixlen 64 autoconf temporary \r\n"
+    ],
+    [
+      0.000018,
+      "\tinet 192.168.1.6 netmask 0xffffff00 broadcast 192.168.1.255\r\n"
+    ],
+    [
+      0.000004,
+      "\tinet6 2001:999:20:74b::2 prefixlen 64 dynamic \r\n\tnd6 options=1\u003cPERFORMNUD\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "\tmedia: autoselect\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.002975,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r"
+    ],
+    [
+      0.000142,
+      "\u001b]2;totu@totu: ~\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.010649,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mtotu\u001b[00m ~ \u001b[00m\u001b[1m»\u001b[0m \u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.869188,
+      "\r\r\n"
+    ]
+  ]
+}

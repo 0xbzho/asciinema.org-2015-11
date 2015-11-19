@@ -1,0 +1,1754 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 43.129019,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.682831,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000059,
+      "\u001b]2;wskruse@Titanium: ~/Google Drive/CS 6233/Midterm/q3\u0007\u001b]1;..33/Midterm/q3\u0007"
+    ],
+    [
+      0.011553,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.local \u001b[37min \u001b[1m\u001b[33m~/Google Drive/CS 6233/Midterm/q3\u001b[00m \u001b[37m[11:41:56]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?2004h"
+    ],
+    [
+      1.494399,
+      "asciinema rec"
+    ],
+    [
+      0.574877,
+      "\u001b[13Dclear        \u001b[8D"
+    ],
+    [
+      0.415848,
+      "\u0008\u0008\u0008\u0008\u0008./gradlew cAT"
+    ],
+    [
+      2.839997,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000054,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000003,
+      "\r\r\n"
+    ],
+    [
+      0.000631,
+      "\u001b]2;./gradlew cAT\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;./gradlew\u0007"
+    ],
+    [
+      0.338357,
+      "\u001b[0m"
+    ],
+    [
+      0.712787,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.412186,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.157259,
+      "\u001b[1m \u003e 0/2 projects\u001b[22m"
+    ],
+    [
+      0.028324,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.155681,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000552,
+      "\u001b[12D\u001b[1m1/2 projects\u001b[22m"
+    ],
+    [
+      0.000283,
+      "\u001b[1m \u003e :Application\u001b[22m"
+    ],
+    [
+      0.102899,
+      "\u001b[1m \u003e Resolving dependencies ':Applicat\u001b[22m"
+    ],
+    [
+      0.390691,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      1.145591,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000164,
+      "\u001b[12D\u001b[1m2/2 projects\u001b[22m"
+    ],
+    [
+      0.183583,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_debugCompi\u001b[22m"
+    ],
+    [
+      0.057992,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.001008,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_debugApk'\u001b[22m"
+    ],
+    [
+      0.005147,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.033565,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_releaseCom\u001b[22m"
+    ],
+    [
+      0.003039,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000919,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_releaseApk\u001b[22m"
+    ],
+    [
+      0.005104,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.661866,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_debugUnitT\u001b[22m"
+    ],
+    [
+      0.000582,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000545,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_debugUnitT\u001b[22m"
+    ],
+    [
+      0.000180,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.145240,
+      "\u001b[1m \u003e Resolving dependencies ':Application:releaseWear\u001b[22m"
+    ],
+    [
+      0.000224,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.002811,
+      "\u001b[1m \u003e Resolving dependencies ':Application:wearApp'\u001b[22m"
+    ],
+    [
+      0.000168,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.044306,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_releaseUni\u001b[22m"
+    ],
+    [
+      0.000118,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000242,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_releaseUni\u001b[22m"
+    ],
+    [
+      0.000164,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.007659,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_debugAndro\u001b[22m"
+    ],
+    [
+      0.076435,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000594,
+      "\u001b[1m \u003e Resolving dependencies ':Application:_debugAndro\u001b[22m"
+    ],
+    [
+      0.012962,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.242702,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000079,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000575,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.046748,
+      "\u001b[1m \u003e :Application:preBuild\u001b[22m"
+    ],
+    [
+      0.012526,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.001149,
+      "\u001b[13D\u001b[0K:Application:preBuild \r\n\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000994,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000059,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[32C\r\n\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.027749,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000583,
+      "\u001b[1m \u003e :Application:preDebugBuild\u001b[22m"
+    ],
+    [
+      0.001287,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000154,
+      "\u001b[13D\u001b[0K:Application:preDebugBuild \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 1%\u001b[22m"
+    ],
+    [
+      0.000157,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 1%\u001b[22m"
+    ],
+    [
+      0.000082,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[37C\r\n\u001b[1m\u003e Building 1%\u001b[22m"
+    ],
+    [
+      0.000612,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.000285,
+      "\u001b[1m \u003e :Application:checkDebugManifest\u001b[22m"
+    ],
+    [
+      0.004895,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000131,
+      "\u001b[13D\u001b[0K:Application:checkDebugManifest\r\n\u001b[1m\u003e Building 3%\u001b[22m"
+    ],
+    [
+      0.000831,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.003028,
+      "\u001b[1m \u003e :Application:preReleaseBuild\u001b[22m"
+    ],
+    [
+      0.001732,
+      "\u001b[31D\u001b[0K"
+    ],
+    [
+      0.000225,
+      "\u001b[13D\u001b[0K:Application:preReleaseBuild \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 5%\u001b[22m"
+    ],
+    [
+      0.000414,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[29C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 5%\u001b[22m"
+    ],
+    [
+      0.000179,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[39C\r\n\u001b[1m\u003e Building 5%\u001b[22m"
+    ],
+    [
+      0.000500,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000345,
+      "\u001b[1m \u003e :Application:prepareComAndroidSupportSupportV42310Library\u001b[22m"
+    ],
+    [
+      0.034699,
+      "\u001b[60D\u001b[0K"
+    ],
+    [
+      0.000110,
+      "\u001b[13D\u001b[0K:Application:prepareComAndroidSupportSupportV42310Library \r\n\u001b[1m\u003e Building 7%\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[58C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[1m\u003e Building 7%\u001b[22m"
+    ],
+    [
+      0.000053,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[68C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 7%\u001b[22m"
+    ],
+    [
+      0.000656,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000547,
+      "\u001b[1m \u003e :Application:prepareDebugDependencies\u001b[22m"
+    ],
+    [
+      0.000713,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000163,
+      "\u001b[13D\u001b[0K:Application:prepareDebugDependencies\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 9%\u001b[22m"
+    ],
+    [
+      0.000331,
+      "\u001b[2D\u001b[1m10%\u001b[22m"
+    ],
+    [
+      0.000264,
+      "\u001b[1m \u003e :Application:compileDebugAidl\u001b[22m"
+    ],
+    [
+      0.020987,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000062,
+      "\u001b[14D\u001b[0K:Application:compileDebugAidl \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 10%\u001b[22m"
+    ],
+    [
+      0.000053,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1m\u003e Building 10%\u001b[22m"
+    ],
+    [
+      0.000085,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 10%\u001b[22m"
+    ],
+    [
+      0.000435,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000509,
+      "\u001b[1m \u003e :Application:compileDebugRenderscript\u001b[22m"
+    ],
+    [
+      0.020317,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000217,
+      "\u001b[14D\u001b[0K:Application:compileDebugRenderscript \r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000122,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[48C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000828,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000365,
+      "\u001b[1m \u003e :Application:generateDebugBuildConfig\u001b[22m"
+    ],
+    [
+      0.039158,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000138,
+      "\u001b[14D\u001b[0K:Application:generateDebugBuildConfig \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000091,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[48C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 14%\u001b[22m"
+    ],
+    [
+      0.000435,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000272,
+      "\u001b[1m \u003e :Application:generateDebugAssets\u001b[22m"
+    ],
+    [
+      0.000372,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000101,
+      "\u001b[14D\u001b[0K:Application:generateDebugAssets \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 16%\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 16%\u001b[22m"
+    ],
+    [
+      0.000123,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n\u001b[1m\u003e Building 16%\u001b[22m"
+    ],
+    [
+      0.000263,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000223,
+      "\u001b[1m \u003e :Application:mergeDebugAssets\u001b[22m"
+    ],
+    [
+      0.005004,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000206,
+      "\u001b[14D\u001b[0K:Application:mergeDebugAssets \r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000093,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000075,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000357,
+      "\u001b[3D\u001b[1m20%\u001b[22m"
+    ],
+    [
+      0.000244,
+      "\u001b[1m \u003e :Application:generateDebugResValues\u001b[22m"
+    ],
+    [
+      0.002615,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000104,
+      "\u001b[14D\u001b[0K:Application:generateDebugResValues \r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[1m\u003e Building 20%\u001b[22m"
+    ],
+    [
+      0.000120,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 20%\u001b[22m"
+    ],
+    [
+      0.000059,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 20%\u001b[22m"
+    ],
+    [
+      0.000451,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000310,
+      "\u001b[1m \u003e :Application:generateDebugResources\u001b[22m"
+    ],
+    [
+      0.000344,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000126,
+      "\u001b[14D\u001b[0K:Application:generateDebugResources \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000093,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000463,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.000354,
+      "\u001b[1m \u003e :Application:mergeDebugResources\u001b[22m"
+    ],
+    [
+      0.013363,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000473,
+      "\u001b[14D\u001b[0K:Application:mergeDebugResources \r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[1m\u003e Building 23%\u001b[22m"
+    ],
+    [
+      0.000206,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 23%\u001b[22m"
+    ],
+    [
+      0.000040,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 23%\u001b[22m"
+    ],
+    [
+      0.000468,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000356,
+      "\u001b[1m \u003e :Application:processDebugManifest\u001b[22m"
+    ],
+    [
+      0.027846,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000159,
+      "\u001b[14D\u001b[0K:Application:processDebugManifest \r\n\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000079,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000040,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000388,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000503,
+      "\u001b[1m \u003e :Application:processDebugResources\u001b[22m"
+    ],
+    [
+      0.010620,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000160,
+      "\u001b[14D\u001b[0K:Application:processDebugResources \r\n\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000074,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[45C\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.000968,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000547,
+      "\u001b[1m \u003e :Application:generateDebugSources\u001b[22m"
+    ],
+    [
+      0.000334,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K:Application:generateDebugSources \r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[1m\u003e Building 29%\u001b[22m"
+    ],
+    [
+      0.000074,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 29%\u001b[22m"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n\u001b[1m\u003e Building 29%\u001b[22m"
+    ],
+    [
+      0.000960,
+      "\u001b[3D\u001b[1m30%\u001b[22m"
+    ],
+    [
+      0.000230,
+      "\u001b[1m \u003e :Application:processDebugJavaRes\u001b[22m"
+    ],
+    [
+      0.000409,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K:Application:processDebugJavaRes \r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000029,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 30%\u001b[22m"
+    ],
+    [
+      0.000360,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000210,
+      "\u001b[1m \u003e :Application:compileDebugJava\u001b[22m"
+    ],
+    [
+      0.023058,
+      "\u001b[32D\u001b[0K"
+    ],
+    [
+      0.000329,
+      "\u001b[14D\u001b[0K:Application:compileDebugJava \r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[1m\u003e Building 32%\u001b[22m"
+    ],
+    [
+      0.000330,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[30C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 32%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 32%\u001b[22m"
+    ],
+    [
+      0.000431,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000289,
+      "\u001b[1m \u003e :Application:compileDebugNdk\u001b[22m"
+    ],
+    [
+      0.000564,
+      "\u001b[31D\u001b[0K"
+    ],
+    [
+      0.000069,
+      "\u001b[14D\u001b[0K:Application:compileDebugNdk \r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[1m\u003e Building 34%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[29C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 34%\u001b[22m"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[39C\r\n\u001b[1m\u003e Building 34%\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000400,
+      "\u001b[1m \u003e :Application:compileDebugSources\u001b[22m"
+    ],
+    [
+      0.000349,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000051,
+      "\u001b[14D\u001b[0K:Application:compileDebugSources \r\n\u001b[1m\u003e Building 36%\u001b[22m"
+    ],
+    [
+      0.000044,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 36%\u001b[22m"
+    ],
+    [
+      0.000034,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n\u001b[1m\u003e Building 36%\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000269,
+      "\u001b[1m \u003e :Application:preDexDebug\u001b[22m"
+    ],
+    [
+      0.007060,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000179,
+      "\u001b[14D\u001b[0K:Application:preDexDebug \r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[1m\u003e Building 38%\u001b[22m"
+    ],
+    [
+      0.000121,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[25C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[1m\u003e Building 38%\u001b[22m"
+    ],
+    [
+      0.000071,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[1m\u003e Building 38%\u001b[22m"
+    ],
+    [
+      0.000408,
+      "\u001b[3D\u001b[1m40%\u001b[22m"
+    ],
+    [
+      0.000378,
+      "\u001b[1m \u003e :Application:dexDebug\u001b[22m"
+    ],
+    [
+      0.009723,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000048,
+      "\u001b[14D\u001b[0K:Application:dexDebug \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 40%\u001b[22m"
+    ],
+    [
+      0.000082,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1m\u003e Building 40%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 40%\u001b[22m"
+    ],
+    [
+      0.000293,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000234,
+      "\u001b[1m \u003e :Application:validateDebugSigning\u001b[22m"
+    ],
+    [
+      0.001811,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000082,
+      "\u001b[14D\u001b[0K:Application:validateDebugSigning\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 41%\u001b[22m"
+    ],
+    [
+      0.000551,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.002623,
+      "\u001b[1m \u003e :Application:packageDebug\u001b[22m"
+    ],
+    [
+      0.006749,
+      "\u001b[28D\u001b[0K"
+    ],
+    [
+      0.000197,
+      "\u001b[14D\u001b[0K:Application:packageDebug \r\n\u001b[1m\u003e Building 43%\u001b[22m"
+    ],
+    [
+      0.000051,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[26C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 43%\u001b[22m"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\r\n\u001b[1m\u003e Building 43%\u001b[22m"
+    ],
+    [
+      0.000356,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000250,
+      "\u001b[1m \u003e :Application:zipalignDebug\u001b[22m"
+    ],
+    [
+      0.001618,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000097,
+      "\u001b[14D\u001b[0K:Application:zipalignDebug \r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 45%\u001b[22m"
+    ],
+    [
+      0.000053,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u003e Building 45%\u001b[22m"
+    ],
+    [
+      0.000051,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 45%\u001b[22m"
+    ],
+    [
+      0.000315,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000182,
+      "\u001b[1m \u003e :Application:assembleDebug\u001b[22m"
+    ],
+    [
+      0.000293,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K:Application:assembleDebug \r\n\u001b[1m\u003e Building 47%\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Building 47%\u001b[22m"
+    ],
+    [
+      0.000072,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 47%\u001b[22m"
+    ],
+    [
+      0.000303,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000323,
+      "\u001b[1m \u003e :Application:preDebugAndroidTestBuild\u001b[22m"
+    ],
+    [
+      0.000269,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K:Application:preDebugAndroidTestBuild \r\n\u001b[1m\u003e Building 49%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 49%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[48C\r\n\u001b[1m\u003e Building 49%\u001b[22m"
+    ],
+    [
+      0.000222,
+      "\u001b[3D\u001b[1m50%\u001b[22m"
+    ],
+    [
+      0.000222,
+      "\u001b[1m \u003e :Application:prepareComAndroidSupportTestEspressoEspressoCore2\u001b[22m"
+    ],
+    [
+      0.002070,
+      "\u001b[65D\u001b[0K"
+    ],
+    [
+      0.000089,
+      "\u001b[14D\u001b[0K:Application:prepareComAndroidSupportTestEspressoEspressoCore221Library \r\n\u001b[1m\u003e Building 50%\u001b[22m"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[72C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 50%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[82C\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u003e Building 50%\u001b[22m"
+    ],
+    [
+      0.000338,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000214,
+      "\u001b[1m \u003e :Application:prepareComAndroidSupportTestEspressoEspressoIdlin\u001b[22m"
+    ],
+    [
+      0.005013,
+      "\u001b[65D\u001b[0K"
+    ],
+    [
+      0.000258,
+      "\u001b[14D\u001b[0K:Application:prepareComAndroidSupportTestEspressoEspressoIdlingResource221Library \r\n\u001b[1m\u003e Building 52%\u001b[22m"
+    ],
+    [
+      0.000187,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[82C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[1m\u003e Building 52%\u001b[22m"
+    ],
+    [
+      0.000130,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[92C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 52%\u001b[22m"
+    ],
+    [
+      0.000319,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000261,
+      "\u001b[1m \u003e :Application:prepareComAndroidSupportTestExposedInstrumentatio\u001b[22m"
+    ],
+    [
+      0.002940,
+      "\u001b[65D\u001b[0K"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K:Application:prepareComAndroidSupportTestExposedInstrumentationApiPublish041Library \r\n\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000039,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[84C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[94C\r\n\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000233,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000211,
+      "\u001b[1m \u003e :Application:prepareComAndroidSupportTestRules041Library\u001b[22m"
+    ],
+    [
+      0.002247,
+      "\u001b[59D\u001b[0K"
+    ],
+    [
+      0.000081,
+      "\u001b[14D\u001b[0K:Application:prepareComAndroidSupportTestRules041Library \r\n\u001b[1m\u003e Building 56%\u001b[22m"
+    ],
+    [
+      0.000039,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[57C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 56%\u001b[22m"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[67C\r\n\u001b[1m\u003e Building 56%\u001b[22m"
+    ],
+    [
+      0.000257,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000210,
+      "\u001b[1m \u003e :Application:prepareComAndroidSupportTestRunner041Library\u001b[22m"
+    ],
+    [
+      0.001973,
+      "\u001b[60D\u001b[0K"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K:Application:prepareComAndroidSupportTestRunner041Library \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[58C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000028,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[68C\r\n\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000280,
+      "\u001b[3D\u001b[1m60%\u001b[22m"
+    ],
+    [
+      0.000227,
+      "\u001b[1m \u003e :Application:prepareDebugAndroidTestDependencies\u001b[22m"
+    ],
+    [
+      0.000580,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000045,
+      "\u001b[14D\u001b[0K:Application:prepareDebugAndroidTestDependencies\r\n\u001b[1m\u003e Building 60%\u001b[22m"
+    ],
+    [
+      0.000280,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000240,
+      "\u001b[1m \u003e :Application:compileDebugAndroidTestAidl\u001b[22m"
+    ],
+    [
+      0.003431,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.000031,
+      "\u001b[14D\u001b[0K:Application:compileDebugAndroidTestAidl \r\n\u001b[1m\u003e Building 61%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[41C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 61%\u001b[22m"
+    ],
+    [
+      0.000021,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[51C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 61%\u001b[22m"
+    ],
+    [
+      0.000242,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.000298,
+      "\u001b[1m \u003e :Application:processDebugAndroidTestManifest\u001b[22m"
+    ],
+    [
+      0.003510,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.000031,
+      "\u001b[14D\u001b[0K:Application:processDebugAndroidTestManifest \r\n\u001b[1m\u003e Building 63%\u001b[22m"
+    ],
+    [
+      0.000032,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[45C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 63%\u001b[22m"
+    ],
+    [
+      0.000025,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[55C\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u003e Building 63%\u001b[22m"
+    ],
+    [
+      0.000348,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000236,
+      "\u001b[1m \u003e :Application:compileDebugAndroidTestRenderscript\u001b[22m"
+    ],
+    [
+      0.003068,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K:Application:compileDebugAndroidTestRenderscript \r\n\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000043,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[49C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000022,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[59C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 65%\u001b[22m"
+    ],
+    [
+      0.000254,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000226,
+      "\u001b[1m \u003e :Application:generateDebugAndroidTestBuildConfig\u001b[22m"
+    ],
+    [
+      0.002603,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000053,
+      "\u001b[14D\u001b[0K:Application:generateDebugAndroidTestBuildConfig \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 67%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[49C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 67%\u001b[22m"
+    ],
+    [
+      0.000024,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[59C\r\n\u001b[1m\u003e Building 67%\u001b[22m"
+    ],
+    [
+      0.000244,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000213,
+      "\u001b[1m \u003e :Application:generateDebugAndroidTestAssets\u001b[22m"
+    ],
+    [
+      0.000216,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.000044,
+      "\u001b[14D\u001b[0K:Application:generateDebugAndroidTestAssets \r\n\u001b[1m\u003e Building 69%\u001b[22m"
+    ],
+    [
+      0.000047,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 69%\u001b[22m"
+    ],
+    [
+      0.000022,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[54C\r\n\u001b[1m\u003e Building 69%\u001b[22m"
+    ],
+    [
+      0.000267,
+      "\u001b[3D\u001b[1m70%\u001b[22m"
+    ],
+    [
+      0.000217,
+      "\u001b[1m \u003e :Application:mergeDebugAndroidTestAssets\u001b[22m"
+    ],
+    [
+      0.002574,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.000027,
+      "\u001b[14D\u001b[0K:Application:mergeDebugAndroidTestAssets \r\n\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000023,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[41C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000016,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[51C\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 70%\u001b[22m"
+    ],
+    [
+      0.000257,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000063,
+      "\u001b[1m \u003e :Application:generateDebugAndroidTestResValues\u001b[22m"
+    ],
+    [
+      0.001935,
+      "\u001b[49D\u001b[0K\u001b[14D\u001b[0K:Application:generateDebugAndroidTestResValues \r\n\u001b[1m\u003e Building 72%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[47C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 72%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[57C\r\n\u001b[1m\u003e Building 72%\u001b[22m\u001b[2D\u001b[1m4%\u001b[22m\u001b[1m \u003e :Application:generateDebugAndroidTestResources\u001b[22m"
+    ],
+    [
+      0.000869,
+      "\u001b[49D\u001b[0K\u001b[14D\u001b[0K:Application:generateDebugAndroidTestResources \r\n\u001b[1m\u003e Building 74%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[47C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 74%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[57C\r\n\u001b[1m\u003e Building 74%\u001b[22m\u001b[2D\u001b[1m6%\u001b[22m\u001b[1m \u003e :Application:mergeDebugAndroidTestResources\u001b[22m"
+    ],
+    [
+      0.006508,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K:Application:mergeDebugAndroidTestResources \r\n\u001b[1m\u003e Building 76%\u001b[22m"
+    ],
+    [
+      0.000032,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 76%\u001b[22m"
+    ],
+    [
+      0.001931,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[54C\r\n\u001b[1m\u003e Building 76%\u001b[22m"
+    ],
+    [
+      0.000008,
+      "\u001b[2D\u001b[1m8%\u001b[22m\u001b[1m \u003e :Application:processDebugAndroidTestResources\u001b[22m"
+    ],
+    [
+      0.003205,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.000029,
+      "\u001b[14D\u001b[0K:Application:processDebugAndroidTestResources \r\n\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000023,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000005,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[56C\r\n\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000201,
+      "\u001b[3D\u001b[1m80%\u001b[22m"
+    ],
+    [
+      0.000173,
+      "\u001b[1m \u003e :Application:generateDebugAndroidTestSources\u001b[22m"
+    ],
+    [
+      0.000236,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K:Application:generateDebugAndroidTestSources \r\n\u001b[1m\u003e Building 80%\u001b[22m"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[45C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 80%\u001b[22m"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[55C\r\n\u001b[1m\u003e Building 80%\u001b[22m"
+    ],
+    [
+      0.000244,
+      "\u001b[2D\u001b[1m1%\u001b[22m"
+    ],
+    [
+      0.000222,
+      "\u001b[1m \u003e :Application:processDebugAndroidTestJavaRes\u001b[22m"
+    ],
+    [
+      0.000909,
+      "\u001b[46D\u001b[0K\u001b[14D\u001b[0K:Application:processDebugAndroidTestJavaRes \r\n\u001b[1m\u003e Building 81%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[44C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 81%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[54C\r\n\u001b[1m\u003e Building 81%\u001b[22m\u001b[2D\u001b[1m3%\u001b[22m\u001b[1m \u003e :Application:compileDebugAndroidTestJava\u001b[22m"
+    ],
+    [
+      0.685154,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.000144,
+      "\u001b[14D\u001b[0K:Application:compileDebugAndroidTestJava\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 83%\u001b[22m"
+    ],
+    [
+      0.000508,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000425,
+      "\u001b[1m \u003e :Application:compileDebugAndroidTestNdk\u001b[22m"
+    ],
+    [
+      0.000584,
+      "\u001b[42D\u001b[0K"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K:Application:compileDebugAndroidTestNdk \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 85%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[40C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 85%\u001b[22m"
+    ],
+    [
+      0.000061,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[50C\r\n\u001b[1m\u003e Building 85%\u001b[22m"
+    ],
+    [
+      0.000360,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000308,
+      "\u001b[1m \u003e :Application:compileDebugAndroidTestSources\u001b[22m"
+    ],
+    [
+      0.000399,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K:Application:compileDebugAndroidTestSources\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000465,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000362,
+      "\u001b[1m \u003e :Application:preDexDebugAndroidTest\u001b[22m"
+    ],
+    [
+      0.004909,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000026,
+      "\u001b[14D\u001b[0K:Application:preDexDebugAndroidTest \r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[1m\u003e Building 89%\u001b[22m"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 89%\u001b[22m"
+    ],
+    [
+      0.000036,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1m\u003e Building 89%\u001b[22m"
+    ],
+    [
+      0.000326,
+      "\u001b[3D\u001b[1m90%\u001b[22m"
+    ],
+    [
+      0.000189,
+      "\u001b[1m \u003e :Application:dexDebugAndroidTest\u001b[22m"
+    ],
+    [
+      1.091501,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000037,
+      "\u001b[14D\u001b[0K:Application:dexDebugAndroidTest\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000361,
+      "\u001b[2D\u001b[1m2%\u001b[22m"
+    ],
+    [
+      0.000333,
+      "\u001b[1m \u003e :Application:packageDebugAndroidTest\u001b[22m"
+    ],
+    [
+      0.771389,
+      "\u001b[39D\u001b[0K"
+    ],
+    [
+      0.000071,
+      "\u001b[14D\u001b[0K:Application:packageDebugAndroidTest\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 92%\u001b[22m"
+    ],
+    [
+      0.000324,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000256,
+      "\u001b[1m \u003e :Application:assembleDebugAndroidTest\u001b[22m"
+    ],
+    [
+      0.000241,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K:Application:assembleDebugAndroidTest\r\n\u001b[1m\u003e Building 94%\u001b[22m"
+    ],
+    [
+      0.000253,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000213,
+      "\u001b[1m \u003e :Application:connectedAndroidTestDebug\u001b[22m"
+    ],
+    [
+      23.031921,
+      "\u001b[41D\u001b[0K"
+    ],
+    [
+      0.000093,
+      "\u001b[14D\u001b[0K:Application:connectedAndroidTestDebug\r\n\u001b[1m\u003e Building 96%\u001b[22m"
+    ],
+    [
+      0.000452,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000281,
+      "\u001b[1m \u003e :Application:connectedAndroidTest\u001b[22m"
+    ],
+    [
+      0.000334,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000040,
+      "\u001b[14D\u001b[0K:Application:connectedAndroidTest\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 98%\u001b[22m"
+    ],
+    [
+      0.000323,
+      "\u001b[3D\u001b[1m100%\u001b[22m"
+    ],
+    [
+      0.000521,
+      "\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.001211,
+      "\u001b[15D\u001b[0KBUILD SUCCESSFUL\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000023,
+      "\u001b[15D\u001b[0K\u001b[1A\u001b[16C\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000055,
+      "\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000125,
+      "\u001b[15D\u001b[0KTotal time: 30.856 secs\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000112,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.009579,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "This build could be faster, please consider using the Gradle Daemon: http://gradle.org/docs/2.5/userguide/gradle_daemon.html\r\n"
+    ],
+    [
+      0.000771,
+      "\u001b[0m"
+    ],
+    [
+      0.384126,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000055,
+      "\u001b]2;wskruse@Titanium: ~/Google Drive/CS 6233/Midterm/q3\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..33/Midterm/q3\u0007"
+    ],
+    [
+      0.016023,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.local \u001b[37min \u001b[1m\u001b[33m~/Google Drive/CS 6233/Midterm/q3\u001b[00m \u001b[37m[11:42:33]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000067,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000023,
+      "\u001b[?2004h"
+    ],
+    [
+      5.746906,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

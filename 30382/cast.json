@@ -1,0 +1,1662 @@
+{
+  "version": 1,
+  "width": 273,
+  "height": 69,
+  "duration": 33.036589,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.163111,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                                \r \r"
+    ],
+    [
+      0.028804,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/projects/demo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[1m\u001b[30m(\u001b[0m\u001b[36mayato\u001b[1m\u001b[36m@\u001b[0m\u001b[36mubuntu\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m\u003e \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.570739,
+      "\u001b[1m\u001b[37me"
+    ],
+    [
+      0.085122,
+      "\u0008\u001b[1m\u001b[37me\u001b[1m\u001b[37mm"
+    ],
+    [
+      0.106682,
+      "\u001b[1m\u001b[37ma"
+    ],
+    [
+      0.154307,
+      "\u001b[1m\u001b[37mc"
+    ],
+    [
+      0.117183,
+      "\u001b[1m\u001b[37ms"
+    ],
+    [
+      0.056492,
+      "\u001b[1m\u001b[37md"
+    ],
+    [
+      0.805603,
+      "\u0008\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.226755,
+      "\u001b[1m\u001b[37m "
+    ],
+    [
+      0.161144,
+      "\u001b[1m\u001b[37m-"
+    ],
+    [
+      0.182110,
+      "\u001b[1m\u001b[37mn"
+    ],
+    [
+      0.040061,
+      "\u001b[1m\u001b[37mw"
+    ],
+    [
+      0.311086,
+      "\u001b[?1l\u001b\u003e\u001b[0m\u001b[39m\r\r\n"
+    ],
+    [
+      0.013341,
+      "\u001b[?1049h\u001b[34l\u001b[?1h\u001b="
+    ],
+    [
+      0.006580,
+      "\u001b[H\u001b[J\u001b[69;1H\u001b[K\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000028,
+      "\u001b[?1049h\u001b[34l\u001b[?1h\u001b="
+    ],
+    [
+      0.010540,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.001739,
+      "\u001b[68;1H\u001b[?25l\u001b[30m\u001b[47m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[47m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All L1     (Fundamental) ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[39;49m\r\n\u001bM\u001b[H\n\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.832001,
+      "\u001b[69;1H\u001b[?25lLoading /home/ayato/.emacs.d/bootstrap.el (source)...done\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.005627,
+      "\u001b[69;9H\u001b[?25lsetup-auto-complete-mode...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000734,
+      "\u001b[69;9H\u001b[?25lpackage auto-complete...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.055313,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.024058,
+      "\u001b[69;1H\u001b[?25lLoading package ac-helm...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.548866,
+      "\u001b[69;1H\u001b[?25lad-handle-definition: `tramp-read-passwd' got redefined\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.059645,
+      "\u001b[69;1H\u001b[?25lConfiguring package ac-helm...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000202,
+      "\u001b[69;31H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000220,
+      "\u001b[69;1H\u001b[?25lLoading package ac-helm...done (0.609s)\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000126,
+      "\u001b[69;1H\u001b[?25lConfiguring package auto-complete...done (0.634s)\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000201,
+      "\u001b[69;1H\u001b[?25lLoading package auto-complete...done (0.689s)\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000261,
+      "\u001b[69;9H\u001b[?25lsetup-auto-complete-mode...done\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000385,
+      "\u001b[69;15H\u001b[?25lbasic...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.010661,
+      "\u001b[69;9H\u001b[?25lpackage anzu...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.007389,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000190,
+      "\u001b[69;28H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000195,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000186,
+      "\u001b[69;17H\u001b[?25lrecentf...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.015527,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001199,
+      "\u001b[69;1H\u001b[?25lLoading /home/ayato/\u001b[1@.\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000836,
+      "\u001b[69;32H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000543,
+      "\u001b[69;1H\u001b[?25lCleaning up the recentf list...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001329,
+      "\u001b[69;32H\u001b[?25ldone (0 removed)\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000177,
+      "\u001b[69;2H\u001b[?25lonfiguring package recentf...done\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000214,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000131,
+      "\u001b[69;17H\u001b[?25lace-isearch...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.024334,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000196,
+      "\u001b[69;35H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000216,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000116,
+      "\u001b[69;17H\u001b[?25lmigemo...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.007979,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001667,
+      "\u001b[69;1H\u001b[?25lLoading\u001b[12P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.009240,
+      "\u001b[69;18H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000835,
+      "\u001b[69;1H\u001b[?25lConfigu\u001b[12@ring package\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000276,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000572,
+      "\u001b[69;17H\u001b[?25lhelm-migemo...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003926,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000563,
+      "\u001b[69;35H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000732,
+      "\u001b[69;22H\u001b[?25lswoop...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000521,
+      "\u001b[69;34H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000377,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.004839,
+      "\u001b[69;17H\u001b[?25lsmooth-scroll...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003565,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000194,
+      "\u001b[69;37H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000184,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.004954,
+      "\u001b[69;17H\u001b[?25lparen...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000319,
+      "\u001b[69;25H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000301,
+      "\u001b[69;17H\u001b[?25lrainbow-mode...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.020200,
+      "\u001b[69;32H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.005253,
+      "\u001b[69;17H\u001b[?25lhl-line...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000249,
+      "\u001b[69;27H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.016200,
+      "\u001b[69;17H\u001b[?25lwhitespace...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000248,
+      "\u001b[69;30H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000249,
+      "\u001b[69;17H\u001b[?25lgit-gutter...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.009394,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000504,
+      "\u001b[69;34H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000274,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000253,
+      "\u001b[69;17H\u001b[?25lserver...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.007975,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000819,
+      "\u001b[69;30H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000237,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000441,
+      "\u001b[69;9H\u001b[?25lsetup-basic...done\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000598,
+      "\u001b[69;15H\u001b[?25lclojure-mode...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.002433,
+      "\u001b[69;9H\u001b[?25lpackag\u001b[2@e \u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.011741,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000174,
+      "\u001b[69;1H\u001b[?25lLoading package smart-newl\u001b[2@in\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.005881,
+      "\u001b[69;1H\u001b[?25lCould not load smart-newline-mode\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000385,
+      "\u001b[69;1H\u001b[?25lLoading package smart-newline-mode...done\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000134,
+      "\u001b[69;17H\u001b[?25lclojure-mode-extra-font-locking...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.022082,
+      "\u001b[69;51H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000114,
+      "\u001b[69;17H\u001b[?25lalign-cljlet...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001950,
+      "\u001b[69;32H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000165,
+      "\u001b[69;17H\u001b[?25lmidje-mode...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.382224,
+      "\u001b[69;30H\u001b[?25ldone (0.382s)\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000137,
+      "\u001b[69;17H\u001b[?25lclj-refactor...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.053085,
+      "\u001b[69;1H\u001b[?25l[yas] Loading snippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/clojure-snippets-20150504.144/snippets/clojure-mode\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.050681,
+      "\u001b[69;1H\u001b[?25lLoading /home/ayato/.emacs.d/.mc-lists.el (source)...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000734,
+      "\u001b[69;54H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.064139,
+      "\u001b[69;1H\u001b[?25lConfiguring package clj-refactor...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000826,
+      "\u001b[69;36H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000161,
+      "\u001b[69;1H\u001b[?25lLoading package clj-refactor...done (0.170s)\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000136,
+      "\u001b[69;18H\u001b[?25lider...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000217,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000310,
+      "\u001b[69;1H\u001b[?25lLoading package cider-eldoc...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000140,
+      "\u001b[69;31H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000683,
+      "\u001b[69;17H\u001b[?25lac-cider...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001947,
+      "\u001b[69;28H\u001b[?25ldone\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001128,
+      "\u001b[69;1H\u001b[?25lConfiguring package\u001b[1@ \u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000875,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000467,
+      "\u001b[69;1H\u001b[?25lConfiguring package clojure-mode...done (0.588s)\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000294,
+      "\u001b[69;1H\u001b[?25lLoading package clojure-mode...done (0.601s)\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000348,
+      "\u001b[69;9H\u001b[?25lsetup-clojure-mode...done\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000426,
+      "\u001b[69;15H\u001b[?25le2wm...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000687,
+      "\u001b[69;9H\u001b[?25lpackage e2wm...\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.022339,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.013720,
+      "\u001b[69;1H\u001b[?25lMark set\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000472,
+      "\u001b[69;1H\u001b[?25lE2wm is started.\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000231,
+      "\u001b[69;1H\u001b[?25lConfiguring package e2wm...done\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000193,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.002188,
+      "\u001b[69;9H\u001b[?25lsetup-\u001b[2P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003227,
+      "\u001b[69;16H\u001b[?25llscreen...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001426,
+      "\u001b[69;26H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000523,
+      "\u001b[69;15H\u001b[?25lgtags...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001493,
+      "\u001b[69;9H\u001b[?25lpacka\u001b[7@ge helm\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.025026,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000322,
+      "\u001b[69;34H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000191,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000319,
+      "\u001b[69;9H\u001b[?25lsetup\u001b[7P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000509,
+      "\u001b[69;15H\u001b[?25lkey-bindings...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001456,
+      "\u001b[69;9H\u001b[?25lpackage bind-key...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000306,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000492,
+      "\u001b[69;32H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000222,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000175,
+      "\u001b[69;17H\u001b[?25lsmartrep...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003576,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000668,
+      "\u001b[69;32H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001506,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.002578,
+      "\u001b[69;17H\u001b[?25lmultiple-cursors...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.025522,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000353,
+      "\u001b[69;40H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000213,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000184,
+      "\u001b[69;17H\u001b[?25lhighlight-symbol...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.004479,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000299,
+      "\u001b[69;40H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000171,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000185,
+      "\u001b[69;18H\u001b[?25lelm...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000203,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000223,
+      "\u001b[69;1H\u001b[?25lLoading package helm-ag...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.015177,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000267,
+      "\u001b[69;31H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000178,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000163,
+      "\u001b[69;22H\u001b[?25lprojectile...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.042468,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000325,
+      "\u001b[69;39H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000264,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000613,
+      "\u001b[69;1H\u001b[?25lConfiguring package helm...done\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000266,
+      "\u001b[69;1H\u001b[?25lLoad\u001b[4P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000454,
+      "\u001b[69;9H\u001b[?25lsetup-key-bindings...done\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000551,
+      "\u001b[69;15H\u001b[?25llisp...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000863,
+      "\u001b[69;1H\u001b[?25lConfiguring package paredit...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000283,
+      "\u001b[69;31H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000336,
+      "\u001b[69;21H\u001b[?25leldoc...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000210,
+      "\u001b[69;29H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000571,
+      "\u001b[69;1H\u001b[?25lLoading setup-lisp...done\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001642,
+      "\u001b[69;15H\u001b[?25lmodeline...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.006104,
+      "\u001b[69;26H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000412,
+      "\u001b[69;15H\u001b[?25lrst-mode...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000590,
+      "\u001b[69;9H\u001b[?25lpackage rst...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.019534,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000096,
+      "\u001b[69;1H\u001b[?25lLoading package auto-complete-rst...\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001728,
+      "\u001b[69;1H\u001b[?25lConf\u001b[4@igur\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.273749,
+      "\u001b[69;41H\u001b[?25ldone (0.274s)\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000225,
+      "\u001b[69;1H\u001b[?25lLoading package auto-complete-rst...done (0.276s)\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000284,
+      "\u001b[69;1H\u001b[?25lConfiguring package \u001b[10P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000225,
+      "\u001b[69;1H\u001b[?25lLoading package rst...done (0.296s)\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000368,
+      "\u001b[69;9H\u001b[?25lsetup-rst-mode...done\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000605,
+      "\u001b[69;15H\u001b[?25lweb-mode...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000843,
+      "\u001b[69;26H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000461,
+      "\u001b[69;15H\u001b[?25lyasnippet...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.002669,
+      "\u001b[69;1H\u001b[?25l[yas] Prepared just-in-time loading for /home/ayato/.emacs.d/.cask/24.5.1/elpa/clojure-snippets-20150504.144/snippets\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.030753,
+      "\u001b[69;7H\u001b[?25lDiscovered there was already *scratch* in fundamental-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000208,
+      "\u001b[69;36H\u001b[?25l *code-c\u001b[14@onversion-work\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000195,
+      "\u001b[69;38H\u001b[?25lload\u001b[16P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000180,
+      "\u001b[69;38H\u001b[?25lEcho\u001b[7@ Area 0\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000180,
+      "\u001b[69;48H\u001b[?25l1\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000194,
+      "\u001b[69;38H\u001b[?25lmigemo\u001b[5P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000195,
+      "\u001b[69;38H\u001b[?25lcode-c\u001b[14@onverting-work\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000185,
+      "\u001b[69;38H\u001b[?25le2wm:blan\u001b[10P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.071221,
+      "\u001b[69;7H\u001b[?25lLoading for `fundamental-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/fundamental-mode) (quote fundamental-mode)))!\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000346,
+      "\u001b[69;15H\u001b[?25lsnippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/fundamental-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000290,
+      "\u001b[69;1H\u001b[?25lLoading /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/fundamental-mode/.yas-setup...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000946,
+      "\u001b[69;111H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000516,
+      "\u001b[69;1H\u001b[?25l[yas] Prepared just-in-time loading for /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000296,
+      "\u001b[69;7H\u001b[?25lCheck your `yas-snippet-dirs': ~/.emacs.d/snippets is not a directory\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000443,
+      "\u001b[69;7H\u001b[?25lReloaded everything (snippets will load just-in-time)... (some errors, check *Messages*).\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000881,
+      "\u001b[69;1H\u001b[?25lLoading package yasnippet...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000269,
+      "\u001b[69;29H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000400,
+      "\u001b[69;9H\u001b[?25lsetup-\u001b[2P\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000803,
+      "\u001b[69;9H\u001b[?25lutils...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001876,
+      "\u001b[69;17H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.164181,
+      "\u001b[69;1H\u001b[?25l[yas] Loading for `lisp-interaction-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/lisp-interaction-mode) (quote lisp-interaction-mode)))!\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000728,
+      "\u001b[69;15H\u001b[?25lsnippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/lisp-interaction-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001831,
+      "\u001b[69;15H\u001b[?25lfor `emacs-lisp-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/emacs-lisp-mode) (quote emacs-lisp-mode)))!\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000403,
+      "\u001b[69;15H\u001b[?25lsnippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/emacs-lisp-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.077108,
+      "\u001b[69;15H\u001b[?25lfor `prog-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/prog-mode) (quote prog-mode)))!\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000530,
+      "\u001b[69;15H\u001b[?25lsnippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/prog-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000314,
+      "\u001b[69;1H\u001b[?25lLoading /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/prog-mode/.yas-setup...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000844,
+      "\u001b[69;104H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.025355,
+      "\u001b[69;9H\u001b[?25lterm/xterm...\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003798,
+      "\u001b[69;22H\u001b[?25ldone\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.017434,
+      "\u001b[69;1H\u001b[?25lFor information about GNU Emacs and the GNU system, type \u003cf1\u003e C-a.\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.034963,
+      "\u001b[69;1H\u001b[?25lFor information about GNU Emacs and the GNU system, type \u003cf1\u003e C-a.\u001b[K\u001b[H\u001b[4m\u001b[30m\u001b[48;5;250mBuffer History [0]            \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/*init log*                                                                                                                                                                                                                        \u001b[0m\u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000042,
+      "\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[48;5;239m------- error log -------                                                                                                                                                                                                                         \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m------- init log -------\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-auto-complete-mode.elc. 0.689974019\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-basic.elc. 0.167049273\u001b[K"
+    ],
+    [
+      0.000073,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-clojure-mode.elc. 0.603912033\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-e2wm.elc. 0.040128588\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-elscreen.elc. 0.003936128\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-gtags.elc. 0.02780328\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-key-bindings.elc. 0.103357108\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-lisp.elc. 0.002664718\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-modeline.elc. 0.007464475\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-rst-mode.elc. 0.297219823\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-web-mode.elc. 0.001309556\u001b[K"
+    ],
+    [
+      0.000087,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/setup-yasnippet.elc. 0.110728921\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mloaded /home/ayato/.emacs.d/modules/utils.elc. 0.002502845\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m------- load path -------\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/modules\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/site-lisp\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/core\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ac-cider-20151012.308/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ac-helm-20140920.117/\u001b[K"
+    ],
+    [
+      0.000053,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ac-js2-20140906.442/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ace-isearch-20150808.556/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ace-jump-mode-20140616.115/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ag-20151102.1429/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/align-cljlet-20151105.2354/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/ample-theme-20150814.1101/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/anzu-20151015.405/\u001b[K"
+    ],
+    [
+      0.000068,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/auto-complete-rst-20140225.144/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/auto-complete-20151112.2030/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/auto-highlight-symbol-20130313.243/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/avy-20151115.837/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/clj-refactor-20151112.117/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/clojure-mode-extra-font-locking-20150110.505/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/clojure-snippets-20150504.144/\u001b[K"
+    ],
+    [
+      0.000064,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/e2wm-20150608.1723/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/editorconfig-20151117.1212/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/edn-20150929.146/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/s-20150924.406/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/exec-path-from-shell-20151006.2253/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/expand-region-20150902.558/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/fuzzy-20150730.1237/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/git-gutter-20151117.822/\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/helm-ag-20151029.2208/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/helm-gtags-20151107.1848/\u001b[K"
+    ],
+    [
+      0.000062,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m/home/ayato/.emacs.d/.cask/24.5.1/elpa/helm-migemo-20151009.2056/\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[30m\u001b[48;5;250mUUU:%* \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*init log*  \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / L1 C0 Top mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;250m1\u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / Fundamental / 11/20(Fri) 17:52                                                                                                                                                                             \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/*scratch*                                                                                                                                                                                                                         \u001b[0m\u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000061,
+      "\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;208m;; This buffer is for notes you don't want to save, and for Lisp evaluation.                                                                                                                                                                      \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;208m;; If you want to create a file, visit that file with C-x C-f,                                                                                                                                                                                    \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;208m;; then enter the text in that file's own buffer.                                                                                                                                                                                                 \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000104,
+      "\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;124m\u001b[48;5;236m                                                                                                                                                                                                                                                  \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n\u001b[38;5;252m\u001b[48;5;239m-UUU: All (1,0)    -----------\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUUU:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Lisp Interaction / 11/20(Fri) 17:52                                                                                                                                                                        \u001b[39;49m\r\n\u001bM\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.511523,
+      "\u001b[69;1H\u001b[K\u001b[2;32H"
+    ],
+    [
+      0.122183,
+      "\u001b[69;1H\u001b[?25lC-u\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000109,
+      "\u001b[69;5H\u001b[?25lC-x\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000238,
+      "\u001b[69;8H\u001b[?25l-\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.007349,
+      "\u001b[69;8H\u001b[?25l C-f\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.062945,
+      "\u001b[69;1H\u001b[?25l\u001b[36m[demo] Find file: \u001b[39;49m"
+    ],
+    [
+      0.000305,
+      "\u001b[2;32H------- error log -------\u001b[K"
+    ],
+    [
+      0.000454,
+      "\u001b[54;32H\u001b[38;5;252m\u001b[48;5;239mUUU:%* \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239m*init log*  \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 Top mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Fundamental / 11/20(Fri) 17:52                                                                                                                                                                             \u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008\u001b[4m\u001b[30m\u001b[48;5;250m C-j: Find File (keeping session)\u001b[0m\u001b[39;49m\u001b[56;32H\u001b[1m\u001b[37m\u001b[48;5;24mProjectile files                                                                                                                                                                                                                                  \u001b[0m\u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008\u001b[48;5;28mREADME.md                                                                                                                                                                                                                                         \u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008.hgignore\u001b[K\u001b[59;32Hsrc/demo/core.clj\u001b[K\u001b[60;32HLICENSE\u001b[61;32Htarget/stale/extract-native.dependencies\u001b[62;32Htarget/classes/META-INF/maven/demo/demo/pom.properties\u001b[63;32H.gitignore\u001b[64;32Hproject.clj\u001b[65;32HCHANGELOG.md\u001b[66;32Hdoc/intro.md\u001b[67;32Htest/demo/core_test.clj\u001b[68;32H\u001b[30m\u001b[48;5;250m \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*helm projectile*\u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m L1   \u001b[39;49m\u001b[30m\u001b[43m[11 Candidate(s)] \u001b[39;49m\u001b[30m\u001b[48;5;250m C-h m:Help C/M-RET:Empty TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend ---------------------------------------------------------------------------------------------------------------------------------\u001b[39;49m\r\n\u001b[69;19H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.270521,
+      "\u001b[?25lc\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.023228,
+      "\u001b[57;32H\u001b[?25l\u001b[48;5;28mLI\u001b[39;49m\u001b[38;5;220m\u001b[48;5;28mC\u001b[39;49m\u001b[48;5;28mENSE  \u001b[39;49m\u001b[58;32Hproje\u001b[38;5;220mc\u001b[39;49mt.clj\u001b[59;32H\u001b[38;5;220mC\u001b[39;49mHANGELOG.md\u001b[K\u001b[60;32Hdo\u001b[38;5;220mc\u001b[39;49m/intro.md\u001b[61;32Hsr\u001b[38;5;220mc\u001b[39;49m/demo/core.clj\u001b[K\r\n\u0009\u0009\u0009\u0009est/demo/\u001b[38;5;220mc\u001b[39;49more_test.clj\u001b[K\u001b[63;32Htarget/stale/extra\u001b[38;5;220mc\u001b[39;49mt-native.dependencies\u001b[64;32Htarget/\u001b[38;5;220mc\u001b[39;49mlasses/META-INF/maven/demo/demo/pom.properties\u001b[65;32H\u001b[K\n\u001b[K\n\u001b[K\n\u0009\u0009"
+    ],
+    [
+      0.000049,
+      "\u0009\u0009\u001b[30m\u001b[43m8 Candidate(s)] \u001b[39;49m\u001b[69;20H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.024738,
+      "\u001b[?25lo\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.025702,
+      "\u001b[57;32H\u001b[?25l\u001b[48;5;28msrc/demo/\u001b[39;49m\u001b[38;5;220m\u001b[48;5;28mco\u001b[39;49m\u001b[48;5;28mre.clj\u001b[39;49m\u001b[58;32Htest/demo/\u001b[38;5;220mco\u001b[39;49mre_test.clj\u001b[59;39H\u001b[38;5;220mO\u001b[39;49m\n\u001b[38;5;220mo\u001b[39;49m\u001b[61;32Htarget/\u001b[38;5;220mc\u001b[39;49mlasses/META-INF/maven/dem\u001b[38;5;220mo\u001b[39;49m/demo/pom.properties\u001b[62;32H\u001b[K\n\u001b[K\n\u001b[K\u001b[68;57H\u001b[30m\u001b[43m5\u001b[39;49m\u001b[69;21H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.086284,
+      "\u001b[?25lr\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.021861,
+      "\u001b[57;43H\u001b[?25l\u001b[38;5;220m\u001b[48;5;28mr\u001b[39;49m\n\u001b[38;5;220mr\u001b[39;49m\u001b[59;32Htarget/\u001b[38;5;220mc\u001b[39;49mlasses/META-INF/maven/dem\u001b[38;5;220mo\u001b[39;49m/demo/pom.p\u001b[38;5;220mr\u001b[39;49moperties\u001b[60;32H\u001b[K\n\u001b[K\u001b[68;57H\u001b[30m\u001b[43m3\u001b[39;49m\u001b[69;22H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.011957,
+      "\u001b[?25le\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.018505,
+      "\u001b[57;44H\u001b[?25l\u001b[38;5;220m\u001b[48;5;28me\u001b[39;49m\n\u001b[38;5;220me\u001b[39;49m\u001b[59;80H\u001b[38;5;220me\u001b[39;49m\u001b[69;23H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.282540,
+      "\r"
+    ],
+    [
+      0.000922,
+      "\u001b[?25lMark set\u001b[K\u001b[57;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.013999,
+      "\u001b[69;1H\u001b[?25l[yas] Loading for `clojure-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/ayato/.emacs.d/.cask/24.5.1/elpa/clojure-snippets-20150504.144/snippets/clojure-mode) (quote clojure-mode)))!\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000438,
+      "\u001b[69;15H\u001b[?25lsnippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/clojure-snippets-20150504.144/snippets/clojure-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.029476,
+      "\u001b[69;15H\u001b[?25lfor `clojure-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/clojure-mode) (quote clojure-mode)))!\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000336,
+      "\u001b[69;15H\u001b[?25lsnippet files from /home/ayato/.emacs.d/.cask/24.5.1/elpa/yasnippet-20151108.1505/snippets/clojure-mode\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.042297,
+      "\u001b[69;1H\u001b[?25lMark set\u001b[K\u001b[1;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.005876,
+      "\r\u0009\u0009\u001b[?25l\u001b[4m\u001b[30m\u001b[48;5;250m1]            \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/src/demo/core.clj\u001b[0m\u001b[39;49m"
+    ],
+    [
+      0.000281,
+      "\r\n\u001b[38;5;202m\u001b[48;5;189m  1 core.clj                  \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m\u001b[48;5;239m(\u001b[39;49m\u001b[96m\u001b[48;5;239mns\u001b[39;49m\u001b[48;5;239m \u001b[39;49m\u001b[38;5;120m\u001b[48;5;239mdemo.core\u001b[39;49m\u001b[38;5;245m\u001b[48;5;239m)\u001b[39;49m\u001b[48;5;239m                                                                                                                                                                                                                                    \u001b[39;49m\r\n\u001b[6;32H\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\n\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000481,
+      "\n\u001b[K\n\u001b[30m\u001b[48;5;250mUU-:-- \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mcore.clj    \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;250m1\u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / Clojure / 11/20(Fri) 17:52                                                                                                                                                                                 \u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/*scratch*        \u001b[0m\u001b[39;49m\u001b[56;32H\u001b[38;5;208m;; This buffer is for notes you don't want to save, and for Lisp evaluation.                                                                                                                                                                      \u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008\u001b[38;5;208m;; If you want to create a file, visit that file with C-x C-f,                                                                                                                                                                                    \u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008\u001b[38;5;208m;; then enter the text in that file's own buffer.                                                                                                                                                                                                 \u001b[39;49m\r\n\u0009\u0009\u0009\u0009\u0008\u001b[38;5;124m\u001b[48;5;236m                                                                                                                                                                                                                                                  \u001b[39;49m\r\n\u001b[68;32H\u001b[38;5;252m\u001b[48;5;239mUUU:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Lisp Interaction / 11/20(Fri) 17:52                                                                                                                                                                        \u001b[39;49m\r\n\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.126850,
+      "\u001b[?25l\u001b[38;5;245m\u001b[48;5;68m(\u001b[39;49m\u001b[96m\u001b[48;5;239mns\u001b[39;49m\u001b[48;5;239m \u001b[39;49m\u001b[38;5;120m\u001b[48;5;239mdemo.core\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m)\u001b[39;49m"
+    ],
+    [
+      0.000035,
+      "\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.209942,
+      "\u001b[69;1H\u001b[K\u001b[2;32H"
+    ],
+    [
+      0.103105,
+      "\u001b[69;1H\u001b[?25lC-x\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l\u001b[69;4H\u001b[?25l-\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.106905,
+      "\u001b[69;4H\u001b[?25l #\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001637,
+      "\u001b[69;1H\u001b[?25lNo server editing buffers exist\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.735521,
+      "\u001b[69;1H\u001b[K\u001b[2;32H"
+    ],
+    [
+      0.102104,
+      "\u001b[69;1H\u001b[?25lC-x\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000592,
+      "\u001b[69;4H\u001b[?25l-\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.121861,
+      "\u001b[69;4H\u001b[?25l 3\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.010403,
+      "\u001b[1;152H\u001b[?25l\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/src/demo/core.clj\u001b[0m\u001b[39;49m"
+    ],
+    [
+      0.000479,
+      "\u001b[2;152H\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m)\u001b[39;49m                                                                                                           \r\n\u001b[3;152H\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m"
+    ],
+    [
+      0.000956,
+      "\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\n\u0008\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUU-:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239mcore.clj    \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Clojure / 11/20(Fri) 17:52                                                        \u001b[39;49m\r\n\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.970841,
+      "\u001b[69;1H\u001b[?25l\u001b[36mM-x \u001b[39;49m\u001b[K\u001b[H\u001b[4m\u001b[30m\u001b[48;5;250mBuffer History [1]            \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/src/demo/core.clj                                                                                       \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/src/demo/core.clj                                                                                        \u001b[0m\u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000385,
+      "\n\u001b[38;5;202m\u001b[48;5;189m  1 core.clj                  \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m)\u001b[39;49m                                                                                                          \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m\u001b[48;5;68m)\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000355,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000352,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000353,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000300,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000321,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000301,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000125,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000157,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000189,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000185,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000122,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000209,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUU-:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239mcore.clj    \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Clojure / 11/20(Fri) 17:52                                                       \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUU-:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239mcore.clj    \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Clojure / 11/20(Fri) 17:52                                                        \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m C-j: Describe this command (keeping session)                                                                                                                                                                                                     \u001b[0m\u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000202,
+      "\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[1m\u001b[37m\u001b[48;5;24mEmacs Commands History                                                                                                                                                                                                                            \u001b[0m\u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[48;5;28mparedit-forward-slurp-sexp (\u001b[39;49m\u001b[4m\u001b[38;5;214m\u001b[48;5;28m\u003cC-right\u003e\u001b[0m\u001b[39;49m\u001b[48;5;28m)                                                                                                                                                                                                            \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49meww\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mmagit-status\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mmagit-blame-popup\u001b[K"
+    ],
+    [
+      0.000232,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mmagit-blame\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mrevert-buffer\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mlist-processes\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mclojure-mode\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mcider-quit\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mcider-restart\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49mtoggle-read-only\u001b[K\r\n\u001b[38;5;252m\u001b[48;5;239m-UUU: All (1,0)    -----------\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[30m\u001b[48;5;250m \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*helm M-x*  \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m L1   \u001b[39;49m\u001b[30m\u001b[43m[100 Candidate(s)]\u001b[39;49m\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend --------------------------------------------------------------------------------------------------------------------------------------\u001b[39;49m\r\n\u001bM\u001b[69;5H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.128138,
+      "\u001b[2;32H\u001b[?25l\u001b[38;5;245m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m                                                                                                          \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m"
+    ],
+    [
+      0.000341,
+      "\u001b[69;5H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.917218,
+      "\u001b[?25le\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.015350,
+      "\u001b[56;32H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[68;51H\u001b[?25l\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend ------------------\u001b[39;49m\u001b[69;6H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.148253,
+      "\u001b[56;32H\u001b[?25l\u001b[1m\u001b[37m\u001b[48;5;24mEmacs Commands History                                                                                                                                                                                                                            \u001b[0m\u001b[39;49m\r\n"
+    ],
+    [
+      0.000049,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000047,
+      "\u0009"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "\u0008\u001b[48;5;28mpar\u001b[39;49m\u001b[38;5;220m\u001b[48;5;28me\u001b[39;49m\u001b[48;5;28mdit-forward-slurp-sexp (\u001b[39;49m\u001b[4m\u001b[38;5;214m\u001b[48;5;28m\u003cC-right\u003e\u001b[0m\u001b[39;49m\u001b[48;5;28m)                                                                                                                                                                                                            \u001b[39;49m\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000007,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "\u0008\u001b[38;5;220me\u001b[39;49mww\n\u0008\u0008\u0008magit-blam\u001b[38;5;220me\u001b[39;49m-popup\u001b[60;32Hmagit-blam\u001b[38;5;220me\u001b[39;49m\u001b[61;32Hr\u001b[38;5;220me\u001b[39;49mvert-buffer\u001b[62;32Hlist-proc\u001b[38;5;220me\u001b[39;49msses\u001b[63;32Hclojur\u001b[38;5;220me\u001b[39;49m-mode\u001b[64;32Hcid\u001b[38;5;220me\u001b[39;49mr-quit"
+    ],
+    [
+      0.000094,
+      "\u001b[65;32Hcid\u001b[38;5;220me\u001b[39;49mr-restart\u001b[66;32Htoggl\u001b[38;5;220me\u001b[39;49m-read-only\u001b[67;32Hcljr-add-r\u001b[38;5;220me\u001b[39;49mquire-to-ns (\u001b[4m\u001b[38;5;214mC-c j a r\u001b[0m\u001b[39;49m)\u001b[68;51H\u001b[30m\u001b[43m[93 Candidate(s)] \u001b[39;49m\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend \u001b[39;49m\u001b[69;6H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.163750,
+      "\u001b[?25lw\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.013855,
+      "\u001b[56;32H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[68;51H\u001b[?25l\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend ------------------\u001b[39;49m\u001b[69;7H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.049203,
+      "\u001b[56;32H\u001b[?25l\u001b[1m\u001b[37m\u001b[48;5;24mEmacs Commands History                                                                                                                                                                                                                            \u001b[0m\u001b[39;49m\r\n"
+    ],
+    [
+      0.000026,
+      "\u0009"
+    ],
+    [
+      0.000007,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "\u0009"
+    ],
+    [
+      0.000008,
+      "\u0008\u001b[38;5;220m\u001b[48;5;28mew\u001b[39;49m\u001b[48;5;28mw                                                                                                                                                                                                                                               \u001b[39;49m\r\n\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "\u0008\u001b[1m\u001b[37m\u001b[48;5;24mEmacs Commands                                                                                                                                                                                                                                    \u001b[0m\u001b[39;49m\r\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000009,
+      "\u0008\u001b[38;5;220mew\u001b[39;49mw\n\u0008\u0008\u0008\u001b[38;5;220mew\u001b[39;49mw-open-file"
+    ],
+    [
+      0.000072,
+      "\u001b[62;32Hn\u001b[38;5;220mew\u001b[39;49mline (\u001b[4m\u001b[38;5;214mRET\u001b[0m\u001b[39;49m)\u001b[63;32Hvi\u001b[38;5;220mew\u001b[39;49m-todo\u001b[64;32Hvi\u001b[38;5;220mew\u001b[39;49m-mode\u001b[65;32Hvi\u001b[38;5;220mew\u001b[39;49m-file\u001b[66;32HVi\u001b[38;5;220mew\u001b[39;49m-exit\u001b[67;32HVi\u001b[38;5;220mew\u001b[39;49m-quit\u001b[68;51H\u001b[30m\u001b[43m[1 Candidate(s)]  \u001b[39;49m\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend \u001b[39;49m\u001b[69;7H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.068719,
+      "\u001b[?25lw\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.011651,
+      "\u001b[56;32H\u001b[K\n\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[68;51H\u001b[?25l\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend ------------------\u001b[39;49m\r\n"
+    ],
+    [
+      0.000031,
+      "\u0009"
+    ],
+    [
+      0.000010,
+      "\u0008\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.005445,
+      "\u001b[56;32H\u001b[?25l\u001b[1m\u001b[37m\u001b[48;5;24mEmacs Commands History                                                                                                                                                                                                                            \u001b[0m\u001b[39;49m\r\n"
+    ],
+    [
+      0.000040,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "\u0008\u001b[38;5;220m\u001b[48;5;28meww\u001b[39;49m\u001b[48;5;28m                                                                                                                                                                                                                                               \u001b[39;49m\r\n\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0008\u001b[1m\u001b[37m\u001b[48;5;24mEmacs Commands                                                                                                                                                                                                                                    \u001b[0m\u001b[39;49m\r\n"
+    ],
+    [
+      0.000006,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000009,
+      "\u0008\u001b[38;5;220meww\u001b[39;49m\n\u0008\u0008\u0008\u001b[38;5;220meww\u001b[39;49m-open-file"
+    ],
+    [
+      0.000039,
+      "\u001b[68;51H\u001b[30m\u001b[43m[1 Candidate(s)]  \u001b[39;49m\u001b[30m\u001b[48;5;250m C/M-RET:Empty C-h m:Help TAB:Act RET/f1/f2/f-n:NthAct C-!:Tog.suspend \u001b[39;49m\r\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "\u0008\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.293606,
+      "\r"
+    ],
+    [
+      0.000754,
+      "\u001b[?25lMark set\u001b[57;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.072665,
+      "\u001b[69;1H\u001b[?25l\u001b[36mEnter URL or keywords: \u001b[39;49m\u001b[K\u001b[H\u001b[4m\u001b[30m\u001b[48;5;250mBuffer History [1]            \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/src/demo/core.clj                                                                                       \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/src/demo/core.clj                                                                                        \u001b[0m\u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000078,
+      "\n\u001b[38;5;202m\u001b[48;5;189m  1 core.clj                  \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m                                                                                                          \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000074,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000058,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000040,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000059,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000058,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000056,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000057,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000057,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000080,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000068,
+      "\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m                                                                                                                        \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[30m\u001b[48;5;250mUU-:-- \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mcore.clj    \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;250m1\u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / Clojure / 11/20(Fri) 17:52                                                       \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUU-:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239mcore.clj    \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Clojure / 11/20(Fri) 17:52                                                        \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m~/projects/demo/*scratch*                                                                                                                                                                                                                         \u001b[0m\u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000042,
+      "\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;208m;; This buffer is for notes you don't want to save, and for Lisp evaluation.                                                                                                                                                                      \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;208m;; If you want to create a file, visit that file with C-x C-f,                                                                                                                                                                                    \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;208m;; then enter the text in that file's own buffer.                                                                                                                                                                                                 \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000091,
+      "\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;124m\u001b[48;5;236m                                                                                                                                                                                                                                                  \u001b[39;49m\r\n\u001bM\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n                              \u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[K\r\n\u001b[38;5;252m\u001b[48;5;239m-UUU: All (2,0)    -----------\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUUU:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Lisp Interaction / 11/20(Fri) 17:52                                                                                                                                                                        \u001b[39;49m\r\n\u001bM\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "\u0008\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.579073,
+      "\u001b[?25ll\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.161894,
+      "\u001b[?25lo\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.109836,
+      "\u001b[?25lc\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.073503,
+      "\u001b[?25la\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.062239,
+      "\u001b[?25ll\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.748318,
+      "\u001b[?25lh\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.053827,
+      "\u001b[?25lo\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.084713,
+      "\u001b[?25ls\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.120601,
+      "\u001b[?25lt\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.224328,
+      "\u001b[C"
+    ],
+    [
+      0.495692,
+      "\u0008"
+    ],
+    [
+      0.209111,
+      "\u001b[?25l:\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.248795,
+      "\u001b[?25l/\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.184925,
+      "\u001b[?25l/\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.757438,
+      "\u001b[?25l3\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.273043,
+      "\u001b[?25l0\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.143066,
+      "\u001b[?25l0\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.149937,
+      "\u001b[?25l0\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.344594,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.310209,
+      "\u0008\u0008\u0008"
+    ],
+    [
+      0.247928,
+      "\u001b[K"
+    ],
+    [
+      0.041126,
+      "\u001b[54;96H\u001b[?25l\u001b[30m\u001b[48;5;250m3                                                       \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239mUU-:-- \u001b[39;49m\u001b[1m\u001b[38;5;252m\u001b[48;5;239mcore.clj    \u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;239m1\u001b[0m\u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m / Clojure / 11/20(Fri) 17:53\u001b[39;49m\u001b[68;105H\u001b[38;5;252m\u001b[48;5;239m3\u001b[39;49m\u001b[69;36H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.266072,
+      "\u0008"
+    ],
+    [
+      0.175707,
+      "\u0008"
+    ],
+    [
+      0.120863,
+      "\u001b[K"
+    ],
+    [
+      0.452437,
+      "\u001b[?25l3\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.311849,
+      "\u001b[?25l0\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.139465,
+      "\u001b[?25l0\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.129323,
+      "\u001b[?25l0\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.356476,
+      "\r"
+    ],
+    [
+      0.039305,
+      "\u001b[?25lContacting host: \u001b[6P\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.017815,
+      "\u001b[?25l\u001b[38;5;245m\u001b[48;5;239m(\u001b[39;49m\u001b[96m\u001b[48;5;239mns\u001b[39;49m\u001b[48;5;239m \u001b[39;49m\u001b[38;5;120m\u001b[48;5;239mdemo.core\u001b[39;49m\u001b[38;5;245m\u001b[48;5;239m)\u001b[39;49m\u001b[48;5;239m                                                                                                          \u001b[39;49m\u001b[38;5;252m\u001b[48;5;239m|\u001b[39;49m\u001b[38;5;245m(\u001b[39;49m\u001b[96mns\u001b[39;49m \u001b[38;5;120mdemo.core\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m                                                                                                           \r\n"
+    ],
+    [
+      0.000315,
+      "\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.005469,
+      "\u001bM\u001b[?25l\u001b[4m\u001b[30m\u001b[48;5;250m: http://localhost:3000/         \u001b[0m\u001b[39;49m"
+    ],
+    [
+      0.000288,
+      "\u001b[2;32H                                                                                                                        "
+    ],
+    [
+      0.000409,
+      "\u001b[54;34H\u001b[30m\u001b[48;5;250mU:-- \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*eww*       \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / L1 C0 All mc:\u001b[39;49m\u001b[1m\u001b[38;5;218m\u001b[48;5;250m1\u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m / eww / 11/20(Fri) 17:53    \u001b[39;49m\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      5.505909,
+      "\u001b[69;1H\u001b[K\u001b[2;32H"
+    ],
+    [
+      0.102748,
+      "\u001b[69;1H\u001b[?25lC-x\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l\u001b[69;4H\u001b[?25l-\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.100705,
+      "\u001b[69;4H\u001b[?25l C-c\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l\u001b[69;1H\u001b[K\u001b[2;32H\u001b[69;1H\u001b[?25l(No files need saving)\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.595832,
+      "\u001b[69;1H\u001b[?25lWrote /home/ayato/.emacs.d/.ac-comphist.dat\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.070119,
+      "\u001b[69;1H\u001b[?25lSaving file /home/ayato/.recentf...\u001b[K\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003162,
+      "\u001b[69;1H\u001b[?25lWrote /home/ayato/.recentf\u001b[K\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000698,
+      "\u001b[69;1H\u001b[?25lMark set\u001b[K\u001b[2;32H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001876,
+      "\u001b[69;1H\u001b[K\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.008630,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                                \r \r"
+    ],
+    [
+      0.022446,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/projects/demo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[1m\u001b[30m(\u001b[0m\u001b[36mayato\u001b[1m\u001b[36m@\u001b[0m\u001b[36mubuntu\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m\u003e \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.000466,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.553399,
+      "\r"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000363,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                                \r \r"
+    ],
+    [
+      0.021273,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/projects/demo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[1m\u001b[30m(\u001b[0m\u001b[36mayato\u001b[1m\u001b[36m@\u001b[0m\u001b[36mubuntu\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m\u003e \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.172008,
+      "\r\r\n"
+    ]
+  ]
+}

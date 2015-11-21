@@ -1,0 +1,6270 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 50,
+  "duration": 71.137097,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.061085,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000042,
+      "bash-3.2$ "
+    ],
+    [
+      1.315303,
+      "y"
+    ],
+    [
+      0.175601,
+      "o"
+    ],
+    [
+      0.199637,
+      " "
+    ],
+    [
+      0.151142,
+      "a"
+    ],
+    [
+      0.281019,
+      "v"
+    ],
+    [
+      0.104063,
+      "i"
+    ],
+    [
+      0.079663,
+      "o"
+    ],
+    [
+      0.224721,
+      "n"
+    ],
+    [
+      0.199575,
+      "i"
+    ],
+    [
+      0.232034,
+      "c"
+    ],
+    [
+      0.391784,
+      "\r\n"
+    ],
+    [
+      2.770675,
+      "\u001b[1m\u001b[36m\r\n               ___ _    __________  _   ____________\u001b[39m\u001b[22m\u001b[1m\u001b[36m\r\n              /   | |  / /  _/ __ \\/ | / /  _/ ____/\u001b[39m\u001b[22m\u001b[1m\u001b[36m\r\n             / /| | | / // // / / /  |/ // // /     \u001b[39m\u001b[22m\u001b[1m\u001b[36m\r\n            / ___ | |/ // // /_/ / /|  // // /___   \u001b[39m\u001b[22m\u001b[1m\u001b[36m\r\n           /_/  |_|___/___/\\____/_/ |_/___/\\____/ \u001b[39m\u001b[22m\r\n\u001b[1m\u001b[36m\r\n-- \u001b[39m\u001b[22m\u001b[1m\u001b[33mPropelling World-class Cross-platform Hybrid Applications\u001b[39m\u001b[22m\u001b[1m\u001b[36m -- ✈\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.001584,
+      "\r\n\u001b[1m\u001b[31m\r\n                             .---. \u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                            /_ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m _\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                            ( '_' )\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                             \\_-_/\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                       \u003e\u003e\u003e___  ~  ___\u003c\u003c\u003c\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[1m\u001b[37m\r\nThis is your Captain John Doe, welcoming you aboard to Avionic. \r\nAt this time, we request your full attention as your inflight \r\nteam will guide you through the safety features.\r\n\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000923,
+      "\u001b[1m\u001b[33m\r\n                             .-- \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            / /\"\\ \\\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            )/\u001b[39m\u001b[22m\u001b[1m\u001b[36m• •\u001b[39m\u001b[22m\u001b[1m\u001b[33m\\(\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                           ( \u001b[39m\u001b[22m\u001b[1m\u001b[37m( - )\u001b[39m\u001b[22m\u001b[1m\u001b[33m )\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            )\u001b[39m\u001b[22m\u001b[1m\u001b[31m_\u001b[39m\u001b[22m\u001b[1m\u001b[37m) (\u001b[39m\u001b[22m\u001b[1m\u001b[31m_\u001b[39m\u001b[22m\u001b[1m\u001b[33m(\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                           /'\u001b[39m\u001b[22m\u001b[1m\u001b[31m\\\u001b[39m\u001b[22m\u001b[1m\u001b[31m   /\u001b[39m\u001b[22m\u001b[1m\u001b[37m'\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                          /,\u001b[39m\u001b[22m\u001b[1m\u001b[31m(_\\_/_)\u001b[39m\u001b[22m\u001b[1m\u001b[37m,\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                          \\\\ \u001b[39m\u001b[22m\u001b[1m\u001b[31m\\ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m /\u001b[39m\u001b[22m\u001b[1m\u001b[37m //\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[1m\u001b[37m\r\nLadies and gentlemen, this is Jane Smith and I’m your chief \r\nflight attendant. I'd like to direct your attention to the \r\nterminal in front of you. We will be showing our safety \r\ndemonstration and would like the next few minutes of your \r\ncomplete attention.\r\n\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.015872,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the name of your app:\u001b[22m \u001b[2m(Avionic) \u001b[22m"
+    ],
+    [
+      0.000474,
+      "\u001b[40D"
+    ],
+    [
+      0.000141,
+      "\u001b[40C"
+    ],
+    [
+      2.268772,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000113,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the name of your app:\u001b[22m \u001b[36mAvionic\u001b[39m"
+    ],
+    [
+      0.000117,
+      "\u001b[37D"
+    ],
+    [
+      0.000064,
+      "\u001b[37C"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.001583,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter a description:\u001b[22m \u001b[2m(A World-Class App Powered By Avionic) \u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[62D"
+    ],
+    [
+      0.000052,
+      "\u001b[62C"
+    ],
+    [
+      1.015373,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter a description:\u001b[22m \u001b[36mA World-Class App Powered By Avionic\u001b[39m"
+    ],
+    [
+      0.000071,
+      "\u001b[59D"
+    ],
+    [
+      0.000038,
+      "\u001b[59C"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.002691,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter some keywords separated by commas:\u001b[22m \u001b[2m(avionic,ionic,yeoman,gulp,html,js,css,ios,android) \u001b[22m"
+    ],
+    [
+      0.000107,
+      "\u001b[95D"
+    ],
+    [
+      0.000005,
+      "\u001b[95C"
+    ],
+    [
+      0.839663,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000117,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter some keywords separated by commas:\u001b[22m \u001b[36mavionic,ionic,yeoman,gulp,html,js,css,ios,android\u001b[39m"
+    ],
+    [
+      0.000197,
+      "\u001b[92D"
+    ],
+    [
+      0.000009,
+      "\u001b[92C"
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.001220,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter your name:\u001b[22m \u001b[2m(John Doe) \u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[30D"
+    ],
+    [
+      0.000032,
+      "\u001b[30C"
+    ],
+    [
+      1.211241,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000122,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter your name:\u001b[22m \u001b[36mJohn Doe\u001b[39m"
+    ],
+    [
+      0.000132,
+      "\u001b[27D"
+    ],
+    [
+      0.000076,
+      "\u001b[27C"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.001212,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter your email address:\u001b[22m \u001b[2m(john.doe@avionic.com) \u001b[22m"
+    ],
+    [
+      0.000103,
+      "\u001b[51D"
+    ],
+    [
+      0.000054,
+      "\u001b[51C"
+    ],
+    [
+      0.942344,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter your email address:\u001b[22m \u001b[36mjohn.doe@avionic.com\u001b[39m"
+    ],
+    [
+      0.000072,
+      "\u001b[48D"
+    ],
+    [
+      0.000027,
+      "\u001b[48C"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.003585,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the app id you'd like to use:\u001b[22m \u001b[2m(com.reedia.avionic) \u001b[22m"
+    ],
+    [
+      0.000661,
+      "\u001b[59D"
+    ],
+    [
+      0.000039,
+      "\u001b[59C"
+    ],
+    [
+      0.780482,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000115,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the app id you'd like to use:\u001b[22m \u001b[36mcom.reedia.avionic\u001b[39m"
+    ],
+    [
+      0.000124,
+      "\u001b[56D"
+    ],
+    [
+      0.000063,
+      "\u001b[56C"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.007084,
+      "\u001b[?25l"
+    ],
+    [
+      0.000994,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the color scheme you'd like to use:\r\n\r\n\u001b[22m (Press \u003cspace\u003e to select)\r\n\u001b[36m❯\u001b[39m◯ Red\r\n ◯ Pink\r\n ◯ Purple\r\n ◯ Deep Purple\r\n ◯ Indigo\r\n ◯ Blue\r\n ◯ Light Blue\r\n\u001b[2m(Move up and down to reveal more choices)\u001b[22m"
+    ],
+    [
+      0.000183,
+      "\u001b[41D"
+    ],
+    [
+      0.000053,
+      "\u001b[41C"
+    ],
+    [
+      0.873221,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000104,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the color scheme you'd like to use:\r\n\r\n\u001b[22m "
+    ],
+    [
+      0.000155,
+      "\u001b[1D"
+    ],
+    [
+      0.000075,
+      "\u001b[1C"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[?25h"
+    ],
+    [
+      0.002289,
+      "[]\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[36mNo color scheme selected. Defaulting to the Avionic theme\u001b[39m\r\n"
+    ],
+    [
+      0.002665,
+      "\u001b[?25l"
+    ],
+    [
+      0.000673,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the plugins you'd like to use:\r\n\r\n\u001b[22m (Press \u003cspace\u003e to select)\r\n\u001b[36m❯\u001b[39m\u001b[32m◉\u001b[39m cordova-plugin-console\r\n \u001b[32m◉\u001b[39m cordova-plugin-whitelist\r\n \u001b[32m◉\u001b[39m org.apache.cordova.inappbrowser\r\n \u001b[32m◉\u001b[39m com.ionic.keyboard\r\n \u001b[32m◉\u001b[39m cordova-plugin-device\r\n \u001b[32m◉\u001b[39m cordova-plugin-splashscreen\r\n \u001b[32m◉\u001b[39m cordova-plugin-statusbar\r\n\u001b[2m(Move up and down to reveal more choices)\u001b[22m"
+    ],
+    [
+      0.000149,
+      "\u001b[41D"
+    ],
+    [
+      0.000033,
+      "\u001b[41C"
+    ],
+    [
+      1.230963,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000229,
+      "\u001b[32m?\u001b[39m \u001b[1mEnter the plugins you'd like to use:\r\n\r\n\u001b[22m \u001b[36mcordova-plugin-console, cordova-plugin-whitelist, org.apache.cordova.inappbrowser, com.ionic.keyboard, cordova-plugin-device, cordova-plugin-splashscreen, cordova-plugin-statusbar, cordova-plugin-socialsharing, com.paypal.cordova.mobilesdk\u001b[39m"
+    ],
+    [
+      0.000339,
+      "\u001b[2A"
+    ],
+    [
+      0.000093,
+      "\u001b[16D"
+    ],
+    [
+      0.000144,
+      "\u001b[240C"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[?25h"
+    ],
+    [
+      0.348800,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000079,
+      " "
+    ],
+    [
+      0.000067,
+      "bower.json\r\n"
+    ],
+    [
+      0.003490,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000010,
+      " "
+    ],
+    [
+      0.000027,
+      "package.json\r\n"
+    ],
+    [
+      0.001298,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000032,
+      "plugins.json\r\n"
+    ],
+    [
+      0.000741,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000035,
+      " "
+    ],
+    [
+      0.000031,
+      "ascii.js\r\n"
+    ],
+    [
+      0.000569,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000292,
+      " "
+    ],
+    [
+      0.000169,
+      "app/languages/en.json\r\n"
+    ],
+    [
+      0.000763,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000026,
+      " "
+    ],
+    [
+      0.000030,
+      "config.xml\r\n"
+    ],
+    [
+      0.000859,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000037,
+      " "
+    ],
+    [
+      0.000030,
+      "gulpfile.js\r\n"
+    ],
+    [
+      0.000721,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000031,
+      " "
+    ],
+    [
+      0.000031,
+      "README.md\r\n"
+    ],
+    [
+      0.001629,
+      "\u001b[32m   create\u001b[39m CONTRIBUTING.md\r\n"
+    ],
+    [
+      0.000985,
+      "\u001b[32m   create\u001b[39m LICENSE\r\n\u001b[32m   create\u001b[39m .editorconfig\r\n"
+    ],
+    [
+      0.006173,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000030,
+      " "
+    ],
+    [
+      0.000029,
+      ".gitignore\r\n"
+    ],
+    [
+      0.001426,
+      "\u001b[32m   create\u001b[39m .jshintrc\r\n"
+    ],
+    [
+      0.000747,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000084,
+      " helpers/emulateios\r\n"
+    ],
+    [
+      0.001477,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000135,
+      " app/fonts/aleo-bold-webfont.eot\r\n"
+    ],
+    [
+      0.000867,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000565,
+      " "
+    ],
+    [
+      0.000771,
+      "app/fonts/aleo-bold-webfont.svg\r\n"
+    ],
+    [
+      0.002022,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000015,
+      "app/fonts/aleo-bold-webfont.ttf\r\n"
+    ],
+    [
+      0.000866,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000340,
+      " app/fonts/aleo-bold-webfont.woff\r\n"
+    ],
+    [
+      0.000748,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000238,
+      " app/fonts/aleo-bold-webfont.woff2\r\n"
+    ],
+    [
+      0.001257,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000227,
+      " app/fonts/aleo-light-webfont.eot\r\n"
+    ],
+    [
+      0.001413,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000130,
+      " app/fonts/aleo-light-webfont.svg\r\n"
+    ],
+    [
+      0.001056,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000005,
+      "app/fonts/aleo-light-webfont.ttf\r\n"
+    ],
+    [
+      0.000956,
+      "\u001b[32m   create\u001b[39m app/fonts/aleo-light-webfont.woff\r\n"
+    ],
+    [
+      0.010654,
+      "\u001b[32m   create\u001b[39m app/fonts/aleo-light-webfont.woff2\r\n\u001b[32m   create\u001b[39m app/fonts/aleo-regular-webfont.eot\r\n\u001b[32m   create\u001b[39m app/fonts/aleo-regular-webfont.svg\r\n\u001b[32m   create\u001b[39m app/fonts/aleo-regular-webfont.ttf\r\n\u001b[32m   create\u001b[39m app/fonts/aleo-regular-webfont.woff\r\n\u001b[32m   create\u001b[39m app/fonts/aleo-regular-webfont.woff2\r\n\u001b[32m   create\u001b[39m app/images/background.jpg\r\n\u001b[32m   create\u001b[39m app/images/icon.png\r\n\u001b[32m   create\u001b[39m app/images/icons/attendant.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/avionic.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/captain.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/documents.svg\r\n\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.001651,
+      " app/images/icons/help.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/login.svg\r\n"
+    ],
+    [
+      0.008589,
+      "\u001b[32m   create\u001b[39m app/images/icons/luggages.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/register.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/secure.svg\r\n\u001b[32m   create\u001b[39m app/images/icons/settings.svg\r\n\u001b[32m   create\u001b[39m app/styles/_avionic.scss\r\n\u001b[32m   create\u001b[39m app/styles/global/_buttons.scss\r\n\u001b[32m   create\u001b[39m app/styles/global/_config.scss\r\n"
+    ],
+    [
+      0.007748,
+      "\u001b[32m   create\u001b[39m app/styles/global/_fonts.scss\r\n\u001b[32m   create\u001b[39m app/styles/global/_forms.scss\r\n\u001b[32m   create\u001b[39m app/styles/global/_mixin.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_action-sheet.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_animations.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_backdrop.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_badge.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_bar.scss\r\n"
+    ],
+    [
+      0.002652,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/_button-bar.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_button.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_checkbox.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_form.scss\r\n"
+    ],
+    [
+      0.001069,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/_grid.scss\r\n"
+    ],
+    [
+      0.002711,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/_items.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_list.scss\r\n"
+    ],
+    [
+      0.002678,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/_loaders.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_loading.scss\r\n\u001b[32m   create\u001b[39m app/styles/ionic/_menu.scss\r\n"
+    ],
+    [
+      0.000647,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/_mixins.scss\r\n"
+    ],
+    [
+      0.000867,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/_modal.scss\r\n"
+    ],
+    [
+      0.007581,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000031,
+      "app/styles/ionic/_platform.scss\r\n"
+    ],
+    [
+      0.000688,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000021,
+      "app/styles/ionic/_popover.scss\r\n"
+    ],
+    [
+      0.000519,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000039,
+      " "
+    ],
+    [
+      0.000021,
+      "app/styles/ionic/_popup.scss\r\n"
+    ],
+    [
+      0.000498,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000027,
+      "app/styles/ionic/_progress.scss\r\n"
+    ],
+    [
+      0.000500,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000020,
+      "app/styles/ionic/_radio.scss\r\n"
+    ],
+    [
+      0.000500,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000037,
+      " "
+    ],
+    [
+      0.000021,
+      "app/styles/ionic/_range.scss\r\n"
+    ],
+    [
+      0.000510,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000031,
+      " "
+    ],
+    [
+      0.000028,
+      "app/styles/ionic/_refresher.scss\r\n"
+    ],
+    [
+      0.000493,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000021,
+      "app/styles/ionic/_reset.scss\r\n"
+    ],
+    [
+      0.000522,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000040,
+      " "
+    ],
+    [
+      0.000031,
+      "app/styles/ionic/_scaffolding.scss\r\n"
+    ],
+    [
+      0.000555,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000027,
+      "app/styles/ionic/_select.scss\r\n"
+    ],
+    [
+      0.000578,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000030,
+      " "
+    ],
+    [
+      0.000021,
+      "app/styles/ionic/_slide-box.scss\r\n"
+    ],
+    [
+      0.000939,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000058,
+      " "
+    ],
+    [
+      0.000035,
+      "app/styles/ionic/_spinner.scss\r\n"
+    ],
+    [
+      0.000599,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000031,
+      " "
+    ],
+    [
+      0.000031,
+      "app/styles/ionic/_split-pane.scss\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000031,
+      "app/styles/ionic/_tabs.scss\r\n"
+    ],
+    [
+      0.000520,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000033,
+      "app/styles/ionic/_toggle.scss\r\n"
+    ],
+    [
+      0.000533,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000005,
+      "app/styles/ionic/_transitions.scss\r\n"
+    ],
+    [
+      0.000513,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000031,
+      " "
+    ],
+    [
+      0.000048,
+      "app/styles/ionic/_type.scss\r\n"
+    ],
+    [
+      0.000517,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000029,
+      "app/styles/ionic/_util.scss\r\n"
+    ],
+    [
+      0.000710,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000137,
+      " app/styles/ionic/_variables.scss\r\n"
+    ],
+    [
+      0.000625,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000060,
+      " app/styles/ionic/ionic.scss\r\n"
+    ],
+    [
+      0.000584,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000005,
+      "app/styles/ionic/ionicons/_ionicons-animation.scss\r\n"
+    ],
+    [
+      0.000666,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000029,
+      " "
+    ],
+    [
+      0.000017,
+      "app/styles/ionic/ionicons/_ionicons-font.scss\r\n"
+    ],
+    [
+      0.000733,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000039,
+      " "
+    ],
+    [
+      0.000017,
+      "app/styles/ionic/ionicons/_ionicons-icons.scss\r\n"
+    ],
+    [
+      0.001271,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000330,
+      " app/styles/ionic/ionicons/_ionicons-variables.scss\r\n"
+    ],
+    [
+      0.001194,
+      "\u001b[32m   create\u001b[39m app/styles/ionic/ionicons/ionicons.scss\r\n"
+    ],
+    [
+      0.000491,
+      "\u001b[32m   create\u001b[39m app/styles/layout/_layout.scss\r\n"
+    ],
+    [
+      0.001098,
+      "\u001b[32m   create\u001b[39m app/styles/main.scss\r\n"
+    ],
+    [
+      0.000404,
+      "\u001b[32m   create\u001b[39m app/styles/menu/menu.scss\r\n"
+    ],
+    [
+      0.001039,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000038,
+      " "
+    ],
+    [
+      0.000028,
+      "app/styles/views/_home.scss\r\n"
+    ],
+    [
+      0.001180,
+      "\u001b[32m   create\u001b[39m app/styles/views/_intro.scss\r\n"
+    ],
+    [
+      0.000780,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000036,
+      " "
+    ],
+    [
+      0.000020,
+      "app/templates/main.html\r\n"
+    ],
+    [
+      0.001042,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000010,
+      " "
+    ],
+    [
+      0.000005,
+      "app/templates/views/edit-product.html\r\n"
+    ],
+    [
+      0.002898,
+      "\u001b[32m   create\u001b[39m app/templates/views/home.html\r\n"
+    ],
+    [
+      0.000836,
+      "\u001b[32m   create\u001b[39m app/templates/views/intro.html\r\n\u001b[32m   create\u001b[39m app/templates/views/login.html\r\n"
+    ],
+    [
+      0.002181,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.001233,
+      " app/templates/views/new-product.html\r\n"
+    ],
+    [
+      0.000850,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000987,
+      " "
+    ],
+    [
+      0.000033,
+      "app/templates/views/product.html\r\n"
+    ],
+    [
+      0.003333,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000129,
+      " app/templates/views/products.html\r\n"
+    ],
+    [
+      0.000826,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000457,
+      " "
+    ],
+    [
+      0.000051,
+      "app/templates/views/session.html\r\n"
+    ],
+    [
+      0.001461,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000089,
+      " "
+    ],
+    [
+      0.000045,
+      "app/templates/views/settings.html\r\n"
+    ],
+    [
+      0.002414,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000019,
+      " "
+    ],
+    [
+      0.000054,
+      "app/templates/views/signup.html\r\n"
+    ],
+    [
+      0.000838,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000044,
+      " "
+    ],
+    [
+      0.000045,
+      "hooks/after_prepare/010_add_platform_class.js\r\n"
+    ],
+    [
+      0.003101,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000547,
+      " "
+    ],
+    [
+      0.000035,
+      "hooks/README.md\r\n"
+    ],
+    [
+      0.001032,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000054,
+      " "
+    ],
+    [
+      0.000044,
+      "app/index.html\r\n"
+    ],
+    [
+      0.001174,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000059,
+      " "
+    ],
+    [
+      0.000040,
+      "app/scripts/services/user.service.js\r\n"
+    ],
+    [
+      0.001205,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000079,
+      " "
+    ],
+    [
+      0.000060,
+      "app/scripts/services/example.service.js\r\n"
+    ],
+    [
+      0.000738,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000071,
+      " "
+    ],
+    [
+      0.000062,
+      "app/scripts/services/api.service.js\r\n"
+    ],
+    [
+      0.000759,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000052,
+      " "
+    ],
+    [
+      0.000051,
+      "app/scripts/services/localstorage.service.js\r\n"
+    ],
+    [
+      0.000685,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000050,
+      " "
+    ],
+    [
+      0.000045,
+      "app/scripts/services/auth.service.js\r\n"
+    ],
+    [
+      0.001991,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000057,
+      " "
+    ],
+    [
+      0.000052,
+      "karma.conf.js\r\n"
+    ],
+    [
+      0.000975,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000039,
+      "app/scripts/controllers/introController.js\r\n"
+    ],
+    [
+      0.000999,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000072,
+      " "
+    ],
+    [
+      0.000051,
+      "app/scripts/controllers/translateController.js\r\n"
+    ],
+    [
+      0.001100,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000201,
+      " "
+    ],
+    [
+      0.000049,
+      "app/scripts/controllers/loginController.js\r\n"
+    ],
+    [
+      0.000764,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000057,
+      " "
+    ],
+    [
+      0.000044,
+      "app/scripts/controllers/signupController.js\r\n"
+    ],
+    [
+      0.000684,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000041,
+      "app/scripts/controllers/homeController.js\r\n"
+    ],
+    [
+      0.000639,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000031,
+      " "
+    ],
+    [
+      0.000049,
+      "app/scripts/controllers/productsController.js\r\n"
+    ],
+    [
+      0.001017,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000112,
+      " "
+    ],
+    [
+      0.000063,
+      "app/scripts/controllers/productController.js\r\n"
+    ],
+    [
+      0.001850,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000035,
+      " "
+    ],
+    [
+      0.000043,
+      "app/scripts/controllers/newProductController.js\r\n"
+    ],
+    [
+      0.000765,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000050,
+      " "
+    ],
+    [
+      0.000053,
+      "app/scripts/controllers/editProductController.js\r\n"
+    ],
+    [
+      0.000725,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000063,
+      " "
+    ],
+    [
+      0.000050,
+      "app/scripts/controllers/mainController.js\r\n"
+    ],
+    [
+      0.000701,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000042,
+      "app/scripts/controllers/settingsController.js\r\n"
+    ],
+    [
+      0.002170,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000069,
+      " "
+    ],
+    [
+      0.000033,
+      "app/scripts/config/avionic.config.js\r\n"
+    ],
+    [
+      0.000991,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000046,
+      "app/scripts/translate/avionic.translate.js\r\n"
+    ],
+    [
+      0.000778,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000050,
+      " "
+    ],
+    [
+      0.000067,
+      "app/scripts/routes/avionic.routes.js\r\n"
+    ],
+    [
+      0.000848,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000042,
+      "gulp/karma.task.js\r\n"
+    ],
+    [
+      0.000927,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000044,
+      " "
+    ],
+    [
+      0.000044,
+      "gulp/plato.task.js\r\n"
+    ],
+    [
+      0.001294,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000052,
+      " "
+    ],
+    [
+      0.000080,
+      "gulp/help.task.js\r\n"
+    ],
+    [
+      0.008801,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000057,
+      " "
+    ],
+    [
+      0.000058,
+      "gulp/scripts.task.js\r\n"
+    ],
+    [
+      0.008737,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000028,
+      "gulp/cli.task.js\r\n"
+    ],
+    [
+      0.000708,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000043,
+      "gulp/clean.task.js\r\n"
+    ],
+    [
+      0.000717,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000039,
+      " "
+    ],
+    [
+      0.000041,
+      "gulp/fonts.task.js\r\n"
+    ],
+    [
+      0.000792,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000032,
+      "gulp/licenses.task.js\r\n"
+    ],
+    [
+      0.000678,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000042,
+      " "
+    ],
+    [
+      0.000042,
+      "gulp/templates.task.js\r\n"
+    ],
+    [
+      0.000786,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000046,
+      "gulp/iconfont.task.js\r\n"
+    ],
+    [
+      0.000795,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000041,
+      " "
+    ],
+    [
+      0.000045,
+      "gulp/styles.task.js\r\n"
+    ],
+    [
+      0.000884,
+      "\u001b[32m   create\u001b[39m "
+    ],
+    [
+      0.000007,
+      "gulp/images.task.js\r\n"
+    ],
+    [
+      0.000583,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000052,
+      " "
+    ],
+    [
+      0.000060,
+      "gulp/favicon.task.js\r\n"
+    ],
+    [
+      0.000737,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000049,
+      " "
+    ],
+    [
+      0.000040,
+      "gulp/jshint.task.js\r\n"
+    ],
+    [
+      0.000816,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000080,
+      " "
+    ],
+    [
+      0.000198,
+      "gulp/vendor.task.js\r\n"
+    ],
+    [
+      0.000989,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000046,
+      "gulp/languages.task.js\r\n"
+    ],
+    [
+      0.000755,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000038,
+      " "
+    ],
+    [
+      0.000043,
+      "gulp/index.task.js\r\n"
+    ],
+    [
+      0.001250,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000051,
+      "gulp/serve.task.js\r\n"
+    ],
+    [
+      0.001087,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000065,
+      " "
+    ],
+    [
+      0.000057,
+      "gulp/select.task.js\r\n"
+    ],
+    [
+      0.000844,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000052,
+      " "
+    ],
+    [
+      0.000050,
+      "gulp/ripple.task.js\r\n"
+    ],
+    [
+      0.002182,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000115,
+      " "
+    ],
+    [
+      0.000051,
+      "gulp/watchers.task.js\r\n"
+    ],
+    [
+      0.000733,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000055,
+      " "
+    ],
+    [
+      0.000042,
+      "gulp/noop.task.js\r\n"
+    ],
+    [
+      0.000721,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000063,
+      " "
+    ],
+    [
+      0.000050,
+      "gulp/default.task.js\r\n"
+    ],
+    [
+      0.000654,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000253,
+      " "
+    ],
+    [
+      0.000056,
+      "gulp/plugins.task.js\r\n"
+    ],
+    [
+      0.000833,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000222,
+      " "
+    ],
+    [
+      0.000042,
+      "app/scripts/utils/lodash.js\r\n"
+    ],
+    [
+      0.000749,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000063,
+      " "
+    ],
+    [
+      0.000049,
+      "app/scripts/app.js\r\n"
+    ],
+    [
+      0.000949,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000043,
+      "server/package.json\r\n"
+    ],
+    [
+      0.000608,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000041,
+      "server/readme.md\r\n"
+    ],
+    [
+      0.000741,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000053,
+      " "
+    ],
+    [
+      0.000048,
+      "server/routes/workouts.js\r\n"
+    ],
+    [
+      0.000813,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000044,
+      " "
+    ],
+    [
+      0.000049,
+      "server/server.js\r\n"
+    ],
+    [
+      0.000819,
+      "\u001b[32m   create\u001b[39m test/config/app.config.spec.js\r\n"
+    ],
+    [
+      0.000919,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000651,
+      " "
+    ],
+    [
+      0.000442,
+      "test/controllers/editProductController.spec.js\r\n"
+    ],
+    [
+      0.001180,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000065,
+      " "
+    ],
+    [
+      0.000052,
+      "test/controllers/homeController.spec.js\r\n"
+    ],
+    [
+      0.000564,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000055,
+      " "
+    ],
+    [
+      0.000057,
+      "test/controllers/introController.spec.js\r\n"
+    ],
+    [
+      0.000471,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000051,
+      " "
+    ],
+    [
+      0.000048,
+      "test/controllers/loginController.spec.js\r\n"
+    ],
+    [
+      0.000498,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000053,
+      " "
+    ],
+    [
+      0.000048,
+      "test/controllers/mainController.spec.js\r\n"
+    ],
+    [
+      0.000495,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000068,
+      " "
+    ],
+    [
+      0.000036,
+      "test/controllers/newProductController.spec.js\r\n"
+    ],
+    [
+      0.000508,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000082,
+      " "
+    ],
+    [
+      0.000047,
+      "test/controllers/productController.spec.js\r\n"
+    ],
+    [
+      0.000553,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000046,
+      " "
+    ],
+    [
+      0.000060,
+      "test/controllers/settingsController.spec.js\r\n"
+    ],
+    [
+      0.000454,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000052,
+      " "
+    ],
+    [
+      0.000048,
+      "test/controllers/signupController.spec.js\r\n"
+    ],
+    [
+      0.000548,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000057,
+      " "
+    ],
+    [
+      0.000061,
+      "test/controllers/translateController.spec.js\r\n"
+    ],
+    [
+      0.000456,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000062,
+      " "
+    ],
+    [
+      0.000048,
+      "test/hello.spec.js\r\n"
+    ],
+    [
+      0.000852,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000090,
+      " "
+    ],
+    [
+      0.000094,
+      "test/routes/app.routes.spec.js\r\n"
+    ],
+    [
+      0.000769,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000026,
+      " "
+    ],
+    [
+      0.000026,
+      "test/services/api.service.spec.js\r\n"
+    ],
+    [
+      0.000965,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000061,
+      " "
+    ],
+    [
+      0.000054,
+      "test/services/auth.service.spec.js\r\n"
+    ],
+    [
+      0.000536,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000069,
+      " "
+    ],
+    [
+      0.000064,
+      "test/services/example.service.spec.js\r\n"
+    ],
+    [
+      0.000491,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000030,
+      "test/services/localstorage.service.spec.js\r\n"
+    ],
+    [
+      0.000521,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000058,
+      "test/services/user.service.spec.js\r\n"
+    ],
+    [
+      0.000715,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000063,
+      " "
+    ],
+    [
+      0.000046,
+      "test/translate/app.translate.spec.js\r\n"
+    ],
+    [
+      0.000629,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000048,
+      " "
+    ],
+    [
+      0.000052,
+      "test/utils/lodash.spec.js\r\n"
+    ],
+    [
+      0.000529,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000033,
+      "vendor.json\r\n"
+    ],
+    [
+      0.000579,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000050,
+      " "
+    ],
+    [
+      0.000055,
+      "app/favicon.ico\r\n"
+    ],
+    [
+      0.001196,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000028,
+      " "
+    ],
+    [
+      0.000032,
+      "resources/splash.png\r\n"
+    ],
+    [
+      0.008476,
+      "\u001b[32m   create\u001b[39m"
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000039,
+      "resources/icon.png\r\n"
+    ],
+    [
+      0.031800,
+      "\u001b[33m\r\nInstall plugins registered at plugins.cordova.io: \u001b[39m\u001b[32mgulp plugin:add:org.apache.cordova.globalization\u001b[39m\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[33mOr install plugins direct from source: \u001b[39m\u001b[32mgulp plugin:add:https://github.com/apache/cordova-plugin-console.git\r\n\u001b[39m\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[33mInstalling selected Cordova plugins, please wait.\u001b[39m\r\n"
+    ],
+    [
+      0.053348,
+      "\u001b[32mAdded plugins: com.ionic.keyboard,com.paypal.cordova.mobilesdk,cordova-plugin-console,cordova-plugin-device,cordova-plugin-splashscreen,cordova-plugin-statusbar,cordova-plugin-whitelist,nl.x-services.plugins.socialsharing,org.apache.cordova.inappbrowser\u001b[39m\r\n"
+    ],
+    [
+      0.003044,
+      "\r\n\r\nI'm all done. Running \u001b[33m\u001b[1mnpm install \u0026 bower install\u001b[22m\u001b[39m for you to install the required dependencies. If this fails, try running the command yourself.\r\n\r\n\r\n"
+    ],
+    [
+      0.909809,
+      "-\u001b[0G"
+    ],
+    [
+      0.050162,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050412,
+      "|\u001b[0G"
+    ],
+    [
+      0.050579,
+      "/\u001b[0G"
+    ],
+    [
+      0.050260,
+      "-\u001b[0G"
+    ],
+    [
+      0.049236,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050137,
+      "|\u001b[0G"
+    ],
+    [
+      0.050515,
+      "/\u001b[0G"
+    ],
+    [
+      0.050230,
+      "-\u001b[0G"
+    ],
+    [
+      0.051879,
+      "\\\u001b[0G"
+    ],
+    [
+      0.047435,
+      "\u001b[?25l"
+    ],
+    [
+      0.000907,
+      "\u001b[0G"
+    ],
+    [
+      0.000150,
+      "▄ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[?25h"
+    ],
+    [
+      0.000840,
+      "|\u001b[0G"
+    ],
+    [
+      0.048200,
+      "\u001b[1A"
+    ],
+    [
+      0.000303,
+      "\u001b[?25l"
+    ],
+    [
+      0.000092,
+      "\u001b[0G"
+    ],
+    [
+      0.000100,
+      "▌ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[?25h"
+    ],
+    [
+      0.001897,
+      "/\u001b[0G"
+    ],
+    [
+      0.049083,
+      "-\u001b[0G"
+    ],
+    [
+      0.050151,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050224,
+      "|\u001b[0G"
+    ],
+    [
+      0.050179,
+      "/\u001b[0G"
+    ],
+    [
+      0.733190,
+      "-\u001b[0G"
+    ],
+    [
+      0.051116,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050147,
+      "|\u001b[0G"
+    ],
+    [
+      0.050512,
+      "/\u001b[0G"
+    ],
+    [
+      0.050443,
+      "-\u001b[0G"
+    ],
+    [
+      0.051241,
+      "\\\u001b[0G"
+    ],
+    [
+      0.051002,
+      "|\u001b[0G"
+    ],
+    [
+      2.179417,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000009,
+      "\u001b[0G"
+    ],
+    [
+      0.000093,
+      "▀ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      3.546358,
+      "\u001b[1A"
+    ],
+    [
+      0.000043,
+      "\u001b[?25l"
+    ],
+    [
+      0.000038,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "▐ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[?25h"
+    ],
+    [
+      0.122138,
+      "\u001b[1A"
+    ],
+    [
+      0.000119,
+      "\u001b[?25l\u001b[0GloadIdealTree → cloneCurr ▄ ╢███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[?25h"
+    ],
+    [
+      0.252974,
+      "\u001b[1A"
+    ],
+    [
+      0.000139,
+      "\u001b[?25l\u001b[0GloadDevDep:beepbeep       ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[?25h"
+    ],
+    [
+      0.050154,
+      "\u001b[1A"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000076,
+      "\u001b[0GloadDep:abbrev            ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[?25h"
+    ],
+    [
+      0.050042,
+      "\u001b[1A"
+    ],
+    [
+      0.000033,
+      "\u001b[?25l"
+    ],
+    [
+      0.000160,
+      "\u001b[0GloadDep:core-util-is      ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.053567,
+      "\u001b[1A"
+    ],
+    [
+      0.000364,
+      "\u001b[?25l\u001b[0GloadDep:has-ansi          ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049707,
+      "\u001b[1A"
+    ],
+    [
+      0.000044,
+      "\u001b[?25l"
+    ],
+    [
+      0.000015,
+      "\u001b[0G"
+    ],
+    [
+      0.000216,
+      "loadDep:fstream           ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049978,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[0GloadDep:cli-cursor        ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[?25h"
+    ],
+    [
+      0.049187,
+      "\u001b[1A"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000230,
+      "\u001b[0GloadDep:os-name           ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049482,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000186,
+      "\u001b[0GloadDep:got               ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.058650,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:rc                ▌ ╢██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.074189,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:each-async        ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049290,
+      "\u001b[1A"
+    ],
+    [
+      0.000074,
+      "\u001b[?25l"
+    ],
+    [
+      0.000073,
+      "\u001b[0G"
+    ],
+    [
+      0.000045,
+      "loadDep:inflight          ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[?25h"
+    ],
+    [
+      0.049236,
+      "\u001b[1A"
+    ],
+    [
+      0.000080,
+      "\u001b[?25l"
+    ],
+    [
+      0.000059,
+      "\u001b[0G"
+    ],
+    [
+      0.000076,
+      "loadDevDep:express        ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[?25h"
+    ],
+    [
+      0.103886,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000029,
+      "\u001b[0G"
+    ],
+    [
+      0.001081,
+      "loadDep:accepts           ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.054031,
+      "\u001b[1A"
+    ],
+    [
+      0.000031,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000039,
+      "loadDep:forwarded         ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[?25h"
+    ],
+    [
+      0.055181,
+      "\u001b[1A"
+    ],
+    [
+      0.000033,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000036,
+      "loadDep:inherits          ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[?25h"
+    ],
+    [
+      0.082753,
+      "\u001b[1A"
+    ],
+    [
+      0.000047,
+      "\u001b[?25l"
+    ],
+    [
+      0.000032,
+      "\u001b[0G"
+    ],
+    [
+      0.000066,
+      "loadDep:archy             ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[?25h"
+    ],
+    [
+      0.078322,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:array-differ      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.051229,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:loud-rejection    ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.050937,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000368,
+      "\u001b[0GloadDep:path-exists       ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.051477,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000157,
+      "\u001b[0GloadDep:is-utf8           ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.052526,
+      "\u001b[1A"
+    ],
+    [
+      0.000173,
+      "\u001b[?25l\u001b[0GloadDep:sparkles          ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.054019,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.001344,
+      "\u001b[0G"
+    ],
+    [
+      0.001163,
+      "loadDep:lodash._reinterpo ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.047082,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000018,
+      "\u001b[0G"
+    ],
+    [
+      0.000133,
+      "loadDep:core-util-is      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.050764,
+      "\u001b[1A"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000043,
+      "\u001b[0G"
+    ],
+    [
+      0.000124,
+      "loadDep:inflight          ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.053909,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:clone             ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.057637,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:core-util-is      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.051599,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000063,
+      "\u001b[0G"
+    ],
+    [
+      0.000007,
+      "loadDep:first-chunk-strea ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[?25h"
+    ],
+    [
+      0.074981,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000355,
+      "\u001b[0GloadDep:event-stream      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.052321,
+      "\u001b[1A"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000032,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "loadDep:through           ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000251,
+      "\u001b[?25h"
+    ],
+    [
+      0.087233,
+      "\u001b[1A"
+    ],
+    [
+      0.000091,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000074,
+      "loadDep:array-differ      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[?25h"
+    ],
+    [
+      0.054790,
+      "\u001b[1A"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:core-util-is      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[?25h"
+    ],
+    [
+      0.056880,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000040,
+      "\u001b[0G"
+    ],
+    [
+      0.000027,
+      "loadDep:chalk             ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[?25h"
+    ],
+    [
+      0.049793,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000121,
+      "\u001b[0GloadDep:lodash._isnative  ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.054533,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000024,
+      "\u001b[0G"
+    ],
+    [
+      0.000038,
+      "loadDep:lodash._isnative  ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.049586,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:readable-stream   ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.060338,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000055,
+      "\u001b[0G"
+    ],
+    [
+      0.000009,
+      "loadDep:concat-with-sourc ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[?25h"
+    ],
+    [
+      0.062195,
+      "\u001b[1A"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000039,
+      "\u001b[0G"
+    ],
+    [
+      0.000066,
+      "loadDep:array-differ      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[?25h"
+    ],
+    [
+      0.058130,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000024,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "loadDep:browserslist      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[?25h"
+    ],
+    [
+      0.070885,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000039,
+      "loadDep:array-differ      ▌ ╢███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[?25h"
+    ],
+    [
+      0.062645,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:core-util-is      ▌ ╢████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[?25h"
+    ],
+    [
+      0.097772,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000034,
+      "loadDep:array-differ      ▌ ╢████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.052872,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000029,
+      "\u001b[0G"
+    ],
+    [
+      0.000058,
+      "loadDep:check-types       ▌ ╢████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[?25h"
+    ],
+    [
+      0.060177,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:bytes             ▌ ╢████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.059230,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:bufferstreams     ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[?25h"
+    ],
+    [
+      0.064881,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.052063,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000088,
+      "\u001b[0GloadDep:gulp-svgicons2svg ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[?25h"
+    ],
+    [
+      0.078172,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000040,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[?25h"
+    ],
+    [
+      0.049392,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:gulp-ttf2eot      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000200,
+      "\u001b[?25h"
+    ],
+    [
+      0.063731,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000042,
+      "\u001b[0G"
+    ],
+    [
+      0.000038,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[?25h"
+    ],
+    [
+      0.098722,
+      "\u001b[1A\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000011,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[?25h"
+    ],
+    [
+      0.086849,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000128,
+      "\u001b[0GloadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.056439,
+      "\u001b[1A"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000467,
+      "\u001b[0GloadDep:duplexer2         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049214,
+      "\u001b[1A"
+    ],
+    [
+      0.000042,
+      "\u001b[?25l"
+    ],
+    [
+      0.000027,
+      "\u001b[0G"
+    ],
+    [
+      0.000035,
+      "loadDep:readable-stream   ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[?25h"
+    ],
+    [
+      0.088638,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000037,
+      "\u001b[0G"
+    ],
+    [
+      0.000028,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[?25h"
+    ],
+    [
+      0.050026,
+      "\u001b[1A"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000054,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:readable-stream   ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[?25h"
+    ],
+    [
+      0.054927,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:inherits          ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.051962,
+      "\u001b[1A"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000154,
+      "\u001b[0GloadDep:bin-build         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.055533,
+      "\u001b[1A"
+    ],
+    [
+      0.000163,
+      "\u001b[?25l"
+    ],
+    [
+      0.000057,
+      "\u001b[0G"
+    ],
+    [
+      0.000058,
+      "loadDep:is-tar            ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[?25h"
+    ],
+    [
+      0.049817,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000135,
+      "\u001b[0GloadDep:readable-stream   ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.025276,
+      "-\u001b[0G"
+    ],
+    [
+      0.028337,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000037,
+      "loadDep:core-util-is      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[?25h"
+    ],
+    [
+      0.023049,
+      "\\\u001b[0G"
+    ],
+    [
+      0.026294,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000036,
+      "loadDep:decompress-targz  ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[?25h"
+    ],
+    [
+      0.023659,
+      "|\u001b[0G"
+    ],
+    [
+      0.026155,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:read-all-stream   ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.024894,
+      "/\u001b[0G"
+    ],
+    [
+      0.027605,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:core-util-is      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.023465,
+      "-\u001b[0G"
+    ],
+    [
+      0.025539,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000032,
+      "\u001b[0G"
+    ],
+    [
+      0.000038,
+      "loadDep:end-of-stream     ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.024586,
+      "\\\u001b[0G"
+    ],
+    [
+      0.031198,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000048,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:inflight          ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[?25h"
+    ],
+    [
+      0.019689,
+      "|\u001b[0G"
+    ],
+    [
+      0.030275,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000061,
+      "loadDep:extend-shallow    ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.020802,
+      "/\u001b[0G"
+    ],
+    [
+      0.033238,
+      "\u001b[1A"
+    ],
+    [
+      0.000027,
+      "\u001b[?25l"
+    ],
+    [
+      0.000024,
+      "\u001b[0G"
+    ],
+    [
+      0.000028,
+      "loadDep:clone             ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[?25h"
+    ],
+    [
+      0.017033,
+      "-\u001b[0G"
+    ],
+    [
+      0.036472,
+      "\u001b[1A"
+    ],
+    [
+      0.000025,
+      "\u001b[?25l"
+    ],
+    [
+      0.000023,
+      "\u001b[0G"
+    ],
+    [
+      0.000027,
+      "loadDep:deep-extend       ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[?25h"
+    ],
+    [
+      0.014882,
+      "\\\u001b[0G"
+    ],
+    [
+      0.068043,
+      "\u001b[1A\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000274,
+      "loadDep:create-error-clas ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.050401,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:gulp-util         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.072391,
+      "\u001b[1A"
+    ],
+    [
+      0.000025,
+      "\u001b[?25l"
+    ],
+    [
+      0.000042,
+      "\u001b[0G"
+    ],
+    [
+      0.000071,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[?25h"
+    ],
+    [
+      0.065634,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000375,
+      "\u001b[0GloadDep:core-util-is      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049133,
+      "\u001b[1A"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000027,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:vinyl             ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[?25h"
+    ],
+    [
+      0.067446,
+      "\u001b[1A"
+    ],
+    [
+      0.000698,
+      "\u001b[?25l\u001b[0GloadDep:duplexify         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000340,
+      "\u001b[?25h"
+    ],
+    [
+      0.039242,
+      "-\u001b[0G"
+    ],
+    [
+      0.008307,
+      "\u001b[1A"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:ordered-read-stre ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[?25h"
+    ],
+    [
+      0.041525,
+      "\\\u001b[0G"
+    ],
+    [
+      0.013556,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000024,
+      "loadDep:os-tmpdir         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[?25h"
+    ],
+    [
+      0.035994,
+      "|\u001b[0G"
+    ],
+    [
+      0.014402,
+      "\u001b[1A"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:bin-version       ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[?25h"
+    ],
+    [
+      0.036044,
+      "/\u001b[0G"
+    ],
+    [
+      0.013752,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000025,
+      "\u001b[0G"
+    ],
+    [
+      0.000028,
+      "loadDep:lpad-align        ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[?25h"
+    ],
+    [
+      0.036677,
+      "-\u001b[0G"
+    ],
+    [
+      0.015836,
+      "\u001b[1A"
+    ],
+    [
+      0.000028,
+      "\u001b[?25l"
+    ],
+    [
+      0.000024,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:through2          ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[?25h"
+    ],
+    [
+      0.034202,
+      "\\\u001b[0G"
+    ],
+    [
+      0.021634,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000036,
+      "\u001b[0G"
+    ],
+    [
+      0.000024,
+      "loadDep:core-util-is      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[?25h"
+    ],
+    [
+      0.027747,
+      "|\u001b[0G"
+    ],
+    [
+      0.021796,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000031,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:ansi-regex        ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[?25h"
+    ],
+    [
+      0.028867,
+      "/\u001b[0G"
+    ],
+    [
+      0.024479,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000324,
+      "\u001b[0GloadDep:duplexify         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.053396,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000018,
+      "\u001b[0G"
+    ],
+    [
+      0.000138,
+      "loadDep:core-util-is      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049434,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000039,
+      "loadDep:clone-stats       ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[?25h"
+    ],
+    [
+      0.050760,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000341,
+      "\u001b[0GloadDep:gulp-util         ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.072140,
+      "\u001b[1A"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000045,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[?25h"
+    ],
+    [
+      0.112502,
+      "\u001b[1A"
+    ],
+    [
+      0.000026,
+      "\u001b[?25l"
+    ],
+    [
+      0.000041,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:array-differ      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[?25h"
+    ],
+    [
+      0.049833,
+      "\u001b[1A"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000041,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:readable-stream   ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[?25h"
+    ],
+    [
+      0.056745,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:cli               ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[?25h"
+    ],
+    [
+      0.005666,
+      "-\u001b[0G"
+    ],
+    [
+      0.045214,
+      "\u001b[1A"
+    ],
+    [
+      0.000025,
+      "\u001b[?25l"
+    ],
+    [
+      0.000029,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:dom-serializer    ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[?25h"
+    ],
+    [
+      0.005817,
+      "\\\u001b[0G"
+    ],
+    [
+      0.045319,
+      "\u001b[1A"
+    ],
+    [
+      0.000035,
+      "\u001b[?25l"
+    ],
+    [
+      0.000029,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "loadDep:event-stream      ▌ ╢█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[?25h"
+    ],
+    [
+      0.005619,
+      "|\u001b[0G"
+    ],
+    [
+      0.054270,
+      "\u001b[1A\u001b[?25l\u001b[0G/\u001b[0GloadDep:chalk             ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[?25h"
+    ],
+    [
+      0.050149,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000038,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:chalk             ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[?25h"
+    ],
+    [
+      0.000504,
+      "-\u001b[0G"
+    ],
+    [
+      0.050386,
+      "\\\u001b[0G"
+    ],
+    [
+      0.006412,
+      "\u001b[1A"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000036,
+      "\u001b[0G"
+    ],
+    [
+      0.000027,
+      "loadDep:bytes             ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[?25h"
+    ],
+    [
+      0.043002,
+      "|\u001b[0G"
+    ],
+    [
+      0.008648,
+      "\u001b[1A"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000029,
+      "\u001b[0G"
+    ],
+    [
+      0.000027,
+      "loadDep:brace-expansion   ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[?25h"
+    ],
+    [
+      0.049917,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000041,
+      "\u001b[0G"
+    ],
+    [
+      0.000024,
+      "loadDep:source-map        ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[?25h"
+    ],
+    [
+      0.086770,
+      "\u001b[1A"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000036,
+      "loadDep:array-differ      ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[?25h"
+    ],
+    [
+      0.052552,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000038,
+      "loadDep:core-util-is      ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[?25h"
+    ],
+    [
+      0.053253,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:gulp-util         ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[?25h"
+    ],
+    [
+      0.070254,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:array-differ      ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[?25h"
+    ],
+    [
+      0.050523,
+      "\u001b[1A"
+    ],
+    [
+      0.000028,
+      "\u001b[?25l"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:readable-stream   ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[?25h"
+    ],
+    [
+      0.075314,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000157,
+      "\u001b[0GloadDep:argh              ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.054534,
+      "\u001b[1A"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000040,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:d                 ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[?25h"
+    ],
+    [
+      0.036085,
+      "-\u001b[0G"
+    ],
+    [
+      0.028932,
+      "\u001b[1A"
+    ],
+    [
+      0.000039,
+      "\u001b[?25l"
+    ],
+    [
+      0.000068,
+      "\u001b[0G"
+    ],
+    [
+      0.000050,
+      "loadDep:d                 ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[?25h"
+    ],
+    [
+      0.021390,
+      "\\\u001b[0G"
+    ],
+    [
+      0.029428,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000034,
+      "\u001b[0G"
+    ],
+    [
+      0.000024,
+      "loadDep:memoizee          ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[?25h"
+    ],
+    [
+      0.021303,
+      "|\u001b[0G"
+    ],
+    [
+      0.040057,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:core-util-is      ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[?25h"
+    ],
+    [
+      0.011005,
+      "/\u001b[0G"
+    ],
+    [
+      0.044825,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000037,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:acorn             ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[?25h"
+    ],
+    [
+      0.006200,
+      "-\u001b[0G"
+    ],
+    [
+      0.046961,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000020,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:gulp-util         ▌ ╢██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.004106,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049450,
+      "|\u001b[0G"
+    ],
+    [
+      0.019471,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000036,
+      "loadDep:array-differ      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[?25h"
+    ],
+    [
+      0.031524,
+      "/\u001b[0G"
+    ],
+    [
+      0.017370,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:through2          ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[?25h"
+    ],
+    [
+      0.032764,
+      "-\u001b[0G"
+    ],
+    [
+      0.028236,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000034,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:core-util-is      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[?25h"
+    ],
+    [
+      0.021880,
+      "\\\u001b[0G"
+    ],
+    [
+      0.028278,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000016,
+      "\u001b[0G"
+    ],
+    [
+      0.000038,
+      "loadDep:gulp-util         ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[?25h"
+    ],
+    [
+      0.021867,
+      "|\u001b[0G"
+    ],
+    [
+      0.031458,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000021,
+      "\u001b[0G"
+    ],
+    [
+      0.000035,
+      "loadDep:ansi-styles       ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000546,
+      "\u001b[?25h"
+    ],
+    [
+      0.018168,
+      "/\u001b[0G"
+    ],
+    [
+      0.030735,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l"
+    ],
+    [
+      0.000317,
+      "\u001b[0GloadDep:core-util-is      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049472,
+      "\u001b[1A"
+    ],
+    [
+      0.000047,
+      "\u001b[?25l"
+    ],
+    [
+      0.000024,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:isarray           ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[?25h"
+    ],
+    [
+      0.050515,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000039,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDevDep:gulp-ruby-sass ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[?25h"
+    ],
+    [
+      0.058557,
+      "\u001b[1A"
+    ],
+    [
+      0.000040,
+      "\u001b[?25l"
+    ],
+    [
+      0.000117,
+      "\u001b[0G"
+    ],
+    [
+      0.000068,
+      "loadDep:inflight          ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000103,
+      "\u001b[?25h"
+    ],
+    [
+      0.110454,
+      "\u001b[1A"
+    ],
+    [
+      0.000073,
+      "\u001b[?25l"
+    ],
+    [
+      0.000052,
+      "\u001b[0G"
+    ],
+    [
+      0.000058,
+      "loadDep:array-differ      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[?25h"
+    ],
+    [
+      0.050502,
+      "\u001b[1A"
+    ],
+    [
+      0.000066,
+      "\u001b[?25l"
+    ],
+    [
+      0.000060,
+      "\u001b[0G"
+    ],
+    [
+      0.000049,
+      "loadDep:duplexify         ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[?25h"
+    ],
+    [
+      0.035771,
+      "-\u001b[0G"
+    ],
+    [
+      0.020945,
+      "\u001b[1A"
+    ],
+    [
+      0.000043,
+      "\u001b[?25l"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:core-util-is      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[?25h"
+    ],
+    [
+      0.029015,
+      "\\\u001b[0G"
+    ],
+    [
+      0.021290,
+      "\u001b[1A"
+    ],
+    [
+      0.000035,
+      "\u001b[?25l"
+    ],
+    [
+      0.000054,
+      "\u001b[0G"
+    ],
+    [
+      0.000046,
+      "loadDep:gulp-util         ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[?25h"
+    ],
+    [
+      0.029703,
+      "|\u001b[0G"
+    ],
+    [
+      0.028119,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000019,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:array-differ      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[?25h"
+    ],
+    [
+      0.022961,
+      "/\u001b[0G"
+    ],
+    [
+      0.036609,
+      "\u001b[1A"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:async-foreach     ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[?25h"
+    ],
+    [
+      0.014191,
+      "-\u001b[0G"
+    ],
+    [
+      0.036889,
+      "\u001b[1A"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000034,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:glob              ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[?25h"
+    ],
+    [
+      0.013319,
+      "\\\u001b[0G"
+    ],
+    [
+      0.051272,
+      "|\u001b[0G"
+    ],
+    [
+      0.010199,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:fstream           ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.039814,
+      "/\u001b[0G"
+    ],
+    [
+      0.010087,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000022,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:gauge             ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.040419,
+      "-\u001b[0G"
+    ],
+    [
+      0.011382,
+      "\u001b[1A"
+    ],
+    [
+      0.000030,
+      "\u001b[?25l"
+    ],
+    [
+      0.000103,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:lodash._basetostr ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[?25h"
+    ],
+    [
+      0.038578,
+      "\\\u001b[0G"
+    ],
+    [
+      0.034915,
+      "\u001b[1A"
+    ],
+    [
+      0.000030,
+      "\u001b[?25l"
+    ],
+    [
+      0.000036,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:aws-sign2         ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[?25h"
+    ],
+    [
+      0.015228,
+      "|\u001b[0G"
+    ],
+    [
+      0.035820,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000027,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:ansi-styles       ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.014506,
+      "/\u001b[0G"
+    ],
+    [
+      0.035644,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000041,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "loadDep:hawk              ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[?25h"
+    ],
+    [
+      0.015324,
+      "-\u001b[0G"
+    ],
+    [
+      0.040162,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:assert-plus       ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[?25h"
+    ],
+    [
+      0.068362,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:asn1              ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049658,
+      "\u001b[1A"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000341,
+      "\u001b[0GloadDep:tar               ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.051000,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000018,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:config-chain      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[?25h"
+    ],
+    [
+      0.057823,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000013,
+      "loadDep:camelcase         ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[?25h"
+    ],
+    [
+      0.014186,
+      "-\u001b[0G"
+    ],
+    [
+      0.035490,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000025,
+      "\u001b[0G"
+    ],
+    [
+      0.000024,
+      "loadDep:lcid              ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[?25h"
+    ],
+    [
+      0.015574,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049801,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000011,
+      "\u001b[0GloadDep:array-differ      ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.001259,
+      "|\u001b[0G"
+    ],
+    [
+      0.048243,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:vinyl             ▌ ╢███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[?25h"
+    ],
+    [
+      0.002570,
+      "/\u001b[0G"
+    ],
+    [
+      0.051169,
+      "-\u001b[0G"
+    ],
+    [
+      0.025376,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000043,
+      "\u001b[0G"
+    ],
+    [
+      0.000021,
+      "loadDep:array-differ      ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[?25h"
+    ],
+    [
+      0.025705,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050591,
+      "|\u001b[0G"
+    ],
+    [
+      0.013253,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:array-differ      ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.054008,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:vinyl             ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.047842,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000051,
+      "\u001b[0G"
+    ],
+    [
+      0.000007,
+      "loadDep:rocambole-node-up ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[?25h"
+    ],
+    [
+      0.049953,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000022,
+      "\u001b[0G"
+    ],
+    [
+      0.000351,
+      "loadDep:gulp-util         ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.064634,
+      "\u001b[1A"
+    ],
+    [
+      0.000039,
+      "\u001b[?25l"
+    ],
+    [
+      0.000057,
+      "\u001b[0G"
+    ],
+    [
+      0.000059,
+      "loadDep:array-differ      ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[?25h"
+    ],
+    [
+      0.050290,
+      "\u001b[1A"
+    ],
+    [
+      0.000028,
+      "\u001b[?25l"
+    ],
+    [
+      0.000050,
+      "\u001b[0G"
+    ],
+    [
+      0.000043,
+      "loadDep:lodash.template   ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[?25h"
+    ],
+    [
+      0.052695,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000019,
+      "\u001b[0G"
+    ],
+    [
+      0.000023,
+      "loadDep:align-text        ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[?25h"
+    ],
+    [
+      0.049742,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000018,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:is-png            ▌ ╢████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[?25h"
+    ],
+    [
+      0.013766,
+      "-\u001b[0G"
+    ],
+    [
+      0.037742,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000036,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:ansi-regex        ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[?25h"
+    ],
+    [
+      0.049789,
+      "\u001b[1A"
+    ],
+    [
+      0.000035,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000021,
+      "loadDevDep:karma-chrome-l ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[?25h"
+    ],
+    [
+      0.067216,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l"
+    ],
+    [
+      0.000055,
+      "\u001b[0G"
+    ],
+    [
+      0.000007,
+      "loadDep:abbrev            ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[?25h"
+    ],
+    [
+      0.064354,
+      "\u001b[1A"
+    ],
+    [
+      0.000027,
+      "\u001b[?25l"
+    ],
+    [
+      0.000037,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:deep-is           ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[?25h"
+    ],
+    [
+      0.053881,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:inflight          ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049297,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:uglify-js         ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.053951,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000018,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:lodash            ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.055947,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000652,
+      "\u001b[0GloadDep:buffer-crc32      ▌ ╢█████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049806,
+      "\u001b[1A\u001b[?25l\u001b[0GloadDep:send              ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.072317,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000009,
+      "\u001b[0G"
+    ],
+    [
+      0.000017,
+      "loadDep:complexity-report ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[?25h"
+    ],
+    [
+      0.053853,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000022,
+      "loadDep:check-types       ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[?25h"
+    ],
+    [
+      0.063003,
+      "\u001b[1A\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000010,
+      "loadDep:chalk             ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000430,
+      "\u001b[?25h"
+    ],
+    [
+      0.049933,
+      "\u001b[1A"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000048,
+      "loadDep:optionator        ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[?25h"
+    ],
+    [
+      0.049471,
+      "\u001b[1A"
+    ],
+    [
+      0.000031,
+      "\u001b[?25l"
+    ],
+    [
+      0.000046,
+      "\u001b[0G"
+    ],
+    [
+      0.000057,
+      "loadDep:fs-extra          ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[?25h"
+    ],
+    [
+      0.068730,
+      "\u001b[1A"
+    ],
+    [
+      0.000312,
+      "\u001b[?25l\u001b[0GloadDep:inflight          ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[?25h"
+    ],
+    [
+      0.051325,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000043,
+      "\u001b[0G"
+    ],
+    [
+      0.000023,
+      "loadDep:jshint            ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[?25h"
+    ],
+    [
+      0.059097,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000158,
+      "\u001b[0GloadDep:lru-cache         ▌ ╢██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.067813,
+      "\u001b[1A"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:accounting        ▌ ╢███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[?25h"
+    ],
+    [
+      0.071749,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000009,
+      "\u001b[0GloadDep:buffer-crc32      ▌ ╢███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000339,
+      "\u001b[?25h"
+    ],
+    [
+      0.050503,
+      "\u001b[1A"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:combined-stream   ▌ ╢███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[?25h"
+    ],
+    [
+      0.049960,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000055,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDevDep:wiredep        ▌ ╢███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.060727,
+      "\u001b[1A"
+    ],
+    [
+      0.000044,
+      "\u001b[?25l"
+    ],
+    [
+      0.000058,
+      "\u001b[0G"
+    ],
+    [
+      0.000054,
+      "loadDep:core-util-is      ▌ ╢███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[?25h"
+    ],
+    [
+      0.050041,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:micromatch        ▌ ╢██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.058638,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000022,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:expand-range      ▌ ╢███████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.050577,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l"
+    ],
+    [
+      0.000024,
+      "\u001b[0G"
+    ],
+    [
+      0.000024,
+      "loadDep:success-symbol    ▌ ╢███████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[?25h"
+    ],
+    [
+      0.057523,
+      "\u001b[1A"
+    ],
+    [
+      0.000019,
+      "\u001b[?25l"
+    ],
+    [
+      0.000033,
+      "\u001b[0G"
+    ],
+    [
+      0.000209,
+      "loadDep:glob-base         ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.050526,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000080,
+      "\u001b[0GloadExtraneous            ▌ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[?25h"
+    ],
+    [
+      0.055311,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000028,
+      "loadDep:anymatch          ▌ ╢████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.049589,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000029,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:readable-stream   ▌ ╢█████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[?25h"
+    ],
+    [
+      0.049772,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l"
+    ],
+    [
+      0.000034,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadDep:gauge             ▌ ╢█████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.050745,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000025,
+      "loadDep:readable-stream   ▌ ╢█████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[?25h"
+    ],
+    [
+      0.049561,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000038,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:escape-string-reg ▌ ╢█████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[?25h"
+    ],
+    [
+      0.050251,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000004,
+      "\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadDep:sntp              ▌ ╢█████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.049492,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000011,
+      "\u001b[0G"
+    ],
+    [
+      0.000029,
+      "loadDep:block-stream      ▌ ╢██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[?25h"
+    ],
+    [
+      0.049860,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000026,
+      "\u001b[0G"
+    ],
+    [
+      0.000031,
+      "loadDep:readable-stream   ▌ ╢██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[?25h"
+    ],
+    [
+      0.052655,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000010,
+      "\u001b[0G"
+    ],
+    [
+      0.000028,
+      "loadDep:core-util-is      ▌ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[?25h"
+    ],
+    [
+      0.050307,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000028,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "loadDep:engine.io-parser  ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[?25h"
+    ],
+    [
+      0.051154,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000011,
+      "\u001b[0GloadDep:bindings          ▌ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.051574,
+      "\u001b[1A"
+    ],
+    [
+      0.000061,
+      "\u001b[?25l"
+    ],
+    [
+      0.000035,
+      "\u001b[0G"
+    ],
+    [
+      0.000049,
+      "loadDep:better-assert     ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[?25h"
+    ],
+    [
+      0.049710,
+      "\u001b[1A"
+    ],
+    [
+      0.000086,
+      "\u001b[?25l"
+    ],
+    [
+      0.000062,
+      "\u001b[0G"
+    ],
+    [
+      0.000048,
+      "loadExtraneous            ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[?25h"
+    ],
+    [
+      0.079213,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000010,
+      "\u001b[0GloadDep:batch             ▌ ╢██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[?25h"
+    ],
+    [
+      0.050212,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000010,
+      "\u001b[0GloadDep:async             ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[?25h"
+    ],
+    [
+      0.050648,
+      "\u001b[1A"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l\u001b[0GloadDep:socket.io-parser  ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.049401,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000010,
+      "\u001b[0G"
+    ],
+    [
+      0.000006,
+      "loadDep:object-component  ▌ ╢████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[?25h"
+    ],
+    [
+      0.050656,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000032,
+      "loadExtraneous            ▌ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[?25h"
+    ],
+    [
+      4.368961,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000026,
+      "loadAllDepsIntoIdealTree  ▀ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[?25h"
+    ],
+    [
+      0.138518,
+      "\u001b[1A"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000027,
+      "loadAllDepsIntoIdealTree  ▐ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[?25h"
+    ],
+    [
+      0.077389,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000028,
+      "loadIdealTree → currentTr ▌ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.088471,
+      "\u001b[1A"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l"
+    ],
+    [
+      0.000034,
+      "\u001b[0G"
+    ],
+    [
+      0.000033,
+      "generateActionsToTake     ▄ ╢█████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.120117,
+      "\u001b[1A"
+    ],
+    [
+      0.000015,
+      "\u001b[?25l\u001b[0GvalidateTree              ▄ ╢██████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[?25h"
+    ],
+    [
+      0.071551,
+      "\u001b[1A\u001b[?25l"
+    ],
+    [
+      0.000010,
+      "\u001b[0G"
+    ],
+    [
+      0.000030,
+      "diffTrees                 ▄ ╢███████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[?25h"
+    ],
+    [
+      0.051854,
+      "\u001b[1A"
+    ],
+    [
+      0.000353,
+      "\u001b[?25l\u001b[0Gextract                   ▌ ╢██████████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░╟\r\n\u001b[?25h"
+    ],
+    [
+      0.055250,
+      "\u001b[1A"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[0G"
+    ],
+    [
+      0.000028,
+      "preinstall:Avionic        ▐ ╢██████████████████████████████████████████████████████████████████████████░░░░░░░╟\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[?25h"
+    ],
+    [
+      0.031335,
+      "\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[1A"
+    ],
+    [
+      0.000004,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "\u001b[K"
+    ],
+    [
+      0.001813,
+      "\u001b[?25l"
+    ],
+    [
+      0.000009,
+      "\u001b[0G"
+    ],
+    [
+      0.000005,
+      "runTopLevelLifecycles     ▐ ╢██████████████████████████████████████████████████████████████████████████████░░░╟\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[?25h"
+    ],
+    [
+      0.000371,
+      "\u001b[?25h"
+    ],
+    [
+      0.000040,
+      "\u001b[1A"
+    ],
+    [
+      0.000041,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "\u001b[K"
+    ],
+    [
+      0.000606,
+      "\u001b[37m"
+    ],
+    [
+      0.000062,
+      "\u001b[40m"
+    ],
+    [
+      0.000005,
+      "npm"
+    ],
+    [
+      0.000130,
+      "\u001b[0m"
+    ],
+    [
+      0.000089,
+      " "
+    ],
+    [
+      0.000147,
+      "\u001b[0m"
+    ],
+    [
+      0.000700,
+      "\u001b[30m\u001b[43mWARN\u001b[0m \u001b[0m\u001b[35mEPEERINVALID\u001b[0m karma-jasmine@0.3.6 requires a peer of jasmine-core@* but none was installed.\r\n\u001b[0m"
+    ],
+    [
+      0.002441,
+      "\u001b[?25l"
+    ],
+    [
+      0.000066,
+      "\u001b[0G"
+    ],
+    [
+      0.000086,
+      "runTopLevelLifecycles     ▄ ╢██████████████████████████████████████████████████████████████████████████████░░░╟\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[?25h"
+    ],
+    [
+      0.000280,
+      "\u001b[?25h\u001b[1A\u001b[0G\u001b[K"
+    ],
+    [
+      0.000067,
+      "\u001b[37m"
+    ],
+    [
+      0.000209,
+      "\u001b[40mnpm\u001b[0m \u001b[0m\u001b[30m\u001b[43mWARN"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.000144,
+      " \u001b[0m\u001b[35mEPEERINVALID\u001b[0m"
+    ],
+    [
+      0.000005,
+      " karma-phantomjs-launcher@0.2.1 requires a peer of phantomjs@\u003e=1.9 but none was installed.\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m"
+    ],
+    [
+      0.002583,
+      "\u001b[?25l"
+    ],
+    [
+      0.000012,
+      "\u001b[0GrunTopLevelLifecycles     ▌ ╢██████████████████████████████████████████████████████████████████████████████░░░╟\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[?25h"
+    ],
+    [
+      0.001037,
+      "\u001b[?25h\u001b[1A"
+    ],
+    [
+      0.000007,
+      "\u001b[0G"
+    ],
+    [
+      0.000026,
+      "\u001b[K"
+    ],
+    [
+      0.000115,
+      "\u001b[?25h"
+    ],
+    [
+      0.000030,
+      "\u001b[0G"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      1.771946,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/driftyco/ionic-bower.git#1.1.0\r\n"
+    ],
+    [
+      0.000892,
+      "bower \u001b[36mvalidate     \u001b[39m 1.1.0 against git://github.com/driftyco/ionic-bower.git#v1.1.0\r\n"
+    ],
+    [
+      0.012757,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-sanitize.git#1.4.8\r\n"
+    ],
+    [
+      0.000145,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular-sanitize.git#*\r\n"
+    ],
+    [
+      0.005920,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-animate.git#1.4.8\r\n"
+    ],
+    [
+      0.000068,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular-animate.git#*\r\n"
+    ],
+    [
+      0.005450,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/lodash/lodash.git#3.10.1\r\n"
+    ],
+    [
+      0.000355,
+      "bower \u001b[36mvalidate     \u001b[39m 3.10.1 against git://github.com/lodash/lodash.git#*\r\n"
+    ],
+    [
+      0.006232,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular-ui/ui-router.git#0.2.15\r\nbower \u001b[36mvalidate     \u001b[39m 0.2.15 against git://github.com/angular-ui/ui-router.git#*\r\n"
+    ],
+    [
+      0.006210,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/driftyco/ng-cordova.git#0.1.23-alpha\r\nbower \u001b[36mvalidate     \u001b[39m 0.1.23-alpha against git://github.com/driftyco/ng-cordova.git#*\r\n"
+    ],
+    [
+      0.002133,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/PascalPrecht/bower-angular-translate.git#2.8.1\r\nbower \u001b[36mvalidate     \u001b[39m 2.8.1 against git://github.com/PascalPrecht/bower-angular-translate.git#*\r\n"
+    ],
+    [
+      0.001663,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-resource.git#1.4.8\r\nbower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular-resource.git#^1.4.0\r\n"
+    ],
+    [
+      0.001293,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-cookies.git#1.4.8\r\nbower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular-cookies.git#^1.4.0\r\n"
+    ],
+    [
+      0.002004,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/PascalPrecht/bower-angular-translate-storage-cookie.git#2.8.1\r\n"
+    ],
+    [
+      0.000078,
+      "bower \u001b[36mvalidate     \u001b[39m 2.8.1 against git://github.com/PascalPrecht/bower-angular-translate-storage-cookie.git#*\r\n"
+    ],
+    [
+      0.001290,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-messages.git#1.4.8\r\n"
+    ],
+    [
+      0.000065,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular-messages.git#^1.4.0\r\n"
+    ],
+    [
+      0.001160,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/PascalPrecht/bower-angular-translate-loader-static-files.git#2.8.1\r\n"
+    ],
+    [
+      0.000066,
+      "bower \u001b[36mvalidate     \u001b[39m 2.8.1 against git://github.com/PascalPrecht/bower-angular-translate-loader-static-files.git#*\r\n"
+    ],
+    [
+      0.001716,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/PascalPrecht/bower-angular-translate-storage-local.git#2.8.1\r\n"
+    ],
+    [
+      0.000067,
+      "bower \u001b[36mvalidate     \u001b[39m 2.8.1 against git://github.com/PascalPrecht/bower-angular-translate-storage-local.git#*\r\n"
+    ],
+    [
+      0.442231,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular.git#1.4.8\r\n"
+    ],
+    [
+      0.000061,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular.git#\u003e= 1.0.8\r\n"
+    ],
+    [
+      0.696490,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular.git#1.4.8\r\n"
+    ],
+    [
+      0.000062,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular.git#\u003e= 1.2.23\r\n"
+    ],
+    [
+      0.000938,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular.git#1.4.8\r\n"
+    ],
+    [
+      0.000069,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular.git#\u003e=1.2.26 \u003c=1.5\r\n"
+    ],
+    [
+      0.783369,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-cookies.git#1.4.8\r\n"
+    ],
+    [
+      0.000064,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.8 against git://github.com/angular/bower-angular-cookies.git#\u003e=1.2.26 \u003c=1.5\r\n"
+    ],
+    [
+      0.003292,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular/bower-angular-sanitize.git#1.4.3\r\n"
+    ],
+    [
+      0.000067,
+      "bower \u001b[36mvalidate     \u001b[39m 1.4.3 against git://github.com/angular/bower-angular-sanitize.git#1.4.3\r\n"
+    ],
+    [
+      0.017691,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/angular-ui/ui-router.git#0.2.13\r\n"
+    ],
+    [
+      0.000025,
+      "bower \u001b[36mvalidate     \u001b[39m 0.2.13 against git://github.com/angular-ui/ui-router.git#0.2.13\r\n"
+    ],
+    [
+      2.037094,
+      "bower \u001b[33mextra-resolution     \u001b[39m Unnecessary resolution: angular#^1.4.0\r\n"
+    ],
+    [
+      0.003054,
+      "bower \u001b[36minstall              \u001b[39m lodash#3.10.1\r\n"
+    ],
+    [
+      0.000447,
+      "bower \u001b[36minstall              \u001b[39m angular-ui-router#0.2.13\r\n"
+    ],
+    [
+      0.000281,
+      "bower \u001b[36minstall              \u001b[39m angular-sanitize#1.4.3\r\n"
+    ],
+    [
+      0.000383,
+      "bower \u001b[36minstall              \u001b[39m ngCordova#0.1.23-alpha\r\n"
+    ],
+    [
+      0.001389,
+      "bower \u001b[36minstall              \u001b[39m angular-translate#2.8.1\r\n"
+    ],
+    [
+      0.000662,
+      "bower \u001b[36minstall              \u001b[39m ionic#1.1.0\r\n"
+    ],
+    [
+      0.000254,
+      "bower \u001b[36minstall              \u001b[39m angular-animate#1.4.8\r\n"
+    ],
+    [
+      0.000191,
+      "bower \u001b[36minstall              \u001b[39m angular-translate-loader-static-files#2.8.1\r\n"
+    ],
+    [
+      0.000221,
+      "bower \u001b[36minstall              \u001b[39m angular-translate-storage-cookie#2.8.1\r\n"
+    ],
+    [
+      0.000164,
+      "bower \u001b[36minstall              \u001b[39m angular-messages#1.4.8\r\n"
+    ],
+    [
+      0.000246,
+      "bower \u001b[36minstall              \u001b[39m angular-translate-storage-local#2.8.1\r\n"
+    ],
+    [
+      0.000179,
+      "bower \u001b[36minstall              \u001b[39m angular-resource#1.4.8\r\n"
+    ],
+    [
+      0.000153,
+      "bower \u001b[36minstall              \u001b[39m angular-cookies#1.4.8\r\n"
+    ],
+    [
+      0.000148,
+      "bower \u001b[36minstall              \u001b[39m angular#1.4.8\r\n"
+    ],
+    [
+      0.019463,
+      "bower \u001b[36mcached               \u001b[39m git://github.com/angular/bower-angular-animate.git#1.4.3\r\n"
+    ],
+    [
+      0.000360,
+      "bower \u001b[36mvalidate             \u001b[39m 1.4.3 against git://github.com/angular/bower-angular-animate.git#1.4.3\r\n"
+    ],
+    [
+      0.019683,
+      "bower \u001b[36mcached               \u001b[39m git://github.com/angular/bower-angular.git#1.4.3\r\n"
+    ],
+    [
+      0.000174,
+      "bower \u001b[36mvalidate             \u001b[39m 1.4.3 against git://github.com/angular/bower-angular.git#1.4.3\r\n"
+    ],
+    [
+      0.060602,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[33mPlease note that,\u001b[39m\r\n    \u001b[32mangular-animate#1.4.3, angular-sanitize#1.4.3, ionic#1.1.0\u001b[39m depends on \u001b[36mangular#1.4.3\u001b[39m which resolved to \u001b[32mangular#1.4.3\u001b[39m\r\n    \u001b[32mangular-animate#1.4.8, angular-cookies#1.4.8, angular-cookies#1.4.8, angular-messages#1.4.8, angular-resource#1.4.8, angular-sanitize#1.4.8\u001b[39m depends on \u001b[36mangular#1.4.8\u001b[39m which resolved to \u001b[32mangular#1.4.8\u001b[39m\r\n    \u001b[32mangular-ui-router#0.2.15, angular-ui-router#0.2.13\u001b[39m depends on \u001b[36mangular#\u003e= 1.0.8\u001b[39m which resolved to \u001b[32mangular#1.4.8\u001b[39m\r\n    \u001b[32mngCordova#0.1.23-alpha\u001b[39m depends on \u001b[36mangular#\u003e= 1.2.23\u001b[39m which resolved to \u001b[32mangular#1.4.8\u001b[39m\r\n    \u001b[32mangular-translate#2.8.1\u001b[39m depends on \u001b[36mangular#\u003e=1.2.26 \u003c=1.5\u001b[39m which resolved to \u001b[32mangular#1.4.8\u001b[39m\r\nResort to using \u001b[36mangular#^1.4.0\u001b[39m which resolved to \u001b[32mangular#1.4.3\u001b[39m\r\nCode incompatibilities may occur.\r\n"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.608018,
+      "\r\nlodash#3.10.1 bower_components/lodash\r\n\r\nangular-ui-router#0.2.13 bower_components/angular-ui-router\r\n└── angular#1.4.3\r\n\r\nangular-sanitize#1.4.3 bower_components/angular-sanitize\r\n└── angular#1.4.3\r\n\r\nngCordova#0.1.23-alpha bower_components/ngCordova\r\n└── angular#1.4.3\r\n\r\nangular-translate#2.8.1 bower_components/angular-translate\r\n└── angular#1.4.3\r\n\r\nionic#1.1.0 bower_components/ionic\r\n├── angular#1.4.3\r\n├── angular-animate#1.4.3\r\n├── angular-sanitize#1.4.3\r\n└── angular-ui-router#0.2.13\r\n\r\nangular-animate#1.4.3 ../../.cache/bower/packages/1e5d36753a7672512aa68fc8cdf5a6ce/1.4.3\r\n└── angular#1.4.3\r\n\r\nangular-translate-loader-static-files#2.8.1 bower_components/angular-translate-loader-static-files\r\n└── angular-translate#2.8.1\r\n\r\nangular-translate-storage-cookie#2.8.1 bower_components/angular-translate-storage-cookie\r\n├── angular-cookies#1.4.8\r\n└── angular-translate#2.8.1\r\n\r\nangular-messages#1.4.8 bower_components/angular-messages\r\n└\ufffd\ufffd"
+    ],
+    [
+      0.000030,
+      "\ufffd─ angular#1.4.3\r\n\r\nangular-translate-storage-local#2.8.1 bower_components/angular-translate-storage-local\r\n├── angular-translate#2.8.1\r\n└── angular-translate-storage-cookie#2.8.1\r\n\r\nangular-resource#1.4.8 bower_components/angular-resource\r\n└── angular#1.4.3\r\n\r\nangular-cookies#1.4.8 bower_components/angular-cookies\r\n└── angular#1.4.3\r\n\r\nangular#1.4.3 ../../.cache/bower/packages/ef2188def21eb1bbd1f1792311942a53/1.4.3\r\n"
+    ],
+    [
+      0.091096,
+      "\u001b[?25h"
+    ],
+    [
+      0.000145,
+      "\u001b[2K"
+    ],
+    [
+      0.092158,
+      "bash-3.2$ "
+    ],
+    [
+      2.519161,
+      "g"
+    ],
+    [
+      0.359865,
+      "u"
+    ],
+    [
+      0.240012,
+      "l"
+    ],
+    [
+      0.087668,
+      "p"
+    ],
+    [
+      1.464143,
+      "\r\n"
+    ],
+    [
+      0.917204,
+      "\u001b[1m\u001b[31m\r\n                         ___________\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                              |\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                         _   _|_   _\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                        (_)-/ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m \\-(_)\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n _                         /\\___/\\                         _\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n(_)_______________________( ( \u001b[39m\u001b[22m\u001b[1m\u001b[37m•\u001b[39m\u001b[22m\u001b[1m\u001b[31m ) )_______________________(_)\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                           \\_____/\r\n\u001b[39m\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.003943,
+      "[\u001b[90m14:50:59\u001b[39m] \u001b[37mFlight \"Avionic\" is ready for takeoff.\u001b[39m\r\n"
+    ],
+    [
+      3.028252,
+      "[\u001b[90m14:51:02\u001b[39m] Using gulpfile \u001b[35m~/Desktop/avionic/gulpfile.js\u001b[39m\r\n"
+    ],
+    [
+      0.002732,
+      "[\u001b[90m14:51:02\u001b[39m] Starting '\u001b[36mdefault\u001b[39m'...\r\n"
+    ],
+    [
+      0.000574,
+      "\r\n\u001b[1m\u001b[31m\r\n                             .---. \u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                            /_ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m _\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                            ( '_' )\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                             \\_-_/\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                       \u003e\u003e\u003e___  ~  ___\u003c\u003c\u003c\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000371,
+      "[\u001b[90m14:51:02\u001b[39m] \u001b[37m\r\nCabin crew, doors on automatic, cross-check \u0026 report. Thank you.\r\n\u001b[39m\r\n"
+    ],
+    [
+      0.000866,
+      "\u001b[1m\u001b[33m\r\n                             .-- \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            / /\"\\ \\\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            )/\u001b[39m\u001b[22m\u001b[1m\u001b[36m• •\u001b[39m\u001b[22m\u001b[1m\u001b[33m\\(\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                           ( \u001b[39m\u001b[22m\u001b[1m\u001b[37m( - )\u001b[39m\u001b[22m\u001b[1m\u001b[33m )\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            )\u001b[39m\u001b[22m\u001b[1m\u001b[31m_\u001b[39m\u001b[22m\u001b[1m\u001b[37m) (\u001b[39m\u001b[22m\u001b[1m\u001b[31m_\u001b[39m\u001b[22m\u001b[1m\u001b[33m(\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                           /'\u001b[39m\u001b[22m\u001b[1m\u001b[31m\\\u001b[39m\u001b[22m\u001b[1m\u001b[31m   /\u001b[39m\u001b[22m\u001b[1m\u001b[37m'\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                          /,\u001b[39m\u001b[22m\u001b[1m\u001b[31m(_\\_/_)\u001b[39m\u001b[22m\u001b[1m\u001b[37m,\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                          \\\\ \u001b[39m\u001b[22m\u001b[1m\u001b[31m\\ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m /\u001b[39m\u001b[22m\u001b[1m\u001b[37m //\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000218,
+      "[\u001b[90m14:51:02\u001b[39m] \u001b[37m\r\nIn a few moments, we will be passing around the cabin to\r\noffer you hot or cold drinks. Please, sit back, relax, and\r\nenjoy the flight.\r\n\u001b[39m\r\n"
+    ],
+    [
+      0.000209,
+      "\r\n\u001b[1m\u001b[31m\r\n                             .---. \u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                            /_ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m _\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                            ( '_' )\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                             \\_-_/\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                       \u003e\u003e\u003e___  ~  ___\u003c\u003c\u003c\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000138,
+      "[\u001b[90m14:51:02\u001b[39m] \u001b[37m\r\nStarting initializing the Gulp sequence, local time is:\r\n\u001b[39m\r\n"
+    ],
+    [
+      0.001539,
+      "[\u001b[90m14:51:02\u001b[39m] Starting '\u001b[36mclean\u001b[39m'...\r\n"
+    ],
+    [
+      0.011109,
+      "[\u001b[90m14:51:02\u001b[39m] Finished '\u001b[36mclean\u001b[39m' after \u001b[35m9.58 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000320,
+      "[\u001b[90m14:51:02\u001b[39m] Starting '\u001b[36miconfont\u001b[39m'...\r\n"
+    ],
+    [
+      0.544555,
+      "[\u001b[90m14:51:03\u001b[39m] "
+    ],
+    [
+      0.000054,
+      "gulp-svgicons2svgfont: Font created\r\n"
+    ],
+    [
+      0.135679,
+      "[\u001b[90m14:51:03\u001b[39m] Finished '\u001b[36miconfont\u001b[39m' after \u001b[35m680 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000276,
+      "[\u001b[90m14:51:03\u001b[39m] Starting '\u001b[36mlicenses\u001b[39m'...\r\n"
+    ],
+    [
+      0.006535,
+      "[\u001b[90m14:51:03\u001b[39m] Starting '\u001b[36mfonts\u001b[39m'...\r\n"
+    ],
+    [
+      0.003158,
+      "[\u001b[90m14:51:03\u001b[39m] Starting '\u001b[36mtemplates\u001b[39m'...\r\n"
+    ],
+    [
+      0.001555,
+      "[\u001b[90m14:51:03\u001b[39m] Starting '\u001b[36mstyles\u001b[39m'...\r\n"
+    ],
+    [
+      0.752845,
+      "[\u001b[90m14:51:04\u001b[39m] Starting '\u001b[36mfavicon\u001b[39m'...\r\n"
+    ],
+    [
+      0.002642,
+      "[\u001b[90m14:51:04\u001b[39m] Starting '\u001b[36mimages\u001b[39m'...\r\n"
+    ],
+    [
+      0.005740,
+      "[\u001b[90m14:51:04\u001b[39m] Starting '\u001b[36mvendor\u001b[39m'...\r\n"
+    ],
+    [
+      0.126661,
+      "[\u001b[90m14:51:04\u001b[39m] Starting '\u001b[36mlanguages\u001b[39m'...\r\n"
+    ],
+    [
+      0.133911,
+      "[\u001b[90m14:51:04\u001b[39m] Finished '\u001b[36mfavicon\u001b[39m' after \u001b[35m264 ms\u001b[39m\r\n"
+    ],
+    [
+      0.451228,
+      "[\u001b[90m14:51:04\u001b[39m] Finished '\u001b[36mlanguages\u001b[39m' after \u001b[35m585 ms\u001b[39m\r\n"
+    ],
+    [
+      0.274362,
+      "[\u001b[90m14:51:05\u001b[39m] Finished '\u001b[36mlicenses\u001b[39m' after \u001b[35m1.76 s\u001b[39m\r\n"
+    ],
+    [
+      0.890983,
+      "[\u001b[90m14:51:06\u001b[39m] Finished '\u001b[36mtemplates\u001b[39m' after \u001b[35m2.64 s\u001b[39m\r\n"
+    ],
+    [
+      0.021820,
+      "[\u001b[90m14:51:06\u001b[39m] Finished '\u001b[36mfonts\u001b[39m' after \u001b[35m2.66 s\u001b[39m\r\n"
+    ],
+    [
+      0.081134,
+      "[\u001b[90m14:51:06\u001b[39m] Finished '\u001b[36mvendor\u001b[39m' after \u001b[35m1.98 s\u001b[39m\r\n"
+    ],
+    [
+      0.061857,
+      "[\u001b[90m14:51:06\u001b[39m] "
+    ],
+    [
+      0.000053,
+      "gulp-imagemin: Minified 12 images\u001b[90m (saved 269.61 kB - 66.2%)\u001b[39m\r\n"
+    ],
+    [
+      0.002480,
+      "[\u001b[90m14:51:06\u001b[39m] Finished '\u001b[36mimages\u001b[39m' after \u001b[35m2.05 s\u001b[39m\r\n"
+    ],
+    [
+      2.310351,
+      "[\u001b[90m14:51:08\u001b[39m] Finished '\u001b[36mstyles\u001b[39m' after \u001b[35m5.12 s\u001b[39m\r\n"
+    ],
+    [
+      0.000257,
+      "[\u001b[90m14:51:08\u001b[39m] Starting '\u001b[36mjshint\u001b[39m'...\r\n"
+    ],
+    [
+      0.042735,
+      "[\u001b[90m14:51:08\u001b[39m] Starting '\u001b[36mscripts\u001b[39m'...\r\n"
+    ],
+    [
+      0.660621,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mjshint\u001b[39m' after \u001b[35m703 ms\u001b[39m\r\n"
+    ],
+    [
+      0.019439,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mscripts\u001b[39m' after \u001b[35m676 ms\u001b[39m\r\n[\u001b[90m14:51:09\u001b[39m] Starting '\u001b[36mindex\u001b[39m'...\r\n"
+    ],
+    [
+      0.101050,
+      "[\u001b[90m14:51:09\u001b[39m] "
+    ],
+    [
+      0.000360,
+      "\u001b[35mgulp-inject\u001b[39m \u001b[36m1\u001b[39m files into \u001b[35mindex.html\u001b[39m.\r\n"
+    ],
+    [
+      0.255476,
+      "[\u001b[90m14:51:09\u001b[39m] "
+    ],
+    [
+      0.000010,
+      "\u001b[35mgulp-inject\u001b[39m \u001b[36m1\u001b[39m files into \u001b[35mindex.html\u001b[39m.\r\n"
+    ],
+    [
+      0.001119,
+      "[\u001b[90m14:51:09\u001b[39m] "
+    ],
+    [
+      0.000053,
+      "\u001b[35mgulp-inject\u001b[39m \u001b[36m22\u001b[39m files into \u001b[35mindex.html\u001b[39m.\r\n"
+    ],
+    [
+      0.001624,
+      "[\u001b[90m14:51:09\u001b[39m] Size \u001b[36mindex.html\u001b[39m : \u001b[35m970 B\u001b[39m\r\n"
+    ],
+    [
+      0.001924,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mindex\u001b[39m' after \u001b[35m365 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000197,
+      "[\u001b[90m14:51:09\u001b[39m] Starting '\u001b[36mwatchers\u001b[39m'...\r\n"
+    ],
+    [
+      0.201780,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mwatchers\u001b[39m' after \u001b[35m201 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000241,
+      "[\u001b[90m14:51:09\u001b[39m] Starting '\u001b[36mserve\u001b[39m'...\r\n"
+    ],
+    [
+      0.011101,
+      "\r\n\u001b[1m\u001b[31m\r\n                             .---. \u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                            /_ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m _\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                            ( '_' )\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                             \\_-_/\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                       \u003e\u003e\u003e___  ~  ___\u003c\u003c\u003c\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000263,
+      "[\u001b[90m14:51:09\u001b[39m] \u001b[1m\u001b[37mAvionic is cleared to takeoff!\r\n\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000409,
+      "\u001b[1m\u001b[33m\r\n                             .-- \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            / /\"\\ \\\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            )/\u001b[39m\u001b[22m\u001b[1m\u001b[36m• •\u001b[39m\u001b[22m\u001b[1m\u001b[33m\\(\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                           ( \u001b[39m\u001b[22m\u001b[1m\u001b[37m( - )\u001b[39m\u001b[22m\u001b[1m\u001b[33m )\u001b[39m\u001b[22m\u001b[1m\u001b[33m\r\n                            )\u001b[39m\u001b[22m\u001b[1m\u001b[31m_\u001b[39m\u001b[22m\u001b[1m\u001b[37m) (\u001b[39m\u001b[22m\u001b[1m\u001b[31m_\u001b[39m\u001b[22m\u001b[1m\u001b[33m(\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                           /'\u001b[39m\u001b[22m\u001b[1m\u001b[31m\\\u001b[39m\u001b[22m\u001b[1m\u001b[31m   /\u001b[39m\u001b[22m\u001b[1m\u001b[37m'\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                          /,\u001b[39m\u001b[22m\u001b[1m\u001b[31m(_\\_/_)\u001b[39m\u001b[22m\u001b[1m\u001b[37m,\\\u001b[39m\u001b[22m\u001b[1m\u001b[37m\r\n                          \\\\ \u001b[39m\u001b[22m\u001b[1m\u001b[31m\\ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m /\u001b[39m\u001b[22m\u001b[1m\u001b[37m //\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000199,
+      "[\u001b[90m14:51:09\u001b[39m] \u001b[1m\u001b[37m\r\nAll right, it’s time for final cabin check. For additional safety\r\ninformation, check out our website http://avionic.io.\r\nEnjoy your flight, and as always thank you for flying Avionic.\r\n\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[1m\u001b[31m\r\n                         ___________\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                              |\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                         _   _|_   _\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                        (_)-/ \u001b[39m\u001b[22m\u001b[1m\u001b[36m✈\u001b[39m\u001b[22m\u001b[1m\u001b[31m \\-(_)\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n _                         /\\___/\\                         _\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n(_)_______________________( ( \u001b[39m\u001b[22m\u001b[1m\u001b[37m•\u001b[39m\u001b[22m\u001b[1m\u001b[31m ) )_______________________(_)\u001b[39m\u001b[22m\u001b[1m\u001b[31m\r\n                           \\_____/\r\n\u001b[39m\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000500,
+      "[\u001b[90m14:51:09\u001b[39m] \u001b[1m\u001b[37mGoodbye.\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000349,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mserve\u001b[39m' after \u001b[35m13 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000232,
+      "[\u001b[90m14:51:09\u001b[39m] Starting '\u001b[36mnoop\u001b[39m'...\r\n"
+    ],
+    [
+      0.000247,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mnoop\u001b[39m' after \u001b[35m7.84 μs\u001b[39m\r\n"
+    ],
+    [
+      0.000277,
+      "[\u001b[90m14:51:09\u001b[39m] Starting '\u001b[36mnoop\u001b[39m'...\r\n"
+    ],
+    [
+      0.000254,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mnoop\u001b[39m' after \u001b[35m4.68 μs\u001b[39m\r\n"
+    ],
+    [
+      0.000359,
+      "[\u001b[90m14:51:09\u001b[39m] Finished '\u001b[36mdefault\u001b[39m' after \u001b[35m7.12 s\u001b[39m\r\n"
+    ],
+    [
+      5.281397,
+      "^C"
+    ],
+    [
+      0.016638,
+      "\r\n"
+    ],
+    [
+      0.004360,
+      "bash-3.2$ "
+    ],
+    [
+      1.186859,
+      "e"
+    ],
+    [
+      0.271645,
+      "x"
+    ],
+    [
+      0.272291,
+      "i"
+    ],
+    [
+      0.247881,
+      "t"
+    ],
+    [
+      0.424746,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "exit\r\n"
+    ]
+  ]
+}

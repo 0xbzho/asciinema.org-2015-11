@@ -1,0 +1,9490 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 130.719880,
+  "command": "bash -c ./ubuntu-install-reaver.sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.004555,
+      "\u001b[H\u001b[2J/home/cybercortex$ "
+    ],
+    [
+      1.005791,
+      "\u001b"
+    ],
+    [
+      0.181046,
+      "["
+    ],
+    [
+      0.091553,
+      "9"
+    ],
+    [
+      0.090735,
+      "6"
+    ],
+    [
+      0.092792,
+      "m"
+    ],
+    [
+      0.091346,
+      "s"
+    ],
+    [
+      0.090530,
+      "u"
+    ],
+    [
+      0.090406,
+      "d"
+    ],
+    [
+      0.091517,
+      "o"
+    ],
+    [
+      0.090440,
+      " "
+    ],
+    [
+      0.091137,
+      "a"
+    ],
+    [
+      0.182303,
+      "p"
+    ],
+    [
+      0.090556,
+      "t"
+    ],
+    [
+      0.091350,
+      "-"
+    ],
+    [
+      0.091392,
+      "g"
+    ],
+    [
+      0.090768,
+      "e"
+    ],
+    [
+      0.091148,
+      "t"
+    ],
+    [
+      0.091061,
+      " "
+    ],
+    [
+      0.090312,
+      "-"
+    ],
+    [
+      0.091653,
+      "y"
+    ],
+    [
+      0.091249,
+      " "
+    ],
+    [
+      0.181156,
+      "i"
+    ],
+    [
+      0.091135,
+      "n"
+    ],
+    [
+      0.091292,
+      "s"
+    ],
+    [
+      0.091189,
+      "t"
+    ],
+    [
+      0.090105,
+      "a"
+    ],
+    [
+      0.090222,
+      "l"
+    ],
+    [
+      0.090241,
+      "l"
+    ],
+    [
+      0.090250,
+      " "
+    ],
+    [
+      0.090498,
+      "b"
+    ],
+    [
+      0.180051,
+      "u"
+    ],
+    [
+      0.090128,
+      "i"
+    ],
+    [
+      0.091506,
+      "l"
+    ],
+    [
+      0.090282,
+      "d"
+    ],
+    [
+      0.091693,
+      "-"
+    ],
+    [
+      0.091371,
+      "e"
+    ],
+    [
+      0.091101,
+      "s"
+    ],
+    [
+      0.090491,
+      "s"
+    ],
+    [
+      0.090303,
+      "e"
+    ],
+    [
+      0.090263,
+      "n"
+    ],
+    [
+      0.180637,
+      "t"
+    ],
+    [
+      0.091136,
+      "i"
+    ],
+    [
+      0.091227,
+      "a"
+    ],
+    [
+      0.091284,
+      "l"
+    ],
+    [
+      0.091541,
+      " "
+    ],
+    [
+      0.091178,
+      "l"
+    ],
+    [
+      0.090278,
+      "i"
+    ],
+    [
+      0.091612,
+      "b"
+    ],
+    [
+      0.090279,
+      "p"
+    ],
+    [
+      0.091165,
+      "c"
+    ],
+    [
+      0.183085,
+      "a"
+    ],
+    [
+      0.091221,
+      "p"
+    ],
+    [
+      0.090312,
+      "-"
+    ],
+    [
+      0.090554,
+      "d"
+    ],
+    [
+      0.090955,
+      "e"
+    ],
+    [
+      0.091263,
+      "v"
+    ],
+    [
+      0.091196,
+      " "
+    ],
+    [
+      0.090265,
+      "s"
+    ],
+    [
+      0.090254,
+      "q"
+    ],
+    [
+      0.091768,
+      "l"
+    ],
+    [
+      0.181493,
+      "i"
+    ],
+    [
+      0.090777,
+      "t"
+    ],
+    [
+      0.091131,
+      "e"
+    ],
+    [
+      0.091614,
+      "3"
+    ],
+    [
+      0.090607,
+      " "
+    ],
+    [
+      0.091126,
+      "l"
+    ],
+    [
+      0.090353,
+      "i"
+    ],
+    [
+      0.090335,
+      "b"
+    ],
+    [
+      0.090271,
+      "s"
+    ],
+    [
+      0.090261,
+      "q"
+    ],
+    [
+      0.181371,
+      "l"
+    ],
+    [
+      0.090294,
+      "i"
+    ],
+    [
+      0.090292,
+      "t"
+    ],
+    [
+      0.091330,
+      "e"
+    ],
+    [
+      0.090282,
+      "3"
+    ],
+    [
+      0.090270,
+      "-"
+    ],
+    [
+      0.090274,
+      "d"
+    ],
+    [
+      0.090280,
+      "e"
+    ],
+    [
+      0.090331,
+      "v"
+    ],
+    [
+      0.091837,
+      " "
+    ],
+    [
+      0.181549,
+      "l"
+    ],
+    [
+      0.090190,
+      "i"
+    ],
+    [
+      0.090091,
+      "b"
+    ],
+    [
+      0.091235,
+      "s"
+    ],
+    [
+      0.090330,
+      "s"
+    ],
+    [
+      0.090291,
+      "l"
+    ],
+    [
+      0.090379,
+      "-"
+    ],
+    [
+      0.091342,
+      "d"
+    ],
+    [
+      0.090271,
+      "e"
+    ],
+    [
+      0.181701,
+      "v"
+    ],
+    [
+      0.090432,
+      " "
+    ],
+    [
+      0.090284,
+      "u"
+    ],
+    [
+      0.091011,
+      "n"
+    ],
+    [
+      0.090204,
+      "z"
+    ],
+    [
+      0.090845,
+      "i"
+    ],
+    [
+      0.091173,
+      "p"
+    ],
+    [
+      0.090315,
+      "\u001b"
+    ],
+    [
+      0.091176,
+      "["
+    ],
+    [
+      0.091693,
+      "0"
+    ],
+    [
+      0.181309,
+      "m"
+    ],
+    [
+      0.094540,
+      "\r\n"
+    ],
+    [
+      1.047914,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002946,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000244,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.006027,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000233,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.028832,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000205,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.113449,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000079,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000610,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000469,
+      "\r\n"
+    ],
+    [
+      0.131409,
+      "The following extra packages will be installed:"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "  dpkg-dev g++ g++-4.8 libalgorithm-diff-perl libalgorithm-diff-xs-perl"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "  libalgorithm-merge-perl libdpkg-perl libfile-fcntllock-perl libpcap0.8-dev"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "  libssl-doc libstdc++-4.8-dev zlib1g-dev"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.001442,
+      "Suggested packages:"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "  debian-keyring g++-multilib g++-4.8-multilib gcc-4.8-doc libstdc++6-4.8-dbg"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "  sqlite3-doc libstdc++-4.8-doc zip"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.002479,
+      "The following NEW packages will be installed:"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "  build-essential dpkg-dev g++ g++-4.8 libalgorithm-diff-perl"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "  libalgorithm-diff-xs-perl libalgorithm-merge-perl libdpkg-perl"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "  libfile-fcntllock-perl libpcap-dev libpcap0.8-dev libsqlite3-dev libssl-dev"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "  libssl-doc libstdc++-4.8-dev sqlite3 unzip zlib1g-dev"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.007611,
+      "0 upgraded, 18 newly installed, 0 to remove and 0 not upgraded."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.013324,
+      "Need to get 20.1 MB of archives."
+    ],
+    [
+      0.000257,
+      "\r\n"
+    ],
+    [
+      0.000245,
+      "After this operation, 51.6 MB of additional disk space will be used."
+    ],
+    [
+      0.000810,
+      "\r\n"
+    ],
+    [
+      0.001669,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.501455,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.065609,
+      "\r                        \rGet:1 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libstdc++-4.8-dev amd64 4.8.4-2ubuntu1~14.04 [1,052 kB]"
+    ],
+    [
+      0.000403,
+      "\r\n"
+    ],
+    [
+      0.000361,
+      "\r                        \r0% [1 libstdc++-4.8-dev 0 B/1,052 kB 0%]"
+    ],
+    [
+      0.502308,
+      "\r                                        \r0% [1 libstdc++-4.8-dev 57.3 kB/1,052 kB 5%]"
+    ],
+    [
+      0.501107,
+      "\r1% [1 libstdc++-4.8-dev 138 kB/1,052 kB 13%]"
+    ],
+    [
+      0.502816,
+      "\r1% [1 libstdc++-4.8-dev 275 kB/1,052 kB 26%]"
+    ],
+    [
+      0.502040,
+      "\r3% [1 libstdc++-4.8-dev 517 kB/1,052 kB 49%]"
+    ],
+    [
+      0.501679,
+      "\r4% [1 libstdc++-4.8-dev 890 kB/1,052 kB 85%]"
+    ],
+    [
+      0.239948,
+      "\r                                            \r5% [Working]"
+    ],
+    [
+      0.250909,
+      "\r            \rGet:2 http://archive.ubuntu.com/ubuntu/ trusty-updates/main g++-4.8 amd64 4.8.4-2ubuntu1~14.04 [15.0 MB]"
+    ],
+    [
+      0.002100,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "\r            \r5% [2 g++-4.8 0 B/15.0 MB 0%]"
+    ],
+    [
+      0.501323,
+      "\r                             \r9% [2 g++-4.8 661 kB/15.0 MB 4%]"
+    ],
+    [
+      0.501343,
+      "\r                                \r14% [2 g++-4.8 1,698 kB/15.0 MB 11%]"
+    ],
+    [
+      0.502348,
+      "\r21% [2 g++-4.8 3,080 kB/15.0 MB 21%]"
+    ],
+    [
+      0.501068,
+      "\r30% [2 g++-4.8 4,949 kB/15.0 MB 33%]"
+    ],
+    [
+      0.501945,
+      "\r                                    \r38% [2 g++-4.8 6,641 kB/15.0 MB 44%]                              1,266 kB/s 9s"
+    ],
+    [
+      0.502442,
+      "\r47% [2 g++-4.8 8,376 kB/15.0 MB 56%]                              1,266 kB/s 8s"
+    ],
+    [
+      0.500959,
+      "\r56% [2 g++-4.8 10.2 MB/15.0 MB 68%]                               1,266 kB/s 6s"
+    ],
+    [
+      0.502121,
+      "\r66% [2 g++-4.8 12.2 MB/15.0 MB 81%]                               1,266 kB/s 5s"
+    ],
+    [
+      0.500776,
+      "\r76% [2 g++-4.8 14.1 MB/15.0 MB 95%]                               1,266 kB/s 3s"
+    ],
+    [
+      0.216100,
+      "\r80% [Working]                                                     1,266 kB/s 3s"
+    ],
+    [
+      0.249915,
+      "\r                                                                               \rGet:3 http://archive.ubuntu.com/ubuntu/ trusty/main g++ amd64 4:4.8.2-1ubuntu6 [1,490 B]"
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "\r80% [3 g++ 0 B/1,490 B 0%]                                        1,266 kB/s 3s"
+    ],
+    [
+      0.000537,
+      "\r80% [Working]                                                     1,266 kB/s 3s"
+    ],
+    [
+      0.248957,
+      "\r                                                                               \rGet:4 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libdpkg-perl all 1.17.5ubuntu5.4 [179 kB]"
+    ],
+    [
+      0.001330,
+      "\r\n"
+    ],
+    [
+      0.000779,
+      "\r80% [4 libdpkg-perl 0 B/179 kB 0%]                                1,266 kB/s 3s"
+    ],
+    [
+      0.036857,
+      "\r81% [Working]                                                     1,266 kB/s 3s"
+    ],
+    [
+      0.254129,
+      "\r                                                                               \rGet:5 http://archive.ubuntu.com/ubuntu/ trusty-updates/main dpkg-dev all 1.17.5ubuntu5.4 [726 kB]"
+    ],
+    [
+      0.000417,
+      "\r\n"
+    ],
+    [
+      0.000480,
+      "\r81% [5 dpkg-dev 0 B/726 kB 0%]                                    1,266 kB/s 3s"
+    ],
+    [
+      0.501269,
+      "\r83% [5 dpkg-dev 412 kB/726 kB 57%]                                1,266 kB/s 2s"
+    ],
+    [
+      0.501436,
+      "\r83% [5 dpkg-dev 422 kB/726 kB 58%]                                1,266 kB/s 2s"
+    ],
+    [
+      0.503773,
+      "\r83% [5 dpkg-dev 427 kB/726 kB 59%]                                1,266 kB/s 2s"
+    ],
+    [
+      0.501254,
+      "\r83% [5 dpkg-dev 430 kB/726 kB 59%]                                1,266 kB/s 2s"
+    ],
+    [
+      0.503529,
+      "\r83% [5 dpkg-dev 430 kB/726 kB 59%]                                1,266 kB/s 2s"
+    ],
+    [
+      0.500989,
+      "\r83% [5 dpkg-dev 435 kB/726 kB 60%]                                1,482 kB/s 2s"
+    ],
+    [
+      0.502035,
+      "\r83% [5 dpkg-dev 449 kB/726 kB 62%]                                1,482 kB/s 2s"
+    ],
+    [
+      0.501337,
+      "\r83% [5 dpkg-dev 488 kB/726 kB 67%]                                1,482 kB/s 2s"
+    ],
+    [
+      0.501311,
+      "\r83% [5 dpkg-dev 551 kB/726 kB 76%]                                1,482 kB/s 2s"
+    ],
+    [
+      0.501154,
+      "\r84% [5 dpkg-dev 668 kB/726 kB 92%]                                1,482 kB/s 2s"
+    ],
+    [
+      0.248252,
+      "\r84% [Working]                                                     1,482 kB/s 2s"
+    ],
+    [
+      0.300638,
+      "\r                                                                               \rGet:6 http://archive.ubuntu.com/ubuntu/ trusty/main build-essential amd64 11.6ubuntu6 [4,838 B]"
+    ],
+    [
+      0.001077,
+      "\r\n"
+    ],
+    [
+      0.001580,
+      "\r84% [6 build-essential 0 B/4,838 B 0%]                            1,482 kB/s 2s"
+    ],
+    [
+      0.001307,
+      "\r84% [Working]                                                     1,482 kB/s 2s"
+    ],
+    [
+      0.151579,
+      "\r                                                                               \rGet:7 http://archive.ubuntu.com/ubuntu/ trusty/main libalgorithm-diff-perl all 1.19.02-3 [50.0 kB]"
+    ],
+    [
+      0.000474,
+      "\r\n"
+    ],
+    [
+      0.000694,
+      "\r84% [7 libalgorithm-diff-perl 0 B/50.0 kB 0%]                     1,482 kB/s 2s"
+    ],
+    [
+      0.307836,
+      "\r85% [Working]                                                     1,482 kB/s 2s"
+    ],
+    [
+      0.150227,
+      "\r                                                                               \rGet:8 http://archive.ubuntu.com/ubuntu/ trusty/main libalgorithm-diff-xs-perl amd64 0.04-2build4 [12.6 kB]"
+    ],
+    [
+      0.000495,
+      "\r\n"
+    ],
+    [
+      0.000394,
+      "\r85% [8 libalgorithm-diff-xs-perl 0 B/12.6 kB 0%]                  1,482 kB/s 2s"
+    ],
+    [
+      0.003394,
+      "\r85% [Working]                                                     1,482 kB/s 2s"
+    ],
+    [
+      0.151037,
+      "\r                                                                               \rGet:9 http://archive.ubuntu.com/ubuntu/ trusty/main libalgorithm-merge-perl all 0.08-2 [12.7 kB]"
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.001061,
+      "\r85% [9 libalgorithm-merge-perl 0 B/12.7 kB 0%]                    1,482 kB/s 2s"
+    ],
+    [
+      0.002652,
+      "\r85% [Working]                                                     1,482 kB/s 2s"
+    ],
+    [
+      0.150034,
+      "\r                                                                               \rGet:10 http://archive.ubuntu.com/ubuntu/ trusty/main libfile-fcntllock-perl amd64 0.14-2build1 [15.9 kB]"
+    ],
+    [
+      0.001418,
+      "\r\n"
+    ],
+    [
+      0.001117,
+      "\r85% [10 libfile-fcntllock-perl 0 B/15.9 kB 0%]                    1,482 kB/s 2s"
+    ],
+    [
+      0.003445,
+      "\r85% [Working]                                                     1,482 kB/s 2s"
+    ],
+    [
+      0.151971,
+      "\r                                                                               \rGet:11 http://archive.ubuntu.com/ubuntu/ trusty/main libpcap0.8-dev amd64 1.5.3-2 [205 kB]"
+    ],
+    [
+      0.002261,
+      "\r\n"
+    ],
+    [
+      0.003979,
+      "\r85% [11 libpcap0.8-dev 0 B/205 kB 0%]                             1,482 kB/s 2s"
+    ],
+    [
+      0.502638,
+      "\r85% [11 libpcap0.8-dev 76.1 kB/205 kB 37%]                        1,482 kB/s 2s"
+    ],
+    [
+      0.502470,
+      "\r85% [11 libpcap0.8-dev 132 kB/205 kB 65%]                         1,482 kB/s 1s"
+    ],
+    [
+      0.494112,
+      "\r86% [Working]                                                     1,482 kB/s 1s"
+    ],
+    [
+      0.152037,
+      "\r                                                                               \rGet:12 http://archive.ubuntu.com/ubuntu/ trusty/main libpcap-dev all 1.5.3-2 [3,390 B]"
+    ],
+    [
+      0.000640,
+      "\r\n"
+    ],
+    [
+      0.000688,
+      "\r86% [12 libpcap-dev 0 B/3,390 B 0%]                               1,482 kB/s 1s"
+    ],
+    [
+      0.002751,
+      "\r86% [Working]                                                     1,482 kB/s 1s"
+    ],
+    [
+      0.149990,
+      "\r                                                                               \rGet:13 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libsqlite3-dev amd64 3.8.2-1ubuntu2.1 [439 kB]"
+    ],
+    [
+      0.000450,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "\r86% [13 libsqlite3-dev 0 B/439 kB 0%]                             1,482 kB/s 1s"
+    ],
+    [
+      0.501069,
+      "\r86% [13 libsqlite3-dev 89.0 kB/439 kB 20%]                        1,482 kB/s 1s"
+    ],
+    [
+      0.501216,
+      "\r87% [13 libsqlite3-dev 152 kB/439 kB 35%]                          116 kB/s 23s"
+    ],
+    [
+      0.502508,
+      "\r87% [13 libsqlite3-dev 224 kB/439 kB 51%]                          116 kB/s 22s"
+    ],
+    [
+      0.502527,
+      "\r87% [13 libsqlite3-dev 296 kB/439 kB 68%]                          116 kB/s 21s"
+    ],
+    [
+      0.501349,
+      "\r88% [13 libsqlite3-dev 358 kB/439 kB 82%]                          116 kB/s 21s"
+    ],
+    [
+      0.501673,
+      "\r88% [13 libsqlite3-dev 426 kB/439 kB 97%]                          116 kB/s 20s"
+    ],
+    [
+      0.147507,
+      "\r88% [Working]                                                      116 kB/s 20s"
+    ],
+    [
+      0.150185,
+      "\r                                                                               \rGet:14 http://archive.ubuntu.com/ubuntu/ trusty/main zlib1g-dev amd64 1:1.2.8.dfsg-1ubuntu1 [183 kB]"
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.000471,
+      "\r88% [14 zlib1g-dev 0 B/183 kB 0%]                                  116 kB/s 20s"
+    ],
+    [
+      0.502189,
+      "\r88% [14 zlib1g-dev 86.1 kB/183 kB 47%]                             116 kB/s 20s"
+    ],
+    [
+      0.502354,
+      "\r89% [14 zlib1g-dev 155 kB/183 kB 85%]                              116 kB/s 19s"
+    ],
+    [
+      0.207552,
+      "\r89% [Working]                                                      116 kB/s 19s"
+    ],
+    [
+      0.150570,
+      "\r                                                                               \rGet:15 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libssl-dev amd64 1.0.1f-1ubuntu2.15 [1,073 kB]"
+    ],
+    [
+      0.000960,
+      "\r\n"
+    ],
+    [
+      0.001158,
+      "\r89% [15 libssl-dev 0 B/1,073 kB 0%]                                116 kB/s 19s"
+    ],
+    [
+      0.502468,
+      "\r89% [15 libssl-dev 94.8 kB/1,073 kB 9%]                            116 kB/s 18s"
+    ],
+    [
+      0.500876,
+      "\r90% [15 libssl-dev 162 kB/1,073 kB 15%]                            116 kB/s 17s"
+    ],
+    [
+      0.500875,
+      "\r90% [15 libssl-dev 237 kB/1,073 kB 22%]                            116 kB/s 17s"
+    ],
+    [
+      0.500942,
+      "\r91% [15 libssl-dev 342 kB/1,073 kB 32%]                            116 kB/s 16s"
+    ],
+    [
+      0.500984,
+      "\r91% [15 libssl-dev 430 kB/1,073 kB 40%]                            146 kB/s 12s"
+    ],
+    [
+      0.501936,
+      "\r91% [15 libssl-dev 518 kB/1,073 kB 48%]                            146 kB/s 11s"
+    ],
+    [
+      0.501923,
+      "\r92% [15 libssl-dev 658 kB/1,073 kB 61%]                            146 kB/s 10s"
+    ],
+    [
+      0.502295,
+      "\r93% [15 libssl-dev 816 kB/1,073 kB 76%]                             146 kB/s 9s"
+    ],
+    [
+      0.501015,
+      "\r94% [15 libssl-dev 1,012 kB/1,073 kB 94%]                           146 kB/s 8s"
+    ],
+    [
+      0.185363,
+      "\r94% [Working]                                                       146 kB/s 7s"
+    ],
+    [
+      0.157834,
+      "\r                                                                               \rGet:16 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libssl-doc all 1.0.1f-1ubuntu2.15 [966 kB]"
+    ],
+    [
+      0.000462,
+      "\r\n"
+    ],
+    [
+      0.001096,
+      "\r94% [16 libssl-doc 0 B/966 kB 0%]                                   146 kB/s 7s"
+    ],
+    [
+      0.502242,
+      "\r96% [16 libssl-doc 340 kB/966 kB 35%]                               146 kB/s 5s"
+    ],
+    [
+      0.502808,
+      "\r98% [16 libssl-doc 664 kB/966 kB 69%]                               146 kB/s 3s"
+    ],
+    [
+      0.372253,
+      "\r99% [Working]                                                       146 kB/s 1s"
+    ],
+    [
+      0.153916,
+      "\r                                                                               \rGet:17 http://archive.ubuntu.com/ubuntu/ trusty-updates/main sqlite3 amd64 3.8.2-1ubuntu2.1 [28.8 kB]"
+    ],
+    [
+      0.000684,
+      "\r\n"
+    ],
+    [
+      0.000755,
+      "\r99% [17 sqlite3 0 B/28.8 kB 0%]                                     146 kB/s 1s"
+    ],
+    [
+      0.499619,
+      "\r99% [Working]                                                       146 kB/s 1s"
+    ],
+    [
+      0.149677,
+      "\r                                                                               \rGet:18 http://archive.ubuntu.com/ubuntu/ trusty-updates/main unzip amd64 6.0-9ubuntu1.5 [157 kB]"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "\r99% [18 unzip 0 B/157 kB 0%]                                        146 kB/s 1s"
+    ],
+    [
+      0.500832,
+      "\r100% [18 unzip 81.8 kB/157 kB 52%]                                  146 kB/s 0s"
+    ],
+    [
+      0.411060,
+      "\r100% [Working]                                                      146 kB/s 0s"
+    ],
+    [
+      0.000268,
+      "\r                                                                               \r"
+    ],
+    [
+      0.000323,
+      "Fetched 20.1 MB in 30s (665 kB/s)"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.236672,
+      "Selecting previously unselected package libstdc++-4.8-dev:amd64."
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "(Reading database ... \r"
+    ],
+    [
+      0.009770,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000230,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000190,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000104,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000098,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000790,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000119,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000176,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000073,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000099,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000058,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.000085,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.007094,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.010256,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.009511,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.008296,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.010053,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.012982,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.022433,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.032425,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000183,
+      "(Reading database ... "
+    ],
+    [
+      0.000190,
+      "86898 files and directories currently installed.)"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.003286,
+      "Preparing to unpack .../libstdc++-4.8-dev_4.8.4-2ubuntu1~14.04_amd64.deb ..."
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.004600,
+      "Unpacking libstdc++-4.8-dev:amd64 (4.8.4-2ubuntu1~14.04) ..."
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.342833,
+      "Selecting previously unselected package g++-4.8."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.005486,
+      "Preparing to unpack .../g++-4.8_4.8.4-2ubuntu1~14.04_amd64.deb ..."
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.001522,
+      "Unpacking g++-4.8 (4.8.4-2ubuntu1~14.04) ..."
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.720619,
+      "Selecting previously unselected package g++."
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.004704,
+      "Preparing to unpack .../g++_4%3a4.8.2-1ubuntu6_amd64.deb ..."
+    ],
+    [
+      0.000617,
+      "\r\n"
+    ],
+    [
+      0.001956,
+      "Unpacking g++ (4:4.8.2-1ubuntu6) ..."
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.019944,
+      "Selecting previously unselected package libdpkg-perl."
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.004282,
+      "Preparing to unpack .../libdpkg-perl_1.17.5ubuntu5.4_all.deb ..."
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.001755,
+      "Unpacking libdpkg-perl (1.17.5ubuntu5.4) ..."
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.065466,
+      "Selecting previously unselected package dpkg-dev."
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.005518,
+      "Preparing to unpack .../dpkg-dev_1.17.5ubuntu5.4_all.deb ..."
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.001997,
+      "Unpacking dpkg-dev (1.17.5ubuntu5.4) ..."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.143684,
+      "Selecting previously unselected package build-essential."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.005150,
+      "Preparing to unpack .../build-essential_11.6ubuntu6_amd64.deb ..."
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.001850,
+      "Unpacking build-essential (11.6ubuntu6) ..."
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.017762,
+      "Selecting previously unselected package libalgorithm-diff-perl."
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.004820,
+      "Preparing to unpack .../libalgorithm-diff-perl_1.19.02-3_all.deb ..."
+    ],
+    [
+      0.000383,
+      "\r\n"
+    ],
+    [
+      0.001243,
+      "Unpacking libalgorithm-diff-perl (1.19.02-3) ..."
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.019039,
+      "Selecting previously unselected package libalgorithm-diff-xs-perl."
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.006714,
+      "Preparing to unpack .../libalgorithm-diff-xs-perl_0.04-2build4_amd64.deb ..."
+    ],
+    [
+      0.000251,
+      "\r\n"
+    ],
+    [
+      0.002450,
+      "Unpacking libalgorithm-diff-xs-perl (0.04-2build4) ..."
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.018151,
+      "Selecting previously unselected package libalgorithm-merge-perl."
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.005427,
+      "Preparing to unpack .../libalgorithm-merge-perl_0.08-2_all.deb ..."
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.002612,
+      "Unpacking libalgorithm-merge-perl (0.08-2) ..."
+    ],
+    [
+      0.000286,
+      "\r\n"
+    ],
+    [
+      0.019040,
+      "Selecting previously unselected package libfile-fcntllock-perl."
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.005488,
+      "Preparing to unpack .../libfile-fcntllock-perl_0.14-2build1_amd64.deb ..."
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.001911,
+      "Unpacking libfile-fcntllock-perl (0.14-2build1) ..."
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.021004,
+      "Selecting previously unselected package libpcap0.8-dev."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.005227,
+      "Preparing to unpack .../libpcap0.8-dev_1.5.3-2_amd64.deb ..."
+    ],
+    [
+      0.000740,
+      "\r\n"
+    ],
+    [
+      0.003545,
+      "Unpacking libpcap0.8-dev (1.5.3-2) ..."
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.058844,
+      "Selecting previously unselected package libpcap-dev."
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.005301,
+      "Preparing to unpack .../libpcap-dev_1.5.3-2_all.deb ..."
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.002160,
+      "Unpacking libpcap-dev (1.5.3-2) ..."
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.016145,
+      "Selecting previously unselected package libsqlite3-dev:amd64."
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.004835,
+      "Preparing to unpack .../libsqlite3-dev_3.8.2-1ubuntu2.1_amd64.deb ..."
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.001715,
+      "Unpacking libsqlite3-dev:amd64 (3.8.2-1ubuntu2.1) ..."
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.074051,
+      "Selecting previously unselected package zlib1g-dev:amd64."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.004784,
+      "Preparing to unpack .../zlib1g-dev_1%3a1.2.8.dfsg-1ubuntu1_amd64.deb ..."
+    ],
+    [
+      0.000589,
+      "\r\n"
+    ],
+    [
+      0.001664,
+      "Unpacking zlib1g-dev:amd64 (1:1.2.8.dfsg-1ubuntu1) ..."
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.030280,
+      "Selecting previously unselected package libssl-dev:amd64."
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.005022,
+      "Preparing to unpack .../libssl-dev_1.0.1f-1ubuntu2.15_amd64.deb ..."
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.001777,
+      "Unpacking libssl-dev:amd64 (1.0.1f-1ubuntu2.15) ..."
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.177092,
+      "Selecting previously unselected package libssl-doc."
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.005866,
+      "Preparing to unpack .../libssl-doc_1.0.1f-1ubuntu2.15_all.deb ..."
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.001694,
+      "Unpacking libssl-doc (1.0.1f-1ubuntu2.15) ..."
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.245803,
+      "Selecting previously unselected package sqlite3."
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.005734,
+      "Preparing to unpack .../sqlite3_3.8.2-1ubuntu2.1_amd64.deb ..."
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.002081,
+      "Unpacking sqlite3 (3.8.2-1ubuntu2.1) ..."
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.023457,
+      "Selecting previously unselected package unzip."
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.007582,
+      "Preparing to unpack .../unzip_6.0-9ubuntu1.5_amd64.deb ..."
+    ],
+    [
+      0.000659,
+      "\r\n"
+    ],
+    [
+      0.001843,
+      "Unpacking unzip (6.0-9ubuntu1.5) ..."
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.032071,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ..."
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      2.074741,
+      "Processing triggers for mime-support (3.54ubuntu1.1) ..."
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.040945,
+      "Setting up libstdc++-4.8-dev:amd64 (4.8.4-2ubuntu1~14.04) ..."
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.004011,
+      "Setting up g++-4.8 (4.8.4-2ubuntu1~14.04) ..."
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.003970,
+      "Setting up g++ (4:4.8.2-1ubuntu6) ..."
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.038090,
+      "update-alternatives: "
+    ],
+    [
+      0.000117,
+      "using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.002073,
+      "Setting up libdpkg-perl (1.17.5ubuntu5.4) ..."
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.003688,
+      "Setting up dpkg-dev (1.17.5ubuntu5.4) ..."
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.005967,
+      "Setting up build-essential (11.6ubuntu6) ..."
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.003691,
+      "Setting up libalgorithm-diff-perl (1.19.02-3) ..."
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.003323,
+      "Setting up libalgorithm-diff-xs-perl (0.04-2build4) ..."
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.003185,
+      "Setting up libalgorithm-merge-perl (0.08-2) ..."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.003533,
+      "Setting up libfile-fcntllock-perl (0.14-2build1) ..."
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.004124,
+      "Setting up libpcap0.8-dev (1.5.3-2) ..."
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.004369,
+      "Setting up libpcap-dev (1.5.3-2) ..."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.003987,
+      "Setting up libsqlite3-dev:amd64 (3.8.2-1ubuntu2.1) ..."
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.003256,
+      "Setting up zlib1g-dev:amd64 (1:1.2.8.dfsg-1ubuntu1) ..."
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.003933,
+      "Setting up libssl-dev:amd64 (1.0.1f-1ubuntu2.15) ..."
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.004252,
+      "Setting up libssl-doc (1.0.1f-1ubuntu2.15) ..."
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.003278,
+      "Setting up sqlite3 (3.8.2-1ubuntu2.1) ..."
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.003743,
+      "Setting up unzip (6.0-9ubuntu1.5) ..."
+    ],
+    [
+      0.000267,
+      "\r\n"
+    ],
+    [
+      0.138301,
+      "/home/cybercortex$ "
+    ],
+    [
+      1.002241,
+      "\u001b"
+    ],
+    [
+      0.180731,
+      "["
+    ],
+    [
+      0.091978,
+      "9"
+    ],
+    [
+      0.090953,
+      "6"
+    ],
+    [
+      0.091957,
+      "m"
+    ],
+    [
+      0.090815,
+      "w"
+    ],
+    [
+      0.092402,
+      "g"
+    ],
+    [
+      0.091948,
+      "e"
+    ],
+    [
+      0.091109,
+      "t"
+    ],
+    [
+      0.091425,
+      " "
+    ],
+    [
+      0.092752,
+      "h"
+    ],
+    [
+      0.181431,
+      "t"
+    ],
+    [
+      0.092358,
+      "t"
+    ],
+    [
+      0.090513,
+      "p"
+    ],
+    [
+      0.090636,
+      "s"
+    ],
+    [
+      0.090545,
+      ":"
+    ],
+    [
+      0.090576,
+      "/"
+    ],
+    [
+      0.091377,
+      "/"
+    ],
+    [
+      0.091488,
+      "g"
+    ],
+    [
+      0.090655,
+      "i"
+    ],
+    [
+      0.091763,
+      "t"
+    ],
+    [
+      0.182015,
+      "h"
+    ],
+    [
+      0.091979,
+      "u"
+    ],
+    [
+      0.090813,
+      "b"
+    ],
+    [
+      0.090336,
+      "."
+    ],
+    [
+      0.091721,
+      "c"
+    ],
+    [
+      0.091111,
+      "o"
+    ],
+    [
+      0.090307,
+      "m"
+    ],
+    [
+      0.091375,
+      "/"
+    ],
+    [
+      0.090308,
+      "w"
+    ],
+    [
+      0.091337,
+      "i"
+    ],
+    [
+      0.181387,
+      "i"
+    ],
+    [
+      0.090352,
+      "r"
+    ],
+    [
+      0.091577,
+      "e"
+    ],
+    [
+      0.091144,
+      "/"
+    ],
+    [
+      0.090506,
+      "p"
+    ],
+    [
+      0.091052,
+      "i"
+    ],
+    [
+      0.090360,
+      "x"
+    ],
+    [
+      0.090320,
+      "i"
+    ],
+    [
+      0.090282,
+      "e"
+    ],
+    [
+      0.091416,
+      "w"
+    ],
+    [
+      0.181331,
+      "p"
+    ],
+    [
+      0.090167,
+      "s"
+    ],
+    [
+      0.091546,
+      "/"
+    ],
+    [
+      0.090318,
+      "a"
+    ],
+    [
+      0.091012,
+      "r"
+    ],
+    [
+      0.090560,
+      "c"
+    ],
+    [
+      0.090190,
+      "h"
+    ],
+    [
+      0.091449,
+      "i"
+    ],
+    [
+      0.091239,
+      "v"
+    ],
+    [
+      0.090289,
+      "e"
+    ],
+    [
+      0.180584,
+      "/"
+    ],
+    [
+      0.090355,
+      "m"
+    ],
+    [
+      0.090289,
+      "a"
+    ],
+    [
+      0.091661,
+      "s"
+    ],
+    [
+      0.091128,
+      "t"
+    ],
+    [
+      0.090409,
+      "e"
+    ],
+    [
+      0.091142,
+      "r"
+    ],
+    [
+      0.091231,
+      "."
+    ],
+    [
+      0.090248,
+      "z"
+    ],
+    [
+      0.090289,
+      "i"
+    ],
+    [
+      0.180582,
+      "p"
+    ],
+    [
+      0.090303,
+      " "
+    ],
+    [
+      0.090275,
+      "\u0026"
+    ],
+    [
+      0.091197,
+      "\u0026"
+    ],
+    [
+      0.091167,
+      " "
+    ],
+    [
+      0.090172,
+      "u"
+    ],
+    [
+      0.090300,
+      "n"
+    ],
+    [
+      0.090208,
+      "z"
+    ],
+    [
+      0.091253,
+      "i"
+    ],
+    [
+      0.181459,
+      "p"
+    ],
+    [
+      0.090283,
+      " "
+    ],
+    [
+      0.090364,
+      "m"
+    ],
+    [
+      0.090264,
+      "a"
+    ],
+    [
+      0.090289,
+      "s"
+    ],
+    [
+      0.090309,
+      "t"
+    ],
+    [
+      0.090343,
+      "e"
+    ],
+    [
+      0.091043,
+      "r"
+    ],
+    [
+      0.090305,
+      "."
+    ],
+    [
+      0.091216,
+      "z"
+    ],
+    [
+      0.182424,
+      "i"
+    ],
+    [
+      0.090279,
+      "p"
+    ],
+    [
+      0.091102,
+      "\u001b"
+    ],
+    [
+      0.090301,
+      "["
+    ],
+    [
+      0.090311,
+      "0"
+    ],
+    [
+      0.091743,
+      "m"
+    ],
+    [
+      0.092556,
+      "\r\n"
+    ],
+    [
+      1.016465,
+      "--2015-11-21 14:01:25--  https://github.com/wiire/pixiewps/archive/master.zip"
+    ],
+    [
+      0.000721,
+      "\r\n"
+    ],
+    [
+      0.009369,
+      "Resolving github.com (github.com)... "
+    ],
+    [
+      0.068960,
+      "192.30.252.128"
+    ],
+    [
+      0.000296,
+      "\r\n"
+    ],
+    [
+      0.000376,
+      "Connecting to github.com (github.com)|192.30.252.128|:443... "
+    ],
+    [
+      0.190109,
+      "connected."
+    ],
+    [
+      0.000599,
+      "\r\n"
+    ],
+    [
+      0.382390,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.201291,
+      "302 Found"
+    ],
+    [
+      0.000613,
+      "\r\n"
+    ],
+    [
+      0.000745,
+      "Location: https://codeload.github.com/wiire/pixiewps/zip/master [following]"
+    ],
+    [
+      0.001264,
+      "\r\n"
+    ],
+    [
+      0.000472,
+      "--2015-11-21 14:01:26--  https://codeload.github.com/wiire/pixiewps/zip/master"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.000589,
+      "Resolving codeload.github.com (codeload.github.com)... "
+    ],
+    [
+      0.199217,
+      "192.30.252.146"
+    ],
+    [
+      0.000363,
+      "\r\n"
+    ],
+    [
+      0.000287,
+      "Connecting to codeload.github.com (codeload.github.com)|192.30.252.146|:443... "
+    ],
+    [
+      0.138444,
+      "connected."
+    ],
+    [
+      0.000703,
+      "\r\n"
+    ],
+    [
+      0.281091,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.153767,
+      "200 OK"
+    ],
+    [
+      0.000782,
+      "\r\n"
+    ],
+    [
+      0.002729,
+      "Length: "
+    ],
+    [
+      0.000481,
+      "35191"
+    ],
+    [
+      0.001861,
+      " (34K)"
+    ],
+    [
+      0.000192,
+      " [application/zip]"
+    ],
+    [
+      0.000473,
+      "\r\n"
+    ],
+    [
+      0.001791,
+      "Saving to: ‘master.zip’"
+    ],
+    [
+      0.000393,
+      "\r\n"
+    ],
+    [
+      0.000477,
+      "\r\n"
+    ],
+    [
+      0.000383,
+      "\r"
+    ],
+    [
+      0.001309,
+      " 0% [                                       ] 0           --.-K/s              "
+    ],
+    [
+      0.131538,
+      "\r"
+    ],
+    [
+      0.000470,
+      "100%[======================================\u003e] 35,191      --.-K/s   in 0.1s    "
+    ],
+    [
+      0.000761,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "\r\n"
+    ],
+    [
+      0.001610,
+      "2015-11-21 14:01:26 (262 KB/s) - ‘master.zip’ saved [35191/35191]"
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.000286,
+      "\r\n"
+    ],
+    [
+      0.007370,
+      "Archive:  master.zip"
+    ],
+    [
+      0.000751,
+      "\r\n"
+    ],
+    [
+      0.000457,
+      "08a78c3c2712523d9106c3a20e31c081dabe558a"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.003346,
+      "   creating: pixiewps-master/"
+    ],
+    [
+      0.000720,
+      "\r\n"
+    ],
+    [
+      0.000756,
+      " extracting: pixiewps-master/.gitattributes  "
+    ],
+    [
+      0.000398,
+      "\r\n"
+    ],
+    [
+      0.001090,
+      "  inflating: pixiewps-master/LICENSE.md  "
+    ],
+    [
+      0.001259,
+      "\r\n"
+    ],
+    [
+      0.000511,
+      "  inflating: pixiewps-master/Makefile  "
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "  inflating: pixiewps-master/README.md  "
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "   creating: pixiewps-master/include/"
+    ],
+    [
+      0.000816,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "  inflating: pixiewps-master/include/features.h  "
+    ],
+    [
+      0.000405,
+      "\r\n"
+    ],
+    [
+      0.001205,
+      "   creating: pixiewps-master/src/"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000365,
+      "  inflating: pixiewps-master/src/Makefile  "
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "  inflating: pixiewps-master/src/pixiewps.c  "
+    ],
+    [
+      0.001078,
+      "\r\n"
+    ],
+    [
+      0.000280,
+      "  inflating: pixiewps-master/src/pixiewps.h  "
+    ],
+    [
+      0.001122,
+      "\r\n"
+    ],
+    [
+      0.000221,
+      "  inflating: pixiewps-master/src/random_r.c  "
+    ],
+    [
+      0.001068,
+      "\r\n"
+    ],
+    [
+      0.000347,
+      "  inflating: pixiewps-master/src/random_r.h  "
+    ],
+    [
+      0.001468,
+      "\r\n"
+    ],
+    [
+      0.000490,
+      "  inflating: pixiewps-master/src/utils.h  "
+    ],
+    [
+      0.000661,
+      "\r\n"
+    ],
+    [
+      0.000297,
+      "  inflating: pixiewps-master/version.mk  "
+    ],
+    [
+      0.000373,
+      "\r\n"
+    ],
+    [
+      0.002296,
+      "/home/cybercortex$ "
+    ],
+    [
+      1.005698,
+      "\u001b"
+    ],
+    [
+      0.182102,
+      "["
+    ],
+    [
+      0.091987,
+      "9"
+    ],
+    [
+      0.090823,
+      "6"
+    ],
+    [
+      0.090871,
+      "m"
+    ],
+    [
+      0.091248,
+      "c"
+    ],
+    [
+      0.090321,
+      "d"
+    ],
+    [
+      0.090302,
+      " "
+    ],
+    [
+      0.090319,
+      "p"
+    ],
+    [
+      0.090350,
+      "i"
+    ],
+    [
+      0.182515,
+      "x"
+    ],
+    [
+      0.092949,
+      "i"
+    ],
+    [
+      0.091435,
+      "e"
+    ],
+    [
+      0.090461,
+      "w"
+    ],
+    [
+      0.090466,
+      "p"
+    ],
+    [
+      0.090519,
+      "s"
+    ],
+    [
+      0.091442,
+      "-"
+    ],
+    [
+      0.091377,
+      "m"
+    ],
+    [
+      0.090343,
+      "a"
+    ],
+    [
+      0.091459,
+      "s"
+    ],
+    [
+      0.091120,
+      "t"
+    ],
+    [
+      0.181671,
+      "e"
+    ],
+    [
+      0.090299,
+      "r"
+    ],
+    [
+      0.091460,
+      "/"
+    ],
+    [
+      0.090313,
+      "s"
+    ],
+    [
+      0.091289,
+      "r"
+    ],
+    [
+      0.090318,
+      "c"
+    ],
+    [
+      0.091500,
+      "\u001b"
+    ],
+    [
+      0.090468,
+      "["
+    ],
+    [
+      0.090265,
+      "0"
+    ],
+    [
+      0.090273,
+      "m"
+    ],
+    [
+      0.184293,
+      "\r\n"
+    ],
+    [
+      1.005065,
+      "/home/cybercortex/pixiewps-master/src$ "
+    ],
+    [
+      1.004761,
+      "\u001b"
+    ],
+    [
+      0.180714,
+      "["
+    ],
+    [
+      0.091367,
+      "9"
+    ],
+    [
+      0.091546,
+      "6"
+    ],
+    [
+      0.091385,
+      "m"
+    ],
+    [
+      0.090683,
+      "m"
+    ],
+    [
+      0.090875,
+      "a"
+    ],
+    [
+      0.092612,
+      "k"
+    ],
+    [
+      0.090837,
+      "e"
+    ],
+    [
+      0.090768,
+      "\u001b"
+    ],
+    [
+      0.090885,
+      "["
+    ],
+    [
+      0.182431,
+      "0"
+    ],
+    [
+      0.091677,
+      "m"
+    ],
+    [
+      0.091964,
+      "\r\n"
+    ],
+    [
+      1.010699,
+      "cc -std=c99 -O3 -Wno-deprecated-declarations -o pixiewps pixiewps.c random_r.c -lcrypto"
+    ],
+    [
+      0.000666,
+      "\r\n"
+    ],
+    [
+      0.449090,
+      "/home/cybercortex/pixiewps-master/src$ "
+    ],
+    [
+      1.006190,
+      "\u001b"
+    ],
+    [
+      0.182825,
+      "["
+    ],
+    [
+      0.090530,
+      "9"
+    ],
+    [
+      0.091333,
+      "6"
+    ],
+    [
+      0.091820,
+      "m"
+    ],
+    [
+      0.090982,
+      "s"
+    ],
+    [
+      0.091874,
+      "u"
+    ],
+    [
+      0.090734,
+      "d"
+    ],
+    [
+      0.092374,
+      "o"
+    ],
+    [
+      0.091363,
+      " "
+    ],
+    [
+      0.092236,
+      "m"
+    ],
+    [
+      0.181218,
+      "a"
+    ],
+    [
+      0.091561,
+      "k"
+    ],
+    [
+      0.091413,
+      "e"
+    ],
+    [
+      0.090427,
+      " "
+    ],
+    [
+      0.091405,
+      "i"
+    ],
+    [
+      0.091462,
+      "n"
+    ],
+    [
+      0.092021,
+      "s"
+    ],
+    [
+      0.091448,
+      "t"
+    ],
+    [
+      0.090310,
+      "a"
+    ],
+    [
+      0.090312,
+      "l"
+    ],
+    [
+      0.180573,
+      "l"
+    ],
+    [
+      0.090346,
+      "\u001b"
+    ],
+    [
+      0.091479,
+      "["
+    ],
+    [
+      0.090271,
+      "0"
+    ],
+    [
+      0.091114,
+      "m"
+    ],
+    [
+      0.092734,
+      "\r\n"
+    ],
+    [
+      1.023365,
+      "rm -f /usr/local/bin/pixiewps"
+    ],
+    [
+      0.000620,
+      "\r\n"
+    ],
+    [
+      0.002586,
+      "install pixiewps /usr/bin/pixiewps"
+    ],
+    [
+      0.000503,
+      "\r\n"
+    ],
+    [
+      0.006403,
+      "install -m 755 pixiewps /usr/bin"
+    ],
+    [
+      0.000490,
+      "\r\n"
+    ],
+    [
+      0.005415,
+      "/home/cybercortex/pixiewps-master/src$ "
+    ],
+    [
+      1.007251,
+      "\u001b"
+    ],
+    [
+      0.180997,
+      "["
+    ],
+    [
+      0.092156,
+      "9"
+    ],
+    [
+      0.091518,
+      "6"
+    ],
+    [
+      0.090832,
+      "m"
+    ],
+    [
+      0.090790,
+      "c"
+    ],
+    [
+      0.090584,
+      "d"
+    ],
+    [
+      0.091863,
+      " "
+    ],
+    [
+      0.090620,
+      "."
+    ],
+    [
+      0.090770,
+      "."
+    ],
+    [
+      0.092737,
+      "/"
+    ],
+    [
+      0.182665,
+      "."
+    ],
+    [
+      0.090869,
+      "."
+    ],
+    [
+      0.090720,
+      "\u001b"
+    ],
+    [
+      0.090758,
+      "["
+    ],
+    [
+      0.090703,
+      "0"
+    ],
+    [
+      0.090593,
+      "m"
+    ],
+    [
+      0.090606,
+      "\r\n"
+    ],
+    [
+      1.003666,
+      "/home/cybercortex$ "
+    ],
+    [
+      1.007810,
+      "\u001b"
+    ],
+    [
+      0.181061,
+      "["
+    ],
+    [
+      0.090824,
+      "9"
+    ],
+    [
+      0.090855,
+      "6"
+    ],
+    [
+      0.091550,
+      "m"
+    ],
+    [
+      0.090673,
+      "r"
+    ],
+    [
+      0.092309,
+      "m"
+    ],
+    [
+      0.090915,
+      " "
+    ],
+    [
+      0.090494,
+      "-"
+    ],
+    [
+      0.091440,
+      "f"
+    ],
+    [
+      0.091445,
+      " "
+    ],
+    [
+      0.183041,
+      "m"
+    ],
+    [
+      0.090341,
+      "a"
+    ],
+    [
+      0.091496,
+      "s"
+    ],
+    [
+      0.090207,
+      "t"
+    ],
+    [
+      0.090386,
+      "e"
+    ],
+    [
+      0.090442,
+      "r"
+    ],
+    [
+      0.091451,
+      "."
+    ],
+    [
+      0.090321,
+      "z"
+    ],
+    [
+      0.090560,
+      "i"
+    ],
+    [
+      0.090445,
+      "p"
+    ],
+    [
+      0.182014,
+      "\u001b"
+    ],
+    [
+      0.090433,
+      "["
+    ],
+    [
+      0.091690,
+      "0"
+    ],
+    [
+      0.090284,
+      "m"
+    ],
+    [
+      0.092825,
+      "\r\n"
+    ],
+    [
+      1.005602,
+      "/home/cybercortex$ "
+    ],
+    [
+      1.008226,
+      "\u001b"
+    ],
+    [
+      0.181875,
+      "["
+    ],
+    [
+      0.091450,
+      "9"
+    ],
+    [
+      0.092422,
+      "6"
+    ],
+    [
+      0.091016,
+      "m"
+    ],
+    [
+      0.091583,
+      "w"
+    ],
+    [
+      0.090743,
+      "g"
+    ],
+    [
+      0.090933,
+      "e"
+    ],
+    [
+      0.090743,
+      "t"
+    ],
+    [
+      0.091804,
+      " "
+    ],
+    [
+      0.090703,
+      "h"
+    ],
+    [
+      0.182086,
+      "t"
+    ],
+    [
+      0.092521,
+      "t"
+    ],
+    [
+      0.090711,
+      "p"
+    ],
+    [
+      0.090428,
+      "s"
+    ],
+    [
+      0.090384,
+      ":"
+    ],
+    [
+      0.091252,
+      "/"
+    ],
+    [
+      0.090455,
+      "/"
+    ],
+    [
+      0.090290,
+      "g"
+    ],
+    [
+      0.091270,
+      "i"
+    ],
+    [
+      0.091196,
+      "t"
+    ],
+    [
+      0.180578,
+      "h"
+    ],
+    [
+      0.090380,
+      "u"
+    ],
+    [
+      0.090193,
+      "b"
+    ],
+    [
+      0.091253,
+      "."
+    ],
+    [
+      0.091061,
+      "c"
+    ],
+    [
+      0.091477,
+      "o"
+    ],
+    [
+      0.091220,
+      "m"
+    ],
+    [
+      0.090430,
+      "/"
+    ],
+    [
+      0.091129,
+      "t"
+    ],
+    [
+      0.091217,
+      "6"
+    ],
+    [
+      0.181454,
+      "x"
+    ],
+    [
+      0.091081,
+      "/"
+    ],
+    [
+      0.090420,
+      "r"
+    ],
+    [
+      0.091671,
+      "e"
+    ],
+    [
+      0.091203,
+      "a"
+    ],
+    [
+      0.091425,
+      "v"
+    ],
+    [
+      0.090282,
+      "e"
+    ],
+    [
+      0.091123,
+      "r"
+    ],
+    [
+      0.090269,
+      "-"
+    ],
+    [
+      0.091285,
+      "w"
+    ],
+    [
+      0.181658,
+      "p"
+    ],
+    [
+      0.090285,
+      "s"
+    ],
+    [
+      0.091531,
+      "-"
+    ],
+    [
+      0.091319,
+      "f"
+    ],
+    [
+      0.090306,
+      "o"
+    ],
+    [
+      0.091838,
+      "r"
+    ],
+    [
+      0.091287,
+      "k"
+    ],
+    [
+      0.091280,
+      "-"
+    ],
+    [
+      0.090394,
+      "t"
+    ],
+    [
+      0.090353,
+      "6"
+    ],
+    [
+      0.180653,
+      "x"
+    ],
+    [
+      0.090320,
+      "/"
+    ],
+    [
+      0.090312,
+      "a"
+    ],
+    [
+      0.091252,
+      "r"
+    ],
+    [
+      0.090278,
+      "c"
+    ],
+    [
+      0.091187,
+      "h"
+    ],
+    [
+      0.090380,
+      "i"
+    ],
+    [
+      0.091707,
+      "v"
+    ],
+    [
+      0.091178,
+      "e"
+    ],
+    [
+      0.091112,
+      "/"
+    ],
+    [
+      0.181795,
+      "m"
+    ],
+    [
+      0.090256,
+      "a"
+    ],
+    [
+      0.091166,
+      "s"
+    ],
+    [
+      0.090305,
+      "t"
+    ],
+    [
+      0.090295,
+      "e"
+    ],
+    [
+      0.090341,
+      "r"
+    ],
+    [
+      0.091605,
+      "."
+    ],
+    [
+      0.090273,
+      "z"
+    ],
+    [
+      0.090362,
+      "i"
+    ],
+    [
+      0.181763,
+      "p"
+    ],
+    [
+      0.090369,
+      " "
+    ],
+    [
+      0.090286,
+      "\u0026"
+    ],
+    [
+      0.091478,
+      "\u0026"
+    ],
+    [
+      0.091275,
+      " "
+    ],
+    [
+      0.091239,
+      "u"
+    ],
+    [
+      0.090181,
+      "n"
+    ],
+    [
+      0.091255,
+      "z"
+    ],
+    [
+      0.090202,
+      "i"
+    ],
+    [
+      0.091115,
+      "p"
+    ],
+    [
+      0.180517,
+      " "
+    ],
+    [
+      0.090241,
+      "m"
+    ],
+    [
+      0.091555,
+      "a"
+    ],
+    [
+      0.090228,
+      "s"
+    ],
+    [
+      0.091965,
+      "t"
+    ],
+    [
+      0.090333,
+      "e"
+    ],
+    [
+      0.091147,
+      "r"
+    ],
+    [
+      0.091162,
+      "."
+    ],
+    [
+      0.091099,
+      "z"
+    ],
+    [
+      0.090293,
+      "i"
+    ],
+    [
+      0.181471,
+      "p"
+    ],
+    [
+      0.090330,
+      "\u001b"
+    ],
+    [
+      0.090300,
+      "["
+    ],
+    [
+      0.091273,
+      "0"
+    ],
+    [
+      0.090301,
+      "m"
+    ],
+    [
+      0.093253,
+      "\r\n"
+    ],
+    [
+      1.005901,
+      "--2015-11-21 14:02:00--  https://github.com/t6x/reaver-wps-fork-t6x/archive/master.zip"
+    ],
+    [
+      0.000432,
+      "\r\n"
+    ],
+    [
+      0.007856,
+      "Resolving github.com (github.com)... "
+    ],
+    [
+      0.066566,
+      "192.30.252.129"
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      "Connecting to github.com (github.com)|192.30.252.129|:443... "
+    ],
+    [
+      0.162392,
+      "connected."
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.331946,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.175276,
+      "302 Found"
+    ],
+    [
+      0.000465,
+      "\r\n"
+    ],
+    [
+      0.000611,
+      "Location: https://codeload.github.com/t6x/reaver-wps-fork-t6x/zip/master [following]"
+    ],
+    [
+      0.001128,
+      "\r\n"
+    ],
+    [
+      0.002023,
+      "--2015-11-21 14:02:01--  https://codeload.github.com/t6x/reaver-wps-fork-t6x/zip/master"
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.000355,
+      "Resolving codeload.github.com (codeload.github.com)... "
+    ],
+    [
+      0.219007,
+      "192.30.252.145"
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.000477,
+      "Connecting to codeload.github.com (codeload.github.com)|192.30.252.145|:443... "
+    ],
+    [
+      0.185333,
+      "connected."
+    ],
+    [
+      0.000496,
+      "\r\n"
+    ],
+    [
+      0.379113,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.201503,
+      "200 OK"
+    ],
+    [
+      0.000730,
+      "\r\n"
+    ],
+    [
+      0.001589,
+      "Length: "
+    ],
+    [
+      0.001060,
+      "943397"
+    ],
+    [
+      0.001658,
+      " (921K)"
+    ],
+    [
+      0.000483,
+      " [application/zip]"
+    ],
+    [
+      0.000685,
+      "\r\n"
+    ],
+    [
+      0.001544,
+      "Saving to: ‘master.zip’"
+    ],
+    [
+      0.000701,
+      "\r\n"
+    ],
+    [
+      0.000498,
+      "\r\n"
+    ],
+    [
+      0.000493,
+      "\r"
+    ],
+    [
+      0.001263,
+      " 0% [                                       ] 0           --.-K/s              "
+    ],
+    [
+      0.360620,
+      "\r"
+    ],
+    [
+      0.000882,
+      " 4% [\u003e                                      ] 41,899       114KB/s             "
+    ],
+    [
+      0.199725,
+      "\r"
+    ],
+    [
+      0.000911,
+      "17% [=====\u003e                                 ] 160,641      280KB/s             "
+    ],
+    [
+      0.199659,
+      "\r"
+    ],
+    [
+      0.000714,
+      "34% [============\u003e                          ] 328,563      421KB/s             "
+    ],
+    [
+      0.202439,
+      "\r"
+    ],
+    [
+      0.000252,
+      "52% [===================\u003e                   ] 492,403      498KB/s             "
+    ],
+    [
+      0.192479,
+      "\r"
+    ],
+    [
+      0.000361,
+      "100%[======================================\u003e] 943,397      796KB/s   in 1.2s   "
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "2015-11-21 14:02:03 (796 KB/s) - ‘master.zip’ saved [943397/943397]"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.003111,
+      "Archive:  master.zip"
+    ],
+    [
+      0.000454,
+      "\r\n"
+    ],
+    [
+      0.000254,
+      "941d383d9492890c7b25e62492d0a5e9c7546078"
+    ],
+    [
+      0.001331,
+      "\r\n"
+    ],
+    [
+      0.000586,
+      "   creating: reaver-wps-fork-t6x-master/"
+    ],
+    [
+      0.000668,
+      "\r\n"
+    ],
+    [
+      0.000575,
+      "  inflating: reaver-wps-fork-t6x-master/CHANGELOG.md  "
+    ],
+    [
+      0.000353,
+      "\r\n"
+    ],
+    [
+      0.000816,
+      "  inflating: reaver-wps-fork-t6x-master/README.md  "
+    ],
+    [
+      0.000608,
+      "\r\n"
+    ],
+    [
+      0.000832,
+      "   creating: reaver-wps-fork-t6x-master/docs/"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000587,
+      "  inflating: reaver-wps-fork-t6x-master/docs/LICENSE  "
+    ],
+    [
+      0.000936,
+      "\r\n"
+    ],
+    [
+      0.000366,
+      "  inflating: reaver-wps-fork-t6x-master/docs/README  "
+    ],
+    [
+      0.000862,
+      "\r\n"
+    ],
+    [
+      0.000481,
+      "  inflating: reaver-wps-fork-t6x-master/docs/README.REAVER  "
+    ],
+    [
+      0.001214,
+      "\r\n"
+    ],
+    [
+      0.000363,
+      "  inflating: reaver-wps-fork-t6x-master/docs/README.WASH  "
+    ],
+    [
+      0.000314,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      " extracting: reaver-wps-fork-t6x-master/docs/reaver.1.gz  "
+    ],
+    [
+      0.001301,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "   creating: reaver-wps-fork-t6x-master/src/"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000502,
+      "  inflating: reaver-wps-fork-t6x-master/src/80211.c  "
+    ],
+    [
+      0.001649,
+      "\r\n"
+    ],
+    [
+      0.000567,
+      "  inflating: reaver-wps-fork-t6x-master/src/80211.h  "
+    ],
+    [
+      0.000503,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "  inflating: reaver-wps-fork-t6x-master/src/Makefile.in  "
+    ],
+    [
+      0.001078,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      "  inflating: reaver-wps-fork-t6x-master/src/argsparser.c  "
+    ],
+    [
+      0.000444,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "  inflating: reaver-wps-fork-t6x-master/src/argsparser.h  "
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "  inflating: reaver-wps-fork-t6x-master/src/builder.c  "
+    ],
+    [
+      0.000382,
+      "\r\n"
+    ],
+    [
+      0.000861,
+      "  inflating: reaver-wps-fork-t6x-master/src/builder.h  "
+    ],
+    [
+      0.000480,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "   creating: reaver-wps-fork-t6x-master/src/common/"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000233,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/Makefile  "
+    ],
+    [
+      0.000927,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/defs.h  "
+    ],
+    [
+      0.000363,
+      "\r\n"
+    ],
+    [
+      0.000290,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/eapol_common.h  "
+    ],
+    [
+      0.000881,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/ieee802_11_common.c  "
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/ieee802_11_common.h  "
+    ],
+    [
+      0.000863,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/ieee802_11_defs.h  "
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/lib.rules  "
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/privsep_commands.h  "
+    ],
+    [
+      0.000821,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/version.h  "
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/wpa_common.c  "
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/wpa_common.h  "
+    ],
+    [
+      0.000321,
+      "\r\n"
+    ],
+    [
+      0.000956,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/wpa_ctrl.c  "
+    ],
+    [
+      0.000336,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "  inflating: reaver-wps-fork-t6x-master/src/common/wpa_ctrl.h  "
+    ],
+    [
+      0.000407,
+      "\r\n"
+    ],
+    [
+      0.000925,
+      "  inflating: reaver-wps-fork-t6x-master/src/configure  "
+    ],
+    [
+      0.002235,
+      "\r\n"
+    ],
+    [
+      0.000390,
+      "  inflating: reaver-wps-fork-t6x-master/src/configure.ac  "
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "  inflating: reaver-wps-fork-t6x-master/src/cracker.c  "
+    ],
+    [
+      0.000341,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "  inflating: reaver-wps-fork-t6x-master/src/cracker.h  "
+    ],
+    [
+      0.001080,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "  inflating: reaver-wps-fork-t6x-master/src/crc.c  "
+    ],
+    [
+      0.000266,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "  inflating: reaver-wps-fork-t6x-master/src/crc.h  "
+    ],
+    [
+      0.000205,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "   creating: reaver-wps-fork-t6x-master/src/crypto/"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      " extracting: reaver-wps-fork-t6x-master/src/crypto/.gitignore  "
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.000785,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/Makefile  "
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-cbc.c  "
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-ctr.c  "
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-eax.c  "
+    ],
+    [
+      0.000995,
+      "\r\n"
+    ],
+    [
+      0.000264,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-encblock.c  "
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-internal-dec.c  "
+    ],
+    [
+      0.000982,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-internal-enc.c  "
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-internal.c  "
+    ],
+    [
+      0.000671,
+      "\r\n"
+    ],
+    [
+      0.000673,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-omac1.c  "
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-unwrap.c  "
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes-wrap.c  "
+    ],
+    [
+      0.000267,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes.h  "
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes_i.h  "
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.000990,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/aes_wrap.h  "
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto.h  "
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_cryptoapi.c  "
+    ],
+    [
+      0.000428,
+      "\r\n"
+    ],
+    [
+      0.000957,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_gnutls.c  "
+    ],
+    [
+      0.000445,
+      "\r\n"
+    ],
+    [
+      0.001232,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_internal-cipher.c  "
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.001003,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_internal-modexp.c  "
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_internal-rsa.c  "
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.000306,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_internal.c  "
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_libtomcrypt.c  "
+    ],
+    [
+      0.001504,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_none.c  "
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000343,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_nss.c  "
+    ],
+    [
+      0.000228,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/crypto_openssl.c  "
+    ],
+    [
+      0.000353,
+      "\r\n"
+    ],
+    [
+      0.000796,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/des-internal.c  "
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/des_i.h  "
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/dh_group5.c  "
+    ],
+    [
+      0.000908,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/dh_group5.h  "
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/dh_groups.c  "
+    ],
+    [
+      0.000403,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/dh_groups.h  "
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000801,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/fips_prf_cryptoapi.c  "
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/fips_prf_gnutls.c  "
+    ],
+    [
+      0.000266,
+      "\r\n"
+    ],
+    [
+      0.001056,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/fips_prf_internal.c  "
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/fips_prf_nss.c  "
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/fips_prf_openssl.c  "
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/md4-internal.c  "
+    ],
+    [
+      0.001002,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/md5-internal.c  "
+    ],
+    [
+      0.000359,
+      "\r\n"
+    ],
+    [
+      0.000216,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/md5-non-fips.c  "
+    ],
+    [
+      0.000297,
+      "\r\n"
+    ],
+    [
+      0.000771,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/md5.c  "
+    ],
+    [
+      0.000477,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/md5.h  "
+    ],
+    [
+      0.000321,
+      "\r\n"
+    ],
+    [
+      0.000995,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/md5_i.h  "
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/milenage.c  "
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/milenage.h  "
+    ],
+    [
+      0.000685,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/ms_funcs.c  "
+    ],
+    [
+      0.000424,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/ms_funcs.h  "
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.001064,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/rc4.c  "
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1-internal.c  "
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1-pbkdf2.c  "
+    ],
+    [
+      0.000931,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1-tlsprf.c  "
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1-tprf.c  "
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1.c  "
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1.h  "
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.000761,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha1_i.h  "
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha256-internal.c  "
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha256.c  "
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/sha256.h  "
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls.h  "
+    ],
+    [
+      0.000826,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls_gnutls.c  "
+    ],
+    [
+      0.000423,
+      "\r\n"
+    ],
+    [
+      0.000702,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls_internal.c  "
+    ],
+    [
+      0.000348,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls_none.c  "
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls_nss.c  "
+    ],
+    [
+      0.000291,
+      "\r\n"
+    ],
+    [
+      0.000620,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls_openssl.c  "
+    ],
+    [
+      0.000994,
+      "\r\n"
+    ],
+    [
+      0.000309,
+      "  inflating: reaver-wps-fork-t6x-master/src/crypto/tls_schannel.c  "
+    ],
+    [
+      0.000311,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "  inflating: reaver-wps-fork-t6x-master/src/defs.h  "
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.000351,
+      "  inflating: reaver-wps-fork-t6x-master/src/exchange.c  "
+    ],
+    [
+      0.001206,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "  inflating: reaver-wps-fork-t6x-master/src/exchange.h  "
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000281,
+      "  inflating: reaver-wps-fork-t6x-master/src/globule.c  "
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "  inflating: reaver-wps-fork-t6x-master/src/globule.h  "
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "  inflating: reaver-wps-fork-t6x-master/src/iface.c  "
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.000916,
+      "  inflating: reaver-wps-fork-t6x-master/src/iface.h  "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: reaver-wps-fork-t6x-master/src/init.c  "
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "  inflating: reaver-wps-fork-t6x-master/src/init.h  "
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "  inflating: reaver-wps-fork-t6x-master/src/keys.c  "
+    ],
+    [
+      0.001791,
+      "\r\n"
+    ],
+    [
+      0.000326,
+      "  inflating: reaver-wps-fork-t6x-master/src/keys.h  "
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "   creating: reaver-wps-fork-t6x-master/src/libwps/"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "  inflating: reaver-wps-fork-t6x-master/src/libwps/Makefile  "
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  inflating: reaver-wps-fork-t6x-master/src/libwps/libwps.c  "
+    ],
+    [
+      0.000893,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "  inflating: reaver-wps-fork-t6x-master/src/libwps/libwps.h  "
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "   creating: reaver-wps-fork-t6x-master/src/lwe/"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/19-udev-ifrename.rules  "
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/CHANGELOG.h  "
+    ],
+    [
+      0.001133,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/COPYING  "
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/DISTRIBUTIONS.txt  "
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/HOTPLUG.txt  "
+    ],
+    [
+      0.000926,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/IFRENAME-VS-XXX.txt  "
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/INSTALL  "
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      0.000761,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/Makefile  "
+    ],
+    [
+      0.000207,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/PCMCIA.txt  "
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/README  "
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/README.fr  "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000711,
+      "   creating: reaver-wps-fork-t6x-master/src/lwe/cs/"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/ifrename.8  "
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iftab.5  "
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iwconfig.8  "
+    ],
+    [
+      0.000971,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iwevent.8  "
+    ],
+    [
+      0.000319,
+      "\r\n"
+    ],
+    [
+      0.000228,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iwgetid.8  "
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.001031,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iwlist.8  "
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iwpriv.8  "
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/iwspy.8  "
+    ],
+    [
+      0.000207,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/cs/wireless.7  "
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "   creating: reaver-wps-fork-t6x-master/src/lwe/fr/"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/ifrename.8  "
+    ],
+    [
+      0.000969,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iftab.5  "
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iwconfig.8  "
+    ],
+    [
+      0.000446,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iwevent.8  "
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iwgetid.8  "
+    ],
+    [
+      0.000886,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iwlist.8  "
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iwpriv.8  "
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/iwspy.8  "
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/fr/wireless.7  "
+    ],
+    [
+      0.000271,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/ifrename.8  "
+    ],
+    [
+      0.000852,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/ifrename.c  "
+    ],
+    [
+      0.000809,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iftab.5  "
+    ],
+    [
+      0.000305,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwconfig.8  "
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.000900,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwconfig.c  "
+    ],
+    [
+      0.000535,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwevent.8  "
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000584,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwevent.c  "
+    ],
+    [
+      0.000517,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwgetid.8  "
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwgetid.c  "
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwlib.c  "
+    ],
+    [
+      0.002561,
+      "\r\n"
+    ],
+    [
+      0.000526,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwlib.h  "
+    ],
+    [
+      0.000380,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwlist.8  "
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000234,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwlist.c  "
+    ],
+    [
+      0.000920,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwmulticall.c  "
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwpriv.8  "
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwpriv.c  "
+    ],
+    [
+      0.000434,
+      "\r\n"
+    ],
+    [
+      0.000823,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwspy.8  "
+    ],
+    [
+      0.000255,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/iwspy.c  "
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/macaddr.c  "
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/sample_enc.c  "
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.000761,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/sample_pm.c  "
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/sample_priv_addr.c  "
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/udev.import_devpath.diff  "
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.10.h  "
+    ],
+    [
+      0.000312,
+      "\r\n"
+    ],
+    [
+      0.000605,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.11.h  "
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.12.h  "
+    ],
+    [
+      0.000279,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.13.h  "
+    ],
+    [
+      0.000928,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.14.h  "
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.15.h  "
+    ],
+    [
+      0.000369,
+      "\r\n"
+    ],
+    [
+      0.000580,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.16.h  "
+    ],
+    [
+      0.000461,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.17.h  "
+    ],
+    [
+      0.000994,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.18.h  "
+    ],
+    [
+      0.000487,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.19.h  "
+    ],
+    [
+      0.000482,
+      "\r\n"
+    ],
+    [
+      0.000463,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.20.h  "
+    ],
+    [
+      0.000604,
+      "\r\n"
+    ],
+    [
+      0.000728,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.21.h  "
+    ],
+    [
+      0.000905,
+      "\r\n"
+    ],
+    [
+      0.000337,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.22.h  "
+    ],
+    [
+      0.001063,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "  inflating: reaver-wps-fork-t6x-master/src/lwe/wireless.7  "
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "  inflating: reaver-wps-fork-t6x-master/src/misc.c  "
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.000786,
+      "  inflating: reaver-wps-fork-t6x-master/src/misc.h  "
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "  inflating: reaver-wps-fork-t6x-master/src/pins.c  "
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "  inflating: reaver-wps-fork-t6x-master/src/pins.h  "
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000676,
+      "  inflating: reaver-wps-fork-t6x-master/src/reaver.db  "
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "  inflating: reaver-wps-fork-t6x-master/src/send.c  "
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "  inflating: reaver-wps-fork-t6x-master/src/send.h  "
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000729,
+      "  inflating: reaver-wps-fork-t6x-master/src/session.c  "
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "  inflating: reaver-wps-fork-t6x-master/src/session.h  "
+    ],
+    [
+      0.000260,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "  inflating: reaver-wps-fork-t6x-master/src/sigalrm.c  "
+    ],
+    [
+      0.000207,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  inflating: reaver-wps-fork-t6x-master/src/sigalrm.h  "
+    ],
+    [
+      0.000894,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "  inflating: reaver-wps-fork-t6x-master/src/sigint.c  "
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "  inflating: reaver-wps-fork-t6x-master/src/sigint.h  "
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  inflating: reaver-wps-fork-t6x-master/src/sql.c  "
+    ],
+    [
+      0.000976,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "  inflating: reaver-wps-fork-t6x-master/src/sql.h  "
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "   creating: reaver-wps-fork-t6x-master/src/tls/"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      " extracting: reaver-wps-fork-t6x-master/src/tls/.gitignore  "
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/Makefile  "
+    ],
+    [
+      0.000736,
+      "\r\n"
+    ],
+    [
+      0.000238,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/asn1.c  "
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/asn1.h  "
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/bignum.c  "
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/bignum.h  "
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/libtommath.c  "
+    ],
+    [
+      0.001188,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/pkcs1.c  "
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/pkcs1.h  "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/pkcs5.c  "
+    ],
+    [
+      0.000345,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/pkcs5.h  "
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000682,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/pkcs8.c  "
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.001556,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/pkcs8.h  "
+    ],
+    [
+      0.000413,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/rsa.c  "
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/rsa.h  "
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_client.c  "
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_client.h  "
+    ],
+    [
+      0.000207,
+      "\r\n"
+    ],
+    [
+      0.000847,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_client_i.h  "
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_client_read.c  "
+    ],
+    [
+      0.000525,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_client_write.c  "
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.000545,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_common.c  "
+    ],
+    [
+      0.000421,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_common.h  "
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_cred.c  "
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_cred.h  "
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_record.c  "
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.000735,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_record.h  "
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_server.c  "
+    ],
+    [
+      0.000399,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_server.h  "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_server_i.h  "
+    ],
+    [
+      0.000757,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_server_read.c  "
+    ],
+    [
+      0.000461,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/tlsv1_server_write.c  "
+    ],
+    [
+      0.000861,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/x509v3.c  "
+    ],
+    [
+      0.000498,
+      "\r\n"
+    ],
+    [
+      0.000614,
+      "  inflating: reaver-wps-fork-t6x-master/src/tls/x509v3.h  "
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "   creating: reaver-wps-fork-t6x-master/src/utils/"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      " extracting: reaver-wps-fork-t6x-master/src/utils/.gitignore  "
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/Makefile  "
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/base64.c  "
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/base64.h  "
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/build_config.h  "
+    ],
+    [
+      0.000919,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/common.c  "
+    ],
+    [
+      0.000624,
+      "\r\n"
+    ],
+    [
+      0.000744,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/common.h  "
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/eloop.c  "
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/eloop.h  "
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000837,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/eloop_none.c  "
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/eloop_win.c  "
+    ],
+    [
+      0.000289,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/includes.h  "
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/ip_addr.c  "
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/ip_addr.h  "
+    ],
+    [
+      0.000295,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/list.h  "
+    ],
+    [
+      0.000927,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/os.h  "
+    ],
+    [
+      0.000310,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/os_internal.c  "
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/os_none.c  "
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/os_unix.c  "
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/os_win32.c  "
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000859,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/pcsc_funcs.c  "
+    ],
+    [
+      0.000405,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/pcsc_funcs.h  "
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/radiotap.c  "
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000729,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/radiotap.h  "
+    ],
+    [
+      0.000374,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/radiotap_iter.h  "
+    ],
+    [
+      0.000232,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/state_machine.h  "
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/trace.c  "
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/trace.h  "
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/uuid.c  "
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.000689,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/uuid.h  "
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/wpa_debug.c  "
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/wpa_debug.h  "
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/wpabuf.c  "
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "  inflating: reaver-wps-fork-t6x-master/src/utils/wpabuf.h  "
+    ],
+    [
+      0.000739,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps.h  "
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "   creating: reaver-wps-fork-t6x-master/src/wps/"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/Makefile  "
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000876,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/t6.h  "
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.000375,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps.c  "
+    ],
+    [
+      0.000551,
+      "\r\n"
+    ],
+    [
+      0.000374,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps.h  "
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_attr_build.c  "
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_attr_parse.c  "
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_attr_process.c  "
+    ],
+    [
+      0.000798,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_common.c  "
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_defs.h  "
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.001013,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_dev_attr.c  "
+    ],
+    [
+      0.000255,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_dev_attr.h  "
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_enrollee.c  "
+    ],
+    [
+      0.000367,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_i.h  "
+    ],
+    [
+      0.000451,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_registrar.c  "
+    ],
+    [
+      0.000594,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "  inflating: reaver-wps-fork-t6x-master/src/wps/wps_ufd.c  "
+    ],
+    [
+      0.000792,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: reaver-wps-fork-t6x-master/src/wpscrack.c  "
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "  inflating: reaver-wps-fork-t6x-master/src/wpscrack.h  "
+    ],
+    [
+      0.000137,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "  inflating: reaver-wps-fork-t6x-master/src/wpsmon.c  "
+    ],
+    [
+      0.000866,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "  inflating: reaver-wps-fork-t6x-master/src/wpsmon.h  "
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000802,
+      "/home/cybercortex$ "
+    ],
+    [
+      1.005418,
+      "\u001b"
+    ],
+    [
+      0.182461,
+      "["
+    ],
+    [
+      0.092079,
+      "9"
+    ],
+    [
+      0.091678,
+      "6"
+    ],
+    [
+      0.090756,
+      "m"
+    ],
+    [
+      0.091697,
+      "c"
+    ],
+    [
+      0.091496,
+      "d"
+    ],
+    [
+      0.091801,
+      " "
+    ],
+    [
+      0.091811,
+      "r"
+    ],
+    [
+      0.091124,
+      "e"
+    ],
+    [
+      0.091550,
+      "a"
+    ],
+    [
+      0.182030,
+      "v"
+    ],
+    [
+      0.090780,
+      "e"
+    ],
+    [
+      0.091675,
+      "r"
+    ],
+    [
+      0.090457,
+      "-"
+    ],
+    [
+      0.091308,
+      "w"
+    ],
+    [
+      0.091532,
+      "p"
+    ],
+    [
+      0.090399,
+      "s"
+    ],
+    [
+      0.091186,
+      "-"
+    ],
+    [
+      0.090408,
+      "f"
+    ],
+    [
+      0.090322,
+      "o"
+    ],
+    [
+      0.181895,
+      "r"
+    ],
+    [
+      0.091249,
+      "k"
+    ],
+    [
+      0.090286,
+      "-"
+    ],
+    [
+      0.090258,
+      "t"
+    ],
+    [
+      0.091149,
+      "6"
+    ],
+    [
+      0.090298,
+      "x"
+    ],
+    [
+      0.091719,
+      "*"
+    ],
+    [
+      0.090289,
+      "/"
+    ],
+    [
+      0.091873,
+      "s"
+    ],
+    [
+      0.090309,
+      "r"
+    ],
+    [
+      0.181839,
+      "c"
+    ],
+    [
+      0.090374,
+      "\u001b"
+    ],
+    [
+      0.091257,
+      "["
+    ],
+    [
+      0.091602,
+      "0"
+    ],
+    [
+      0.090272,
+      "m"
+    ],
+    [
+      0.092081,
+      "\r\n"
+    ],
+    [
+      1.005897,
+      "/home/cybercortex/reaver-wps-fork-t6x-master/src$ "
+    ],
+    [
+      1.008442,
+      "\u001b"
+    ],
+    [
+      0.182706,
+      "["
+    ],
+    [
+      0.091996,
+      "9"
+    ],
+    [
+      0.090840,
+      "6"
+    ],
+    [
+      0.091829,
+      "m"
+    ],
+    [
+      0.091659,
+      "."
+    ],
+    [
+      0.090943,
+      "/"
+    ],
+    [
+      0.092132,
+      "c"
+    ],
+    [
+      0.091076,
+      "o"
+    ],
+    [
+      0.091995,
+      "n"
+    ],
+    [
+      0.090588,
+      "f"
+    ],
+    [
+      0.182452,
+      "i"
+    ],
+    [
+      0.091999,
+      "g"
+    ],
+    [
+      0.090766,
+      "u"
+    ],
+    [
+      0.090775,
+      "r"
+    ],
+    [
+      0.091643,
+      "e"
+    ],
+    [
+      0.091318,
+      "\u001b"
+    ],
+    [
+      0.092331,
+      "["
+    ],
+    [
+      0.090772,
+      "0"
+    ],
+    [
+      0.090489,
+      "m"
+    ],
+    [
+      0.091558,
+      "\r\n"
+    ],
+    [
+      1.106682,
+      "checking for gcc... "
+    ],
+    [
+      0.000319,
+      "gcc"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.014830,
+      "checking whether the C compiler works... "
+    ],
+    [
+      0.031174,
+      "yes"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "checking for C compiler default output file name... "
+    ],
+    [
+      0.000105,
+      "a.out"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000952,
+      "checking for suffix of executables... "
+    ],
+    [
+      0.028976,
+      "\r\n"
+    ],
+    [
+      0.002557,
+      "checking whether we are cross compiling... "
+    ],
+    [
+      0.032040,
+      "no"
+    ],
+    [
+      0.000271,
+      "\r\n"
+    ],
+    [
+      0.002642,
+      "checking for suffix of object files... "
+    ],
+    [
+      0.017523,
+      "o"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000348,
+      "checking whether we are using the GNU C compiler... "
+    ],
+    [
+      0.017242,
+      "yes"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "checking whether gcc accepts -g... "
+    ],
+    [
+      0.017703,
+      "yes"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "checking for gcc option to accept ISO C89... "
+    ],
+    [
+      0.032270,
+      "none needed"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000428,
+      "checking for pcap_open_live in -lpcap... "
+    ],
+    [
+      0.036225,
+      "yes"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000884,
+      "checking for sqlite3_open in -lsqlite3... "
+    ],
+    [
+      0.034776,
+      "yes"
+    ],
+    [
+      0.000954,
+      "\r\n"
+    ],
+    [
+      0.000885,
+      "checking how to run the C preprocessor... "
+    ],
+    [
+      0.016089,
+      "gcc -E"
+    ],
+    [
+      0.000963,
+      "\r\n"
+    ],
+    [
+      0.017410,
+      "checking for grep that handles long lines and -e... "
+    ],
+    [
+      0.002772,
+      "/bin/grep"
+    ],
+    [
+      0.000349,
+      "\r\n"
+    ],
+    [
+      0.000335,
+      "checking for egrep... "
+    ],
+    [
+      0.001744,
+      "/bin/grep -E"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "checking for ANSI C header files... "
+    ],
+    [
+      0.093895,
+      "yes"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.002475,
+      "checking for sys/types.h... "
+    ],
+    [
+      0.026340,
+      "yes"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.004999,
+      "checking for sys/stat.h... "
+    ],
+    [
+      0.031786,
+      "yes"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.005605,
+      "checking for stdlib.h... "
+    ],
+    [
+      0.028566,
+      "yes"
+    ],
+    [
+      0.000840,
+      "\r\n"
+    ],
+    [
+      0.005751,
+      "checking for string.h... "
+    ],
+    [
+      0.032303,
+      "yes"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.005491,
+      "checking for memory.h... "
+    ],
+    [
+      0.034244,
+      "yes"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.004978,
+      "checking for strings.h... "
+    ],
+    [
+      0.033637,
+      "yes"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.006671,
+      "checking for inttypes.h... "
+    ],
+    [
+      0.033738,
+      "yes"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.005403,
+      "checking for stdint.h... "
+    ],
+    [
+      0.034489,
+      "yes"
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.006994,
+      "checking for unistd.h... "
+    ],
+    [
+      0.037604,
+      "yes"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.005869,
+      "checking for stdlib.h... "
+    ],
+    [
+      0.000209,
+      "(cached) "
+    ],
+    [
+      0.000177,
+      "yes"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.007758,
+      "checking for stdint.h... "
+    ],
+    [
+      0.000274,
+      "(cached) "
+    ],
+    [
+      0.000175,
+      "yes"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.005491,
+      "checking for string.h... "
+    ],
+    [
+      0.000323,
+      "(cached) "
+    ],
+    [
+      0.000178,
+      "yes"
+    ],
+    [
+      0.000651,
+      "\r\n"
+    ],
+    [
+      0.004578,
+      "checking pcap.h usability... "
+    ],
+    [
+      0.038927,
+      "yes"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "checking pcap.h presence... "
+    ],
+    [
+      0.010835,
+      "yes"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "checking for pcap.h... "
+    ],
+    [
+      0.000162,
+      "yes"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.001743,
+      "checking sqlite3.h usability... "
+    ],
+    [
+      0.038863,
+      "yes"
+    ],
+    [
+      0.000903,
+      "\r\n"
+    ],
+    [
+      0.000826,
+      "checking sqlite3.h presence... "
+    ],
+    [
+      0.007898,
+      "yes"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "checking for sqlite3.h... "
+    ],
+    [
+      0.000208,
+      "yes"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.020866,
+      "configure: creating ./config.status"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.062891,
+      "config.status: creating Makefile"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.027865,
+      "/home/cybercortex/reaver-wps-fork-t6x-master/src$ "
+    ],
+    [
+      1.005973,
+      "\u001b"
+    ],
+    [
+      0.181957,
+      "["
+    ],
+    [
+      0.092521,
+      "9"
+    ],
+    [
+      0.092321,
+      "6"
+    ],
+    [
+      0.090758,
+      "m"
+    ],
+    [
+      0.091473,
+      "m"
+    ],
+    [
+      0.090853,
+      "a"
+    ],
+    [
+      0.091499,
+      "k"
+    ],
+    [
+      0.090784,
+      "e"
+    ],
+    [
+      0.092365,
+      "\u001b"
+    ],
+    [
+      0.091965,
+      "["
+    ],
+    [
+      0.181865,
+      "0"
+    ],
+    [
+      0.090752,
+      "m"
+    ],
+    [
+      0.091544,
+      "\r\n"
+    ],
+    [
+      1.013654,
+      "(cd utils \u0026\u0026 make)"
+    ],
+    [
+      0.000665,
+      "\r\n"
+    ],
+    [
+      0.008514,
+      "make[1]: Entering directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/utils'"
+    ],
+    [
+      0.001381,
+      "\r\n"
+    ],
+    [
+      0.115158,
+      "  CC  base64.c"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.034686,
+      "common.c: In function ‘pingen_zhaochunsheng’:"
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000313,
+      "common.c:597:5: warning: passing argument 1 of ‘snprintf’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "     snprintf(pin, pin_len, \"%08d\", (default_pin * 10) + wps_checksum(default_pin));"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "     ^"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "In file included from /usr/include/features.h:374:0,"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "                 from /usr/include/stdlib.h:24,"
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "                 from includes.h:25,"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "                 from common.c:15:"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "/usr/include/x86_64-linux-gnu/bits/stdio2.h:61:1: note: expected ‘char * __restrict__’ but argument is of type ‘int’"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      " __NTH (snprintf (char *__restrict __s, size_t __n,"
+    ],
+    [
+      0.000962,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      " ^"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "common.c: In function ‘pingen_zyxel’:"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "common.c:614:5: warning: implicit declaration of function ‘wps_pin_checksum’ [-Wimplicit-function-declaration]"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "     return (pin * 10) + wps_pin_checksum(pin);"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "     ^"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.149942,
+      "  CC  common.c"
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.057251,
+      "  CC  ip_addr.c"
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.060939,
+      "  CC  radiotap.c"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.040739,
+      "  CC  trace.c"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.063828,
+      "  CC  uuid.c"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.105549,
+      "  CC  wpa_debug.c"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.099628,
+      "  CC  wpabuf.c"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.096920,
+      "  CC  os_unix.c"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.168308,
+      "  CC  eloop.c"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "ar crT libutils.a base64.o common.o ip_addr.o radiotap.o trace.o uuid.o wpa_debug.o wpabuf.o os_unix.o eloop.o"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.002275,
+      "make[1]: Leaving directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/utils'"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000320,
+      "(cd tls \u0026\u0026 make)"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.002202,
+      "make[1]: Entering directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/tls'"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.097546,
+      "  CC  asn1.c"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.035538,
+      "In file included from bignum.c:21:0:"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "libtommath.c: In function ‘mp_exptmod’:"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "libtommath.c:580:9: warning: variable ‘dr’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000783,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "     int dr;"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "         ^"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.467745,
+      "  CC  bignum.c"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.078736,
+      "  CC  pkcs1.c"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.082102,
+      "  CC  pkcs5.c"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.071896,
+      "  CC  pkcs8.c"
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.090557,
+      "  CC  rsa.c"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.153844,
+      "  CC  tlsv1_client.c"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.184640,
+      "  CC  tlsv1_client_read.c"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.170723,
+      "  CC  tlsv1_client_write.c"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.075672,
+      "  CC  tlsv1_common.c"
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.123777,
+      "  CC  tlsv1_cred.c"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.105327,
+      "  CC  tlsv1_record.c"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.135762,
+      "  CC  tlsv1_server.c"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.037543,
+      "tlsv1_server_read.c: In function ‘tls_process_client_key_exchange_rsa’:"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "tlsv1_server_read.c:474:9: warning: variable ‘encr_len’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "     u16 encr_len;"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "         ^"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.168847,
+      "  CC  tlsv1_server_read.c"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.160468,
+      "  CC  tlsv1_server_write.c"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.353089,
+      "  CC  x509v3.c"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "ar crT libtls.a asn1.o bignum.o pkcs1.o pkcs5.o pkcs8.o rsa.o tlsv1_client.o tlsv1_client_read.o tlsv1_client_write.o tlsv1_common.o tlsv1_cred.o tlsv1_record.o tlsv1_server.o tlsv1_server_read.o tlsv1_server_write.o x509v3.o"
+    ],
+    [
+      0.000972,
+      "\r\n"
+    ],
+    [
+      0.001753,
+      "make[1]: Leaving directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/tls'"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.001169,
+      "(cd crypto \u0026\u0026 make)"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.002888,
+      "make[1]: Entering directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/crypto'"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.063113,
+      "  CC  aes-cbc.c"
+    ],
+    [
+      0.000207,
+      "\r\n"
+    ],
+    [
+      0.055873,
+      "  CC  aes-ctr.c"
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.070586,
+      "  CC  aes-eax.c"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.046364,
+      "  CC  aes-encblock.c"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.058211,
+      "  CC  aes-internal.c"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.104591,
+      "  CC  aes-internal-dec.c"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.090745,
+      "  CC  aes-internal-enc.c"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.075131,
+      "  CC  aes-omac1.c"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.057354,
+      "  CC  aes-unwrap.c"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.060142,
+      "  CC  aes-wrap.c"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.136903,
+      "  CC  des-internal.c"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.047655,
+      "  CC  dh_group5.c"
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.081103,
+      "  CC  dh_groups.c"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.101568,
+      "  CC  md4-internal.c"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.060861,
+      "  CC  md5.c"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.035079,
+      "md5-internal.c: In function ‘MD5Final’:"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "md5-internal.c:185:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "     ((u32 *) ctx-\u003ein)[14] = ctx-\u003ebits[0];"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "     ^"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "md5-internal.c:186:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "     ((u32 *) ctx-\u003ein)[15] = ctx-\u003ebits[1];"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "     ^"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000335,
+      "In file included from ../utils/common.h:18:0,"
+    ],
+    [
+      0.000835,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "                 from md5-internal.c:17:"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "md5-internal.c:191:29: warning: argument to ‘sizeof’ in ‘memset’ call is the same expression as the destination; did you mean to dereference it? [-Wsizeof-pointer-memaccess]"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "     os_memset(ctx, 0, sizeof(ctx)); /* In case it's sensitive */"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "                             ^"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "../utils/os.h:413:41: note: in definition of macro ‘os_memset’"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      " #define os_memset(s, c, n) memset(s, c, n)"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "                                         ^"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.086001,
+      "  CC  md5-internal.c"
+    ],
+    [
+      0.000205,
+      "\r\n"
+    ],
+    [
+      0.061482,
+      "  CC  md5-non-fips.c"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.127024,
+      "  CC  milenage.c"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.115976,
+      "  CC  ms_funcs.c"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.061690,
+      "  CC  rc4.c"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.071885,
+      "  CC  sha1.c"
+    ],
+    [
+      0.000314,
+      "\r\n"
+    ],
+    [
+      0.229783,
+      "  CC  sha1-internal.c"
+    ],
+    [
+      0.000693,
+      "\r\n"
+    ],
+    [
+      0.060360,
+      "  CC  sha1-pbkdf2.c"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.059696,
+      "  CC  sha1-tlsprf.c"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.057329,
+      "  CC  sha1-tprf.c"
+    ],
+    [
+      0.001493,
+      "\r\n"
+    ],
+    [
+      0.078951,
+      "  CC  sha256.c"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.090279,
+      "  CC  sha256-internal.c"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.083045,
+      "  CC  crypto_internal.c"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.101064,
+      "  CC  crypto_internal-cipher.c"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.048672,
+      "  CC  crypto_internal-modexp.c"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.058403,
+      "  CC  crypto_internal-rsa.c"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.153859,
+      "  CC  tls_internal.c"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.059444,
+      "  CC  fips_prf_internal.c"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "ar crT libcrypto.a aes-cbc.o aes-ctr.o aes-eax.o aes-encblock.o aes-internal.o aes-internal-dec.o aes-internal-enc.o aes-omac1.o aes-unwrap.o aes-wrap.o des-internal.o dh_group5.o dh_groups.o md4-internal.o md5.o md5-internal.o md5-non-fips.o milenage.o ms_funcs.o rc4.o sha1.o sha1-internal.o sha1-pbkdf2.o sha1-tlsprf.o sha1-tprf.o sha256.o sha256-internal.o crypto_internal.o crypto_internal-cipher.o crypto_internal-modexp.o crypto_internal-rsa.o tls_internal.o fips_prf_internal.o"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.003027,
+      "make[1]: Leaving directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/crypto'"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "(cd wps \u0026\u0026 make)"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.002148,
+      "make[1]: Entering directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/wps'"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "cc  -I../utils -I ../ wps_attr_build.c -c"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.057525,
+      "cc  -I../utils -I ../ wps_attr_parse.c -c"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.046480,
+      "cc  -I../utils -I ../ wps_attr_process.c -c"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.051179,
+      "cc  -I../utils -I ../ wps.c -c"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.058897,
+      "cc  -I../utils -I ../ wps_common.c -c"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.066551,
+      "cc  -I../utils -I ../ wps_dev_attr.c -c"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.028950,
+      "wps_dev_attr.c: In function ‘wps_process_manufacturer’:"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "wps_dev_attr.c:200:26: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                          ^"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "wps_dev_attr.c:200:13: warning: format ‘%c’ expects argument of type ‘int’, but argument 2 has type ‘char *’ [-Wformat=]"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "             ^"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000523,
+      "wps_dev_attr.c: In function ‘wps_process_model_name’:"
+    ],
+    [
+      0.000620,
+      "\r\n"
+    ],
+    [
+      0.000241,
+      "wps_dev_attr.c:241:26: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "                          ^"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "wps_dev_attr.c:241:13: warning: format ‘%c’ expects argument of type ‘int’, but argument 2 has type ‘char *’ [-Wformat=]"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "             ^"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "wps_dev_attr.c: In function ‘wps_process_model_number’:"
+    ],
+    [
+      0.000582,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "wps_dev_attr.c:280:26: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "                          ^"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "wps_dev_attr.c:280:13: warning: format ‘%c’ expects argument of type ‘int’, but argument 2 has type ‘char *’ [-Wformat=]"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "             ^"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000333,
+      "wps_dev_attr.c: In function ‘wps_process_serial_number’:"
+    ],
+    [
+      0.001107,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "wps_dev_attr.c:319:26: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "                          ^"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "wps_dev_attr.c:319:13: warning: format ‘%c’ expects argument of type ‘int’, but argument 2 has type ‘char *’ [-Wformat=]"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "             printf(\"%c\", (char *) str[pixiecnt]);"
+    ],
+    [
+      0.000945,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "             ^"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "wps_dev_attr.c:344:3: warning: passing argument 1 of ‘pingen_belkin’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "   printf(\"[Pin Gen] Pin Generated : %08d\\n\",pingen_belkin(mac2str(get_bssid(),'\\0'), str, str_len, 0));"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "   ^"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000621,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "../utils/common.h:447:5: note: expected ‘char *’ but argument is of type ‘int’"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      " int pingen_belkin(char *mac, char *serial, int len_serial, int add); "
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "     ^"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "wps_dev_attr.c:344:3: warning: passing argument 2 of ‘pingen_belkin’ discards ‘const’ qualifier from pointer target type [enabled by default]"
+    ],
+    [
+      0.000930,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "   printf(\"[Pin Gen] Pin Generated : %08d\\n\",pingen_belkin(mac2str(get_bssid(),'\\0'), str, str_len, 0));"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "   ^"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "../utils/common.h:447:5: note: expected ‘char *’ but argument is of type ‘const u8 *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " int pingen_belkin(char *mac, char *serial, int len_serial, int add); "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "wps_dev_attr.c:345:3: warning: passing argument 1 of ‘pingen_belkin’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "   printf(\"[Pin Gen] Pin Generated (+1): %08d\\n\",pingen_belkin(mac2str(get_bssid(),'\\0'), str, str_len, 1));"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "   ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "../utils/common.h:447:5: note: expected ‘char *’ but argument is of type ‘int’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " int pingen_belkin(char *mac, char *serial, int len_serial, int add); "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "wps_dev_attr.c:345:3: warning: passing argument 2 of ‘pingen_belkin’ discards ‘const’ qualifier from pointer target type [enabled by default]"
+    ],
+    [
+      0.000590,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "   printf(\"[Pin Gen] Pin Generated (+1): %08d\\n\",pingen_belkin(mac2str(get_bssid(),'\\0'), str, str_len, 1));"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "   ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "../utils/common.h:447:5: note: expected ‘char *’ but argument is of type ‘const u8 *’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      " int pingen_belkin(char *mac, char *serial, int len_serial, int add); "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "     ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "wps_dev_attr.c:346:3: warning: passing argument 1 of ‘pingen_belkin’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "   printf(\"[Pin Gen] Pin Generated (-1): %08d\\n\\n\",pingen_belkin(mac2str(get_bssid(),'\\0'), str, str_len, -1));"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000000,
+      "   ^"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000000,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000000,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "../utils/common.h:447:5: note: expected ‘char *’ but argument is of type ‘int’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      " int pingen_belkin(char *mac, char *serial, int len_serial, int add); "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "     ^"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001070,
+      "wps_dev_attr.c:346:3: warning: passing argument 2 of ‘pingen_belkin’ discards ‘const’ qualifier from pointer target type [enabled by default]"
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "   printf(\"[Pin Gen] Pin Generated (-1): %08d\\n\\n\",pingen_belkin(mac2str(get_bssid(),'\\0'), str, str_len, -1));"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "   ^"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000000,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000000,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "../utils/common.h:447:5: note: expected ‘char *’ but argument is of type ‘const u8 *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " int pingen_belkin(char *mac, char *serial, int len_serial, int add); "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "wps_dev_attr.c:355:3: warning: passing argument 1 of ‘pingen_dlink’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "   printf(\"[Pin Gen] Pin Generated : %08d\\n\",pingen_dlink(mac2str(get_bssid(),'\\0'), 0));"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "   ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000867,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "../utils/common.h:448:5: note: expected ‘char *’ but argument is of type ‘int’"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      " int pingen_dlink(char *mac, int add);        "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "wps_dev_attr.c:356:3: warning: passing argument 1 of ‘pingen_dlink’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "   printf(\"[Pin Gen] Pin Generated (+1): %08d\\n\",pingen_dlink(mac2str(get_bssid(),'\\0'), 1));"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "   ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "../utils/common.h:448:5: note: expected ‘char *’ but argument is of type ‘int’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " int pingen_dlink(char *mac, int add);        "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "wps_dev_attr.c:357:3: warning: passing argument 1 of ‘pingen_dlink’ makes pointer from integer without a cast [enabled by default]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "   printf(\"[Pin Gen] Pin Generated (-1): %08d\\n\\n\",pingen_dlink(mac2str(get_bssid(),'\\0'), -1));"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "   ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "In file included from ../wps.h:40:0,"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from ../defs.h:45,"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from ../globule.h:37,"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                 from wps_dev_attr.c:15:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "../utils/common.h:448:5: note: expected ‘char *’ but argument is of type ‘int’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " int pingen_dlink(char *mac, int add);        "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "     ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.039501,
+      "cc  -I../utils -I ../ wps_enrollee.c -c"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.099315,
+      "cc  -I../utils -I ../ wps_registrar.c -c"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.035081,
+      "wps_registrar.c: In function ‘wps_build_m4’:"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.000264,
+      "wps_registrar.c:1499:5: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘size_t’ [-Wformat=]"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "     wpa_printf(MSG_DEBUG, \"WPS: Dev Password Len: %d\", wps-\u003edev_password_len);"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "     ^"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.166950,
+      "cc  -I../utils -I ../ wps_ufd.c -c"
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.048540,
+      "make[1]: Leaving directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/wps'"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000414,
+      "(cd lwe \u0026\u0026 make BUILD_STATIC=y libiw.a)"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.006740,
+      "make[1]: Entering directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/lwe'"
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "cp wireless.21.h wireless.h"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.001583,
+      "gcc -Os -W -Wall -Wstrict-prototypes -Wmissing-prototypes -Wshadow -Wpointer-arith -Wcast-qual -Winline -I. -MMD     -fPIC -c -o iwlib.so iwlib.c"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.056219,
+      "iwlib.c: In function ‘iw_enum_devices’:"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "iwlib.c:254:14: warning: ignoring return value of ‘fgets’, declared with attribute warn_unused_result [-Wunused-result]"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "         fgets(buff, sizeof(buff), fh);"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "              ^"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "iwlib.c:255:14: warning: ignoring return value of ‘fgets’, declared with attribute warn_unused_result [-Wunused-result]"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "         fgets(buff, sizeof(buff), fh);"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "              ^"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.000663,
+      "iwlib.c: In function ‘iw_get_kernel_we_version’:"
+    ],
+    [
+      0.001047,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "iwlib.c:337:10: warning: ignoring return value of ‘fgets’, declared with attribute warn_unused_result [-Wunused-result]"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "     fgets(buff, sizeof(buff), fh);"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "          ^"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000180,
+      "iwlib.c:353:10: warning: ignoring return value of ‘fgets’, declared with attribute warn_unused_result [-Wunused-result]"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "     fgets(buff, sizeof(buff), fh);"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "          ^"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.328109,
+      "rm -f libiw.a"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000390,
+      "ar cru libiw.a iwlib.so"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.002138,
+      "ranlib libiw.a"
+    ],
+    [
+      0.000291,
+      "\r\n"
+    ],
+    [
+      0.001370,
+      "make[1]: Leaving directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/lwe'"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000238,
+      "(cd libwps \u0026\u0026 make)"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.002274,
+      "make[1]: Entering directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/libwps'"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "gcc -Wall libwps.c -c"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.017466,
+      "libwps.c: In function ‘parse_wps_parameters’:"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000245,
+      "libwps.c:29:12: warning: variable ‘data_len’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     size_t data_len = 0, offset = 0;"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "            ^"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.019772,
+      "make[1]: Leaving directory `/home/cybercortex/reaver-wps-fork-t6x-master/src/libwps'"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 globule.c -c "
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.035331,
+      "globule.c: In function ‘set_p1_index’:"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "globule.c:110:9: warning: implicit declaration of function ‘cprintf’ [-Wimplicit-function-declaration]"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "         cprintf(VERBOSE,\"[+] p1_index set to %i\\n\",index);"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "         ^"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.167883,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps argsparser.c -c"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.056881,
+      "argsparser.c: In function ‘process_arguments’:"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.000242,
+      "argsparser.c:97:17: warning: implicit declaration of function ‘set_op_gen_pin’ [-Wimplicit-function-declaration]"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "                 set_op_gen_pin(atoi(optarg));"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "                 ^"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.057052,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 init.c -c"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.059071,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 misc.c -c"
+    ],
+    [
+      0.000296,
+      "\r\n"
+    ],
+    [
+      0.070902,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps sql.c -c"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.129199,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 builder.c -c"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.155099,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 crc.c -c"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.027067,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps 80211.c -c"
+    ],
+    [
+      0.000279,
+      "\r\n"
+    ],
+    [
+      0.057237,
+      "80211.c: In function ‘read_ap_beacon’:"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.000236,
+      "80211.c:90:12: warning: variable ‘tag_offset’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "     size_t tag_offset = 0;"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "            ^"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.135661,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 iface.c -c"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.081863,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps wpsmon.c *.o libwps/*.o wps/*.o tls/bignum.o tls/libtls.a utils/libutils.a crypto/libcrypto.a lwe/libiw.a -ldl -lm -lpcap -lsqlite3  -o wash"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.059157,
+      "wpsmon.c: In function ‘parse_wps_settings’:"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "wpsmon.c:438:7: warning: pointer targets in passing argument 2 of ‘strcat’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "       strcat(cmd_chipset, mac2str(get_bssid(),':'));"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "       ^"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "In file included from /usr/include/features.h:374:0,"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "                 from /usr/include/ctype.h:25,"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "                 from /usr/include/getopt.h:33,"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "                 from wpsmon.h:37,"
+    ],
+    [
+      0.000873,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                 from wpsmon.c:34:"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "/usr/include/x86_64-linux-gnu/bits/string3.h:140:1: note: expected ‘const char * __restrict__’ but argument is of type ‘unsigned char *’"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      " __NTH (strcat (char *__restrict __dest, const char *__restrict __src))"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      " ^"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.151654,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps sigint.c -c"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.059702,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 sigalrm.c -c"
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.056396,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 keys.c -c"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.138156,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 pins.c -c"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.067594,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 send.c -c"
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.069055,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps exchange.c -c"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.129995,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps session.c -c"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.106496,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps cracker.c -c"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.131052,
+      "gcc -DCONF_DIR='\"/usr/local/etc/reaver\"' -DREAVER_DATABASE='\"/usr/local/etc/reaver/reaver.db\"' -Wall -g -O2 -Ilibwps wpscrack.c *.o libwps/*.o wps/*.o tls/bignum.o tls/libtls.a utils/libutils.a crypto/libcrypto.a lwe/libiw.a -ldl -lm -lpcap -lsqlite3  -o reaver"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.057288,
+      "wpscrack.c: In function ‘main’:"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "wpscrack.c:40:33: warning: variable ‘r’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "     int ret_val = EXIT_FAILURE, r = 0;"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "                                 ^"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.083384,
+      "/home/cybercortex/reaver-wps-fork-t6x-master/src$ "
+    ],
+    [
+      1.006235,
+      "\u001b"
+    ],
+    [
+      0.182426,
+      "["
+    ],
+    [
+      0.090797,
+      "9"
+    ],
+    [
+      0.091798,
+      "6"
+    ],
+    [
+      0.091553,
+      "m"
+    ],
+    [
+      0.090680,
+      "s"
+    ],
+    [
+      0.092020,
+      "u"
+    ],
+    [
+      0.091868,
+      "d"
+    ],
+    [
+      0.090763,
+      "o"
+    ],
+    [
+      0.090759,
+      " "
+    ],
+    [
+      0.091829,
+      "m"
+    ],
+    [
+      0.182514,
+      "a"
+    ],
+    [
+      0.090218,
+      "k"
+    ],
+    [
+      0.091586,
+      "e"
+    ],
+    [
+      0.090407,
+      " "
+    ],
+    [
+      0.090409,
+      "i"
+    ],
+    [
+      0.091136,
+      "n"
+    ],
+    [
+      0.090887,
+      "s"
+    ],
+    [
+      0.090403,
+      "t"
+    ],
+    [
+      0.090549,
+      "a"
+    ],
+    [
+      0.091246,
+      "l"
+    ],
+    [
+      0.183397,
+      "l"
+    ],
+    [
+      0.091152,
+      "\u001b"
+    ],
+    [
+      0.090355,
+      "["
+    ],
+    [
+      0.090316,
+      "0"
+    ],
+    [
+      0.090299,
+      "m"
+    ],
+    [
+      0.092190,
+      "\r\n"
+    ],
+    [
+      1.014004,
+      "rm -f /usr/local/bin/reaver /usr/local/bin/wash /usr/local/bin/walsh"
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.001266,
+      "if [ ! -d /usr/local/etc/reaver ]; then mkdir -p /usr/local/etc/reaver; fi"
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.003861,
+      "if [ ! -e /usr/local/etc/reaver/reaver.db ]; then cp reaver.db /usr/local/etc/reaver/reaver.db \u0026\u0026 chmod -R a+rw /usr/local/etc/reaver; fi"
+    ],
+    [
+      0.001063,
+      "\r\n"
+    ],
+    [
+      0.004573,
+      "if [ -e wash ]; then cp wash /usr/local/bin/wash; fi"
+    ],
+    [
+      0.000364,
+      "\r\n"
+    ],
+    [
+      0.004547,
+      "if [ -e reaver ]; then cp reaver /usr/local/bin/reaver; fi"
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.008147,
+      "/home/cybercortex/reaver-wps-fork-t6x-master/src$ "
+    ],
+    [
+      1.007142,
+      "\u001b"
+    ],
+    [
+      0.181991,
+      "["
+    ],
+    [
+      0.090847,
+      "9"
+    ],
+    [
+      0.091760,
+      "6"
+    ],
+    [
+      0.090196,
+      "m"
+    ],
+    [
+      0.090287,
+      "r"
+    ],
+    [
+      0.091533,
+      "e"
+    ],
+    [
+      0.090263,
+      "a"
+    ],
+    [
+      0.091432,
+      "v"
+    ],
+    [
+      0.090252,
+      "e"
+    ],
+    [
+      0.180514,
+      "r"
+    ],
+    [
+      0.090254,
+      " "
+    ],
+    [
+      0.091283,
+      "2"
+    ],
+    [
+      0.091368,
+      "\u003e"
+    ],
+    [
+      0.090310,
+      "\u0026"
+    ],
+    [
+      0.091753,
+      "1"
+    ],
+    [
+      0.091170,
+      " "
+    ],
+    [
+      0.090292,
+      "|"
+    ],
+    [
+      0.090255,
+      " "
+    ],
+    [
+      0.090291,
+      "g"
+    ],
+    [
+      0.182017,
+      "r"
+    ],
+    [
+      0.091767,
+      "e"
+    ],
+    [
+      0.090312,
+      "p"
+    ],
+    [
+      0.091677,
+      " "
+    ],
+    [
+      0.090291,
+      "R"
+    ],
+    [
+      0.090373,
+      "e"
+    ],
+    [
+      0.091164,
+      "a"
+    ],
+    [
+      0.091125,
+      "v"
+    ],
+    [
+      0.090448,
+      "e"
+    ],
+    [
+      0.091203,
+      "r"
+    ],
+    [
+      0.181339,
+      "\u001b"
+    ],
+    [
+      0.090289,
+      "["
+    ],
+    [
+      0.091126,
+      "0"
+    ],
+    [
+      0.091088,
+      "m"
+    ],
+    [
+      0.093727,
+      "\r\n"
+    ],
+    [
+      1.015023,
+      "Reaver v1.5.2 WiFi Protected Setup Attack Tool"
+    ],
+    [
+      0.000579,
+      "\r\n"
+    ]
+  ]
+}

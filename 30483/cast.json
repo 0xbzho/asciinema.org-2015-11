@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 99.130849,
+  "command": "sh .answer2.start ",
+  "title": "midterm1-question2",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.003663,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000856,
+      "$ ls\r\n"
+    ],
+    [
+      1.003989,
+      "\u001b[0m\u001b[01;34mmidterm1\u001b[0m  \u001b[01;31mmidterm1.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      2.001965,
+      "$ cd midterm1\r\n"
+    ],
+    [
+      3.003061,
+      "$ cd question2\r\n"
+    ],
+    [
+      3.002612,
+      "$ mkdir genomes\r\n"
+    ],
+    [
+      3.003405,
+      "$ cd genomes\r\n"
+    ],
+    [
+      3.001488,
+      "$ mkdir birds fish mammals\r\n"
+    ],
+    [
+      3.005455,
+      "$ cd birds\r\n"
+    ],
+    [
+      3.003434,
+      "$ touch bat.fa chicken.fa\r\n"
+    ],
+    [
+      3.002645,
+      "$ ls"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      1.003478,
+      "bat.fa  chicken.fa\r\n"
+    ],
+    [
+      2.002033,
+      "$ cd ..\r\n"
+    ],
+    [
+      3.003449,
+      "$ cd fish\r\n"
+    ],
+    [
+      3.002779,
+      "$ touch penguen.fa platypus.fa zebrafish.fa\r\n"
+    ],
+    [
+      3.005006,
+      "$ ls\r\n"
+    ],
+    [
+      1.003073,
+      "penguen.fa  platypus.fa  zebrafish.fa\r\n"
+    ],
+    [
+      2.001579,
+      "$ cd .."
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      3.002582,
+      "$ cd mammals\r\n"
+    ],
+    [
+      3.002964,
+      "$ touch human.fa mouse.fa\r\n"
+    ],
+    [
+      3.004985,
+      "$ ls\r\n"
+    ],
+    [
+      1.001860,
+      "human.fa  mouse.fa\r\n"
+    ],
+    [
+      2.001082,
+      "$ cd ..\r\n"
+    ],
+    [
+      3.002405,
+      "$ cd ..\r\n"
+    ],
+    [
+      3.002854,
+      "$ find .\r\n"
+    ],
+    [
+      1.002261,
+      ".\r\n"
+    ],
+    [
+      0.000012,
+      "./genomes\r\n"
+    ],
+    [
+      0.000028,
+      "./genomes/birds\r\n"
+    ],
+    [
+      0.000045,
+      "./genomes/birds/chicken.fa\r\n./genomes/birds/bat.fa\r\n"
+    ],
+    [
+      0.000024,
+      "./genomes/mammals\r\n"
+    ],
+    [
+      0.000037,
+      "./genomes/mammals/human.fa\r\n"
+    ],
+    [
+      0.000017,
+      "./genomes/mammals/mouse.fa\r\n./genomes/fish\r\n"
+    ],
+    [
+      0.000020,
+      "./genomes/fish/zebrafish.fa"
+    ],
+    [
+      0.000007,
+      "\r\n./genomes/fish/platypus.fa"
+    ],
+    [
+      0.000008,
+      "\r\n./genomes/fish/penguen.fa"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      2.001396,
+      "$ \r\n"
+    ],
+    [
+      3.003334,
+      "$ # şimdi ikinci resimdeki hale dönüştürmeye başlayalım\r\n"
+    ],
+    [
+      3.002612,
+      "$ ls\r\n"
+    ],
+    [
+      1.002639,
+      "\u001b[0m\u001b[01;34mgenomes\u001b[0m\r\n"
+    ],
+    [
+      2.002338,
+      "$ cd genomes\r\n"
+    ],
+    [
+      3.003088,
+      "$ #şu an genomes klasörü içindeyiz ve bütün komutları bulunduğumuz klasörden yazacağız\r\n"
+    ],
+    [
+      3.002910,
+      "$ mv birds/bat.fa mammals/\r\n"
+    ],
+    [
+      3.003536,
+      "$ mv fish/penguen.fa birds/\r\n"
+    ],
+    [
+      3.006205,
+      "$ mv fish/platypus.fa mammals/\r\n"
+    ],
+    [
+      3.006421,
+      "$ mkdir mammals/primates\r\n"
+    ],
+    [
+      3.006035,
+      "$ mv mammals/human.fa mammals/primates\r\n"
+    ],
+    [
+      3.004646,
+      "$ cd ..\r\n"
+    ],
+    [
+      3.001984,
+      "$ find .\r\n"
+    ],
+    [
+      1.002738,
+      ".\r\n"
+    ],
+    [
+      0.000017,
+      "./genomes\r\n./genomes/birds"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "./genomes/birds/chicken.fa\r\n./genomes/birds/penguen.fa\r\n"
+    ],
+    [
+      0.000010,
+      "./genomes/mammals\r\n"
+    ],
+    [
+      0.000065,
+      "./genomes/mammals/bat.fa\r\n./genomes/mammals/platypus.fa\r\n./genomes/mammals/mouse.fa\r\n"
+    ],
+    [
+      0.000010,
+      "./genomes/mammals/primates\r\n"
+    ],
+    [
+      0.000010,
+      "./genomes/mammals/primates/human.fa"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "./genomes/fish\r\n"
+    ],
+    [
+      0.000052,
+      "./genomes/fish/zebrafish.fa\r\n"
+    ],
+    [
+      2.001904,
+      "$ \r\n"
+    ]
+  ]
+}

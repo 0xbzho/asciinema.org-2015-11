@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 139.189705,
+  "command": "bash .answer3.start ",
+  "title": "midterm1-question3",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005287,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000925,
+      "$ #3. soru için question3 klasörüne gidiyoruz\r\n"
+    ],
+    [
+      3.001984,
+      "$ cd midterm1/question3\r\n"
+    ],
+    [
+      3.002204,
+      "$ \r\n"
+    ],
+    [
+      3.003454,
+      "$ ###Group 2 sorusu: How many A,C,G,T characters are there in file sample.fa?\r\n"
+    ],
+    [
+      3.001971,
+      "$ \r\n"
+    ],
+    [
+      3.002985,
+      "$ #kitabımızdaki fold komutu ardındaki soruyu derste çözmüştük, benzer şekilde çözeceğiz\r\n"
+    ],
+    [
+      3.003595,
+      "$ \r\n"
+    ],
+    [
+      3.003632,
+      "$ #fold -w1 ile tek sütün haline getirelim dosya içeriğini\r\n"
+    ],
+    [
+      3.005322,
+      "$ fold -w1 sample.fa | head -20\t#sadece 20 satır gösteriliyor\r\n"
+    ],
+    [
+      1.001208,
+      "\u003e\r\nc\r\nh\r\nr\r\n"
+    ],
+    [
+      0.000008,
+      "1\r\n_\r\np\r\na\r\nr\r\nt\r\ni\r\na\r\nl\r\n \r\nC\r\nC"
+    ],
+    [
+      0.000007,
+      "\r\nC\r\nT\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\nA"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      2.000933,
+      "$ \r\n"
+    ],
+    [
+      3.001987,
+      "$ #ardından sort yaparak benzer harfleri ard arda getiriyoruz\r\n"
+    ],
+    [
+      3.003344,
+      "$ fold -w1 sample.fa | sort | head -20\r\n"
+    ],
+    [
+      1.468913,
+      "\u003e\r\n"
+    ],
+    [
+      0.000007,
+      " \r\n_\r\n1\r\na\r\na\r\nA\r\nA\r\nA\r\n"
+    ],
+    [
+      0.000005,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000005,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      0.000004,
+      "A\r\n"
+    ],
+    [
+      2.001616,
+      "$ \r\n"
+    ],
+    [
+      3.003036,
+      "$ #uniq -c ile sayıyoruz\r\n"
+    ],
+    [
+      3.004058,
+      "$ fold -w1 sample.fa | sort | uniq -c\r\n"
+    ],
+    [
+      1.474695,
+      "      1 \u003e\r\n      1  \r\n      1 _\r\n      1 1\r\n      2 a\r\n"
+    ],
+    [
+      0.009557,
+      " 245496 A\r\n      1 c\r\n"
+    ],
+    [
+      0.005848,
+      " 146958 C\r\n"
+    ],
+    [
+      0.005707,
+      " 146702 G\r\n      1 h\r\n      1 i"
+    ],
+    [
+      0.000004,
+      "\r\n      1 l\r\n      1 p\r\n      2 r\r\n      1 t"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.010042,
+      " 250765 T\r\n"
+    ],
+    [
+      2.001131,
+      "$ \r\n"
+    ],
+    [
+      3.002364,
+      "$ ###Grup 1 sorusu: A. How many genes are common between two experiments? (experiment1.results ve experiment2.results dosyaları için)\r\n"
+    ],
+    [
+      3.003320,
+      "$ #dosya içeriğine göz atalım\r\n"
+    ],
+    [
+      3.001761,
+      "$ head experiment1.results\r\n"
+    ],
+    [
+      1.002687,
+      "ENSG00000177485\t66\r\nENSG00000182504\t61"
+    ],
+    [
+      0.000016,
+      "\r\nENSG00000198711\t70\r\nENSG00000120215\t65\r\nENSG00000175221\t25\r\nENSG00000134597\t-73\r\n"
+    ],
+    [
+      0.000011,
+      "ENSG00000102125\t87"
+    ],
+    [
+      0.000012,
+      "\r\nENSG00000177238"
+    ],
+    [
+      0.000008,
+      "\t54\r\n"
+    ],
+    [
+      0.000010,
+      "ENSG00000160111\t"
+    ],
+    [
+      0.000009,
+      "-78\r\n"
+    ],
+    [
+      0.000008,
+      "ENSG00000070371\t"
+    ],
+    [
+      0.000008,
+      "37\r\n"
+    ],
+    [
+      2.002057,
+      "$ \r\n"
+    ],
+    [
+      3.002696,
+      "$ #gen adı yanında sayısal değer var, bu dosyayı olduğu gibi kullanamayız. Bir dosyadaki \"gen -10\" ile diğer dosyadaki \"gen 20\" satırları aynı olarak algılanmayacaktır.\r\n"
+    ],
+    [
+      3.003286,
+      "$ \r\n"
+    ],
+    [
+      3.003712,
+      "$ #sadece genlerin olduğu satırları almalıyız\r\n"
+    ],
+    [
+      3.002706,
+      "$ cut -f1 experiment1.results | head\r\n"
+    ],
+    [
+      1.002380,
+      "ENSG00000177485\r\nENSG00000182504"
+    ],
+    [
+      0.000018,
+      "\r\nENSG00000198711\r\nENSG00000120215\r\nENSG00000175221\r\nENSG00000134597\r\nENSG00000102125\r\nENSG00000177238\r\nENSG00000160111\r\nENSG00000070371\r\n"
+    ],
+    [
+      2.001531,
+      "$ \r\n"
+    ],
+    [
+      3.002226,
+      "$ #sort yapalım (comm komutu sıralı satırlar istiyor)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      3.003206,
+      "$ cut -f1 experiment1.results | sort | head\r\n"
+    ],
+    [
+      1.012650,
+      "ENSG00000000460\r\nENSG00000001629\r\nENSG00000003096\r\nENSG00000003249"
+    ],
+    [
+      0.000008,
+      "\r\nENSG00000004848\r\nENSG00000005471\r\nENSG00000006007\r\nENSG00000006607\r\nENSG00000006715\r\nENSG00000006756\r\n"
+    ],
+    [
+      2.001414,
+      "$ \r\n"
+    ],
+    [
+      3.002721,
+      "$ #derste gördüğümüz comm -1 -2 \u003c() \u003c() formatında çözelim\r\n"
+    ],
+    [
+      3.001986,
+      "$ comm -1 -2 \u003c(cut -f1 experiment1.results | sort) \u003c(cut -f1 experiment2.results | sort) | head"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.018516,
+      "ENSG00000000460\r\nENSG00000008130\r\n"
+    ],
+    [
+      0.000092,
+      "ENSG00000013588\r\nENSG00000035115\r\nENSG00000065457\r\nENSG00000066926\r\nENSG00000068400\r\nENSG00000091622\r\n"
+    ],
+    [
+      0.000006,
+      "ENSG00000099999\r\nENSG00000100219\r\n"
+    ],
+    [
+      2.000893,
+      "$ \r\n"
+    ],
+    [
+      3.002212,
+      "$ #bizden sayı istenmiş, wc ile sayalım\r\n"
+    ],
+    [
+      3.003600,
+      "$ comm -1 -2 \u003c(cut -f1 experiment1.results | sort) \u003c(cut -f1 experiment2.results | sort) | wc -l\r\n"
+    ],
+    [
+      1.012267,
+      "50\r\n"
+    ],
+    [
+      2.001147,
+      "$ \r\n"
+    ],
+    [
+      3.003075,
+      "$ ###Grup 1 sorusu: B. Repeating gene in experiment2.results file\r\n"
+    ],
+    [
+      3.004420,
+      "$ \r\n"
+    ],
+    [
+      3.004413,
+      "$ #birinci kısımda olduğu gibi, sadece genlerin olduğu kolonu kullanmamız gerekiyor, aynı zamanda alfebetik sıralama yapalım\r\n"
+    ],
+    [
+      3.003214,
+      "$ cut -f1 experiment2.results | sort |head\r\n"
+    ],
+    [
+      1.009446,
+      "ENSG00000000460\r\n"
+    ],
+    [
+      0.000008,
+      "ENSG00000000938\r\nENSG00000001461\r\nENSG00000001630\r\nENSG00000004838\r\nENSG00000005108\r\nENSG00000005486\r\nENSG00000006071\r\nENSG00000007545"
+    ],
+    [
+      0.000005,
+      "\r\nENSG00000008118\r\n"
+    ],
+    [
+      2.000901,
+      "$ "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      3.002670,
+      "$ #genler sıralandı, uniq -c ile sayalım\r\n"
+    ],
+    [
+      3.005455,
+      "$ cut -f1 experiment2.results | sort | uniq -c | head\r\n"
+    ],
+    [
+      1.006525,
+      "      1 ENSG00000000460\r\n"
+    ],
+    [
+      0.000008,
+      "      1 ENSG00000000938\r\n      1 ENSG00000001461\r\n      1 ENSG00000001630\r\n      1 ENSG00000004838\r\n      1 ENSG00000005108\r\n      1 ENSG00000005486\r\n      1 ENSG00000006071\r\n      1 ENSG00000007545\r\n      1 ENSG00000008118\r\n"
+    ],
+    [
+      2.001092,
+      "$ \r\n"
+    ],
+    [
+      3.002065,
+      "$ #bu listede bir genin yanında 2 yazıyor, onu hızlıca bulmanın yöntemi, sayısal olarak sıralama yapmak (bir önceki sonucu)\r\n"
+    ],
+    [
+      3.001991,
+      "$ cut -f1 experiment2.results | sort | uniq -c | sort -nr | head\r\n"
+    ],
+    [
+      1.021443,
+      "      2 ENSG00000169618\r\n"
+    ],
+    [
+      0.000008,
+      "      1 ENSG00000266118\r\n      1 ENSG00000264545\r\n      1 ENSG00000262664\r\n      1 ENSG00000262304\r\n      1 ENSG00000262246\r\n      1 ENSG00000260861\r\n      1 ENSG00000259399\r\n      1 ENSG00000259207"
+    ],
+    [
+      0.000005,
+      "\r\n      1 ENSG00000259202\r\n"
+    ],
+    [
+      2.000983,
+      "$ \r\n"
+    ],
+    [
+      3.003625,
+      "$ #listedeki ilk gen, listede iki defa bulunuyor\r\n"
+    ]
+  ]
+}

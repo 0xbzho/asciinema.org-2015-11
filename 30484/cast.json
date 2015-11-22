@@ -1,0 +1,642 @@
+{
+  "version": 1,
+  "width": 96,
+  "height": 23,
+  "duration": 12.447221,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.726254,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000049,
+      "\u001b]2;wskruse@Titanium: ~/tmp/q4\u0007\u001b]1;~/tmp/q4\u0007"
+    ],
+    [
+      0.016842,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.home \u001b[37min \u001b[1m\u001b[33m~/tmp/q4\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[32mo\u001b[00m \u001b[37m[12:52:12]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000029,
+      "\u001b[?2004h"
+    ],
+    [
+      0.595464,
+      "g"
+    ],
+    [
+      0.185180,
+      "\u0008gr"
+    ],
+    [
+      0.095050,
+      "u"
+    ],
+    [
+      0.079829,
+      "n"
+    ],
+    [
+      0.119919,
+      "t"
+    ],
+    [
+      0.146223,
+      " "
+    ],
+    [
+      0.190158,
+      "t"
+    ],
+    [
+      0.149668,
+      "e"
+    ],
+    [
+      0.151023,
+      "s"
+    ],
+    [
+      0.054863,
+      "t"
+    ],
+    [
+      0.120211,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000044,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000002,
+      "\r\r\n"
+    ],
+    [
+      0.000570,
+      "\u001b]2;grunt test\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;grunt\u0007"
+    ],
+    [
+      0.723394,
+      "\u001b[4mRunning \"casperjs:files\" (casperjs) task\u001b[24m\r\n"
+    ],
+    [
+      0.005338,
+      "Command: ./node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000122,
+      "\r\nRunning tests from \"tests/000-demo-loads.js\":\r\n"
+    ],
+    [
+      0.925463,
+      "\u001b[37;46;1mTest file: tests/000-demo-loads.js                                              \u001b[0m\r\n"
+    ],
+    [
+      0.003351,
+      "\u001b[33m# The demo configuration loads and all of the required elements are available\u001b[0m\r\n"
+    ],
+    [
+      0.336963,
+      "\u001b[32;1mPASS\u001b[0m Title is the expected value, matches workflow title from the JSON - Demo Workflow\r\n"
+    ],
+    [
+      0.000858,
+      "\u001b[32;1mPASS\u001b[0m The node step_0 exists\r\n"
+    ],
+    [
+      0.000451,
+      "\u001b[32;1mPASS\u001b[0m The node step_0 has at least one exit link\r\n"
+    ],
+    [
+      0.000399,
+      "\u001b[32;1mPASS\u001b[0m The node step_1 exists\r\n"
+    ],
+    [
+      0.000361,
+      "\u001b[32;1mPASS\u001b[0m The node step_1 has at least one entry link\r\n"
+    ],
+    [
+      0.000361,
+      "\u001b[32;1mPASS\u001b[0m The node step_1 has at least one exit link\r\n"
+    ],
+    [
+      0.000397,
+      "\u001b[32;1mPASS\u001b[0m The node step_2 exists\r\n"
+    ],
+    [
+      0.000378,
+      "\u001b[32;1mPASS\u001b[0m The node step_2 has at least one entry link\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b[32;1mPASS\u001b[0m The node step_2 has at least one exit link\r\n"
+    ],
+    [
+      0.000363,
+      "\u001b[32;1mPASS\u001b[0m The node step_3 exists\r\n"
+    ],
+    [
+      0.000439,
+      "\u001b[32;1mPASS\u001b[0m The node step_3 has at least one entry link\r\n"
+    ],
+    [
+      0.000411,
+      "\u001b[32;1mPASS\u001b[0m The node step_3 has at least one exit link\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b[32;1mPASS\u001b[0m The node step_4 exists\r\n"
+    ],
+    [
+      0.000307,
+      "\u001b[32;1mPASS\u001b[0m The node step_4 has at least one entry link\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b[32;1mPASS\u001b[0m The node step_4 has at least one exit link\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b[32;1mPASS\u001b[0m The node step_5 exists\r\n"
+    ],
+    [
+      0.000299,
+      "\u001b[32;1mPASS\u001b[0m The node step_5 has at least one entry link\r\n"
+    ],
+    [
+      0.000337,
+      "\u001b[32;1mPASS\u001b[0m The node step_5 has at least one exit link\r\n"
+    ],
+    [
+      0.000316,
+      "\u001b[32;1mPASS\u001b[0m The node step_6 exists\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[32;1mPASS\u001b[0m The node step_6 has at least one entry link\r\n"
+    ],
+    [
+      0.000298,
+      "\u001b[32;1mPASS\u001b[0m The node step_6 has at least one exit link\r\n"
+    ],
+    [
+      0.000287,
+      "\u001b[32;1mPASS\u001b[0m The node step_7 exists\r\n"
+    ],
+    [
+      0.000302,
+      "\u001b[32;1mPASS\u001b[0m The node step_7 has at least one entry link\r\n"
+    ],
+    [
+      0.000286,
+      "\u001b[32;1mPASS\u001b[0m The node step_7 has at least one exit link\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[32;1mPASS\u001b[0m The node step_8 exists\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[32;1mPASS\u001b[0m The node step_8 has at least one entry link\r\n"
+    ],
+    [
+      0.000282,
+      "\u001b[32;1mPASS\u001b[0m The node step_8 has at least one exit link\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[32;1mPASS\u001b[0m The node step_9 exists\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[32;1mPASS\u001b[0m The node step_9 has at least one entry link\r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[32;1mPASS\u001b[0m The node step_9 has at least one exit link\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b[32;1mPASS\u001b[0m The node step_10 exists\r\n"
+    ],
+    [
+      0.000346,
+      "\u001b[32;1mPASS\u001b[0m The node step_10 has at least one entry link\r\n"
+    ],
+    [
+      0.000343,
+      "\u001b[32;1mPASS\u001b[0m The node step_10 has at least one exit link\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b[32;1mPASS\u001b[0m The node step_11 exists\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b[32;1mPASS\u001b[0m The node step_11 has at least one entry link\r\n"
+    ],
+    [
+      0.000307,
+      "\u001b[32;1mPASS\u001b[0m The node step_11 has at least one exit link\r\n"
+    ],
+    [
+      0.000291,
+      "\u001b[32;1mPASS\u001b[0m The node step_12 exists\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[32;1mPASS\u001b[0m The node step_12 has at least one entry link\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[32;1mPASS\u001b[0m The node step_12 has at least one exit link\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b[32;1mPASS\u001b[0m The node step_13 exists\r\n"
+    ],
+    [
+      0.000279,
+      "\u001b[32;1mPASS\u001b[0m The node step_13 has at least one entry link\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b[32;1mPASS\u001b[0m The node step_13 has at least one exit link\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[32;1mPASS\u001b[0m The node step_14 exists\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[32;1mPASS\u001b[0m The node step_14 has at least one entry link\r\n"
+    ],
+    [
+      0.000291,
+      "\u001b[32;1mPASS\u001b[0m The node step_14 has at least one exit link\r\n"
+    ],
+    [
+      0.000289,
+      "\u001b[32;1mPASS\u001b[0m The node step_15 exists\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b[32;1mPASS\u001b[0m The node step_15 has at least one entry link\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b[32;1mPASS\u001b[0m The node step_15 has at least one exit link\r\n"
+    ],
+    [
+      0.000415,
+      "\u001b[32;1mPASS\u001b[0m The node step_16 exists\r\n"
+    ],
+    [
+      0.000359,
+      "\u001b[32;1mPASS\u001b[0m The node step_16 has at least one entry link\r\n"
+    ],
+    [
+      0.000308,
+      "\u001b[32;1mPASS\u001b[0m The node step_16 has at least one exit link\r\n"
+    ],
+    [
+      0.000350,
+      "\u001b[32;1mPASS\u001b[0m The node step_17 exists\r\n"
+    ],
+    [
+      0.000322,
+      "\u001b[32;1mPASS\u001b[0m The node step_17 has at least one entry link\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b[32;1mPASS\u001b[0m The node step_17 has at least one exit link\r\n"
+    ],
+    [
+      0.000339,
+      "\u001b[32;1mPASS\u001b[0m The node step_18 exists\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b[32;1mPASS\u001b[0m The node step_18 has at least one entry link\r\n"
+    ],
+    [
+      0.000337,
+      "\u001b[32;1mPASS\u001b[0m The node step_18 has at least one exit link\r\n"
+    ],
+    [
+      0.000329,
+      "\u001b[32;1mPASS\u001b[0m The node step_19 exists\r\n"
+    ],
+    [
+      0.000367,
+      "\u001b[32;1mPASS\u001b[0m The node step_19 has at least one entry link\r\n"
+    ],
+    [
+      0.000301,
+      "\u001b[32;1mPASS\u001b[0m The node step_19 has at least one exit link\r\n"
+    ],
+    [
+      0.000289,
+      "\u001b[32;1mPASS\u001b[0m The node step_20 exists\r\n"
+    ],
+    [
+      0.000292,
+      "\u001b[32;1mPASS\u001b[0m The node step_20 has at least one entry link\r\n"
+    ],
+    [
+      0.020944,
+      "\u001b[37;42;1mPASS 62 tests executed in 0.381s, 62 passed, 0 failed, 0 dubious, 0 skipped.    \u001b[0m\r\n"
+    ],
+    [
+      0.009080,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/tmp/q4/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.018973,
+      "Command: ./node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000040,
+      "\r\nRunning tests from \"tests/001-demo-click.js\":\r\n"
+    ],
+    [
+      0.851370,
+      "\u001b[37;46;1mTest file: tests/001-demo-click.js                                              \u001b[0m\r\n"
+    ],
+    [
+      0.000730,
+      "\u001b[33m# The demo configuration loads and we can click the nodes in proper order\u001b[0m\r\n"
+    ],
+    [
+      0.292456,
+      "\u001b[32;1mPASS\u001b[0m The first step with model-id=\"step_0\" exists\r\n"
+    ],
+    [
+      0.000547,
+      "\u001b[32;1mPASS\u001b[0m The first step does not have the .clicked class\r\n"
+    ],
+    [
+      0.008472,
+      "\u001b[32;1mPASS\u001b[0m The first step does have the .clicked class\r\n"
+    ],
+    [
+      0.030458,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.323s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006548,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/tmp/q4/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.020872,
+      "Command: ./node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000084,
+      "\r\nRunning tests from \"tests/002-demo-retains-click.js\":\r\n"
+    ],
+    [
+      0.849274,
+      "\u001b[37;46;1mTest file: tests/002-demo-retains-click.js                                      \u001b[0m\r\n"
+    ],
+    [
+      0.000714,
+      "\u001b[33m# Verify that the click status of the first step is retained after reload\u001b[0m\r\n"
+    ],
+    [
+      0.281754,
+      "\u001b[32;1mPASS\u001b[0m The first step with model-id=\"step_0\" exists\r\n"
+    ],
+    [
+      0.000631,
+      "\u001b[32;1mPASS\u001b[0m The first step does not have the .clicked class\r\n"
+    ],
+    [
+      0.008005,
+      "\u001b[32;1mPASS\u001b[0m The first step does have the .clicked class\r\n"
+    ],
+    [
+      0.274524,
+      "\u001b[32;1mPASS\u001b[0m The first step retains the .clicked class after reload\r\n"
+    ],
+    [
+      0.039642,
+      "\u001b[37;42;1mPASS 4 tests executed in 0.587s, 4 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006317,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/tmp/q4/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.020904,
+      "Command: ./node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000049,
+      "\r\nRunning tests from \"tests/003-demo-click-next.js\":\r\n"
+    ],
+    [
+      0.845577,
+      "\u001b[37;46;1mTest file: tests/003-demo-click-next.js                                         \u001b[0m\r\n"
+    ],
+    [
+      0.000639,
+      "\u001b[33m# Attempt to click the second step, before clicking the first, ensuring that the program prevents this\u001b[0m\r\n"
+    ],
+    [
+      0.289997,
+      "\u001b[32;1mPASS\u001b[0m The first step with model-id=\"step_0\" exists\r\n"
+    ],
+    [
+      0.000645,
+      "\u001b[32;1mPASS\u001b[0m The second step with model-id=\"step_1\" exists\r\n"
+    ],
+    [
+      0.003763,
+      "\u001b[32;1mPASS\u001b[0m Test to ensure that steps must be completed in order\r\n"
+    ],
+    [
+      0.035137,
+      "\u001b[37;42;1mPASS 3 tests executed in 0.316s, 3 passed, 0 failed, 0 dubious, 0 skipped.      \u001b[0m\r\n"
+    ],
+    [
+      0.006434,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/tmp/q4/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.018427,
+      "Command: ./node_modules/.bin/casperjs\r\n"
+    ],
+    [
+      0.000220,
+      "\r\nRunning tests from \"tests/004-demo-click-all.js\":\r\n"
+    ],
+    [
+      0.846817,
+      "\u001b[37;46;1mTest file: tests/004-demo-click-all.js                                          \u001b[0m\r\n"
+    ],
+    [
+      0.003322,
+      "\u001b[33m# Ensure that all of the nodes can be clicked in order\u001b[0m\r\n"
+    ],
+    [
+      0.296950,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_0\"].clicked\r\n"
+    ],
+    [
+      0.009698,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_1\"].clicked\r\n"
+    ],
+    [
+      0.007245,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_2\"].clicked\r\n"
+    ],
+    [
+      0.012427,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_3\"].clicked\r\n"
+    ],
+    [
+      0.008993,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_4\"].clicked\r\n"
+    ],
+    [
+      0.002578,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_5\"].clicked\r\n"
+    ],
+    [
+      0.005564,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_6\"].clicked\r\n"
+    ],
+    [
+      0.011329,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_7\"].clicked\r\n"
+    ],
+    [
+      0.014148,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_8\"].clicked\r\n"
+    ],
+    [
+      0.014909,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_9\"].clicked\r\n"
+    ],
+    [
+      0.002585,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_10\"].clicked\r\n"
+    ],
+    [
+      0.002692,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_11\"].clicked\r\n"
+    ],
+    [
+      0.009390,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_12\"].clicked\r\n"
+    ],
+    [
+      0.006844,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_13\"].clicked\r\n"
+    ],
+    [
+      0.006478,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_14\"].clicked\r\n"
+    ],
+    [
+      0.005659,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_15\"].clicked\r\n"
+    ],
+    [
+      0.005779,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_16\"].clicked\r\n"
+    ],
+    [
+      0.006847,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_17\"].clicked\r\n"
+    ],
+    [
+      0.006348,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_18\"].clicked\r\n"
+    ],
+    [
+      0.005113,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_19\"].clicked\r\n"
+    ],
+    [
+      0.003968,
+      "\u001b[32;1mPASS\u001b[0m Find an element matching: [model-id=\"step_20\"].clicked\r\n"
+    ],
+    [
+      0.023109,
+      "\u001b[37;42;1mPASS 21 tests executed in 0.47s, 21 passed, 0 failed, 0 dubious, 0 skipped.     \u001b[0m\r\n"
+    ],
+    [
+      0.007300,
+      "Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///Users/wskruse/tmp/q4/node_modules/casperjs/bin/bootstrap.js. Domains, protocols and ports must match.\r\n\r\n"
+    ],
+    [
+      0.020984,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[32mDone, without errors.\u001b[39m\r\n"
+    ],
+    [
+      0.002663,
+      "\r\n\r\n\u001b[4mExecution Time\u001b[24m\u001b[90m (2015-11-22 17:52:14 UTC)\u001b[39m\r\n"
+    ],
+    [
+      0.002453,
+      "loading tasks   \u001b[34m199ms\u001b[39m  \u001b[34m▇▇ 3%\u001b[39m\r\ncasperjs:files   \u001b[34m6.6s\u001b[39m  \u001b[34m▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 97%\u001b[39m\r\n\u001b[35mTotal 6.8s\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.005830,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000079,
+      "\u001b]2;wskruse@Titanium: ~/tmp/q4\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;~/tmp/q4\u0007"
+    ],
+    [
+      0.020916,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mwskruse \u001b[37mat \u001b[32mTitanium.home \u001b[37min \u001b[1m\u001b[33m~/tmp/q4\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[32mo\u001b[00m \u001b[37m[12:52:21]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000057,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000034,
+      "\u001b[?2004h"
+    ],
+    [
+      2.470602,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

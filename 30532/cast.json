@@ -1,0 +1,6994 @@
+{
+  "version": 1,
+  "width": 216,
+  "height": 54,
+  "duration": 869.282713,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.154922,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.013017,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro/bin$ "
+    ],
+    [
+      0.752159,
+      "."
+    ],
+    [
+      0.029997,
+      "/"
+    ],
+    [
+      0.369918,
+      "b"
+    ],
+    [
+      0.039924,
+      "u"
+    ],
+    [
+      0.030225,
+      "i"
+    ],
+    [
+      0.080144,
+      "ld.sh "
+    ],
+    [
+      0.569577,
+      "\r\n"
+    ],
+    [
+      0.003308,
+      "/space/git/shutit-netnamespaces-intro /space/git/shutit-netnamespaces-intro/bin"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.582556,
+      " export SHUTIT_BACKUP_PS1_origin_prompt=$PS1 \u0026\u0026 PS1='ORIGIN_ENV#HAZcnM4B\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.052591,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.016395,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$  e"
+    ],
+    [
+      0.000205,
+      "xport SHUT"
+    ],
+    [
+      0.000189,
+      "IT_BACKU"
+    ],
+    [
+      0.000193,
+      "P_PS1_"
+    ],
+    [
+      0.000137,
+      "o \rrigin_promp"
+    ],
+    [
+      0.000190,
+      "t=$PS1 \u0026\u0026 PS"
+    ],
+    [
+      0.000182,
+      "1='ORIGIN_EN"
+    ],
+    [
+      0.000198,
+      "V#HAZcnM4B"
+    ],
+    [
+      0.000168,
+      "\u003e ' \u0026\u0026 u"
+    ],
+    [
+      0.000181,
+      "nset PR"
+    ],
+    [
+      0.000179,
+      "OMPT_CO"
+    ],
+    [
+      0.000183,
+      "MMAND "
+    ],
+    [
+      0.000178,
+      "\u0026\u0026 stt"
+    ],
+    [
+      0.000183,
+      "y \r cols 320\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001648,
+      "ORIGIN_ENV#HAZcnM4B\u003e "
+    ],
+    [
+      0.101379,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000017,
+      "FILNEXIST-FILFIN\r\r\nORIGIN_ENV#HAZcnM4B\u003e "
+    ],
+    [
+      0.101658,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.002080,
+      "ORIGIN_ENV#HAZcnM4B\u003e "
+    ],
+    [
+      0.101078,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.009699,
+      "ORIGIN_ENV#HAZcnM4B\u003e "
+    ],
+    [
+      0.100944,
+      "touch /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id/ORIGIN_ENV"
+    ],
+    [
+      0.000172,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.020855,
+      "ORIGIN_ENV#HAZcnM4B\u003e "
+    ],
+    [
+      0.101125,
+      " export SHUTIT_BACKUP_PS1_r \root=$PS1 \u0026\u0026 PS1='default#eEqS2fLi\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.001072,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101297,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ndefault#eEqS2fLi\u003e "
+    ],
+    [
+      0.100825,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000131,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000005,
+      "\r\ndefault#eEqS2fLi\u003e "
+    ],
+    [
+      0.100764,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001830,
+      "ORIGIN_ENV"
+    ],
+    [
+      0.000382,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100728,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000150,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000007,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100758,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000157,
+      "FILEXIST-FILFIN\r\r\ndefault#eEqS2fLi\u003e "
+    ],
+    [
+      0.100749,
+      " cat /etc/issue\r\r\n"
+    ],
+    [
+      0.001163,
+      "Ubuntu 15.10 \\n \\l\r\r\n\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101062,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.001939,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100836,
+      "chmod -R 777 /tmp/shutit_imiell\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.008720,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101284,
+      "touch /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id/DaSvhyl3\r\r\n"
+    ],
+    [
+      0.002204,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.102181,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000159,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000005,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100960,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000189,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000008,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.056327,
+      "bash"
+    ],
+    [
+      0.050122,
+      "\r\n"
+    ],
+    [
+      0.000755,
+      "bash\r\r\n"
+    ],
+    [
+      0.161835,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.017637,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.101119,
+      " export SHUTIT_BACKUP_PS1_uQf3plLs=$PS1 \u0026\u0026 PS1='shutit.tk.setup#NSMwDdMg\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001201,
+      "shutit.tk.setup#NSMwDdMg\u003e "
+    ],
+    [
+      0.101414,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.tk.setup#NSMwDdMg\u003e "
+    ],
+    [
+      0.100647,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000115,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000006,
+      "\r\nshutit.tk.setup#NSMwDdMg\u003e "
+    ],
+    [
+      0.100694,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001143,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "shutit.tk.setup#NSMwDdMg\u003e "
+    ],
+    [
+      0.100814,
+      "cd\r\r\n"
+    ],
+    [
+      0.000151,
+      "shutit.tk.setup#NSMwDdMg\u003e "
+    ],
+    [
+      0.101172,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000157,
+      "shutit.tk.setup#NSMwDdMg\u003e "
+    ],
+    [
+      0.100787,
+      "exit\r\r\n"
+    ],
+    [
+      0.000208,
+      "exit\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000631,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100756,
+      "cd /space/git/shutit-netnamespaces-intro\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.051960,
+      "bash"
+    ],
+    [
+      0.050132,
+      "\r\n"
+    ],
+    [
+      0.000824,
+      "bash\r\r\n"
+    ],
+    [
+      0.176790,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.014975,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.101841,
+      " export SHUTIT_BACKUP_PS1_SuRNtaEv=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.002000,
+      "shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e "
+    ],
+    [
+      0.101847,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000415,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000012,
+      "shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e "
+    ],
+    [
+      0.100739,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000161,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000182,
+      "shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e "
+    ],
+    [
+      0.101007,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.002422,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000420,
+      "shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e "
+    ],
+    [
+      0.101026,
+      "cd\r\r\n"
+    ],
+    [
+      0.000231,
+      "shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e "
+    ],
+    [
+      0.100891,
+      "cd /space/git/shutit-netnamespaces-intro/shutit-library/virtualbox\r\r\n"
+    ],
+    [
+      0.000274,
+      "shutit-library.virtualbox.virtualbox.virtualbox#47qpEIvg\u003e "
+    ],
+    [
+      0.100800,
+      "exit\r\r\n"
+    ],
+    [
+      0.000150,
+      "exit\r\r\n"
+    ],
+    [
+      0.000714,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100740,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000157,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.050699,
+      "bash"
+    ],
+    [
+      0.050139,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "bash\r\r\n"
+    ],
+    [
+      0.102267,
+      "e"
+    ],
+    [
+      0.055085,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.015929,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.101077,
+      " export SHUTIT_BACKUP_PS1_8Y2hroGn=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001638,
+      "tk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e "
+    ],
+    [
+      0.076036,
+      "x"
+    ],
+    [
+      0.025001,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e "
+    ],
+    [
+      0.100895,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000134,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "tk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e "
+    ],
+    [
+      0.033819,
+      "i"
+    ],
+    [
+      0.066872,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001576,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000153,
+      "tk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e "
+    ],
+    [
+      0.100828,
+      "cd\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "tk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e "
+    ],
+    [
+      0.050304,
+      "t"
+    ],
+    [
+      0.050419,
+      "cd /space/git/shutit-netnamespaces-intro/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000234,
+      "tk.shutit.vagrant.vagrant.vagrant#px2fL9Ne\u003e "
+    ],
+    [
+      0.100709,
+      "exit\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "exit\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000561,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100756,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000226,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.050632,
+      "bash"
+    ],
+    [
+      0.050120,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "bash\r\r\n"
+    ],
+    [
+      0.176038,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.019127,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.100862,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      " export SHUTIT_BACKUP_PS1_6olcLWTo=$PS1 \u0026\u0026 PS1='shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000996,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e "
+    ],
+    [
+      0.100861,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e "
+    ],
+    [
+      0.100748,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000127,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000190,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e "
+    ],
+    [
+      0.100748,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001770,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000354,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e "
+    ],
+    [
+      0.100919,
+      "cd\r\r\n"
+    ],
+    [
+      0.000309,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e "
+    ],
+    [
+      0.100768,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000236,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#2awywrHS\u003e "
+    ],
+    [
+      0.100895,
+      "exit\r\r\n"
+    ],
+    [
+      0.000129,
+      "exit\r\r\n"
+    ],
+    [
+      0.000971,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100890,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000176,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.106777,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000214,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.050542,
+      "bash"
+    ],
+    [
+      0.050321,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "bash\r\r\n"
+    ],
+    [
+      0.173444,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.014983,
+      "imiell@rothko:~/.local/lib/python2.7/site-packages$ "
+    ],
+    [
+      0.100987,
+      " export SHUTIT_BACKUP_PS1_6wA4YWtX=$PS1 \u0026\u0026 PS1='shutit.tk.setup#1jpKQs46\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000994,
+      "shutit.tk.setup#1jpKQs46\u003e "
+    ],
+    [
+      0.100827,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.tk.setup#1jpKQs46\u003e "
+    ],
+    [
+      0.100716,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000180,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000007,
+      "\r\nshutit.tk.setup#1jpKQs46\u003e "
+    ],
+    [
+      0.100590,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001202,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000203,
+      "shutit.tk.setup#1jpKQs46\u003e "
+    ],
+    [
+      0.100740,
+      "cd\r\r\n"
+    ],
+    [
+      0.000202,
+      "shutit.tk.setup#1jpKQs46\u003e "
+    ],
+    [
+      0.101089,
+      "exit\r\r\n"
+    ],
+    [
+      0.000193,
+      "exit\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000957,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.100767,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000126,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101672,
+      "cd /space/git/shutit-netnamespaces-intro/shutit-library/virtualbox\r\r\ndefault#eEqS2fLi\u003e "
+    ],
+    [
+      0.050528,
+      "bash"
+    ],
+    [
+      0.050196,
+      "\r\n"
+    ],
+    [
+      0.000228,
+      "bash\r\r\n"
+    ],
+    [
+      0.169267,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.016293,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro/shutit-library/virtualbox$ "
+    ],
+    [
+      0.101061,
+      " export SHUTIT_BACKUP_PS1_6OLQxH7j=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001047,
+      "shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e "
+    ],
+    [
+      0.101128,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000011,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000130,
+      "shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e "
+    ],
+    [
+      0.100647,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000143,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e "
+    ],
+    [
+      0.100631,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001182,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000305,
+      "shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e "
+    ],
+    [
+      0.100653,
+      "cd\r\r\n"
+    ],
+    [
+      0.000198,
+      "shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e "
+    ],
+    [
+      0.100761,
+      "command -v VBoxManage\r\r\n"
+    ],
+    [
+      0.000161,
+      "/usr/bin/VBoxManage\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "shutit-library.virtualbox.virtualbox.virtualbox#h0SLyHZH\u003e "
+    ],
+    [
+      0.100695,
+      "exit\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "exit\r\r\n"
+    ],
+    [
+      0.001065,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101311,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000207,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101343,
+      "cd /space/git/shutit-netnamespaces-intro/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000179,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.050724,
+      "bash"
+    ],
+    [
+      0.050145,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "bash\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.158927,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.016142,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro/shutit-library/vagrant$ "
+    ],
+    [
+      0.101102,
+      " export SHUTIT_BACKUP_PS1_UIsTMSdX=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000986,
+      "tk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e "
+    ],
+    [
+      0.101488,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000024,
+      "\r\ntk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e "
+    ],
+    [
+      0.100707,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000299,
+      "FILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e "
+    ],
+    [
+      0.100622,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.001246,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000193,
+      "tk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e "
+    ],
+    [
+      0.100871,
+      "cd\r\r\n"
+    ],
+    [
+      0.000197,
+      "tk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e "
+    ],
+    [
+      0.100785,
+      "command -v vagrant\r\r\n"
+    ],
+    [
+      0.000426,
+      "/usr/bin/vagrant\r\r\ntk.shutit.vagrant.vagrant.vagrant#4wwuSVSP\u003e "
+    ],
+    [
+      0.101148,
+      "exit\r\r\n"
+    ],
+    [
+      0.000015,
+      "exit\r\r\n"
+    ],
+    [
+      0.001277,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101343,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000256,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101295,
+      "cd /space/git/shutit-netnamespaces-intro\r\r\n"
+    ],
+    [
+      0.000178,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.050627,
+      "bash"
+    ],
+    [
+      0.050141,
+      "\r\n"
+    ],
+    [
+      0.000661,
+      "bash\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.170433,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.016372,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.101948,
+      " export SHUTIT_BACKUP_PS1_85UNjZDm=$PS1 \u0026\u0026 PS1='shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001133,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.100900,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000157,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.101088,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000261,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000307,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.101067,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001622,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000299,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.100804,
+      "cd\r\r\n"
+    ],
+    [
+      0.000311,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.101153,
+      "rm -rf /tmp/netnamespaces_intro_vm\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.015460,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.101423,
+      "mkdir -p /tmp/netnamespaces_intro_vm\r\r\n"
+    ],
+    [
+      0.001947,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.100769,
+      "cd /tmp/netnamespaces_intro_vm\r\r\n"
+    ],
+    [
+      0.000254,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.101150,
+      "vagrant init ubuntu/trusty64\r\r\n"
+    ],
+    [
+      0.161944,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.466110,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.493614,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\r\nready to `vagrant up` your first virtual environment! Please read\r\r\nthe comments in the Vagrantfile as well as documentation on\r"
+    ],
+    [
+      0.000020,
+      "\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\r\n"
+    ],
+    [
+      0.104830,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.100817,
+      "vagrant up --provider virtualbox\r\r\n"
+    ],
+    [
+      0.164802,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.420623,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.032213,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\r\n"
+    ],
+    [
+      0.241764,
+      "\u001b[1m==\u003e default: Importing base box 'ubuntu/trusty64'...\u001b[0m\r\r\n"
+    ],
+    [
+      14.901432,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000207,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      5.440227,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001639,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\r\n"
+    ],
+    [
+      0.307490,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\r\n"
+    ],
+    [
+      0.799621,
+      "\u001b[1;33m==\u003e default: A newer version of the box 'ubuntu/trusty64' is available! You currently\r\r\n==\u003e default: have version '20151104.0.0'. The latest is version '20151117.0.0'. Run\r\r\n==\u003e default: `vagrant box update` to update.\u001b[0m\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.523415,
+      "\u001b[1m==\u003e default: Setting the name of the VM: netnamespaces_intro_vm_default_1448305019763_60330\u001b[0m\r\r\n"
+    ],
+    [
+      0.417130,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.430214,
+      "\u001b[1m==\u003e default: Fixed port collision for 22 =\u003e 2222. Now on port 2201.\u001b[0m\r\r\n"
+    ],
+    [
+      0.537723,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\r\n"
+    ],
+    [
+      0.218237,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000287,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\r\n"
+    ],
+    [
+      0.143354,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.058179,
+      "\u001b[0m    default: 22 =\u003e 2201 (adapter 1)\u001b[0m\r\r\n"
+    ],
+    [
+      0.648608,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\r\n"
+    ],
+    [
+      0.554054,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.079175,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.345742,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2201\u001b[0m\r\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      15.133593,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\r\n"
+    ],
+    [
+      6.316954,
+      "\u001b[0m    default: \r\r\n"
+    ],
+    [
+      0.000017,
+      "    default: Vagrant insecure key detected. Vagrant will automatically replace\r\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\r\n"
+    ],
+    [
+      0.901418,
+      "\u001b[0m    default: \r\r\n"
+    ],
+    [
+      0.000010,
+      "    default: Inserting generated public key within guest...\u001b[0m\r\r\n"
+    ],
+    [
+      0.498534,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\r\n"
+    ],
+    [
+      0.312341,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\r\n"
+    ],
+    [
+      0.515420,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\r\n"
+    ],
+    [
+      0.001272,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.049674,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\r\n"
+    ],
+    [
+      0.000012,
+      "    default: prevent things such as shared folders from working properly. If you see\r\r\n    default: shared folder errors, please make sure the guest additions within the\r\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\r\n    default: your host and reload your VM.\r\r\n    default: \r\r\n    default: Guest Additions Version: 4.3.10\r\r\n    default: VirtualBox Version: 5.0\u001b[0m\r\r\n"
+    ],
+    [
+      0.079169,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/netnamespaces_intro_vm\u001b[0m\r\r\n"
+    ],
+    [
+      1.538630,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.050650,
+      "vagrant ssh"
+    ],
+    [
+      0.050250,
+      "\r\n"
+    ],
+    [
+      0.000355,
+      "vagrant ssh\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.211268,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.420396,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.837265,
+      "Welcome to Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-67-generic x86_64)\r\r\n\r"
+    ],
+    [
+      0.000015,
+      "\r\n * Documentation:  https://help.ubuntu.com/\r\r\n\r\r\n System information disabled due to load higher than 1.0\r\r\n\r\r\n  Get cloud support with Ubuntu Advantage Cloud Guest:\r\r\n    http://www.ubuntu.com/business/services/cloud\r\r\n\r\r\n0 packages can be updated.\r\r\n0 updates are security updates.\r\r\n\r\r\n\r\r\n"
+    ],
+    [
+      0.549165,
+      "vagrant@vagrant-ubuntu-trusty-64:~$ "
+    ],
+    [
+      0.101223,
+      " export SHUTIT_BACKUP_PS1_r9QLFYsj=$PS1 \u0026\u0026 PS1='r9QLFYsj#U4PWWJEf\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001876,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000306,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100973,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000597,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\nFILNEXIST-FILFIN\r\r\nr9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100706,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000683,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\nFILEXIST-FILFIN\r\r\nr9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100893,
+      " cat /etc/issue"
+    ],
+    [
+      0.002232,
+      "\r\r\nUbuntu 14.04.3 LTS \\n \\l\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "\r\r\n"
+    ],
+    [
+      0.000182,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100715,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id"
+    ],
+    [
+      0.002432,
+      "\r\r\n"
+    ],
+    [
+      0.000213,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100779,
+      "chmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.001562,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100709,
+      "touch /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id/owYK1oWZ"
+    ],
+    [
+      0.001451,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.100824,
+      "cd"
+    ],
+    [
+      0.000506,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.050677,
+      "sudo su -"
+    ],
+    [
+      0.050131,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "sudo su -"
+    ],
+    [
+      0.005865,
+      "\r\r\n"
+    ],
+    [
+      0.060787,
+      "root@vagrant-ubuntu-trusty-64:~# "
+    ],
+    [
+      0.101586,
+      " export SHUTIT_BACKUP_PS1_PAbxdnrD=$PS1 \u0026\u0026 PS1='PAbxdnrD#KGkgeGeu\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001280,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001451,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100988,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000606,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\nFILEXIST-FILFIN"
+    ],
+    [
+      0.000174,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100685,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001051,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "FILEXIST-FILFIN\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100664,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id"
+    ],
+    [
+      0.001595,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\nowYK1oWZ"
+    ],
+    [
+      0.000179,
+      "\r\r\n"
+    ],
+    [
+      0.000180,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100969,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001292,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\nFILNEXIST-FILFIN\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100817,
+      "cd"
+    ],
+    [
+      0.000606,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100616,
+      "whoami"
+    ],
+    [
+      0.001007,
+      "\r\r\n"
+    ],
+    [
+      0.001918,
+      "root\r\r\n"
+    ],
+    [
+      0.000012,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.101121,
+      "apt-get install -y -qq  openvswitch-switch"
+    ],
+    [
+      0.001092,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      1.746441,
+      "Selecting previously unselected package openvswitch-common."
+    ],
+    [
+      0.000216,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n(Reading database ... \r"
+    ],
+    [
+      0.429991,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000204,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000178,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000178,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000186,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000193,
+      "(Reading database ... 30%\r(Reading database ... 35%\r"
+    ],
+    [
+      0.000183,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000181,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000218,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000260,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.000210,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.004474,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.010512,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.007912,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.012619,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.009481,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.011144,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.008721,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.009507,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000193,
+      "(Reading database ... "
+    ],
+    [
+      0.000189,
+      "61004 files and directories currently installed.)\r\r\n"
+    ],
+    [
+      0.002920,
+      "Preparing to unpack .../openvswitch-common_2.0.2-0ubuntu0.14.04.2_amd64.deb ..."
+    ],
+    [
+      0.000207,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002002,
+      "Unpacking openvswitch-common (2.0.2-0ubuntu0.14.04.2) ..."
+    ],
+    [
+      0.000205,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.342536,
+      "Selecting previously unselected package openvswitch-switch.\r\r\n"
+    ],
+    [
+      0.006319,
+      "Preparing to unpack .../openvswitch-switch_2.0.2-0ubuntu0.14.04.2_amd64.deb ..."
+    ],
+    [
+      0.000277,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002814,
+      "Unpacking openvswitch-switch (2.0.2-0ubuntu0.14.04.2) ..."
+    ],
+    [
+      0.000201,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.193054,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ..."
+    ],
+    [
+      0.000190,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      2.349714,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\r\n"
+    ],
+    [
+      0.031720,
+      "Setting up openvswitch-common (2.0.2-0ubuntu0.14.04.2) ..."
+    ],
+    [
+      0.000205,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002719,
+      "Setting up openvswitch-switch (2.0.2-0ubuntu0.14.04.2) ..."
+    ],
+    [
+      0.000186,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.753968,
+      "openvswitch-switch start/running\r\r\n"
+    ],
+    [
+      0.097063,
+      "Processing triggers for ureadahead (0.100.0-16) ..."
+    ],
+    [
+      0.000224,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.116323,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.050363,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050114,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000886,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\nEXIT_CODE:0"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000206,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100827,
+      "whoami"
+    ],
+    [
+      0.000429,
+      "\r\r\n"
+    ],
+    [
+      0.001279,
+      "root"
+    ],
+    [
+      0.000176,
+      "\r\r\n"
+    ],
+    [
+      0.000193,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.100825,
+      "apt-get install -y -qq  dnsmasq"
+    ],
+    [
+      0.000732,
+      "\r"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      1.348514,
+      "Selecting previously unselected package libmnl0:amd64."
+    ],
+    [
+      0.000193,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "(Reading database ... \r"
+    ],
+    [
+      0.004235,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000270,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000304,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000201,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000200,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.001256,
+      "(Reading database ... 30%\r(Reading database ... 35%\r"
+    ],
+    [
+      0.000156,
+      "(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r"
+    ],
+    [
+      0.001937,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.007356,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.002447,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.010015,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.002789,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.003693,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001981,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.002558,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000176,
+      "(Reading database ... "
+    ],
+    [
+      0.000184,
+      "61089 files and directories currently installed.)\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002248,
+      "Preparing to unpack .../libmnl0_1.0.3-3ubuntu1_amd64.deb ..."
+    ],
+    [
+      0.000178,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001960,
+      "Unpacking libmnl0:amd64 (1.0.3-3ubuntu1) ...\r\r\n"
+    ],
+    [
+      0.018887,
+      "Selecting previously unselected package libnetfilter-conntrack3:amd64.\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.004563,
+      "Preparing to unpack .../libnetfilter-conntrack3_1.0.4-1_amd64.deb ..."
+    ],
+    [
+      0.000294,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001377,
+      "Unpacking libnetfilter-conntrack3:amd64 (1.0.4-1) ..."
+    ],
+    [
+      0.000181,
+      "\r\r\n"
+    ],
+    [
+      0.021101,
+      "Selecting previously unselected package dnsmasq-base."
+    ],
+    [
+      0.000198,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.004580,
+      "Preparing to unpack .../dnsmasq-base_2.68-1ubuntu0.1_amd64.deb ..."
+    ],
+    [
+      0.000187,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001171,
+      "Unpacking dnsmasq-base (2.68-1ubuntu0.1) ..."
+    ],
+    [
+      0.000193,
+      "\r\r\n"
+    ],
+    [
+      0.083786,
+      "Selecting previously unselected package dnsmasq."
+    ],
+    [
+      0.000209,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.004289,
+      "Preparing to unpack .../dnsmasq_2.68-1ubuntu0.1_all.deb ..."
+    ],
+    [
+      0.000207,
+      "\r\r\n"
+    ],
+    [
+      0.001174,
+      "Unpacking dnsmasq (2.68-1ubuntu0.1) ..."
+    ],
+    [
+      0.000177,
+      "\r\r\n"
+    ],
+    [
+      0.015873,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\r\n"
+    ],
+    [
+      0.077907,
+      "Processing triggers for ureadahead (0.100.0-16) ..."
+    ],
+    [
+      0.000196,
+      "\r\r\n"
+    ],
+    [
+      0.033378,
+      "Setting up libmnl0:amd64 (1.0.3-3ubuntu1) ..."
+    ],
+    [
+      0.000269,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.013334,
+      "Setting up libnetfilter-conntrack3:amd64 (1.0.4-1) ...\r\r\n"
+    ],
+    [
+      0.006210,
+      "Setting up dnsmasq-base (2.68-1ubuntu0.1) ..."
+    ],
+    [
+      0.000206,
+      "\r\r\n"
+    ],
+    [
+      0.097954,
+      "Setting up dnsmasq (2.68-1ubuntu0.1) ...\r\r\n"
+    ],
+    [
+      0.035583,
+      " * Starting DNS forwarder and DHCP server dnsmasq"
+    ],
+    [
+      0.000050,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004521,
+      "   ...done."
+    ],
+    [
+      0.000194,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.022724,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ..."
+    ],
+    [
+      0.000209,
+      "\r\r\n"
+    ],
+    [
+      0.750107,
+      "Processing triggers for ureadahead (0.100.0-16) ..."
+    ],
+    [
+      0.000231,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.144003,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.050377,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050253,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000958,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000372,
+      "EXIT_CODE:0"
+    ],
+    [
+      0.000239,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.000312,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000007,
+      "\r\n================================================================================\r\nShow the network interfaces on the VM\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000450,
+      "\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105256,
+      "ip link"
+    ],
+    [
+      0.001666,
+      "\r\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n"
+    ],
+    [
+      0.000024,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005422,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000009,
+      "\r\nShow the ip address\r\n================================================================================\r\nCommand is:\r\n\r\n\tip addr\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102119,
+      "ip addr"
+    ],
+    [
+      0.002305,
+      "\r\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r"
+    ],
+    [
+      0.000016,
+      "\r\n    inet 127.0.0.1/8 scope host lo\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 ::1/128 scope host \r\r\n       valid_lft forever preferred_lft forever\r\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP group default qlen 1000\r\r\n    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff\r\r\n    inet 10.0.2.15/24 brd 10.0.2.255 scope global eth0\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 fe80::a00:27ff:fe40:7d2a/64 scope link \r\r\n       valid_lft forever preferred_lft forever\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.002578,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000012,
+      "\r\n================================================================================\r\nShow the routing table\r\n================================================================================\r\nCommand is:\r\n\r\n\tip route\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.101605,
+      "ip route"
+    ],
+    [
+      0.001871,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\ndefault via 10.0.2.2 dev eth0 \r\r\n10.0.2.0/24 dev eth0  proto kernel  scope link  src 10.0.2.15 \r\r\n"
+    ],
+    [
+      0.000276,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005368,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nAdd the red ip net namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns add red\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103467,
+      "ip netns add red"
+    ],
+    [
+      0.005731,
+      "\r\r\n"
+    ],
+    [
+      0.000010,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005108,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000021,
+      "\r\nAdd the green ip net namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns add green\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105499,
+      "ip netns add green"
+    ],
+    [
+      0.004153,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000348,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.001165,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000016,
+      "================================================================================\r\nList the network namespaces\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102381,
+      "ip netns"
+    ],
+    [
+      0.002848,
+      "\r\r\ngreen\r"
+    ],
+    [
+      0.000015,
+      "\r\nred\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005581,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000014,
+      "================================================================================\r\nList the network namespaces by looking directly at the filesystem\r\n================================================================================\r\nCommand is:\r\n\r\n\tls /var/run/netns\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.100960,
+      "ls /var/run/netns"
+    ],
+    [
+      0.003142,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\ngreen  red\r\r\n"
+    ],
+    [
+      0.000447,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005016,
+      "\r\n\u001b[31m\r\n================================================================================\r\nAdd the amistake namespace ready to delete\r\n================================================================================\r\nCommand is:\r\n"
+    ],
+    [
+      0.000024,
+      "\r\n\tip netns add amistake\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104654,
+      "ip netns add amistake"
+    ],
+    [
+      0.003105,
+      "\r\r\n"
+    ],
+    [
+      0.000863,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004858,
+      "\r\n\u001b[31m\r\n================================================================================\r\nList the network namespaces by looking directly at the filesystem\r\n================================================================================\r\nCommand is:\r\n\r\n\tls /var/run/netns\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104886,
+      "ls /var/run/netns"
+    ],
+    [
+      0.002668,
+      "\r\r\namistake  green  red\r\r\n"
+    ],
+    [
+      0.000301,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005564,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000020,
+      "================================================================================\r\nDelete the mistakenly added network namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns del amistake\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105134,
+      "ip netns del amistake"
+    ],
+    [
+      0.001785,
+      "\r"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.004918,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005487,
+      "\r\n\u001b[31m\r\n================================================================================\r\nList the network namespaces by looking directly at the filesystem\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000018,
+      "\tls /var/run/netns\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104388,
+      "ls /var/run/netns"
+    ],
+    [
+      0.001863,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\ngreen  red\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005150,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000012,
+      "================================================================================\r\nRun the ip link command from within the red network namespace. Note it is down.\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.101395,
+      "ip netns exec red ip link"
+    ],
+    [
+      0.003855,
+      "\r\r\n1: lo: \u003cLOOPBACK\u003e mtu 65536 qdisc noop state DOWN mode DEFAULT group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.002874,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a network bridge on the host called OVS-1 using openvswitch\r\n"
+    ],
+    [
+      0.000016,
+      "================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl add-br OVS-1\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103169,
+      "ovs-vsctl add-br OVS-1"
+    ],
+    [
+      0.002572,
+      "\r\r\n"
+    ],
+    [
+      0.042387,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003771,
+      "\r\n\u001b[31m\r\n================================================================================\r\nOVS-1 interface has been added by OpenVSwitch"
+    ],
+    [
+      0.000012,
+      "\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl show\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104466,
+      "ovs-vsctl show"
+    ],
+    [
+      0.003560,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000608,
+      "010f5896-758d-44aa-87d5-0372953a137b"
+    ],
+    [
+      0.000186,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n    Bridge \"OVS-1\""
+    ],
+    [
+      0.000171,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "        Port \"OVS-1\"\r"
+    ],
+    [
+      0.000005,
+      "\r\n            Interface \"OVS-1\""
+    ],
+    [
+      0.000177,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "                type: internal\r\r\n"
+    ],
+    [
+      0.000005,
+      "    ovs_version: \"2.0.2\""
+    ],
+    [
+      0.000183,
+      "\r\r\n"
+    ],
+    [
+      0.000668,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003026,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000028,
+      "\r\nOVS-1 interface has been added\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105400,
+      "ip link"
+    ],
+    [
+      0.002789,
+      "\r\r\n"
+    ],
+    [
+      0.001359,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default "
+    ],
+    [
+      0.000305,
+      "\r\r\n"
+    ],
+    [
+      0.000203,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000276,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000305,
+      "2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000"
+    ],
+    [
+      0.000251,
+      "\r\r\n"
+    ],
+    [
+      0.000207,
+      "    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default "
+    ],
+    [
+      0.000250,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000217,
+      "\r\r\n"
+    ],
+    [
+      0.000192,
+      "4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000203,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000449,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005619,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[31m\r\n================================================================================\r\nip link add adds one end (eth0-r) in the red namespace which peers with the other end (veth-r) connected to OVS-1. They are not connected to anything yet\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link add eth0-r type veth peer name veth-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104487,
+      "ip link add eth0-r type veth peer name veth-r"
+    ],
+    [
+      0.002272,
+      "\r\r\n"
+    ],
+    [
+      0.007763,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004972,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000011,
+      "\r\nThe pipe is not connected to anything yet and both ends can be seen in the root namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104992,
+      "ip link"
+    ],
+    [
+      0.003070,
+      "\r\r\n"
+    ],
+    [
+      0.000018,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff\r\r\n3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default \r\r\n    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff\r\r\n4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff\r\r\n5: veth-r: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\r\r\n    link/ether c2:e0:fa:9b:af:72 brd ff:ff:ff:ff:ff:ff\r\r\n6: eth0-r: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\r\r\n    link/ether 22:00:3a:7f:ef:1b brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000399,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.000856,
+      "\r\n\u001b[31m\r\n================================================================================\r\nSets the eth0-r link into the red net namespace"
+    ],
+    [
+      0.000009,
+      "\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set eth0-r netns red\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103451,
+      "ip link set eth0-r netns red"
+    ],
+    [
+      0.001485,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.012276,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.001882,
+      "\r\n\u001b[31m\r\n================================================================================\r\nWe cannot see the eth0-r link anymore in the root namespace"
+    ],
+    [
+      0.000021,
+      "\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105585,
+      "ip link"
+    ],
+    [
+      0.002945,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff\r\r\n3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default \r\r\n    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff\r\r\n4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff\r\r\n5: veth-r: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\r\r\n    link/ether c2:e0:fa:9b:af:72 brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000328,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005480,
+      "\r\n\u001b[31m\r\n================================================================================\r\n"
+    ],
+    [
+      0.000022,
+      "It is now in the red net namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103962,
+      "ip netns exec red ip link"
+    ],
+    [
+      0.002066,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n1: lo: \u003cLOOPBACK\u003e mtu 65536 qdisc noop state DOWN mode DEFAULT group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n6: eth0-r: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000\r\r\n    link/ether 22:00:3a:7f:ef:1b brd ff:ff:ff:ff:ff:ff\r\r\n"
+    ],
+    [
+      0.000424,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005322,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000020,
+      "\r\n================================================================================\r\nAttach the other end of the veth pair to the virtual switch\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl add-port OVS-1 veth-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102286,
+      "ovs-vsctl add-port OVS-1 veth-r"
+    ],
+    [
+      0.005473,
+      "\r\r\n"
+    ],
+    [
+      0.003666,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005403,
+      "\r\n\u001b[31m\r\n================================================================================\r\nThe veth-r port is now attached to the virtual switch\r\n================================================================================"
+    ],
+    [
+      0.000010,
+      "\r\nCommand is:\r\n\r\n\tovs-vsctl show\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105926,
+      "ovs-vsctl show"
+    ],
+    [
+      0.003204,
+      "\r\r\n"
+    ],
+    [
+      0.000574,
+      "010f5896-758d-44aa-87d5-0372953a137b"
+    ],
+    [
+      0.000223,
+      "\r\r\n"
+    ],
+    [
+      0.000005,
+      "    Bridge \"OVS-1\""
+    ],
+    [
+      0.000178,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "        Port \"OVS-1\""
+    ],
+    [
+      0.000155,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "            Interface \"OVS-1\""
+    ],
+    [
+      0.000181,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "                type: internal"
+    ],
+    [
+      0.000204,
+      "\r\r\n"
+    ],
+    [
+      0.000206,
+      "        Port veth-r\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "            Interface veth-r"
+    ],
+    [
+      0.000179,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "    ovs_version: \"2.0.2\""
+    ],
+    [
+      0.000180,
+      "\r\r\n"
+    ],
+    [
+      0.000495,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004970,
+      "\r\n\u001b[31m\r\n================================================================================\r\nip link add adds one end (eth0-g) in the red namespace which peers with the other end (veth-g) connected to OVS-1. They are not connected to anything yet\r\n================================================================================\r\nCommand is:\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n\tip link add eth0-g type veth peer name veth-g\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106517,
+      "ip link add eth0-g type veth peer name veth-g"
+    ],
+    [
+      0.005517,
+      "\r\r\n"
+    ],
+    [
+      0.004256,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003839,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000026,
+      "\r\n================================================================================\r\nSets the eth0-g link into the green net namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set eth0-g netns green\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104248,
+      "ip link set eth0-g netns green"
+    ],
+    [
+      0.003809,
+      "\r\r\n"
+    ],
+    [
+      0.017326,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005423,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000022,
+      "\r\n================================================================================\r\nIt is now in the green net namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec green ip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105557,
+      "ip netns exec green ip link"
+    ],
+    [
+      0.002521,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.002328,
+      "1: lo: \u003cLOOPBACK\u003e mtu 65536 qdisc noop state DOWN mode DEFAULT group default "
+    ],
+    [
+      0.000298,
+      "\r\r\n"
+    ],
+    [
+      0.000198,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000203,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "8: eth0-g: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default qlen 1000"
+    ],
+    [
+      0.000194,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n    link/ether 9a:9c:4d:d0:78:64 brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000186,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.001069,
+      "\r\n\u001b[31m\r\n================================================================================\r\nAttach the other end of the veth pair to the virtual switch\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl add-port OVS-1 veth-g\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105298,
+      "ovs-vsctl add-port OVS-1 veth-g"
+    ],
+    [
+      0.003361,
+      "\r"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.006335,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005777,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000063,
+      "================================================================================\r\nred namespace linked to OVS-1 in veth-r is DOWN\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105253,
+      "ip link"
+    ],
+    [
+      0.002322,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001425,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default "
+    ],
+    [
+      0.000295,
+      "\r"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000200,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000"
+    ],
+    [
+      0.000189,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000189,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default \r\r\n"
+    ],
+    [
+      0.000291,
+      "    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000006,
+      "\r\n4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff\r\r\n5: veth-r: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop master ovs-system state DOWN mode DEFAULT group default qlen 1000\r\r\n"
+    ],
+    [
+      0.000005,
+      "    link/ether c2:e0:fa:9b:af:72 brd ff:ff:ff:ff:ff:ff\r\r\n7: veth-g: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop master ovs-system state DOWN mode DEFAULT group default qlen 1000\r"
+    ],
+    [
+      0.000004,
+      "\r\n    link/ether c2:22:b4:ff:10:4d brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004408,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nTurn up the veth-r interface\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set veth-r up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105869,
+      "ip link set veth-r up"
+    ],
+    [
+      0.003294,
+      "\r"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.002845,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003150,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nred namespace linked to OVS-1 in veth-r is UP\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104649,
+      "ip link"
+    ],
+    [
+      0.003053,
+      "\r\r\n"
+    ],
+    [
+      0.000624,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default "
+    ],
+    [
+      0.000197,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000223,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000190,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default "
+    ],
+    [
+      0.000199,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000194,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "5: veth-r: \u003cNO-CARRIER,BROADCAST,MULTICAST,UP\u003e mtu 1500 qdisc pfifo_fast master ovs-system state DOWN mode DEFAULT group default qlen 1000\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "    link/ether c2:e0:fa:9b:af:72 brd ff:ff:ff:ff:ff:ff\r\r\n7: veth-g: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop master ovs-system state DOWN mode DEFAULT group default qlen 1000\r\r\n    link/ether c2:22:b4:ff:10:4d brd ff:ff:ff:ff:ff:ff\r\r\n"
+    ],
+    [
+      0.000207,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005372,
+      "\r\n\u001b[31m\r\n================================================================================\r\nturn up loopback dev in red namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip link set dev lo up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103133,
+      "ip netns exec red ip link set dev lo up"
+    ],
+    [
+      0.002401,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.003117,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003476,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000012,
+      "================================================================================\r\nturn up dev in red namespace, ie the other end of the veth pipe\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip link set dev eth0-r up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105810,
+      "ip netns exec red ip link set dev eth0-r up"
+    ],
+    [
+      0.001477,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.005041,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005496,
+      "\r\n\u001b[31m\r\n================================================================================\r\nassign an ip address to the end of the veth pair\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip address add 10.0.0.1/24 dev eth0-r\r\n"
+    ],
+    [
+      0.000015,
+      "================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103057,
+      "ip netns exec red ip address add 10.0.0.1/24 dev eth0-r"
+    ],
+    [
+      0.003576,
+      "\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000659,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005474,
+      "\r\n\u001b[31m\r\n================================================================================\r\nInterfaces UP and ip address assigned to eth0-r\r\n================================================================================"
+    ],
+    [
+      0.000052,
+      "\r\nCommand is:\r\n\r\n\tip netns exec red ip a\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105424,
+      "ip netns exec red ip a"
+    ],
+    [
+      0.002225,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n    inet 127.0.0.1/8 scope host lo\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 ::1/128 scope host \r\r\n       valid_lft forever preferred_lft forever\r\r\n6: eth0-r: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP group default qlen 1000\r\r\n"
+    ],
+    [
+      0.000011,
+      "    link/ether 22:00:3a:7f:ef:1b brd ff:ff:ff:ff:ff:ff\r\r\n    inet 10.0.0.1/24 scope global eth0-r\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 fe80::2000:3aff:fe7f:ef1b/64 scope link \r"
+    ],
+    [
+      0.000006,
+      "\r\n       valid_lft forever preferred_lft forever\r\r\n"
+    ],
+    [
+      0.000278,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005064,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000041,
+      "\r\n================================================================================\r\nNetwork is set up for the namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip route\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105636,
+      "ip netns exec red ip route"
+    ],
+    [
+      0.003376,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n10.0.0.0/24 dev eth0-r  proto kernel  scope link  src 10.0.0.1 \r\r\n"
+    ],
+    [
+      0.000977,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005692,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000040,
+      "\r\n================================================================================\r\nRoot namespace has no awareness of 10.0.0.0/24. It is isolated\r\n================================================================================\r\nCommand is:\r\n\r\n\tip route\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104019,
+      "ip route"
+    ],
+    [
+      0.004569,
+      "\r\r\n"
+    ],
+    [
+      0.002408,
+      "default via 10.0.2.2 dev eth0 \r\r\n"
+    ],
+    [
+      0.000719,
+      "10.0.2.0/24 dev eth0  proto kernel  scope link  src 10.0.2.15 "
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000763,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004082,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000013,
+      "================================================================================\r\nTurn up the veth-g interface\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set veth-g up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106033,
+      "ip link set veth-g up"
+    ],
+    [
+      0.002454,
+      "\r\r\n"
+    ],
+    [
+      0.000280,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.002706,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[31m\r\n================================================================================\r\nturn up loopback dev in green namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec green ip link set dev lo up\r\n"
+    ],
+    [
+      0.000455,
+      "================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105675,
+      "ip netns exec green ip link set dev lo up"
+    ],
+    [
+      0.002867,
+      "\r"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.008505,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004966,
+      "\r\n\u001b[31m\r\n================================================================================\r\nturn up dev in green namespace, ie the other end of the veth pipe\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec green ip link set dev eth0-g up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104538,
+      "ip netns exec green ip link set dev eth0-g up"
+    ],
+    [
+      0.008392,
+      "\r\r\nPAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004594,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[31m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "================================================================================"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "assign an ip address to the end of the veth pair"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "================================================================================"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "Command is:"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\t"
+    ],
+    [
+      0.000014,
+      "ip netns exec green ip address add 10.0.0.2/24 dev eth0-g"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      5.105593,
+      "ip netns exec green ip address add 10.0.0.2/24 dev eth0-g"
+    ],
+    [
+      0.002393,
+      "\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.003079,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005840,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[31m"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "================================================================================"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Enter red network namespace"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "================================================================================"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "command: \"ip netns exec red bash\", as user: \"root\""
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      5.054949,
+      "ip netns exec red bash"
+    ],
+    [
+      0.050405,
+      "\r\n"
+    ],
+    [
+      0.000732,
+      "ip netns exec red bash"
+    ],
+    [
+      0.003056,
+      "\r\r\n"
+    ],
+    [
+      0.015180,
+      "root@vagrant-ubuntu-trusty-64:~# "
+    ],
+    [
+      0.103883,
+      " export SHUTIT_BACKUP_PS1_WwK7aWAD=$PS1 \u0026\u0026 PS1='WwK7aWAD#GTkWKw63\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001400,
+      "\r\r\n"
+    ],
+    [
+      0.003113,
+      "WwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      0.101406,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001161,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\nFILEXIST-FILFIN\r\r\nWwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      0.101136,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001204,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\nFILEXIST-FILFIN\r\r\nWwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      0.101164,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id"
+    ],
+    [
+      0.003179,
+      "\r\r\nowYK1oWZ\r\r\n"
+    ],
+    [
+      0.000013,
+      "WwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      0.100997,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001643,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\nFILNEXIST-FILFIN\r\r\nWwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      0.104504,
+      "cd\r\r\nWwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      5.001403,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000016,
+      "\r\nWe should be able to ping the other network\r\n================================================================================\r\nCommand is:\r\n\r\n\tping -c 3 10.0.0.2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106178,
+      "ping -c 3 10.0.0.2"
+    ],
+    [
+      0.003032,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.013815,
+      "PING 10.0.0.2 (10.0.0.2) 56(84) bytes of data."
+    ],
+    [
+      0.000297,
+      "\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.001803,
+      "64 bytes from 10.0.0.2: icmp_seq=1 ttl=64 time=0.768 ms"
+    ],
+    [
+      0.000180,
+      "\r"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      1.000730,
+      "64 bytes from 10.0.0.2: icmp_seq=2 ttl=64 time=0.133 ms\r"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      1.000453,
+      "64 bytes from 10.0.0.2: icmp_seq=3 ttl=64 time=0.214 ms\r\r\n"
+    ],
+    [
+      0.000746,
+      "\r\r\n"
+    ],
+    [
+      0.000464,
+      "--- 10.0.0.2 ping statistics ---"
+    ],
+    [
+      0.000347,
+      "\r"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "3 packets transmitted, 3 received, 0% packet loss, time 2001ms\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "rtt min/avg/max/mdev = 0.133/0.371/0.768/0.283 ms"
+    ],
+    [
+      0.000351,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000480,
+      "WwK7aWAD#GTkWKw63\u003e "
+    ],
+    [
+      5.106758,
+      "exit"
+    ],
+    [
+      0.002901,
+      "\r\r\nexit\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000811,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      0.000481,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[31m\r\n================================================================================\r\nMove the red veth to VLAN 100\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl set port veth-r tag=100\r\n"
+    ],
+    [
+      0.000007,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      5.107139,
+      "ovs-vsctl set port veth-r tag=100"
+    ],
+    [
+      0.003587,
+      "\r\r\n"
+    ],
+    [
+      0.012095,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005555,
+      "\r\n\u001b[31m\r\n================================================================================\r\nMove the green veth to VLAN 200\r\n================================================================================\r\nCommand is:\r\n"
+    ],
+    [
+      0.000017,
+      "\r\n\tovs-vsctl set port veth-g tag=200\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102527,
+      "ovs-vsctl set port veth-g tag=200"
+    ],
+    [
+      0.002368,
+      "\r"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.010729,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003183,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000029,
+      "\r\n================================================================================\r\nSince the namespaces are on separate VLANs, we now want to scrub the IP addresses. Do the red one.\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip address del 10.0.0.1/24 dev eth0-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104945,
+      "ip netns exec red ip address del 10.0.0.1/24 dev eth0-r"
+    ],
+    [
+      0.001849,
+      "\r\r\n"
+    ],
+    [
+      0.004691,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005658,
+      "\r\n\u001b[31m\r\n================================================================================\r\nSince the namespaces are on separate VLANs, we now want to scrub the IP addresses. Do the green one.\r\n"
+    ],
+    [
+      0.000022,
+      "================================================================================\r\nCommand is:\r\n\r\n\tip netns exec green ip address del 10.0.0.2/24 dev eth0-g\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104822,
+      "ip netns exec green ip address del 10.0.0.2/24 dev eth0-g"
+    ],
+    [
+      0.005815,
+      "\r\r\n"
+    ],
+    [
+      0.002033,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.002977,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[31m\r\n================================================================================\r\nWe are going to hook up two new namespaces directly to the OpenVSwitch using internal ports rather than through a veth pair. Add a net namespace for our red dhcp server.\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns add dhcp-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104525,
+      "ip netns add dhcp-r"
+    ],
+    [
+      0.002130,
+      "\r"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.018415,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.002593,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "\u001b[31m"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "================================================================================"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "Add a net namespace for the green dhcp server"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "================================================================================"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Command is:\r\n\r\n\tip netns add dhcp-g\r\n"
+    ],
+    [
+      0.000016,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      5.104287,
+      "ip netns add dhcp-g"
+    ],
+    [
+      0.005834,
+      "\r\r\n"
+    ],
+    [
+      0.002703,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004023,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000043,
+      "================================================================================\r\nCreates a new port on openvswitch for the red dhcp namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl add-port OVS-1 tap-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103592,
+      "ovs-vsctl add-port OVS-1 tap-r"
+    ],
+    [
+      0.003327,
+      "\r\r\n"
+    ],
+    [
+      0.016241,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003154,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[31m\r\n================================================================================\r\nSet the port to the internal type\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl set interface tap-r type=internal\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106436,
+      "ovs-vsctl set interface tap-r type=internal"
+    ],
+    [
+      0.001207,
+      "\r\r\n"
+    ],
+    [
+      0.018381,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005406,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[31m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "================================================================================"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "Places the port into VLAN100"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "================================================================================"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Command is:"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000646,
+      "\r\n\tovs-vsctl set port tap-r tag=100\r\n================================================================================\u001b[0m"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      5.104219,
+      "ovs-vsctl set port tap-r tag=100"
+    ],
+    [
+      0.001192,
+      "\r"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.008694,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.001406,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreates a new port on openvswitch for the green dhcp namespace\r\n================================================================================"
+    ],
+    [
+      0.000021,
+      "\r\nCommand is:\r\n\r\n\tovs-vsctl add-port OVS-1 tap-g\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106298,
+      "ovs-vsctl add-port OVS-1 tap-g"
+    ],
+    [
+      0.004295,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.012390,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004988,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000010,
+      "================================================================================\r\nSet the port to the internal type\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl set interface tap-g type=internal\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106305,
+      "ovs-vsctl set interface tap-g type=internal"
+    ],
+    [
+      0.002760,
+      "\r\r\n"
+    ],
+    [
+      0.015254,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005580,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000021,
+      "\r\n================================================================================\r\nPlaces the port into VLAN200\r\n================================================================================\r\nCommand is:\r\n\r\n\tovs-vsctl set port tap-g tag=200\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106360,
+      "ovs-vsctl set port tap-g tag=200"
+    ],
+    [
+      0.007157,
+      "\r\r\n"
+    ],
+    [
+      0.009956,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004619,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[31m"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "================================================================================"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "Check the configuration. You will see the two new ports"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000494,
+      "================================================================================"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000329,
+      "Command is:\r\n\r\n"
+    ],
+    [
+      0.000036,
+      "\tovs-vsctl show\r\n================================================================================\u001b[0m"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      5.106533,
+      "ovs-vsctl show"
+    ],
+    [
+      0.003274,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001703,
+      "010f5896-758d-44aa-87d5-0372953a137b"
+    ],
+    [
+      0.000271,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000292,
+      "    Bridge \"OVS-1\""
+    ],
+    [
+      0.000315,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "        Port tap-r"
+    ],
+    [
+      0.000205,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "            tag: 100"
+    ],
+    [
+      0.000210,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "            Interface tap-r"
+    ],
+    [
+      0.000205,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "                type: internal"
+    ],
+    [
+      0.000202,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "        Port veth-g"
+    ],
+    [
+      0.000196,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "            tag: 200"
+    ],
+    [
+      0.001153,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n            Interface veth-g\r\r\n        Port \"OVS-1\"\r\r\n            Interface \"OVS-1\"\r\r\n                type: internal\r\r\n        Port tap-g\r"
+    ],
+    [
+      0.000007,
+      "\r\n            tag: 200\r\r\n            Interface tap-g\r\r\n"
+    ],
+    [
+      0.000006,
+      "                type: internal\r\r\n        Port veth-r\r\r\n"
+    ],
+    [
+      0.000005,
+      "            tag: 100\r\r\n"
+    ],
+    [
+      0.000007,
+      "            Interface veth-r\r\r\n    ovs_version: \"2.0.2\"\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000357,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003964,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[31m"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "================================================================================"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "The new ports are still in the root namespace. We are going to move them to their dhcp namespace"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "================================================================================"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Command is:"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\t"
+    ],
+    [
+      0.000013,
+      "ip link"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      5.106893,
+      "ip link"
+    ],
+    [
+      0.008052,
+      "\r"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default "
+    ],
+    [
+      0.000799,
+      "\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000568,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000250,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000"
+    ],
+    [
+      0.000301,
+      "\r\r\n"
+    ],
+    [
+      0.000177,
+      "    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000288,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000650,
+      "3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default \r\r\n    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff\r\r\n4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff\r\r\n5: veth-r: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast master ovs-system state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether c2:e0:fa:9b:af:72 brd ff:ff:ff:ff:ff:ff\r\r\n7: veth-g: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast master ovs-system state UP mode DEFAULT group default qlen 1000"
+    ],
+    [
+      0.000752,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "    link/ether c2:22:b4:ff:10:4d brd ff:ff:ff:ff:ff:ff\r\r\n9: tap-r: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether 36:b9:e0:c7:44:0f brd ff:ff:ff:ff:ff:ff\r\r\n"
+    ],
+    [
+      0.000006,
+      "10: tap-g: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether de:d0:2b:93:9a:35 brd ff:ff:ff:ff:ff:ff\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004977,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000038,
+      "\r\n================================================================================\r\nPut the tap-r port into the dhcp-r namespace from the root namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set tap-r netns dhcp-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105481,
+      "ip link set tap-r netns dhcp-r"
+    ],
+    [
+      0.002667,
+      "\r\r\n"
+    ],
+    [
+      0.012107,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005172,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[31m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "================================================================================"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "Put the tap-g port into the dhcp-g namespace from the root namespace"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000741,
+      "================================================================================"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "Command is:"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000405,
+      "ip link set tap-g netns dhcp-g"
+    ],
+    [
+      0.000027,
+      "\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106295,
+      "ip link set tap-g netns dhcp-g"
+    ],
+    [
+      0.002193,
+      "\r\r\n"
+    ],
+    [
+      0.021171,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005462,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[31m\r\n================================================================================\r\nThe ports are gone from root namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106512,
+      "ip link"
+    ],
+    [
+      0.004037,
+      "\r\r\n"
+    ],
+    [
+      0.000022,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether 08:00:27:40:7d:2a brd ff:ff:ff:ff:ff:ff\r\r\n3: ovs-system: \u003cBROADCAST,MULTICAST\u003e mtu 1500 qdisc noop state DOWN mode DEFAULT group default \r\r\n    link/ether ca:d9:82:70:80:8e brd ff:ff:ff:ff:ff:ff\r\r\n4: OVS-1: \u003cBROADCAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\r\n    link/ether 72:15:91:37:d4:40 brd ff:ff:ff:ff:ff:ff\r\r\n5: veth-r: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast master ovs-system state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether c2:e0:fa:9b:af:72 brd ff:ff:ff:ff:ff:ff\r\r\n7: veth-g: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast master ovs-system state UP mode DEFAULT group default qlen 1000\r\r\n    link/ether c2:22:b4:ff:10:4d brd ff:ff:ff:ff:ff:ff\r\r\n"
+    ],
+    [
+      0.001162,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005431,
+      "\r\n\u001b[31m\r\n================================================================================\r\nEnter the new red dhcp namespace\r\n================================================================================\r\n"
+    ],
+    [
+      0.000023,
+      "command: \"ip netns exec dhcp-r bash\", as user: \"root\"\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.054280,
+      "ip netns exec dhcp-r bash"
+    ],
+    [
+      0.050077,
+      "\r\n"
+    ],
+    [
+      0.000551,
+      "ip netns exec dhcp-r bash"
+    ],
+    [
+      0.002171,
+      "\r"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.014748,
+      "root@vagrant-ubuntu-trusty-64:~# "
+    ],
+    [
+      0.101957,
+      " export SHUTIT_BACKUP_PS1_bSmiiJeQ=$PS1 \u0026\u0026 PS1='bSmiiJeQ#mnrB2huT\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001450,
+      "\r\r\n"
+    ],
+    [
+      0.003138,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      0.102228,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001225,
+      "\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000014,
+      "\r\nbSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      0.102909,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.002453,
+      "\r"
+    ],
+    [
+      0.000485,
+      "\r\n"
+    ],
+    [
+      0.000654,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000020,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      0.101569,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id"
+    ],
+    [
+      0.004475,
+      "\r"
+    ],
+    [
+      0.000038,
+      "\r\nowYK1oWZ"
+    ],
+    [
+      0.000856,
+      "\r\r\n"
+    ],
+    [
+      0.001295,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      0.101514,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001555,
+      "\r"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "FILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      0.102714,
+      "cd"
+    ],
+    [
+      0.004315,
+      "\r"
+    ],
+    [
+      0.000046,
+      "\r\nbSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      5.002649,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000072,
+      "\r\n================================================================================\r\nTurn up loopback interface\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set dev lo up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106332,
+      "ip link set dev lo up"
+    ],
+    [
+      0.003996,
+      "\r\r\n"
+    ],
+    [
+      0.002019,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      5.005844,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[31m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "================================================================================"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Turn up tap-r interface"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000381,
+      "================================================================================"
+    ],
+    [
+      0.000117,
+      "\r\nCommand is:\r\n\r\n\tip link set dev tap-r up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102900,
+      "ip link set dev tap-r up"
+    ],
+    [
+      0.004709,
+      "\r"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.001375,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      5.003684,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000056,
+      "\r\n================================================================================\r\nGive the new interface a name\r\n================================================================================\r\nCommand is:\r\n\r\n\tip address add 10.50.50.2/24 dev tap-r\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104775,
+      "ip address add 10.50.50.2/24 dev tap-r"
+    ],
+    [
+      0.003509,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.002893,
+      "bSmiiJeQ#mnrB2huT\u003e "
+    ],
+    [
+      5.001531,
+      "\r\n\u001b[31m\r\n================================================================================\r\nExit the net namespace\r\n================================================================================\r\n"
+    ],
+    [
+      0.000031,
+      "\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104210,
+      "exit"
+    ],
+    [
+      0.003018,
+      "\r\r\nexit\r\r\n"
+    ],
+    [
+      0.000518,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003730,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000047,
+      "================================================================================\r\nEnter the new green dhcp namespace\r\n================================================================================\r\ncommand: \"ip netns exec dhcp-g bash\", as user: \"root\"\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.054433,
+      "ip netns exec dhcp-g bash"
+    ],
+    [
+      0.050237,
+      "\r\n"
+    ],
+    [
+      0.001398,
+      "ip netns exec dhcp-g bash"
+    ],
+    [
+      0.001342,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.015683,
+      "root@vagrant-ubuntu-trusty-64:~# "
+    ],
+    [
+      0.103149,
+      " export SHUTIT_BACKUP_PS1_IRdL83Nu=$PS1 \u0026\u0026 PS1='IRdL83Nu#vRZ85LWh\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001729,
+      "\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.003436,
+      "IRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      0.102133,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001795,
+      "\r\r\n"
+    ],
+    [
+      0.036485,
+      "FILEXIST-FILFIN\r\r\nIRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      0.101080,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001444,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\nFILEXIST-FILFIN"
+    ],
+    [
+      0.000439,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "IRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      0.101255,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id"
+    ],
+    [
+      0.004107,
+      "\r\r\n"
+    ],
+    [
+      0.000012,
+      "owYK1oWZ"
+    ],
+    [
+      0.000320,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000665,
+      "IRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      0.101019,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000753,
+      "\r\r\n"
+    ],
+    [
+      0.000008,
+      "FILNEXIST-FILFIN\r\r\nIRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      0.101984,
+      "cd"
+    ],
+    [
+      0.001028,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\nIRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      5.005376,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[31m"
+    ],
+    [
+      0.000008,
+      "\r\n================================================================================\r\nTurn up loopback interface\r\n================================================================================\r\n"
+    ],
+    [
+      0.000010,
+      "Command is:\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n\t"
+    ],
+    [
+      0.000003,
+      "ip link set dev lo up"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      5.106208,
+      "ip link set dev lo up"
+    ],
+    [
+      0.005622,
+      "\r\r\n"
+    ],
+    [
+      0.003917,
+      "IRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      5.004581,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000041,
+      "\r\n================================================================================\r\nTurn up tap-g interface\r\n================================================================================\r\nCommand is:\r\n\r\n\tip link set dev tap-g up\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106261,
+      "ip link set dev tap-g up"
+    ],
+    [
+      0.004290,
+      "\r\r\n"
+    ],
+    [
+      0.000749,
+      "IRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      5.004815,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[31m\r\n================================================================================\r\nGive the new interface a name, we can use the same address as before as we are on different VLANs\r\n================================================================================\r\nCommand is:\r\n\r\n\tip address add 10.50.50.2/24 dev tap-g\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105396,
+      "ip address add 10.50.50.2/24 dev tap-g"
+    ],
+    [
+      0.004937,
+      "\r"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.003473,
+      "IRdL83Nu#vRZ85LWh\u003e "
+    ],
+    [
+      5.001985,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[31m\r\n================================================================================\r\nExit the net namespace\r\n================================================================================\r\n\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106020,
+      "exit"
+    ],
+    [
+      0.004367,
+      "\r\r\n"
+    ],
+    [
+      0.000020,
+      "exit\r\r\n"
+    ],
+    [
+      0.001144,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.001632,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000021,
+      "================================================================================\r\nSet up the dnsmasq process in the red namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec dhcp-r dnsmasq --interface=tap-r --dhcp-range 10.50.50.10,10.50.50.100,255.255.255.0\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103324,
+      "ip netns exec dhcp-r dnsmasq --interface=tap-r --dhcp-range 10.50.50.10,10.50.50.100,255.255.255.0"
+    ],
+    [
+      0.001305,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.027108,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005950,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[31m"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "================================================================================"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000442,
+      "Set up the dnsmasq process in the red namespace"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "================================================================================"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "Command is:"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000023,
+      "ip netns exec dhcp-g dnsmasq --interface=tap-g --dhcp-range 10.50.50.10,10.50.50.100,255.255.255.0"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      5.105834,
+      "ip netns exec dhcp-g dnsmasq --interface=tap-g --dhcp-range 10.50.50.10,10.50.50.100,255.255.255.0"
+    ],
+    [
+      0.001545,
+      "\r"
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.010259,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.002401,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000017,
+      "================================================================================\r\nShow that the dnsmasq pid belongs to a namespace we just created\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns identify $(ps -ef | grep 'nobody.*dnsmasq' | grep -v grep | awk '{print $2}' | head -1)\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104601,
+      "ip netns identify $(ps -ef | grep 'nobody.*dnsmasq' | grep -v grep | awk '{print $2}' | head -1)"
+    ],
+    [
+      0.002751,
+      "\r\r\n"
+    ],
+    [
+      0.032535,
+      "dhcp-r"
+    ],
+    [
+      0.000385,
+      "\r"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000662,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005845,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[31m\r\n================================================================================\r\nShow that the dnsmasq pid belongs to a namespace we just created\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns identify $(ps -ef | grep 'nobody.*dnsmasq' | grep -v grep | awk '{print $2}' | tail -1)\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105648,
+      "ip netns identify $(ps -ef | grep 'nobody.*dnsmasq' | grep -v grep | awk '{print $2}' | tail -1)"
+    ],
+    [
+      0.003382,
+      "\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.039517,
+      "dhcp-g"
+    ],
+    [
+      0.000608,
+      "\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.002339,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005525,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[31m"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "================================================================================\r\nGet an ip address from dhcp\r\n"
+    ],
+    [
+      0.000020,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000012,
+      "Command is:\r\n"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\tip netns exec red dhclient eth0-r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "================================================================================\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      5.105177,
+      "ip netns exec red dhclient eth0-r"
+    ],
+    [
+      0.002048,
+      "\r"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      2.632447,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.003073,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000017,
+      "\r\n================================================================================\r\nShow the ip address\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec red ip a\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104492,
+      "ip netns exec red ip a"
+    ],
+    [
+      0.003043,
+      "\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.003442,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN group default "
+    ],
+    [
+      0.000342,
+      "\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000579,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000480,
+      "\r\r\n"
+    ],
+    [
+      0.000584,
+      "    inet 127.0.0.1/8 scope host lo"
+    ],
+    [
+      0.000563,
+      "\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000506,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000267,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000774,
+      "    inet6 ::1/128 scope host \r\r\n"
+    ],
+    [
+      0.000009,
+      "       valid_lft forever preferred_lft forever\r\r\n6: eth0-r: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP group default qlen 1000\r\r\n    link/ether 22:00:3a:7f:ef:1b brd ff:ff:ff:ff:ff:ff\r\r\n    inet 10.50.50.87/24 brd 10.50.50.255 scope global eth0-r\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 fe80::2000:3aff:fe7f:ef1b/64 scope link \r"
+    ],
+    [
+      0.000008,
+      "\r\n       valid_lft forever preferred_lft forever\r\r\n"
+    ],
+    [
+      0.000005,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.005290,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000055,
+      "================================================================================\r\nGet an ip address from dhcp in the green namespace\r\n================================================================================\r\nCommand is:\r\n\r\n\tip netns exec green dhclient eth0-g\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.106132,
+      "ip netns exec green dhclient eth0-g"
+    ],
+    [
+      0.007362,
+      "\r"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      2.879746,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.004646,
+      "\r\n\u001b[31m\r\n================================================================================\r\nShow the ip address\r\n================================================================================\r\nCommand is:"
+    ],
+    [
+      0.000022,
+      "\r\n\r\n\tip netns exec green ip a\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103720,
+      "ip netns exec green ip a"
+    ],
+    [
+      0.003865,
+      "\r\r\n"
+    ],
+    [
+      0.004258,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN group default "
+    ],
+    [
+      0.000497,
+      "\r\r\n"
+    ],
+    [
+      0.000279,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000482,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000268,
+      "    inet 127.0.0.1/8 scope host lo"
+    ],
+    [
+      0.000201,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000199,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000328,
+      "    inet6 ::1/128 scope host "
+    ],
+    [
+      0.000210,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "       valid_lft forever preferred_lft forever\r"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "8: eth0-g: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc pfifo_fast state UP group default qlen 1000"
+    ],
+    [
+      0.000412,
+      "\r\r\n"
+    ],
+    [
+      0.000005,
+      "    link/ether 9a:9c:4d:d0:78:64 brd ff:ff:ff:ff:ff:ff\r\r\n    inet 10.50.50.75/24 brd 10.50.50.255 scope global eth0-g\r\r\n       valid_lft forever preferred_lft forever\r\r\n"
+    ],
+    [
+      0.000109,
+      "    inet6 fe80::989c:4dff:fed0:7864/64 scope link \r\r\n"
+    ],
+    [
+      0.000007,
+      "       valid_lft forever preferred_lft forever\r\r\n"
+    ],
+    [
+      0.000267,
+      "PAbxdnrD#KGkgeGeu\u003e "
+    ],
+    [
+      5.106314,
+      "exit"
+    ],
+    [
+      0.004677,
+      "\r"
+    ],
+    [
+      0.000503,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "logout\r"
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.000624,
+      "r9QLFYsj#U4PWWJEf\u003e "
+    ],
+    [
+      0.101480,
+      "exit"
+    ],
+    [
+      0.005827,
+      "\r\r\n"
+    ],
+    [
+      0.000078,
+      "logout\r\r\n"
+    ],
+    [
+      0.029562,
+      "Connection to 127.0.0.1 closed.\r\r\r\n"
+    ],
+    [
+      0.002592,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#SEm0iFu0\u003e "
+    ],
+    [
+      0.102945,
+      "exit\r"
+    ],
+    [
+      0.000944,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "exit"
+    ],
+    [
+      0.000388,
+      "\r\r\n"
+    ],
+    [
+      0.002337,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.101438,
+      "cd /space/git/shutit-netnamespaces-intro\r"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000515,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.107074,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000886,
+      "FILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.103230,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "FILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000018,
+      "\r\ndefault#eEqS2fLi\u003e "
+    ],
+    [
+      0.055018,
+      "bash"
+    ],
+    [
+      0.050231,
+      "\r\n"
+    ],
+    [
+      0.001383,
+      "bash\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.450931,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.053859,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.101786,
+      " export SHUTIT_BACKUP_PS1_0xMbryRf=$PS1 \u0026\u0026 PS1='shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#wFkbhjNc\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.001502,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#wFkbhjNc\u003e "
+    ],
+    [
+      0.104121,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000049,
+      "\r\nFILEXIST-FILFIN\r\r\nshutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#wFkbhjNc\u003e "
+    ],
+    [
+      0.099327,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#wFkbhjNc\u003e "
+    ],
+    [
+      0.101576,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000708,
+      "\r\n"
+    ],
+    [
+      0.002568,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000457,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#wFkbhjNc\u003e "
+    ],
+    [
+      0.101305,
+      "cd\r\r\n"
+    ],
+    [
+      0.000451,
+      "shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro#wFkbhjNc\u003e "
+    ],
+    [
+      0.101023,
+      "exit\r\r\n"
+    ],
+    [
+      0.000011,
+      "exit"
+    ],
+    [
+      0.000248,
+      "\r\r\n"
+    ],
+    [
+      0.000931,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.050766,
+      "bash"
+    ],
+    [
+      0.050150,
+      "\r\n"
+    ],
+    [
+      0.000511,
+      "bash\r\r\n"
+    ],
+    [
+      0.352390,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.029463,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.102999,
+      " export SHUTIT_BACKUP_PS1_dve0VkLB=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#gJPjVE9u\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.003177,
+      "tk.shutit.vagrant.vagrant.vagrant#gJPjVE9u\u003e "
+    ],
+    [
+      0.103046,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "FILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#gJPjVE9u\u003e "
+    ],
+    [
+      0.101805,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000347,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000428,
+      "tk.shutit.vagrant.vagrant.vagrant#gJPjVE9u\u003e "
+    ],
+    [
+      0.101852,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.003875,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000452,
+      "tk.shutit.vagrant.vagrant.vagrant#gJPjVE9u\u003e "
+    ],
+    [
+      0.101263,
+      "cd"
+    ],
+    [
+      0.000202,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      "tk.shutit.vagrant.vagrant.vagrant#gJPjVE9u\u003e "
+    ],
+    [
+      0.101154,
+      "exit"
+    ],
+    [
+      0.000403,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "exit\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.001678,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.051809,
+      "bash"
+    ],
+    [
+      0.050970,
+      "\r\n"
+    ],
+    [
+      0.000696,
+      "bash\r"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.350826,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.028051,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.102773,
+      " export SHUTIT_BACKUP_PS1_1uvwKacz=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#sh2vMsBc\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.004696,
+      "shutit-library.virtualbox.virtualbox.virtualbox#sh2vMsBc\u003e "
+    ],
+    [
+      0.103007,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000221,
+      "\r"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000561,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000999,
+      "shutit-library.virtualbox.virtualbox.virtualbox#sh2vMsBc\u003e "
+    ],
+    [
+      0.102216,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000476,
+      "\r\r\n"
+    ],
+    [
+      0.000317,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000304,
+      "shutit-library.virtualbox.virtualbox.virtualbox#sh2vMsBc\u003e "
+    ],
+    [
+      0.101263,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.004454,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000365,
+      "shutit-library.virtualbox.virtualbox.virtualbox#sh2vMsBc\u003e "
+    ],
+    [
+      0.101570,
+      "cd"
+    ],
+    [
+      0.000248,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.001421,
+      "shutit-library.virtualbox.virtualbox.virtualbox#sh2vMsBc\u003e "
+    ],
+    [
+      0.101653,
+      "exit\r"
+    ],
+    [
+      0.000255,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "exit\r"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.001158,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.051015,
+      "bash"
+    ],
+    [
+      0.051202,
+      "\r\n"
+    ],
+    [
+      0.003114,
+      "bash\r"
+    ],
+    [
+      0.000587,
+      "\r\n"
+    ],
+    [
+      0.363503,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) "
+    ],
+    [
+      0.000401,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.026528,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.103187,
+      " export SHUTIT_BACKUP_PS1_2ZBVEiWe=$PS1 \u0026\u0026 PS1='shutit.tk.setup#G2ro2OvS\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.004171,
+      "shutit.tk.setup#G2ro2OvS\u003e "
+    ],
+    [
+      0.105675,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "shutit.tk.setup#G2ro2OvS\u003e "
+    ],
+    [
+      0.101695,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000311,
+      "\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000551,
+      "FILEXIST-FILFIN"
+    ],
+    [
+      0.000316,
+      "\r"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "shutit.tk.setup#G2ro2OvS\u003e "
+    ],
+    [
+      0.101637,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.003956,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000930,
+      "shutit.tk.setup#G2ro2OvS\u003e "
+    ],
+    [
+      0.102058,
+      "cd"
+    ],
+    [
+      0.000877,
+      "\r\r\n"
+    ],
+    [
+      0.000319,
+      "shutit.tk.setup#G2ro2OvS\u003e "
+    ],
+    [
+      0.101448,
+      "exit\r\r\n"
+    ],
+    [
+      0.000022,
+      "exit\r\r\n"
+    ],
+    [
+      0.002291,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.055320,
+      "bash"
+    ],
+    [
+      0.049960,
+      "\r\n"
+    ],
+    [
+      0.000561,
+      "bash\r"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.340633,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.033684,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.103576,
+      " export SHUTIT_BACKUP_PS1_HmIdyOf0=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#rlDNPA5r\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.003432,
+      "tk.shutit.vagrant.vagrant.vagrant#rlDNPA5r\u003e "
+    ],
+    [
+      0.102092,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000029,
+      "\r\ntk.shutit.vagrant.vagrant.vagrant#rlDNPA5r\u003e "
+    ],
+    [
+      0.101154,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000418,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000026,
+      "\r\ntk.shutit.vagrant.vagrant.vagrant#rlDNPA5r\u003e "
+    ],
+    [
+      0.101659,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.008894,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m"
+    ],
+    [
+      0.000638,
+      "\r"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000789,
+      "tk.shutit.vagrant.vagrant.vagrant#rlDNPA5r\u003e "
+    ],
+    [
+      0.101276,
+      "cd\r\r\n"
+    ],
+    [
+      0.000329,
+      "tk.shutit.vagrant.vagrant.vagrant#rlDNPA5r\u003e "
+    ],
+    [
+      0.101690,
+      "exit\r\r\nexit\r\r\n"
+    ],
+    [
+      0.003027,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.051305,
+      "bash"
+    ],
+    [
+      0.050160,
+      "\r\n"
+    ],
+    [
+      0.000713,
+      "bash\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.344233,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.024501,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.103390,
+      " export SHUTIT_BACKUP_PS1_A7C2i5xV=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#QkW8f4Dh\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.003997,
+      "shutit-library.virtualbox.virtualbox.virtualbox#QkW8f4Dh\u003e "
+    ],
+    [
+      0.102329,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000455,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "shutit-library.virtualbox.virtualbox.virtualbox#QkW8f4Dh\u003e "
+    ],
+    [
+      0.101795,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.000287,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000022,
+      "\r\nshutit-library.virtualbox.virtualbox.virtualbox#QkW8f4Dh\u003e "
+    ],
+    [
+      0.101335,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r"
+    ],
+    [
+      0.000382,
+      "\r\n"
+    ],
+    [
+      0.002158,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m"
+    ],
+    [
+      0.000353,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000329,
+      "shutit-library.virtualbox.virtualbox.virtualbox#QkW8f4Dh\u003e "
+    ],
+    [
+      0.100985,
+      "cd\r\r\n"
+    ],
+    [
+      0.000232,
+      "shutit-library.virtualbox.virtualbox.virtualbox#QkW8f4Dh\u003e "
+    ],
+    [
+      0.101497,
+      "exit\r\r\n"
+    ],
+    [
+      0.000036,
+      "exit\r\r\n"
+    ],
+    [
+      0.002229,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.051595,
+      "bash"
+    ],
+    [
+      0.050388,
+      "\r\n"
+    ],
+    [
+      0.001925,
+      "bash\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.310509,
+      "/dev/pts/32: 0 [216x55 xterm-256color] (utf8) \r\r\n"
+    ],
+    [
+      0.028461,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro$ "
+    ],
+    [
+      0.103343,
+      " export SHUTIT_BACKUP_PS1_aCPG6rKr=$PS1 \u0026\u0026 PS1='shutit.tk.setup#RbkFWq0N\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.004048,
+      "shutit.tk.setup#RbkFWq0N\u003e "
+    ],
+    [
+      0.101909,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "shutit.tk.setup#RbkFWq0N\u003e "
+    ],
+    [
+      0.101751,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000273,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000007,
+      "\r\nshutit.tk.setup#RbkFWq0N\u003e "
+    ],
+    [
+      0.101139,
+      " ls /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\r\n"
+    ],
+    [
+      0.004226,
+      "DaSvhyl3  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000859,
+      "shutit.tk.setup#RbkFWq0N\u003e "
+    ],
+    [
+      0.101845,
+      "cd\r"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000427,
+      "shutit.tk.setup#RbkFWq0N\u003e "
+    ],
+    [
+      0.101619,
+      "exit\r"
+    ],
+    [
+      0.000022,
+      "\r\nexit\r\r\n"
+    ],
+    [
+      0.002273,
+      "default#eEqS2fLi\u003e "
+    ],
+    [
+      0.051177,
+      "exit"
+    ],
+    [
+      0.051531,
+      "\r\n"
+    ],
+    [
+      0.000654,
+      "\u001b[32m################################################################################\r\n# COMMAND HISTORY BEGIN rothko_imiell_1448304983.14.143893\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\nchmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.000029,
+      "\r\ntouch /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id/ORIGIN_ENV\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\nchmod -R 777 /tmp/shutit_imiell\r\ntouch /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id/DaSvhyl3\r\nbash\r\ncd\r\ncd /home/imiell/.local/lib/python2.7/site-packages\r\nexit\r\ncd /space/git/shutit-netnamespaces-intro\r\nbash\r\ncd\r\ncd /space/git/shutit-netnamespaces-intro/shutit-library/virtualbox\r\nexit\r\ncd /space/git/shutit-netnamespaces-intro"
+    ],
+    [
+      0.000015,
+      "\r\nbash\r\ncd\r\ncd /space/git/shutit-netnamespaces-intro/shutit-library/vagrant\r\nexit\r\ncd /space/git/shutit-netnamespaces-intro\r\n"
+    ],
+    [
+      0.000008,
+      "bash\r\ncd\r\ncd /space/git/shutit-netnamespaces-intro\r\n"
+    ],
+    [
+      0.000008,
+      "exit\r\ncd /space/git/shutit-netnamespaces-intro\r\n"
+    ],
+    [
+      0.000010,
+      "cd /home/imiell/.local/lib/python2.7/site-packages"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "bash\r\ncd\r\n"
+    ],
+    [
+      0.000010,
+      "exit\r\n"
+    ],
+    [
+      0.000007,
+      "cd /space/git/shutit-netnamespaces-intro\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-netnamespaces-intro/shutit-library/virtualbox\r\nbash\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\ncd /space/git/shutit-netnamespaces-intro"
+    ],
+    [
+      0.000007,
+      "\r\ncd /space/git/shutit-netnamespaces-intro/shutit-library/vagrant\r\n"
+    ],
+    [
+      0.000005,
+      "bash\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\ncd /space/git/shutit-netnamespaces-intro"
+    ],
+    [
+      0.000005,
+      "\r\ncd /space/git/shutit-netnamespaces-intro\r\n"
+    ],
+    [
+      0.000006,
+      "bash\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\nrm -rf /tmp/netnamespaces_intro_vm\r\n"
+    ],
+    [
+      0.000009,
+      "mkdir -p /tmp/netnamespaces_intro_vm\r\ncd /tmp/netnamespaces_intro_vm"
+    ],
+    [
+      0.000005,
+      "\r\nvagrant init ubuntu/trusty64\r\nvagrant up --provider virtualbox"
+    ],
+    [
+      0.000006,
+      "\r\nvagrant ssh"
+    ],
+    [
+      0.000006,
+      "\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id\r\n"
+    ],
+    [
+      0.000010,
+      "chmod -R 777 /tmp/shutit_imiell\r\ntouch /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/environment_id/owYK1oWZ"
+    ],
+    [
+      0.000006,
+      "\r\ncd\r\nsudo su -"
+    ],
+    [
+      0.000005,
+      "\r\ncd\r\n"
+    ],
+    [
+      0.000007,
+      "apt-get install -y -qq  openvswitch-switch\r\napt-get install -y -qq  dnsmasq"
+    ],
+    [
+      0.000005,
+      "\r\nip link\r\n"
+    ],
+    [
+      0.000006,
+      "ip addr\r\n"
+    ],
+    [
+      0.000005,
+      "ip route\r\n"
+    ],
+    [
+      0.000005,
+      "ip netns add red\r\nip netns add green"
+    ],
+    [
+      0.000007,
+      "\r\nip netns"
+    ],
+    [
+      0.000006,
+      "\r\nls /var/run/netns\r\n"
+    ],
+    [
+      0.000007,
+      "ip netns add amistake\r\nls /var/run/netns"
+    ],
+    [
+      0.000005,
+      "\r\nip netns del amistake\r\n"
+    ],
+    [
+      0.000007,
+      "ls /var/run/netns"
+    ],
+    [
+      0.000008,
+      "\r\nip netns exec red ip link\r\novs-vsctl add-br OVS-1"
+    ],
+    [
+      0.000031,
+      "\r\novs-vsctl show\r\nip link\r\nip link add eth0-r type veth peer name veth-r\r\nip link\r\nip link set eth0-r netns red\r\nip link\r\nip netns exec red ip link\r\n"
+    ],
+    [
+      0.000009,
+      "ovs-vsctl add-port OVS-1 veth-r\r\novs-vsctl show\r\n"
+    ],
+    [
+      0.000006,
+      "ip link add eth0-g type veth peer name veth-g\r\nip link set eth0-g netns green"
+    ],
+    [
+      0.000008,
+      "\r\nip netns exec green ip link\r\novs-vsctl add-port OVS-1 veth-g"
+    ],
+    [
+      0.000006,
+      "\r\nip link"
+    ],
+    [
+      0.000007,
+      "\r\nip link set veth-r up"
+    ],
+    [
+      0.000007,
+      "\r\nip link\r\n"
+    ],
+    [
+      0.000004,
+      "ip netns exec red ip link set dev lo up\r\n"
+    ],
+    [
+      0.000007,
+      "ip netns exec red ip link set dev eth0-r up\r\n"
+    ],
+    [
+      0.000007,
+      "ip netns exec red ip address add 10.0.0.1/24 dev eth0-r\r\n"
+    ],
+    [
+      0.000005,
+      "ip netns exec red ip a\r\nip netns exec red ip route"
+    ],
+    [
+      0.000006,
+      "\r\nip route"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "ip link set veth-g up\r\nip netns exec green ip link set dev lo up"
+    ],
+    [
+      0.000005,
+      "\r\nip netns exec green ip link set dev eth0-g up"
+    ],
+    [
+      0.000006,
+      "\r\nip netns exec green ip address add 10.0.0.2/24 dev eth0-g\r\n"
+    ],
+    [
+      0.000007,
+      "ip netns exec red bash\r\ncd\r\n"
+    ],
+    [
+      0.000007,
+      "ping -c 3 10.0.0.2\r\nexit\r\n"
+    ],
+    [
+      0.000008,
+      "ovs-vsctl set port veth-r tag=100\r\novs-vsctl set port veth-g tag=200\r\n"
+    ],
+    [
+      0.000007,
+      "ip netns exec red ip address del 10.0.0.1/24 dev eth0-r\r\nip netns exec green ip address del 10.0.0.2/24 dev eth0-g"
+    ],
+    [
+      0.000008,
+      "\r\nip netns add dhcp-r\r\nip netns add dhcp-g\r\n"
+    ],
+    [
+      0.000010,
+      "ovs-vsctl add-port OVS-1 "
+    ],
+    [
+      0.000007,
+      "tap-r\r\n"
+    ],
+    [
+      0.000005,
+      "ovs-vsctl set interface tap-r type=internal\r\novs-vsctl set port tap-r tag=100\r\n"
+    ],
+    [
+      0.000009,
+      "ovs-vsctl add-port OVS-1 tap-g\r\n"
+    ],
+    [
+      0.000007,
+      "ovs-vsctl set interface tap-g type=internal\r\novs-vsctl set port tap-g tag=200\r\novs-vsctl show"
+    ],
+    [
+      0.000013,
+      "\r\nip link\r\nip link set tap-r netns dhcp-r\r\nip link set tap-g netns dhcp-g"
+    ],
+    [
+      0.000007,
+      "\r\nip link\r\nip netns exec dhcp-r bash\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000007,
+      "ip link set dev lo up\r\nip link set dev tap-r up"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "ip address add 10.50.50.2/24 dev tap-r\r\n"
+    ],
+    [
+      0.000008,
+      "exit\r\nip netns exec dhcp-g bash\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\nip link set dev lo up\r\n"
+    ],
+    [
+      0.000006,
+      "ip link set dev tap-g up\r\n"
+    ],
+    [
+      0.000005,
+      "ip address add 10.50.50.2/24 dev tap-g\r\nexit"
+    ],
+    [
+      0.000005,
+      "\r\nip netns exec dhcp-r dnsmasq --interface=tap-r --dhcp-range 10.50.50.10,10.50.50.100,255.255.255.0"
+    ],
+    [
+      0.000005,
+      "\r\nip netns exec dhcp-g dnsmasq --interface=tap-g --dhcp-range 10.50.50.10,10.50.50.100,255.255.255.0\r\n"
+    ],
+    [
+      0.000005,
+      "ip netns identify $(ps -ef | grep 'nobody.*dnsmasq' | grep -v grep | awk '{print $2}' | head -1)\r\n"
+    ],
+    [
+      0.000006,
+      "ip netns identify $(ps -ef | grep 'nobody.*dnsmasq' | grep -v grep | awk '{print $2}' | tail -1)\r\nip netns exec red dhclient eth0-r"
+    ],
+    [
+      0.000005,
+      "\r\nip netns exec red ip a\r\nip netns exec green dhclient eth0-g"
+    ],
+    [
+      0.000005,
+      "\r\nip netns exec green ip a"
+    ],
+    [
+      0.000006,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\nexit\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-netnamespaces-intro\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\ncd\r\nexit"
+    ],
+    [
+      0.000005,
+      "\r\nbash\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\ncd\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\ncd\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.000005,
+      "bash\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\nexit\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\ncd\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\n# COMMAND HISTORY END rothko_imiell_1448304983.14.143893"
+    ],
+    [
+      0.000005,
+      "\r\n################################################################################"
+    ],
+    [
+      0.000005,
+      "\r\n################################################################################\r\n"
+    ],
+    [
+      0.000005,
+      "# BUILD REPORT FOR BUILD BEGIN rothko_imiell_1448304983.14.143893\r\n"
+    ],
+    [
+      0.000005,
+      "# #Module: N/A (END)\r\n\r\nBuilding: shutit.tk.setup with run order: 0"
+    ],
+    [
+      0.000005,
+      "\r\nCompleted module: shutit.tk.setup"
+    ],
+    [
+      0.000005,
+      "\r\nBuilding: shutit-library.virtualbox.virtualbox.virtualbox with run order: 0.80242509019999996855432300435495562851428985595703125\r\n"
+    ],
+    [
+      0.000021,
+      "Completed module: shutit-library.virtualbox.virtualbox.virtualbox\r\nBuilding: tk.shutit.vagrant.vagrant.vagrant with run order: 0.94124715199999997583546473833848722279071807861328125\r\nCompleted module: tk.shutit.vagrant.vagrant.vagrant\r\n"
+    ],
+    [
+      0.000008,
+      "Building: shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro with run order: 1259389554\r\nCompleted modu"
+    ],
+    [
+      0.000006,
+      "le: shutit.netnamespaces_intro.netnamespaces_intro.netnamespaces_intro"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "# BUILD REPORT FOR BUILD END rothko_imiell_1448304983.14.143893\r\n"
+    ],
+    [
+      0.000006,
+      "###############################################################################\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b[31mBuild log file: /tmp/shutit_imiell/rothko_imiell_1448304983.14.143893/shutit_build.log\u001b[0m\r\n"
+    ],
+    [
+      0.236051,
+      "/space/git/shutit-netnamespaces-intro/bin\r\n"
+    ],
+    [
+      0.023299,
+      "imiell@rothko:/space/git/shutit-netnamespaces-intro/bin$ "
+    ],
+    [
+      0.000044,
+      "exi"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000180,
+      "exit"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ]
+  ]
+}

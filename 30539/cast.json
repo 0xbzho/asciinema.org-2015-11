@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "width": 61,
+  "height": 19,
+  "duration": 12.513708,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.069098,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "\u001b]0;bgoodacre@Yuko\u0007[\u001b[01;32mbgoodacre@Yuko\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      2.155899,
+      "s"
+    ],
+    [
+      0.095997,
+      "s"
+    ],
+    [
+      0.248402,
+      "h"
+    ],
+    [
+      0.263442,
+      " "
+    ],
+    [
+      0.447963,
+      "h"
+    ],
+    [
+      0.088812,
+      "o"
+    ],
+    [
+      0.103155,
+      "s"
+    ],
+    [
+      0.184280,
+      "t"
+    ],
+    [
+      0.399774,
+      "x"
+    ],
+    [
+      0.248323,
+      "y"
+    ],
+    [
+      0.311377,
+      "z"
+    ],
+    [
+      0.784214,
+      "\r\n"
+    ],
+    [
+      0.826696,
+      "s"
+    ],
+    [
+      0.025577,
+      "\u001b]0;bgoodacre@infra01\u0007[\u001b[01;32mbgoodacre@hostxyz\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      1.031664,
+      "\r\n"
+    ],
+    [
+      0.025474,
+      "\u001b]0;bgoodacre@infra01\u0007[\u001b[01;32mbgoodacre@hostxyz\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      0.445282,
+      "\r\n"
+    ],
+    [
+      0.025461,
+      "\u001b]0;bgoodacre@infra01\u0007[\u001b[01;32mbgoodacre@hostxyz\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      0.389064,
+      "\r\n"
+    ],
+    [
+      0.025853,
+      "\u001b]0;bgoodacre@infra01\u0007[\u001b[01;32mbgoodacre@hostxyz\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      0.839306,
+      "s"
+    ],
+    [
+      0.192359,
+      "c"
+    ],
+    [
+      0.207731,
+      "r"
+    ],
+    [
+      0.160599,
+      "e"
+    ],
+    [
+      0.079106,
+      "e"
+    ],
+    [
+      0.258891,
+      "n"
+    ],
+    [
+      0.166838,
+      " "
+    ],
+    [
+      0.134511,
+      "-"
+    ],
+    [
+      0.175824,
+      "l"
+    ],
+    [
+      0.095709,
+      "s"
+    ],
+    [
+      0.427299,
+      "\r\n"
+    ],
+    [
+      0.025927,
+      "There is a screen on:\r\r\n\t8498.pts-0.infra01\t(24/08/15 15:24:45)\t(Detached)\r\n1 Socket in /var/run/screen/S-bgoodacre.\r\n\r\r\n\u001b]0;bgoodacre@infra01\u0007[\u001b[01;32mbgoodacre@hostxyz\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      1.235638,
+      "logout\r\n"
+    ],
+    [
+      0.025876,
+      "Connection to hostxyz closed.\r\r\n"
+    ],
+    [
+      0.000173,
+      "Killed by signal 1.\r\r\n"
+    ],
+    [
+      0.000763,
+      "\u001b]0;bgoodacre@Yuko\u0007[\u001b[01;32mbgoodacre@Yuko\u001b[00m \u001b[01;34m~\u001b[00m]$ "
+    ],
+    [
+      0.290670,
+      "exit\r\n"
+    ]
+  ]
+}

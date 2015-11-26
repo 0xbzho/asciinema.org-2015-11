@@ -1,0 +1,522 @@
+{
+  "version": 1,
+  "width": 140,
+  "height": 32,
+  "duration": 171.645626,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.018963,
+      "\u001b]0;andy@localhost:~\u0007\u001b[?1034h[andy@localhost ~]$ "
+    ],
+    [
+      2.200679,
+      "go get github.com/essentialkaos/ssllabs_client"
+    ],
+    [
+      1.351624,
+      "\r\n"
+    ],
+    [
+      3.943241,
+      "\u001b]0;andy@localhost:~\u0007[andy@localhost ~]$ "
+    ],
+    [
+      1.204020,
+      "s"
+    ],
+    [
+      0.152696,
+      "s"
+    ],
+    [
+      0.291901,
+      "l"
+    ],
+    [
+      0.924035,
+      "l"
+    ],
+    [
+      0.160160,
+      "abs_client "
+    ],
+    [
+      1.108899,
+      "e"
+    ],
+    [
+      0.210040,
+      "s"
+    ],
+    [
+      0.151579,
+      "s"
+    ],
+    [
+      0.190331,
+      "e"
+    ],
+    [
+      0.101040,
+      "n"
+    ],
+    [
+      0.084984,
+      "t"
+    ],
+    [
+      0.182046,
+      "i"
+    ],
+    [
+      0.109678,
+      "a"
+    ],
+    [
+      0.134021,
+      "l"
+    ],
+    [
+      0.287345,
+      "k"
+    ],
+    [
+      0.074103,
+      "a"
+    ],
+    [
+      0.112382,
+      "o"
+    ],
+    [
+      0.059500,
+      "s"
+    ],
+    [
+      0.212939,
+      "."
+    ],
+    [
+      0.139647,
+      "c"
+    ],
+    [
+      0.132363,
+      "o"
+    ],
+    [
+      0.165387,
+      "m"
+    ],
+    [
+      1.362741,
+      "\r\n"
+    ],
+    [
+      1.334895,
+      "essentialkaos.com → "
+    ],
+    [
+      2.612907,
+      "\u001b[0;37;49mTesting TLS 1.0...\u001b[0m"
+    ],
+    [
+      2.312403,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting Long Handshake (might take a while)...\u001b[0m"
+    ],
+    [
+      2.302783,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mRetrieving certificate...\u001b[0m"
+    ],
+    [
+      2.308512,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTrying to prime OCSP stapling...\u001b[0m"
+    ],
+    [
+      2.297822,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting renegotiation...\u001b[0m"
+    ],
+    [
+      2.305835,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting renegotiation...\u001b[0m"
+    ],
+    [
+      2.321373,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting renegotiation...\u001b[0m"
+    ],
+    [
+      2.305633,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting renegotiation...\u001b[0m"
+    ],
+    [
+      2.318773,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting compression...\u001b[0m"
+    ],
+    [
+      2.297297,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting session resumption...\u001b[0m"
+    ],
+    [
+      2.319761,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.508952,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.309721,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.292248,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.300786,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.312303,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.302717,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.294182,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.295925,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.292258,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.304817,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.296164,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.289054,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.309695,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.293438,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.307521,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.300066,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting deprecated cipher suites...\u001b[0m"
+    ],
+    [
+      2.307965,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mBulk-testing less common cipher suites...\u001b[0m"
+    ],
+    [
+      2.313040,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mBulk-testing less common cipher suites...\u001b[0m"
+    ],
+    [
+      2.398591,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.297044,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.315875,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.300832,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.287829,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.335994,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.299667,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.300026,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.308133,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.322416,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.314334,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.315079,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining available cipher suites...\u001b[0m"
+    ],
+    [
+      2.315706,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining cipher suite preference...\u001b[0m"
+    ],
+    [
+      2.287460,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining cipher suite preference...\u001b[0m"
+    ],
+    [
+      2.316057,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining cipher suite preference...\u001b[0m"
+    ],
+    [
+      2.327870,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining cipher suite preference...\u001b[0m"
+    ],
+    [
+      2.301865,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mDetermining cipher suite preference...\u001b[0m"
+    ],
+    [
+      2.324977,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting Heartbleed...\u001b[0m"
+    ],
+    [
+      2.300993,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting Heartbleed...\u001b[0m"
+    ],
+    [
+      2.331994,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting Heartbleed...\u001b[0m"
+    ],
+    [
+      2.341839,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting Heartbleed...\u001b[0m"
+    ],
+    [
+      2.301292,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mTesting POODLE against TLS...\u001b[0m"
+    ],
+    [
+      2.323049,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.304057,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.283449,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.302246,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.307725,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.321508,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.300634,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;37;49mSimulating handshakes...\u001b[0m"
+    ],
+    [
+      2.304809,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0K\u001b[0;32;49mA+\u001b[0m\r\n\u001b]0;andy@localhost:~\u0007[andy@localhost ~]$ "
+    ],
+    [
+      3.844832,
+      "ssllabs_client essentialkaos.com"
+    ],
+    [
+      0.491159,
+      "\u0008"
+    ],
+    [
+      0.501420,
+      "\u0008"
+    ],
+    [
+      0.033517,
+      "\u0008"
+    ],
+    [
+      0.033122,
+      "\u0008"
+    ],
+    [
+      0.034267,
+      "\u0008"
+    ],
+    [
+      0.034459,
+      "\u0008"
+    ],
+    [
+      0.034077,
+      "\u0008"
+    ],
+    [
+      0.034050,
+      "\u0008"
+    ],
+    [
+      0.036765,
+      "\u0008"
+    ],
+    [
+      0.033923,
+      "\u0008"
+    ],
+    [
+      0.031120,
+      "\u0008"
+    ],
+    [
+      0.033238,
+      "\u0008"
+    ],
+    [
+      0.033095,
+      "\u0008"
+    ],
+    [
+      0.032999,
+      "\u0008"
+    ],
+    [
+      0.033011,
+      "\u0008"
+    ],
+    [
+      0.034051,
+      "\u0008"
+    ],
+    [
+      0.034006,
+      "\u0008"
+    ],
+    [
+      0.721161,
+      "-essentialkaos.com\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.052369,
+      "cessentialkaos.com\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.157681,
+      " essentialkaos.com\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.158515,
+      "-essentialkaos.com\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.064227,
+      "dessentialkaos.com\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.136959,
+      " essentialkaos.com\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.986695,
+      "\r\n"
+    ],
+    [
+      1.445961,
+      "essentialkaos.com → "
+    ],
+    [
+      2.606224,
+      "\u001b[0;32;49mA+\u001b[0m\r\n"
+    ],
+    [
+      1.556915,
+      "\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mServer Key and Certificate\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n Common names             \u001b[0;37;49m|\u001b[0m essentialkaos.com\r\n Alternative names        \u001b[0;37;49m|\u001b[0m essentialkaos.com\r\n Valid from               \u001b[0;37;49m|\u001b[0m 2014/10/27 03:00:00\r\n Valid until              \u001b[0;37;49m|\u001b[0m 2017/10/27 02:59:59\r\n Key                      \u001b[0;37;49m|\u001b[0m RSA 2048 bits\r\n Weak Key (Debian)        \u001b[0;37;49m|\u001b[0m No\r\n Issuer                   \u001b[0;37;49m|\u001b[0m thawte DV SSL CA - G2\r\n Signature algorithm      \u001b[0;37;49m|\u001b[0m SHA256withRSA\r\n Extended Validation      \u001b[0;37;49m|\u001b[0m No\r\n"
+    ],
+    [
+      0.000030,
+      " Certificate Transparency \u001b[0;37;49m|\u001b[0m No\r\n Revocation information   \u001b[0;37;49m|\u001b[0m CRL OCSP\r\n Revocation status        \u001b[0;37;49m|\u001b[0m Good (not revoked)\r\n Trusted                  \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mCertification Paths\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n Certificates provided    \u001b[0;37;49m|\u001b[0m 3\r\n Chain issues             \u001b[0;37;49m|\u001b[0m \u001b[0;33;49mChain contains unrelated or duplicate certificates\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n Subject                  \u001b[0;37;49m|\u001b[0m thawte DV SSL CA - G2\r\n Valid until              \u001b[0;37;49m|\u001b[0m 2024/06/10 02:59:59\r\n Key                      \u001b[0;37;49m|\u001b[0m RSA 2048 bits\r\n Issuer                   \u001b[0;37;49m|\u001b[0m thawte Primary Root CA\r\n"
+    ],
+    [
+      0.000007,
+      " Signature algorithm      \u001b[0;37;49m|\u001b[0m SHA256withRSA\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      " Subject                  \u001b[0;37;49m|\u001b[0m thawte DV SSL SHA256 CA\r\n Valid until              \u001b[0;37;49m|\u001b[0m 2024/06/10 02:59:59\r\n Key                      \u001b[0;37;49m|\u001b[0m RSA 2048 bits\r\n Issuer                   \u001b[0;37;49m|\u001b[0m thawte Primary Root CA - G3\r\n Signature algorithm      \u001b[0;37;49m|\u001b[0m SHA256withRSA\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mProtocols\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      " TLS 1.2                  \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      " TLS 1.1                  \u001b[0;37;49m|\u001b[0m Yes\r\n TLS 1.0                  \u001b[0;37;49m|\u001b[0m Yes\r\n"
+    ],
+    [
+      0.000970,
+      " SSL 3.0                  \u001b[0;37;49m|\u001b[0m No\r\n SSL 2.0                  \u001b[0;37;49m|\u001b[0m No\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mCipher Suites\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_DHE_RSA_WITH_AES_256_GCM_SHA384        \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_DHE_RSA_WITH_AES_128_GCM_SHA256        \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384      \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256      \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA         \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_DHE_RSA_WITH_AES_256_CBC_SHA256        \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_DHE_RSA_WITH_AES_128_CBC_SHA256        \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_DHE_RSA_WITH_AES_256_CBC_SHA           \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_DHE_RSA_WITH_AES_128_CBC_SHA           \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA        \u001b[0;37;49m|\u001b[0m 168 \u001b[0;37;49m(ECDH 256 bits ~ 3072 bits RSA)\u001b[0m \r\n TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA          \u001b[0;37;49m|\u001b[0m 168 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_RSA_WITH_AES_256_GCM_SHA384            \u001b[0;37;49m|\u001b[0m 256 \r\n TLS_RSA_WITH_AES_128_GCM_SHA256            \u001b[0;37;49m|\u001b[0m 128 \r\n TLS_RSA_WITH_AES_256_CBC_SHA256            \u001b[0;37;49m|\u001b[0m 256 \r\n TLS_RSA_WITH_AES_128_CBC_SHA256            \u001b[0;37;49m|\u001b[0m 128 \r\n TLS_RSA_WITH_AES_256_CBC_SHA               \u001b[0;37;49m|\u001b[0m 256 \r\n TLS_RSA_WITH_AES_128_CBC_SHA               \u001b[0;37;49m|\u001b[0m 128 \r\n TLS_RSA_WITH_3DES_EDE_CBC_SHA              \u001b[0;37;49m|\u001b[0m 168 \r\n TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA      \u001b[0;37;49m|\u001b[0m 256 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_RSA_WITH_CAMELLIA_256_CBC_SHA          \u001b[0;37;49m|\u001b[0m 256 \r\n TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA      \u001b[0;37;49m|\u001b[0m 128 \u001b[0;37;49m(DH 4096 bits)\u001b[0m \r\n TLS_RSA_WITH_CAMELLIA_128_CBC_SHA          \u001b[0;37;49m|\u001b[0m 128 \r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mHandshake Simulation\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n Android 2.3.7            \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_DHE_RSA_WITH_AES_128_CBC_SHA           \u001b[0;32;49m   FS\u001b[0m 128\r\n Android 4.0.4            \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n Android 4.1.1            \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n Android 4.2.2            \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n Android 4.3              \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n Android 4.4.2            \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Android 5.0.0            \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n Baidu Jan 2015           \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n BingPreview Jan 2015     \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Chrome 45                \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n Firefox 31.3.0 ESR       \u001b[0;37;49m|\u001b[0m \u001b[0;32;49"
+    ],
+    [
+      0.000017,
+      "mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n Firefox 41               \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n Googlebot Feb 2015       \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n IE 6                     \u001b[0;37;49m|\u001b[0m \u001b[0;31;49mFail\u001b[0m\r\n IE 7                     \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n IE 8                     \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_RSA_WITH_3DES_EDE_CBC_SHA              \u001b[0;37;49mNo FS\u001b[0m 168\r\n IE 8-10                  \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n IE 11                    \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_DHE_RSA_WITH_AES_256_GCM_SHA384        \u001b[0;32;49m   FS\u001b[0m 256\r\n IE 11                    \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_DHE_RSA_WITH_AES_256_GCM_SHA384        \u001b[0;32;49m   FS\u001b[0m 256\r\n IE 10                    \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n IE 11                    \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n IE 11                    \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_DHE_RSA_WITH_AES_256_GCM_SHA384        \u001b[0;32;49m   FS\u001b[0m 256\r\n IE 11                    \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Edge                     \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Java 6u45                \u001b[0;37;49m|\u001b[0m \u001b[0;31;49mFail\u001b[0m\r\n Java 7u25                \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 128\r\n Java 8u31                \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256      \u001b[0;32;49m   FS\u001b[0m 128\r\n OpenSSL 0.9.8y           \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_DHE_RSA_WITH_AES_256_CBC_SHA           \u001b[0;32;49m   FS\u001b[0m 256"
+    ],
+    [
+      0.000842,
+      "\r\n OpenSSL 1.0.1l           \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n OpenSSL 1.0.2            \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 5.1.9             \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 6                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 6.0.4             \u001b[0;37;49m|\u001b[0m TLS 1.0 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA         \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 7                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 7                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 8                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 8                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 9                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Safari 9                 \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Apple ATS 9              \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n Yahoo Slurp Jan 2015     \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n YandexBot Jan 2015       \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mTLS 1.2\u001b[0m TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384      \u001b[0;32;49m   FS\u001b[0m 256\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mProtocol Details\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n Secure Renegotiation                     \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mSupported\u001b[0m\r\n Secure Client-Initiated Renegotiation    \u001b[0;37;49m|\u001b[0m No\r\n Insecure Client-Initiated Renegotiation  \u001b[0;37;49m|\u001b[0m No\r\n POODLE (SSLv3)                           \u001b[0;37;49m|\u001b[0m No\r\n POODLE (TLS)                             \u001b[0;37;49m|\u001b[0m No\r\n Downgrade attack prevention              \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes, TLS_FALLBACK_SCSV supported\u001b[0m\r\n SSL/TLS compression                      \u001b[0;37;49m|\u001b[0m No\r\n RC4                                      \u001b[0;37;49m|\u001b[0m No\r\n Heartbeat (extension)                    \u001b[0;37;49m|\u001b[0m Yes\r\n Heartbleed (vulnerability)               \u001b[0;37;49m|\u001b[0m No\r\n Heartbleed (vulnerability)               \u001b[0;37;49m|\u001b[0m No\r\n OpenSSL CCS vuln. (CVE-2014-0224)        \u001b[0;37;49m|\u001b[0m No\r\n Forward Secrecy                          \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes (with most browsers) (ROBUST)\u001b[0m\r\n Next Protocol Negotiation (NPN)          \u001b[0;37;49m|\u001b[0m Yes \u001b[0;37;49m(h2 http/1.1)\u001b[0m\r\n Session resumption (caching)             \u001b[0;37;49m|\u001b[0m Yes\r\n Session resumption (tickets)             \u001b[0;37;49m|\u001b[0m Yes\r\n OCSP stapling                            \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes\u001b[0m\r\n Strict Transport Security (HSTS)         \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes\u001b[0m \u001b[0;37;49m(max-age=31536000)\u001b[0m\r\n Public Key Pinning (HPKP)                \u001b[0;37;49m|\u001b[0m \u001b[0;32;49mYes\u001b[0m \u001b[0;37;49m(max-age=2592000; pin-sha256=i2N/1piSIstTUrkt28a1CVIgHjAUnV0DAU7C6NgMsNs=)\u001b[0m\r\n Uses common DH primes                    \u001b[0;37;49m|\u001b[0m No\r\n DH public server param (Ys) reuse        \u001b[0;37;49m|\u001b[0m No\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n \u001b[1;39;49mMiscellaneous\u001b[0m\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n Test date                \u001b[0;37;49m|\u001b[0m 2015/11/27 02:43:25\r\n Test duration            \u001b[0;37;49m|\u001b[0m 2 minutes and 14 seconds\r\n HTTP status code         \u001b[0;37;49m|\u001b[0m 200\r\n HTTP"
+    ],
+    [
+      0.000080,
+      " server signature    \u001b[0;37;49m|\u001b[0m webkaos\r\n Server hostname          \u001b[0;37;49m|\u001b[0m tesla.kaos.cc\r\n\u001b[0;37;49m----------------------------------------------------------------------------------------\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.003004,
+      "\u001b]0;andy@localhost:~\u0007[andy@localhost ~]$ "
+    ],
+    [
+      5.281854,
+      "exit\r\n"
+    ]
+  ]
+}
